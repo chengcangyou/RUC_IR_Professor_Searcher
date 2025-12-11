@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professor Search Engine - 梦中情导检索器</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Marked.js for Markdown rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="main-container">
+        <!-- Left Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h1>🎓 Professor Finder</h1>
+                <p class="subtitle">梦中情导检索器</p>
+            </div>
+
+            <!-- Search Box -->
+            <div class="search-section">
+                <label for="searchInput">搜索关键词</label>
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    placeholder="如: reinforcement learning"
+                    autocomplete="off"
+                >
+                <button id="searchBtn" class="btn-primary">
+                    <span class="btn-text">🔍 搜索</span>
+                    <span class="btn-loading" style="display: none;">搜索中...</span>
+                </button>
+            </div>
+
+            <!-- Filter Section -->
+            <div class="filter-section">
+                <h3>按地区/国家过滤</h3>
+                
+                <!-- Region Filter -->
+                <div id="regionFilter" class="filter-group">
+                    <label class="filter-label">选择地区</label>
+                    
+                    <div class="region-item">
+                        <div class="region-header" data-region="asia">
+                            <span class="toggle-icon">▶</span>
+                            <label>
+                                <input type="checkbox" class="region-checkbox" value="Asia">
+                                亚洲 (Asia)
+                            </label>
+                        </div>
+                        <div class="country-list" style="display: none;">
+                            <!-- Countries will be populated by JS -->
+                        </div>
+                    </div>
+
+                    <div class="region-item">
+                        <div class="region-header" data-region="europe">
+                            <span class="toggle-icon">▶</span>
+                            <label>
+                                <input type="checkbox" class="region-checkbox" value="Europe">
+                                欧洲 (Europe)
+                            </label>
+                        </div>
+                        <div class="country-list" style="display: none;">
+                            <!-- Countries will be populated by JS -->
+                        </div>
+                    </div>
+
+                    <div class="region-item">
+                        <div class="region-header" data-region="africa">
+                            <span class="toggle-icon">▶</span>
+                            <label>
+                                <input type="checkbox" class="region-checkbox" value="Africa">
+                                非洲 (Africa)
+                            </label>
+                        </div>
+                        <div class="country-list" style="display: none;">
+                            <!-- Countries will be populated by JS -->
+                        </div>
+                    </div>
+
+                    <div class="region-item">
+                        <div class="region-header" data-region="north-america">
+                            <span class="toggle-icon">▶</span>
+                            <label>
+                                <input type="checkbox" class="region-checkbox" value="Northern America">
+                                北美洲 (North America)
+                            </label>
+                        </div>
+                        <div class="country-list" style="display: none;">
+                            <!-- Countries will be populated by JS -->
+                        </div>
+                    </div>
+
+                    <div class="region-item">
+                        <div class="region-header" data-region="south-america">
+                            <span class="toggle-icon">▶</span>
+                            <label>
+                                <input type="checkbox" class="region-checkbox" value="Latin America and the Caribbean">
+                                南美洲 (South America)
+                            </label>
+                        </div>
+                        <div class="country-list" style="display: none;">
+                            <!-- Countries will be populated by JS -->
+                        </div>
+                    </div>
+
+                    <div class="region-item">
+                        <div class="region-header" data-region="oceania">
+                            <span class="toggle-icon">▶</span>
+                            <label>
+                                <input type="checkbox" class="region-checkbox" value="Oceania">
+                                大洋洲 (Oceania)
+                            </label>
+                        </div>
+                        <div class="country-list" style="display: none;">
+                            <!-- Countries will be populated by JS -->
+                        </div>
+                    </div>
+                </div>
+
+                <button id="clearFilter" class="btn-clear">清除过滤</button>
+            </div>
+
+            <!-- Footer -->
+            <div class="sidebar-footer">
+                <p>数据: CSRankings</p>
+                <p>AI: Qwen-Plus</p>
+            </div>
+        </aside>
+
+        <!-- Right Content Area -->
+        <main class="content-area">
+            <!-- Welcome Message -->
+            <div id="welcomeMessage" class="welcome-message">
+                <div class="welcome-content">
+                    <h2>🎓 欢迎使用教授搜索引擎</h2>
+                    <p>输入研究方向关键词，如 "reinforcement learning"、"computer vision" 等</p>
+                    <p>支持地区和国家过滤，AI 智能总结帮你找到理想导师</p>
+                    <div class="stats">
+                        <div class="stat-item">
+                            <div class="stat-number">31,951</div>
+                            <div class="stat-label">教授总数</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">22,823</div>
+                            <div class="stat-label">可搜索</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">249</div>
+                            <div class="stat-label">国家/地区</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- AI Summary Section (Fixed at top when results shown) -->
+            <section id="summarySection" class="summary-section" style="display: none;">
+                <div class="summary-header">
+                    <h3>🤖 AI 智能总结</h3>
+                </div>
+                <div id="summaryContent" class="summary-content"></div>
+            </section>
+
+            <!-- Results Section -->
+            <section id="resultsSection" class="results-section" style="display: none;">
+                <div class="results-header">
+                    <h3>搜索结果</h3>
+                    <span id="resultsCount" class="results-count"></span>
+                </div>
+                
+                <div id="resultsContainer" class="results-container"></div>
+
+                <!-- Pagination -->
+                <div id="pagination" class="pagination">
+                    <button id="prevPage" class="page-btn" disabled>
+                        ← 上一页
+                    </button>
+                    <div id="pageInfo" class="page-info">
+                        第 <span id="currentPage">1</span> 页 / 共 <span id="totalPages">1</span> 页
+                    </div>
+                    <button id="nextPage" class="page-btn" disabled>
+                        下一页 →
+                    </button>
+                </div>
+            </section>
+        </main>
+
+        <!-- Loading Overlay -->
+        <div id="loadingOverlay" class="loading-overlay" style="display: none;">
+            <div class="loading-spinner"></div>
+            <p>正在搜索...</p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
