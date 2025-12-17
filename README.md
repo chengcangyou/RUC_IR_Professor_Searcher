@@ -40,7 +40,6 @@
 - **总教授数**：31,951 位
 - **有主页内容**：22,823 位（71.4%）
 - **覆盖国家/地区**：249 个
-- **TF-IDF 索引**：22,823 × 5,000 矩阵（~27 MB）
 
 ---
 
@@ -62,13 +61,11 @@ pip3 install -r scripts/requirements.txt
 ### 2\. 配置国内加速 (重要\!) 🇨🇳
 
 为防止模型下载卡顿，**运行前请务必执行**：
-
 ```bash
 export HF_ENDPOINT=https://hf-mirror.com
 ```
 
 ### 3\. 启动引擎
-
 ```bash
 # 方法 1: 使用 app.py
 python3 app.py
@@ -107,7 +104,6 @@ python3 quick_start.py
 ## 🌐 使用示例
 
 ### 界面布局
-
 ```
 ┌─────────────┬──────────────────────────────────┐
 │             │  🤖 AI 智能总结                   │
@@ -133,7 +129,7 @@ python3 quick_start.py
    - 点击地区名称展开/收起国家列表
    - 勾选地区会自动勾选所有国家
    - 取消所有国家会自动取消地区勾选
-3. **点击搜索**：等待 4-11 秒（包含 AI 总结生成）
+3. **点击搜索**：等待 10-20 秒（包含 AI 总结生成）
 4. **查看结果**：
    - AI 总结（顶部，支持 Markdown）
    - Top 50 教授列表（分页显示）
@@ -142,7 +138,6 @@ python3 quick_start.py
 ---
 
 ## 📂 项目结构
-
 ```
 professor_searcher/
 ├── app.py                             # Flask 主程序
@@ -181,7 +176,6 @@ professor_searcher/
 ## 💻 API 与 命令行
 
 ### Python 调用示例
-
 ```python
 from scripts.search_engine import ProfessorSearchEngine
 
@@ -217,13 +211,16 @@ Vanilla JS: 原生 JavaScript 交互
 Marked.js: Markdown 渲染器
 
 ### 性能指标 (基于 MacBook Air M4)
+
 首次索引构建：2-4 分钟 (计算 22,000+ 教授向量)
 后续热启动：< 1 秒 (直接读取 .npy 缓存)
 搜索响应：< 200ms (向量点积运算)
 AI 总结耗时：3-8 秒 (取决于 LLM API 响应)
 
 ## 🎨 界面设计
+
 ### 配色方案
+
 主色调：学术紫渐变 (#667eea → #764ba2)
 交互色：深靛蓝 (#4F46E5) - 用于按钮和高亮
 状态色：翠绿 (#10B981) - 表示高相似度匹配
@@ -235,21 +232,21 @@ AI 总结耗时：3-8 秒 (取决于 LLM API 响应)
 - 🎬 流畅悬停动画
 - 📱 响应式布局
 - 🔄 实时加载反馈
-GET /api/status
+  
+`GET /api/status`
 检查搜索引擎状态及硬件加速情况。
 响应示例：
-JSON
-
+```
 {
   "status": "ready",
   "device": "mps",
   "message": "Search engine is ready"
 }
-GET /api/filter-options
+```
+`GET /api/filter-options`
 获取地区、国家等过滤维度。
 响应示例：
-JSON
-
+```
 {
   "success": true,
   "data": {
@@ -260,20 +257,20 @@ JSON
     ]
   }
 }
-POST /api/search
+```
+`POST /api/search`
 执行语义搜索。
 请求体：
-JSON
-
+```
 {
   "query": "信息检索与大语言模型",  // 支持直接中文搜索
   "regions": ["Asia"],
   "countries": ["cn", "sg"],
   "top_k": 20
 }
+```
 响应示例：
-JSON
-
+```
 {
   "success": true,
   "data": {
@@ -292,6 +289,7 @@ JSON
     "ai_summary": "根据搜索结果，推荐关注中国人民大学的文继荣教授..."
   }
 }
+```
 
 ## 🧪 测试示例 (中英互搜)
 
@@ -310,8 +308,7 @@ Robotics path planning (机器人路径规划)
 找美国名校：Region: Americas + Country: United States
 
 ## 📚 依赖项
-Plaintext
-
+```Plaintext
 # 核心依赖
 torch>=2.0.0              # 深度学习框架 (支持 MPS)
 sentence-transformers>=2.2.0 # 向量检索库
@@ -323,6 +320,7 @@ flask>=3.0.0              # Web 服务
 pandas>=2.0.0
 beautifulsoup4>=4.12.0
 requests>=2.31.0
+```
 
 ## ❓ 常见问题 (FAQ)
 #### Q: 第一次启动为什么这么慢？
@@ -333,9 +331,9 @@ Mac M4 耗时约 2-4 分钟，请耐心等待。 构建完成后，下次启动�
 
 #### Q: 模型下载卡住或报错？
 A: 国内网络可能无法连接 HuggingFace。请在终端执行以下命令开启国内镜像加速，然后再启动：
-Bash
-
+```bash
 export HF_ENDPOINT=https://hf-mirror.com
+```
 
 #### Q: 搜索结果的相似度分数代表什么？
 A: 这是余弦相似度 (Cosine Similarity)。
@@ -348,9 +346,9 @@ A: 我们在 BGE-Base 和 BGE-M3 之间做了权衡。Base 模型在 Mac Air 上
 
 #### Q: 如何强制重新计算索引？
 A: 如果你更新了数据或更换了模型，请删除缓存文件：
-Bash
-
+```bash
 rm data/processed/professor_vectors.npy
+```
 重启后系统会自动重新计算。
 
 #### Q: 必须要有 GPU 吗？
@@ -364,14 +362,14 @@ A: 不是必须的。代码会自动检测：
 
 ## 🔧 数据工具链
 1. 数据清洗
-Bash
-
+```bash
 python3 scripts/process_data.py
+```
 将 csrankings.csv 清洗并转换为标准 JSON 格式。
 2. 爬虫更新
-Bash
-
+```bash
 python3 scripts/crawl_homepages.py
+```
 支持断点续传，爬取教授主页文本用于语义分析。
 
 ## 🙏 致谢
@@ -381,12 +379,13 @@ python3 scripts/crawl_homepages.py
   - **LLM 支持**: Qwen (通义千问)
 
 ## 🎉 开始使用
-Bash
-
-# 1. 开启镜像加速 (重要!)export HF_ENDPOINT=https://hf-mirror.com# 2. 启动 Web 界面
-python3 quick_start.py# 3. 访问
+```bash
+# 1. 开启镜像加速 (重要!)
+export HF_ENDPOINT=https://hf-mirror.com
+# 2. 启动 Web 界面
+python3 quick_start.py
+# 3. 访问
 http://localhost:5001
+```
 
-**祝你用 AI 找到梦中情导！** 🎓✨
-
-
+**祝你找到梦中情导！** 🎓✨
