@@ -1,0 +1,9 @@
+{
+  "name": "Michael A. Forbes 0001",
+  "homepage": "http://miforbes.cs.illinois.edu",
+  "status": "success",
+  "content": "Michael A. Forbes CONTACT [first two letters of firstname][lastname] at illinois.edu Siebel 3220 ABOUT I am an Assistant Professor of Computer Science at University of Illinois at Urbana-Champaign, in particular I am a member of the Theory Group. I study the theory of computation (complexity theory), and more particularly the interaction of randomness, algebra, and computation. Lists (of varying quality) of my papers are available on the arXiv (), ECCC, DBLP (), or MathSciNet. TEACHING In Spring 2019, I am teaching cs579: Computational Complexity. In Spring 2018, I taught cs579: Computational Complexity. In Fall 2017, I taught cs598: Pseudorandomness.",
+  "content_length": 659,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:57:34"
+}

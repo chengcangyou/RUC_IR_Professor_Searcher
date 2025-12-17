@@ -1,0 +1,9 @@
+{
+  "name": "Babak Hassibi",
+  "homepage": "https://www.babak.caltech.edu",
+  "status": "success",
+  "content": "Home of Babak Hassibi Babak Hassibi Gordon M. Binder/Amgen Professor Executive Officer for Electrical Engineering Associate Director for Information Science and Technology My research is in communications, signal processing, and control. I am currently most interested in wireless networks and in genomic signal processing. In the wireless network area I study modeling issues, information-theoretic questions, scheduling, protocols, various performance criteria, etc. In the genomic signal processing area I have been studying real-time DNA microarrays, a novel technology that we have developed. My earlier work includes: multi-antenna systems (e.g., space-time codes); efficient decoding algorithms in communications; adaptive signal processing and neural networks; blind channel equalization; statistical signal processing; robust estimation and control, especially connections between robustness and adaptation; and linear algebra, with emphasis on fast algorithms, random matrices and group representation theory. I retain a keen interest in all these. [ Bio | Publications | Presentations | Patents | Group Homepage | Courses | Personal | Links | Contact]",
+  "content_length": 1162,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:02:41"
+}

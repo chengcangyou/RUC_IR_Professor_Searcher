@@ -1,0 +1,9 @@
+{
+  "name": "Preethi Jyothi",
+  "homepage": "https://www.cse.iitb.ac.in/~pjyothi",
+  "status": "success",
+  "content": "Preethi Jyothi 221, New CSE Building IIT Bombay, Powai, 400076 Speech and language technologies have advanced remarkably in recent years. However, they do not work equally well across users from diverse demographics, particularly in India where users span a wide variety of speech accents, dialects and languages. My work focuses on building speech and language technologies for such low-resource settings. A current key challenge of interest is how to enable effective transfer of knowledge from a pretrained model to new domains, and how to train large language models in parameter-efficient and cost-effective ways. About me: I joined IITB in September 2016. Prior to that, I was a Beckman Postdoctoral Fellow at the University of Illinois at Urbana-Champaign. I obtained my Ph.D. from the CSE Department at The Ohio State University in 2013. My research interests are broadly in machine learning as applied to speech and language. Note: I am currently on a year-long leave in the US (as a Visiting Scholar at Stanford University until August 2025, with a subsequent appointment as a Visiting Researcher at Google DeepMind) from 2025 to 2026. During this time, I will generally be less available to participate in most academic or research commitments (other than with existing students/collaborators). Apologies in advance. Email: pjyothi at cse dot iitb dot ac dot in",
+  "content_length": 1372,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:13:15"
+}

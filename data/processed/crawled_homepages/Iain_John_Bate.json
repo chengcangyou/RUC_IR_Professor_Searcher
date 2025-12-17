@@ -1,0 +1,9 @@
+{
+  "name": "Iain John Bate",
+  "homepage": "https://www-users.cs.york.ac.uk/~ijb",
+  "status": "success",
+  "content": "Iain Bate Career summary I am a Professor of Dependable Real-Time Systems in the Real-Time Systems Group and the Head of Department for Computer Science at the University of York. In 1999 I was awarded a DPhil titled \"Scheduling and Timing Analysis of Safety Critical Hard Real-time Systems\", reference: YCST-99-04. I was the Editor-in-Chief of the Elsevier Journal of System Architecture for ten years until the end of 2017. Research interests My research focusses on how to design critical systems so that they can be certified with reduced effort both initially and as part of incremental certification. Three key areas have been investigated: Scheduling and timing analysis including multicore processors using both static and measurement-based analysis. Allocation of tasks to processors and messages to networks using heuristic search-based analysis. Improving the dependability of Wireless Sensor Networks using systematic evaluation and testing to derive (often statistical) models. Full details of other possible PhD topics can be found here. Contact Prof Iain Bate Department of Computer Science University of York Deramore Lane York, YO10 5GH United Kingdom Phone: +44 (0)1904 325572 Fax: +44 (0)1904 325599 Email: iain.bate@york.ac.uk",
+  "content_length": 1246,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:22:11"
+}

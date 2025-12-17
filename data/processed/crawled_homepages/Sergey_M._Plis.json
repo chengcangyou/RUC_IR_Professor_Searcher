@@ -1,0 +1,9 @@
+{
+  "name": "Sergey M. Plis",
+  "homepage": "https://trendscenter.org/sergey-plis",
+  "status": "success",
+  "content": "Sergey Plis - TReNDS Skip to content Sergey Plis Sergey Plis Professor of Computer Science TReNDS Center & Georgia State University splis@gsu.edu Dr. Plis’s educational background is in engineering (MS), artificial intelligence (MS) and computer science (PhD). His research goals lie in developing computational instruments that enable knowledge extraction from observational multimodal data collected at different temporal and spatial scales. His focus is on understanding systems and processes formed by interactions of multiple “agents”. The human brain, his main application area, is an example of such system: neurons (or measured voxels) are the agents that interact and form networks that themselves are entities of interest with influence structure indicative of mental state, disorder and differences between individuals. Understanding the patterns, networks and interactions can improve our understanding of how the brain works but the data are complex, multidimensional, and neither modality alone carries enough information. The situation typical in many domains with complex incomplete observational measurements including climatology, social sciences, and others. The chosen methodology mainly draws from the fields of machine learning and data science. Specific developments are focused on multimodal pattern recognition, inference, predictive modeling, tracking, and causal learning. Ongoing work is focused on inferring multimodal probabilistic and causal descriptions of function-induced networks based on fusion of fast and slow imaging modalities. This includes feature estimation via deep learning-based pattern recognition and learning causal graphical models. View My Publications Home / Sergey Plis",
+  "content_length": 1722,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:25:46"
+}

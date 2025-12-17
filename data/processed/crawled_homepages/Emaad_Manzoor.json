@@ -1,0 +1,9 @@
+{
+  "name": "Emaad Manzoor",
+  "homepage": "https://emaadmanzoor.com",
+  "status": "success",
+  "content": "Home | Emaad Manzoor Home Research Github Teaching Blog CV Emaad Manzoor emaadmanzoor@cornell.edu I am an Assistant Professor of Marketing and a graduate field member of Computer Science at Cornell University. I design algorithms to improve human decisions. See here for my papers and preprints ordered chronologically. I created and teach the generative AI course at Johnson. I have also taught a PhD seminar on human-algorithm interactions (syllabus). See here for my other teaching. I am currently building stoppingagents (language agents for optimal conversation stopping) and blprs (a high-performance Rust library for demand estimation). I have previously built arborist, xstream, and streamspot. I co-organize the Virtual Quant Marketing Seminar and serve on the editorial board of Marketing Science.",
+  "content_length": 807,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:06:11"
+}

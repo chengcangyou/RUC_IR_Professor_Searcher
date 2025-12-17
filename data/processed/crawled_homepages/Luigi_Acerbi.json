@@ -1,0 +1,9 @@
+{
+  "name": "Luigi Acerbi",
+  "homepage": "https://lacerbi.github.io",
+  "status": "success",
+  "content": "Luigi Acerbi I am an associate professor at the Department of Computer Science of the University of Helsinki, where I lead the Machine and Human Intelligence research group. I am also an active member of the Finnish Center for Artificial Intelligence FCAI and of ELLIS (European Laboratory for Learning and Intelligent Systems). My research spans: probabilistic machine learning, with a focus on building efficient methods for statistical inference, such as amortized and surrogate-based methods; computational and cognitive neuroscience, with a focus on Bayesian models of perception and resource-constrained rationality. Previously, I was a postdoc in Alex Pouget‘s lab in Geneva, Switzerland, and with Wei Ji Ma at NYU, NY, where I have also been an off-site visiting scholar. While in Geneva, I collaborated with the International Brain Laboratory. I obtained my PhD at the Doctoral Training Centre for computational neuroscience based in Edinburgh, UK, working with Sethu Vijayakumar and Daniel Wolpert. I spent several months of my PhD at the Computational and Biological Learning Lab in Cambridge, UK. For up-to-date information about my research, publications, teaching and miscellanea, please visit my group page at the University of Helsinki. These days, you can find me on Bluesky and possibly X.",
+  "content_length": 1307,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:48:35"
+}

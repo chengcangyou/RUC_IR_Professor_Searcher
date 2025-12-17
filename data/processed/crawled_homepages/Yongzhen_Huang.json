@@ -1,0 +1,9 @@
+{
+  "name": "Yongzhen Huang",
+  "homepage": "http://www.cripac.ia.ac.cn/irds/People/yzhuang.html",
+  "status": "success",
+  "content": "HTTP404 无法找到页面 http404错误 没有找到您要访问的页面，请检查您是否输入正确url。 请尝试以下操作： ·如果您已经在地址栏中输入该网页的地址，请确认其拼写正确。 ·打开主页，然后查找指向您感兴趣信息的链接。 ·单击后退链接，尝试其他链接。 错误：null 错误码：404 信息：/irds/People/yzhuang.html 异常：null",
+  "content_length": 182,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:52:30"
+}

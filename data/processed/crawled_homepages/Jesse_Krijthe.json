@@ -1,0 +1,9 @@
+{
+  "name": "Jesse Krijthe",
+  "homepage": "https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/pattern-recognition-bioinformatics/people/jesse-krijthe",
+  "status": "success",
+  "content": "Jesse Krijthe Search Close search Jesse Krijthe As an assistant professor in the Pattern Recognition & Bioinformatics group of TU Delft (Delft University of Technology) I work on methodology and applications of statistical machine learning. Currently, I am particularly interested in causal inference, philosophy of statistics/data science, semi-supervised learning, model evaluation/selection, domain adaptation and missing data.Previously I worked as a postdoc in the Data Science group of Radboud University Nijmegen on predictive and causal models for Parkinson’s disease.During my PhD, obtained at Leiden University, I studied robust methods to do semi-supervised learning, that is: supervised models that can use additional unlabeled data with the property that, with high probability, performance is better than the original supervised model. During my PhD I was affiliated with the Pattern Recognition & Bioinformatics group of Delft University of Technology and the Department of Molecular Epidemiology of the Leiden University Medical Center.You can find links to my R packages (Rtsne, RSSL) on GitHub, and further information on my website. Publications Share this page: Facebook Linkedin Twitter Email WhatsApp Share this page Jesse Krijthe J.H.Krijthe@tudelft.nl Van Mourik Broekmanweg 6 2628 XE Delft The Netherlands",
+  "content_length": 1330,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:29:42"
+}

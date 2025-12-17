@@ -1,0 +1,9 @@
+{
+  "name": "Elad Hazan",
+  "homepage": "https://www.cs.princeton.edu/~ehazan",
+  "status": "success",
+  "content": "Elad Hazan Professor of Computer Science, Princeton University Director and co-founder, Google AI Princeton I study the automation of the learning mechanism and its efficient algorithmic implementation. This study centers in the field of machine learning and touches upon mathematical optimization, game theory, statistics and computational complexity. For more details, see research and bio pages. For more information about my group and our research, see our group webpage. For more information about Google Brain Research, and the activity of this lab, please see this webpage. Books/Surveys Introduction to Online Convex Optimization Optimization for Machine Learning Introduction to Online Nonstochastic Control , see also ICML 2020 Tutorial Publications/Preprints Google Scholar page for all publcations (Same but chronological order) Talks Optimization for Machine Learning The non-stochastic control problem Teaching Theoretical Machine Learning (COS511) older version AI Alignment & Safety (COS 597Q) Computational Control Theory Introduction to Machine Learning (COS 324)",
+  "content_length": 1081,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:05:29"
+}

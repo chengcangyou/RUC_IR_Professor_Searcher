@@ -1,0 +1,9 @@
+{
+  "name": "Fatemeh Nargesian",
+  "homepage": "https://fnargesian.com",
+  "status": "success",
+  "content": "I am an Assistant Professor of Computer Science at the University of Rochester. I graduated from the Department of Computer Science at the University of Toronto. My research interests broadly include data management for AI. I work on algorithms and systems for data acquisition. Data-efficient AI: dataset summarization, coreset construction, slice finding Distribution-aware Data Integration: responsible data integration and data distribution tailoring Dataset Discovery: syntactic and semantic joinable and unionable dataset search in data lakes, metadata inference I am also interested in scientific time-series management. My goal is to scale the computation of (higher-order) correlations to large-scale time-series to enable interactive data exploration in domains such as climate science and neuroscience. In the academic year 2024-2025, my group is recruiting graduate students for projects in data-efficient AI and data systems. If you are interested in doing a PhD in these topics, you can apply to the URCS PhD Program and mention my name in your SOP. Although I may not be able to respond to all emails, I will carefully review all applications submitted through the official process.",
+  "content_length": 1197,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:09:17"
+}

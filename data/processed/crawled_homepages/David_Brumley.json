@@ -1,0 +1,9 @@
+{
+  "name": "David Brumley",
+  "homepage": "https://users.ece.cmu.edu/~dbrumley",
+  "status": "success",
+  "content": "David Brumley David Brumley Students Teaching Papers Contact My research vision is to develop systems that automatically check the world's software for exploitable bugs. The two most important words to me are shown in red. My approach is based on using program analysis with security-specific properties, which I call software security. I am a Professor of Electrical and Computer Engineering, with an additional courtesy in the Computer Science Department, previously the Director of CyLab, and the CEO of ForAllSecure Students I am fortunate to have advised several great PhD students: Tiffany Bao Matthew Maurer Thanassis Avgerinos (co-founder of ForAllSecure) Alex Rebert (on leave, co-founder of ForAllSecure) Edward J. Schwartz (PhD ECE 2014, now at SEI) Jiyong Jang (PhD ECE 2014, now at IBM Watson) Jonathan Burket (now at Apogee Research) Sang Kil Cha (PhD ECE 2015, now at KAIST) Peter Chapman (now at Duolingo) and former postdocs: Maverick Woo (now CyLab Systems Scientist) JongHyup Lee (Assistant Professor KNUP) Manuel Egele (now an Assistant Professor at Boston University) I am also the faculty advisor to the Plaid Parliament of Pwning, a competition Capture the Flag team. They are internationally ranked as a top competitive hacking team. Teaching I teach Introduction to Computer Security (18-487), Software Security (18-732), and Malware, Defense, and Vulnerability Analysis (18-739c). I also run PicoCTF, an annual computer security contest for high school students. Contact CIC 21075000 Forbes AvePittsburgh, PA 15213 Tel: (412) 268-3851 Email: Find my email by looking at this paper. ×",
+  "content_length": 1609,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:58:43"
+}

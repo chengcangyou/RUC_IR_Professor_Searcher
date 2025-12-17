@@ -1,0 +1,9 @@
+{
+  "name": "Earl T. Barr",
+  "homepage": "http://earlbarr.com",
+  "status": "success",
+  "content": "Earl T. Barr's Homepage Earl T. Barr Professor of Software Engineering University College London (UCL) Ph.D. in Computer Science, 2009 University of California, Davis I am the head of UCL's System Software Engineering Group and a member of the Centre for Research on Evolution, Search and Testing (CREST). My longtime collaborator, Santanu Dash of Royal Holloway, and I are looking for PhD students. Youâd be funded through the EPSRC Centre for Doctoral Training (CDT) in Cyber Security for the Everyday, but jointly supervised by Santanu and me. This CDT has studentships for international students. Weâre interested in all applications of AI4Code (See MAPS and AI4Code meetup), but especially those focused on cybersecurity. We believe that our work on dual channel analysis gives us a unique angle of attack on problems like nonadversarial backdoors. If youâre interested, please get in touch. Santanu is also looking for a postdoc to join his MUSE project. Code combines two channels — a formal algorithmic channel that specifies a computation for a machine and a natural language channel that helps a human understand the computation. This postdoc will centre on techniques and tools that exploit both channels to analyse and repair vulnerabilities in legacy code. Click for the job advert. Publications Postdocs and Students Teaching Talks CV Links During my studies at UCD, I was a member of the DECAL research group.",
+  "content_length": 1430,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:04:21"
+}

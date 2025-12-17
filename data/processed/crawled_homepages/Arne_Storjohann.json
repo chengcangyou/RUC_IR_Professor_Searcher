@@ -1,0 +1,9 @@
+{
+  "name": "Arne Storjohann",
+  "homepage": "https://cs.uwaterloo.ca/~astorjoh",
+  "status": "success",
+  "content": "Arne Storjohann Arne Storjohann Symbolic Computation Group David R. Cheriton School of Computer Science University of Waterloo Waterloo, Ontario, Canada N2L 3G1 Office: Davis Centre 3619 Phone: (519) 888-4567x36361 Email: astorjoh AT uwaterloo.ca Home Address 683 Munich Circle Waterloo ON, N2V 2L6 Phone: (519) 954-7729 Research interests Symbolic and Exact Linear Algebra: Algorithms for canonical forms of matrices. Solving systems of linear equations. Computing invariants of integer matrices. Linear algebra over rings with zero divisors. Algorithms for sparse and black-box matrices. Lattice basis reduction. Algorithmic Number Theory: Algorithms for basic operations over rings. Variations of the extended GCD problem. Selected publications Selected presentations Curriculum Vitae Software IML: Integer Matrix Library hnfproj: Hermite canonical form of integer matrices LinBox: Exact computational linear algebra SAGE Last modified March 7, 2024.",
+  "content_length": 953,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:01:10"
+}

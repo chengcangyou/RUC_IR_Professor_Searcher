@@ -1,0 +1,9 @@
+{
+  "name": "Michael A. Jenkins",
+  "homepage": "http://www.cs.queensu.ca/home/maj",
+  "status": "success",
+  "content": "Mike Jenkins Information Page Michael A. Jenkins Mike Jenkins is a Professor Emeritus in the Department of Computing and Information Science at Queen's University Kingston, Canada. He is also the founder of Nial Systems Limited , a spinoff company that markets the results of his research work. Research Interests Professor Jenkins does research on the design, implementation and use of array based programming languages. He is the principle designer of Nial and its portable C implementation Q'Nial . Nial is in active use in Janice Glasgow 's Molecular Scene Analysis project at Queen's and at several other sites. His research is currently investigating the use of parallelism in array-based computation. Dept. of Computing and Information Science Queen's University Kingston, Ontario K7L 3N6 (613) 545 6073 (613) 545 6513 (fax) maj@qucis.queensu.ca See the abbreviated curriculum vita for details on publications, students and professional background.",
+  "content_length": 955,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:57:39"
+}

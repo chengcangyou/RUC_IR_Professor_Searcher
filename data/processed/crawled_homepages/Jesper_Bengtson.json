@@ -1,0 +1,9 @@
+{
+  "name": "Jesper Bengtson",
+  "homepage": "http://www.itu.dk/people/jebe",
+  "status": "success",
+  "content": "Home Page | Jesper Bengtson Jesper Bengtson Associate Professor in Computer Science Site Navigation[Skip] Home PhD Research Projects Publications Teaching Home Page My name is Jesper Bengtson and Iâm an associate professor in the Theoretical Computer Science group at the IT-University of Copenhagen. My research interests include program verification, concurrency, and formalising mathematics using interactive theorem provers. I currently hold a Sapere Aude grant funded by the Danish Ministry of Science.The overall aim of my research is to develop tools that allow users to formally verify the correctness of computer programs. What this means in practice is that a user should be able to prove using logics and mathematics that a program contains no bugs. The state of the art used in industry today is extensive testing, but even if a program has passed all tests there is never a guarantee that it will not contain any bugs. If you want to know more, feel free to visit my project page. My PhD work focussed on formalising the meta-theory of various process calculi in the interactive theorem prover Isabelle. I defended my thesis in June 2010. AddressRued Langgaards Vej 72300 KÃ¸benhavnDenmark e-mailjebe *at* itu.dk Telephone+45 7218 5043 Â© Jesper Bengtson 2013 [Back To Top]",
+  "content_length": 1288,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:29:48"
+}

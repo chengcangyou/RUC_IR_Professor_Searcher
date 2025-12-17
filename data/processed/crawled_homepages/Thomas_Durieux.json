@@ -1,0 +1,9 @@
+{
+  "name": "Thomas Durieux",
+  "homepage": "https://durieux.me",
+  "status": "success",
+  "content": "Thomas Durieux Thomas Durieux Ph.D. in software engineering, he focuses on static and dynamic analysis to improve the maintainability of software. He is particularly evolve in software debloat and automatic patch generation. Location: Delft, The Netherlands Email: thomas|@|durieux.me Twitter: thodurieux GitHub: tdurieux Scholar: CoUKVbUAAAAJ DBLP: 163/2121 LinkedIn: thomasdurieux ORCID: 0000-0002-1996-6134 # Short bio I am currently an Assistant Professor at the Delft University of Technology in the Netherlands, where he is part of the TU Delft Software Engineering Research Group (SERG ). Prior to this, I completed a post-doctoral fellowship at the KTH Royal Institute of Technology in Sweden and a previous on at INESC in Portugal. I earned my PhD in Computer Science from the University of Lille and INRIA in France, where I focused on the topic of automatic program repair. I also hold a Master's degree in Computer Science from the University of Lille in France and Bachelor's degree in Computer Science from Institut Paul Lambin in Belgium. I also created and maintain several software artifacts for research purposes and also for side projects such as Anonymous GitHub . # Research interests My research domain is Software Engineering where I perform empirical studies at a large scale. My work focus on studying different aspect of software maintenance. In particular, I am interested in automatizing some aspects the software maintenance. I am working on the topic of SE for Docker, Automatic Program Repair (APR), Bugs, Software Debloat, Software Builds, and Continuous Integration services.",
+  "content_length": 1608,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:37:24"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Jie Zhou 0022",
+  "homepage": "https://jiezhoucs.github.io",
+  "status": "success",
+  "content": "Jie Zhou Email: jie.zhou@gwu.edu Office: SEH 4590 I am an Assistant Professor in the Department of Computer Science at the George Washington University. I obtained my PhD from the Department of Computer Science at the University of Rochester, advised by John Criswell. Before Rochester, I received my Bachelor's degree from Xiamen University. I do Systems Research with a focus on systems and software security. I advocate for language-based security: programming languages are the direct medium through which programmers express their ideas, and compilers are the machinery that translates those ideas into executable machine code. I believe languages- and compilers-centered methods can fundamentally solve computer security concerns. Be alert, for your software is buggy and full of vulnerabilities! Prospective Students: I am looking for students. If you are interested, please read this. Teaching Fall 2025: CSCI 4907/6545 Software Security Program Committees 2026: USENIX Sec, CCS",
+  "content_length": 986,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:30:30"
+}

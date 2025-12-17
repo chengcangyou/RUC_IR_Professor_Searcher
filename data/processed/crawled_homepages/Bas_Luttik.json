@@ -1,0 +1,9 @@
+{
+  "name": "Bas Luttik",
+  "homepage": "http://www.win.tue.nl/~luttik",
+  "status": "success",
+  "content": "Bas Luttik home publications courses students assignments service Bas Luttik I am an associate professor in the Formal System Analysis research group of the Computer Science Department of Eindhoven University of Technology. My main area of research is concurrency theory, in particular process algebra, with the aim to provide a solid and well-understood mathematical foundation for methods and tools to verify system behaviour. My research has focussed on unique parallel decomposition and finite basis problems in process algebra, and the integration of concurrency theory and classical automata theory. I am also interested in applying process-algebra based formal methods to improve the quality of system requirements, most notably in the railway domain. In particular, I lead the FormaSig project. I am also actively involved in projects to innovate education using digital technology. For my course on Logic and Set Theory, I have recorded over 50 videoclips explaining the course material. Furthermore, I have initiated a project to develop an online homologation recommendation tool to allow master students through digital tests to identify deficiencies in their bachelor background and present them a recommendation on how to repair those deficiencies. Address: Dept. of Computer Science, Eindhoven University of Technology P.O. Box 513, NL-5600 MB Eindhoven, The Netherlands Office:MF 6.104A E-mail:S _dot_ P _dot_Luttik _at_ tue _dot_ nl Telephone:+31 (0)40 247 5142",
+  "content_length": 1478,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:03:24"
+}

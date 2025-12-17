@@ -1,0 +1,9 @@
+{
+  "name": "Po-Ling Loh",
+  "homepage": "https://www.dpmms.cam.ac.uk/~pll28",
+  "status": "success",
+  "content": "Po-Ling Loh Welcome to Po-Ling's website I am a Professor in the Statistical Laboratory in the Department of Pure Mathematics and Mathematical Statistics at the University of Cambridge. I am also a Fellow of St. John's College. My current research interests include high-dimensional statistics, optimization,  network inference,  robust statistics, and differential privacy. I am also interested in statistical applications to medical imaging and epidemiology. Here is a copy of my CV.",
+  "content_length": 485,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:12:53"
+}

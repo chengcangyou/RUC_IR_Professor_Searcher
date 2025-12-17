@@ -1,0 +1,9 @@
+{
+  "name": "Angela Dai",
+  "homepage": "https://www.3dunderstanding.org",
+  "status": "success",
+  "content": "3D AI Lab 3d ai. 3D AI Lab Research group at the Technical University of Munich focusing on understanding the 3D world around us. We are interested in attaining a 3D understanding of the world around us, capturing and constructing semantically-informed 3D models of real-world environments. This includes 3D reconstruction and semantic understanding from commodity RGB-D sensor data, leveraging generative 3D deep learning towards enabling understanding and interaction with 3D scenes for content creation and virtual or robotic agents. ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes BundleFusion: Real-time Globally-Consistent 3D Reconstruction SG-NN: Self-Supervised 3D Scan Completion",
+  "content_length": 702,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:58:30"
+}

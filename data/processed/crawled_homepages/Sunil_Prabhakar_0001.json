@@ -1,0 +1,9 @@
+{
+  "name": "Sunil Prabhakar 0001",
+  "homepage": "https://www.cs.purdue.edu/homes/sunil",
+  "status": "success",
+  "content": "Sunil Prabhakar's Homepage main Welcome Sunil Prabhakar is a Professor of Computer Science at Purdue. He is currently serving as the Vice Provost for Faculty Affairs. His main area of research is database systems. His current research focuses on developing novel databases for handling uncertain data, and solutions that ensure authenticity, integrity and privacy for outsourced databases including cloud databases. In earlier work, he has developed solutions for scalability and efficiency for moving objects and sensor databases, digital rights management for databases through digital watermarking, and ensuring correctness over private databases. News Ryan Rossi defends his PhD thesis System and Methods for Ensuring Integrity, Authenticity, Indemnity, and Assured Provenance for Untrusted, Outsource, or Cloud Databases (US Patent No. US8,799,247 B2, Issued: Aug 5, 2014) Rohit Jain defends his PhD thesis Towards Scalable and Comprehensive Uncertain Data Management Project (NSF Grant IIS-09168724) Authentic Database Outsourcing Project (NSF Grant IIS-1017990) The ORION uncertain data management project First release, 01 March 2006. Orion 2.0 Release September 2011.",
+  "content_length": 1176,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:34:06"
+}

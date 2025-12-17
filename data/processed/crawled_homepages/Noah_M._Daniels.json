@@ -1,0 +1,9 @@
+{
+  "name": "Noah M. Daniels",
+  "homepage": "https://homepage.cs.uri.edu/~ndaniels",
+  "status": "success",
+  "content": "Associate Professor Computer Science Tyler Hall 250 Kingston, RI noah_daniels [at] uri.edu I am an Associate Professor of Computer Science at the University of Rhode Island. I lead the Algorithms for Big Data research group at URI, and collaboratively lead the MEDFORD metadata project at Tufts. My research primarily focuses on algorithms that scale to enormous, rapidly growing, high-dimensional datasets, enabling myriad computational tasks including search, anomaly detection, machine learning, and visualization. The University of Rhode Island occupies the traditional stomping ground of the Narragansett Nation and the Niantic People. We honor and respect the enduring and continuing relationship between the Indigenous people and this land by teaching and learning more about their history and present-day communities, and by becoming stewards of the land we, too, inhabit.",
+  "content_length": 880,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:06:36"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Reinhard Heckel",
+  "homepage": "http://reinhardheckel.com",
+  "status": "success",
+  "content": "Reinhard Heckel I’m a Professor of Machine Learning (Tenured Associate Professor) at the Department of Computer Engineering at the Technical University of Munich (TUM), and adjunct faculty at Rice University, where I was an assistant professor of Electrical and Computer Engineering from 2017-2019. Before that, I was a postdoctoral researcher in the Berkeley Artificial Intelligence Research Lab at UC Berkeley, and before that a researcher at IBM Research Zurich. I completed my PhD in 2014 at ETH Zurich and was a visiting PhD student at Stanfords University’s Statistics Department. My work is centered on machine learning, artificial intelligence, and information processing. I focus on developing algorithms and foundations for deep learning, particularly for medical imaging, on establishing mathematical and empirical underpinnings for machine learning, and on the utilization of DNA as a digital information technology. Publications Please see my google scholar profile for an up-to-date list. Book Deep Learning for Computational Imaging, to be published by Oxford University Press, draft available as pdf Selected talks and publications in popular science Talk at DLD on Seeing the World with AI Op-ed in the German newspaper Frankfurter Allgemeine on ChatGPT My interview with Sam Altman at TUM Science TV show “Gut zu Wissen” on Future Storage Media Op-ed in the German newspaper Frankfurter Allgemeine on DNA as an information technology Science TV show Galileo on our work on DNA storage Netflix video on how we stored the first original series for Netflix on DNA) BBC science show about our work: This is how to store human knowledge for eternity © Copyright 2023 Reinhard Heckel. Powered by Jekyll (al-folio) & github pages.",
+  "content_length": 1741,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:16:24"
+}

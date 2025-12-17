@@ -1,0 +1,9 @@
+{
+  "name": "Till Mossakowski",
+  "homepage": "http://theo.cs.ovgu.de",
+  "status": "success",
+  "content": "Theoretical Computer Science - Research group for theoretical computer science - Logic, Spatial reasoning, Formal methods. Research group for theoretical computer science - Logic, Spatial reasoning, Formal methods. Our research and teaching focuses on the development and application of formal and semantic (i.e. mathematically grounded) methods to the study, modeling and verification of complex systems in various fields of computer science, varying from constraint reasoning about space and time to software specification, ontologies and conceptual blending. A central topic is heterogeneity, arising from different viewpoints onto a system, formulated in different spatio-temporal constraint calculi or different logical formalisms. Modularity and heterogeneity are key techniques for a divide-and-conquer approach to complex systems. In the past years, we have started to work on neurosymbolic integration. Here, we integrate ontological background knowledge with the learning process of neural networks. Last Modification: 08.06.2023 - Contact Person:",
+  "content_length": 1057,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:38:40"
+}

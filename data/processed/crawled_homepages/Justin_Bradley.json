@@ -1,0 +1,9 @@
+{
+  "name": "Justin Bradley",
+  "homepage": "http://justinbradley.unl.edu",
+  "status": "success",
+  "content": "Home | Justin Bradley Research is my passion. Mentoring makes it possible. Outreach gives it back. Latest Articles Successful cyber-physical system controllers evolve as they are refined, extended, and adapted to new systems and contexts. This evolution occurs in the controller design and also in its software implementation. Model-based design and controller synthesis can help to synchronize this... Control Software Using unmanned aircraft systems (UASs) as sensor platforms is a well-studied and well-implemented area. UASs have even been used to place sensors on the ground or in water. However, there are some instances where placing a sensor on top of... Project UAS Planning Wetlands are critical to the water cycle, yet they are a difficult environment to safely and effectively monitor. Robot systems have the potential to transform our understanding of complex wetlands systems by not only allowing faster and higher density sensing,... Project UAS Multi-agent Co-regulation Fire is critical for reducing catastrophic wildï¬res and sustaining ecosystems. Yet the technology to support ï¬re ignition and monitoring remains stagnant. Fire personnel operate under enduring risk in a rapidly evolving context, using drip torches to ignite ï¬res. Alternative forms... Project UAS Co-regulation",
+  "content_length": 1303,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:38:21"
+}

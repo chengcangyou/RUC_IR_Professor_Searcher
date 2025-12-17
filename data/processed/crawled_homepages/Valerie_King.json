@@ -1,0 +1,9 @@
+{
+  "name": "Valerie King",
+  "homepage": "http://webhome.cs.uvic.ca/~val",
+  "status": "success",
+  "content": "Valerie King's Home Page Valerie King Professor Department of Computer Science University of Victoria Victoria, B.C. CANADA V8W 3P6 Phone: (250) 472-5727 Fax: (250) 472-5708 e-mail: val followed by at uvic dot ca Research Interests Randomized algorithms, data structures, distributed computing, social networks, law and economics How can we develop scalable distributed protocols and data structures to better enable nodes in a network to coordinate in a fair efficient manner? Publications and Research (See DBLP for an updated list.) CV (2018) Bio (2018) Webpage design by Anna K-K.",
+  "content_length": 584,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:42:26"
+}

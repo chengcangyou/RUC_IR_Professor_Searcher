@@ -1,0 +1,9 @@
+{
+  "name": "Noman Mohammed",
+  "homepage": "http://www.cs.umanitoba.ca/~noman",
+  "status": "success",
+  "content": "Noman Mohammed Home Research Teaching Group Contact Noman Mohammed I am an Associate Professor in the Department of Computer Science at the University of Manitoba, where I lead the Data Security & Privacy (DSP) Laboratory. I completed my Ph.D. in Computer Science from Concordia University in 2012, advised by Professors Mourad Debbabi and Benjamin C. M. Fung. Before joining the University of Manitoba, I was an NSERC Postdoctoral Fellow in the School of Computer Science at McGill University and a member of the Cryptography, Security, & Privacy (CrySP) Research Group at the University of Waterloo. My research focuses on privacy and information security, with a particular emphasis on addressing the challenges of protecting health data. Over the years, I have investigated various privacy-related issues, including private sharing of electronic health records for analysis, protecting genomic data in cloud environments, and, more recently, generating synthetic clinical notes for machine learning applications. For further details about my work, please see the Research section. Copyright © Noman Mohammed",
+  "content_length": 1111,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:06:44"
+}

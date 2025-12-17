@@ -1,0 +1,9 @@
+{
+  "name": "Carlos Ordonez 0001",
+  "homepage": "http://www2.cs.uh.edu/~ordonez",
+  "status": "success",
+  "content": "Carlos Ordonez Home Students Teaching Research Contact Carlos Ordonez Bio Bio: Carlos Ordonez studied at UNAM (top research university in Mexico), getting a B.Sc. in applied math and an M.S. in computer science. He continued PhD studies at the Georgia Institute of Technology, focusing on optimizing machine learning and data mining analysis with parallel algorithms, removing main memory limitations and enhancing their accuracy. During his PhD, Carlos joined NCR Corporation collaborating in the optimization of machine learning, statistics and cubes on the Teradata parallel DBMS, under an SMP distributed architecture. After working almost 10 years years at NCR, Carlos joined the Department of Computer Science at the University of Houston, where he currently leads the Data-Intensive Parallel Algorithms for AI group, focusing on making theory practical. During 2012 and 2013 Carlos regularly visited MIT, collaborating with Turing award winner, Michael Stonebraker, working on new-generation parallel DBMSs (columnar, array, lockfree transactions) to solve large-scale linear algebra and graph algorithms. Carlos worked as a visiting researcher with ATT Labs-Research (formerly the famous ATT Bell Labs where C, C++ and Unix were invented), where he conducted research on analyzing streams with statistical methods on massive data sets. His research projects have been funded by NSF and NIH grants. Education B.Sc. in Applied Mathematics, UNAM University, Mexico M.S. in Computer Science, UNAM University, Mexico Ph.D. in Computer Science, Georgia Institute of Technology, USA Articles C.S. articles listed on: DBLP. My citations are tracked in: Google Scholar.",
+  "content_length": 1668,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:49:10"
+}

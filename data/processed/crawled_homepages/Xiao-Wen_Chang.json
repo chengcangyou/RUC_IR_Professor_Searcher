@@ -1,0 +1,9 @@
+{
+  "name": "Xiao-Wen Chang",
+  "homepage": "http://cs.mcgill.ca/~chang",
+  "status": "success",
+  "content": "Welcome! - The Homepage of Xiao-Wen CHANG Xiao-Wen CHANG Publications Software Students Seminars Laboratory Contact Teaching COMP 350 Numerical Computing COMP 540 Matrix Computations COMP 642 Numerical Estimation Welcome! My research interests are in the field of scientific computing, with particular emphasis on numerical linear algebra and optimization and their applications. Currently I am mainly interested in combining machine learning (especially graph learning) techniques and traditional numerical techniques to design, analyzing and implementing effective computer algorithms for parameter estimation and detection problems as well as their applications in wireless communications, signal processing, control, localization in wireless sensor networks and GNSS based positioning. I am also interested in lattice reduction, which has applications in integer programming, cryptanalysis and computer algebra. Search Search from website: WWW McGill CS McGill Copyright ©2020, Xiao-Wen Chang, McGill University",
+  "content_length": 1015,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:48:24"
+}

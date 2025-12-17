@@ -1,0 +1,9 @@
+{
+  "name": "Martin Monperrus",
+  "homepage": "https://www.monperrus.net/martin",
+  "status": "success",
+  "content": "Martin Monperrus Official Home Page Home Research Teaching Contact Martin Monperrus Official Home Page by Martin Monperrus Welcome! I am Professor of Software Technology at KTH Royal Institute of Technology, Stockholm, Sweden. I research and teach about software. See a short biography. Publications My research is about inventing the future shovels, cranes and screwdrivers that we use to build software, a discipline called software engineering. See all publications. Group I research with brilliant PhD and Master's students to do hard, fun and significant experiments on cool topics. See my crew. Technology We buidl prototypes, we share research data. See cool repositories. Contact My door is open and I love email because it's old, standardized and decentralized. See contact information. Created on October 02, 2005 @misc{WelcometoMartinMonperrusHomePage, title = {Martin Monperrus Official Home Page}, author = {Martin Monperrus}, year = {2005}, howpublished = {\\url{//www.monperrus.net/martin/}} }",
+  "content_length": 1007,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:54:36"
+}

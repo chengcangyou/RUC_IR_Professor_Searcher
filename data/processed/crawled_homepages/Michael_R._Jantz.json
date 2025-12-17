@@ -1,0 +1,9 @@
+{
+  "name": "Michael R. Jantz",
+  "homepage": "http://web.eecs.utk.edu/~mrjantz",
+  "status": "success",
+  "content": "Michael R. Jantz - Homepage Michael R. Jantz, Ph.D. Associate Professor Department of Electrical Engineering and Computer Science College of Engineering University of Tennessee, Knoxville Home Publications Research Group Teaching Contact info Department of Electrical Engineering and Computer Science (EECS) 605 Min H. Kao Building, 1520 Middle Dr., Knoxville, Tennessee 37996-2250 email: mrjantz <at> utk <dot> edu About Me I am an Associate Professor of Computer Science at the University of Tennessee in Knoxville. Before coming to UTK, I received my PhD in Computer Science from the University of Kansas in 2014. At UTK, I lead the CORSys Research Group, which aims to design and build innovative system tools and techniques to achieve faster, safer, and more efficient execution on modern and emerging architectures. We have investigated and published work on a variety of topics related to compute performance and efficiency, program profiling and analysis, runtime data management and compilation policies, as well as secure execution of program binaries. Our work is supported by a variety of government and industrial institutions, including the National Science Foundation (NSF), the U.S. Department of Energy, and Intel Corporation. In 2020, I received the NSF CAREER award for my proposal on using applications to guide data management on emerging complex memory systems. Further details about our group and current research projects are available on the CORSys group page. News I am on leave in fall 2024 due to the birth of my first child, Valentina Grace! I will be back on campus in spring 2025 and will be the instructor for COSC 360: Systems Programming. I host all of my courses onUTK's Canvas site.",
+  "content_length": 1718,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:58:47"
+}

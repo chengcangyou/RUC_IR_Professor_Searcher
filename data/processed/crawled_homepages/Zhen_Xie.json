@@ -1,0 +1,9 @@
+{
+  "name": "Zhen Xie",
+  "homepage": "https://www.binghamton.edu/computer-science/people/profile.html?id=zxie3",
+  "status": "success",
+  "content": "Zhen Xie - Our Faculty | School of Computing | Binghamton University Skip to main content School of Computing Our Faculty Zhen Xie Assistant Professor School of Computing zxie3@binghamton.edu 607-777-4595 EB N14 BackgroundXie joined the School of Computing as an assistant professor in August 2023. His research emphasizes on high-performance computing (HPC) with a focus on the interaction between machine learning algorithms and system-level performance optimization. His work has been published in multiple top-tier conferences and journals, including PPoPP, SC, ICS, EuroSys, Euro-Par, TPDS, and TACO, and he has received ACM Gordon Bell Special Prize in 2022. He received his PhD from the Chinese Academy of Sciences. Website Parallel Computing and Intelligent System Laboratory (PCIS Lab) EducationBA: Wuhan University of TechnologyPhD: Chinese Academy of SciencesResearch InterestsPerformance optimization on HPC and AI/DL applicationsParallel computing on various architecturesHeterogeneous computing and memory systemsScientific machine learning Return to Top Last Updated: 3/31/25",
+  "content_length": 1090,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:54:56"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Benjamin I. P. Rubinstein",
+  "homepage": "http://www.bipr.net",
+  "status": "success",
+  "content": "Benjamin I. P. Rubinstein Group Papers Software Teaching Impact Ben Rubinstein Benjamin I. P. Rubinstein, PhD (Berkeley) Professor in AI, School of Computing and Information Systems Deputy Dean (Research), Faculty of Engineering and Information Technology The University of Melbourne, Australia I research AI safety, spanning the security and privacy of AI, as a Professor and Deputy Dean (Research) at the University of Melbourne’s Faculty of Engineering & IT. Prior to returning to academia in 2013, I enjoyed four years in industry research labs including Microsoft Research Silicon Valley and IBM Research Australia, and previously received the PhD (Computer Science) from UC Berkeley in 2010. I have been part of teams that have: analysed privacy at the Australian Bureau of Statistics, National Australia Bank, and Transport for NSW; robustness of translation systems to data poisoning attacks with Facebook (Meta); helped identify and plug side-channel attacks against the Firefox browser; deanonymised Victorian Myki transport data and an unprecedented Australian Medicare data release, prompting introduction of the Re-identification Offence Bill 2016; developed scalable Bayesian approaches to record linkage tested by U.S. Census; and shipped production systems for record linkage in Microsoft’s Bing and the Xbox360. Since joining Melbourne in 2013, I have been awarded $11.75m in competitive funding ($7.45m as lead) to my institution. Over 2021-24, I was co-lead of CATCH MURI, convening a team of 16 experts across 6 US/AUS universities for fundamental discovery in robust human-AI teams for cybersecurity. I have been a member of the Australian Academy of Sciences NCICS, Computing @ Go8, and the Kingston AI Group.",
+  "content_length": 1731,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:03:58"
+}

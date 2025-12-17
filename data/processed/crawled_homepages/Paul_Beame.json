@@ -1,0 +1,9 @@
+{
+  "name": "Paul Beame",
+  "homepage": "http://www.cs.washington.edu/people/faculty/beame",
+  "status": "success",
+  "content": "Paul Beame, Professor - Paul G. Allen School of Computer Science & Engineering Skip to content Enter search text Current site All the UW Search scope Current site All the UW Paul Beame Professor Associate Director for Facilities Focus Area: Theory & Models of Computation Expertise: Algorithms; Complexity; Quantum Computing Email: beame@cs.washington.edu Office: CSE 668 Faculty Webpage Theory of Computation Group Biography: Paul received his B.Sc. in Mathematics in 1981, an M.Sc. in Computer Science in 1982, and Ph.D. in Computer Science in 1987, all from the University of Toronto. He was a Post-doctoral Research Associate at M.I.T. for the 1986-87 academic year and joined the University of Washington in 1987. Paul’s research is in pure and applied computational complexity. A major focus of his research is in proving lower bounds on the resources needed for solving computational problems. Such topics include communication complexity, time-space tradeoff lower bounds, circuit complexity, proof complexity, and data structures. Another focus of his research is on problems related to formal reasoning, including SAT-solving. His research includes applications of computational complexity in formal verification of software and hardware (currently focused on verifying non-linear arithmetic), in the study of databases, and in AI, particularly in knowledge representation, learning, and probabilistic inference. Paul enjoys squash, softball and other sports where enthusiasm can compensate for a lack of talent.",
+  "content_length": 1522,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:09:41"
+}

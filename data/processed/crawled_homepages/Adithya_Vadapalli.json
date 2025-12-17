@@ -1,0 +1,9 @@
+{
+  "name": "Adithya Vadapalli",
+  "homepage": "https://avadapal.github.io",
+  "status": "success",
+  "content": "Adithya Vadapalli - Adithya Vadapalli Adithya VadapalliAssistant Professor, IIT Kanpur Follow IIT Kanpur, India Email Google Scholar ORCIDI am an Assistant Professor at the Computer Science and Engineering Department of IIT Kanpur. I did my Ph.D. at Indiana University Bloomington. After my Ph.D., I was a Postdoctoral Fellow at the University of Waterloo in the CrySP group for two years.ResearchIn my research, I build data-leak-proof systems. In creating such data-leak-proof systems, I develop cryptographic primitives and tools that have applications beyond the particular system. Some of my past and planned research is:Meta-Data ProtectionOblivious RAMsSecure Multi-Party ComputationSecure Machine Learning",
+  "content_length": 713,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:50:41"
+}

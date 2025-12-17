@@ -1,0 +1,9 @@
+{
+  "name": "Geoff S. Nitschke",
+  "homepage": "https://people.cs.uct.ac.za/~gnitschke",
+  "status": "success",
+  "content": "Nitschke Lab Nitschke Lab The Evolutionary Machine Learning Group was started in 2012 when Geoff Nitschke joined the Computer Science department at the University of Cape Town. The main focus of the research group is to devise new methods using techniques from a broad range of biologically inspired machine learning sub-fields such as evolutionary computation and artificial neural networks (neuro-evolution) as well as statistical machine learning and apply such methods to evolve and adapt artificial brains on various experimental platforms, such as: evolutionary-robotic, artificial life and agent-based systems. Within the broad purview of artificial intelligence, the guiding research goal is to use adaptive artificial systems in order elucidate open how and why questions in the evolution and adaptive behaviour of counter-part natural systems as well as to apply novel adaptive algorithms to the synthesis of problem-solving computational tools and the engineering of robotic systems. Enter",
+  "content_length": 1000,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:13:14"
+}

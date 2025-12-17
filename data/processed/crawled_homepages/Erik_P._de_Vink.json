@@ -1,0 +1,9 @@
+{
+  "name": "Erik P. de Vink",
+  "homepage": "http://www.win.tue.nl/~evink",
+  "status": "success",
+  "content": "Erik de Vink Erik de Vink Research Currently, I am interested in formal modelling and analysis of Software Product Lines and in formal methods for Dynamic System Adaptation. More specifically I focus at present in Software Product Lines on the use of model checkers for the analysis of feature-behaviour interaction and family-oriented verification. As to Dynamic System Adaptation, Paradigm and Reo are two languages that have my interest. I aim to develop methods for the modelling dynamic migration trajectories and related validation techniques. I mainly use the mCRL2 and Prism modelcheckers for tool support. My research is conducted in the broader context of the research group on Formal System Analysis of Eindhoven University of Technology. ICTAC 2024 International Colloquium on Theoretical Aspects of Computing, November 25-29, 2024, Bangkok. FSEN 2025 Fundamentals of Software Engineering, 2025, Västerås. FAC Formal Aspects of Computing JLAMP Journal of Logical and Algebraic Methods in Programming LNCS/FM Formal Methods subline of the Lecture Notes in Computer Science Publications, Paradigm page, PhD students, and professional activities Education I am teaching the courses 2IT90 Automata, Formal Languages and Complexity 2ITS90 Automata, Formal Languages and Complexity (Pre-Master) A list of Master Thesis projects Contact Information Erik de Vink Department of Mathematics and Computer Science, Eindhoven University of Technology MetaForum, Groene Loper 5, room MF 6.075 Travel directions phone: +31-40-2473146 fax: +31-40-2476685 postal address: P.O. Box 513, 5600 MB Eindhoven, the Netherlands I was also affiliated with the CWI, Centrum Wiskunde & Informatica in Amsterdam. See the homepage of CWI's Formal Methods research group.",
+  "content_length": 1753,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:07:29"
+}

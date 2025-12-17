@@ -1,0 +1,9 @@
+{
+  "name": "Shai Ben-David",
+  "homepage": "https://cs.uwaterloo.ca/~shai",
+  "status": "success",
+  "content": "Shai Ben-David Shai Ben-David Professor School of Computer Science Universitys of Waterloo 200 University Avenue West Waterloo, Ontario, Canada, N2L 3G1 Email: \"MyFirstName\"@uwaterloo.ca Fax: +1 519 885-1208 Home Publications Talks Professional Activities Teaching Students Personal Academic Biography Shai Ben-David grew up in Jerusalem, Israel. He attended the Hebrew University studying physics, mathematics and psychology. He received his PhD under the supervision of Saharon Shelah and Menachem Magidor for a thesis in set theory. Professor Ben-David was a postdoctoral fellow at the University of Toronto in the Mathematics and the Computer Science departments, and in 1987 joined the faculty of the CS Department at the Technion (Israel Institute of Technology). He held visiting faculty positions at the Australian National University in Canberra (1997-8) and at Cornell University (2001-2004). In August 2004 he joined the School of Computer Science at the University of Waterloo. Research Interests My research interests span a wide spectrum of topics in the foundations of computer science and its applications, with a particular emphasis on statistical and computational machine learning. The common thread throughout my research is aiming to provide mathematical formulation and understanding of real world problems. In particular, I have been looking at popular machine learning and data mining paradigms that seem to lack clear theoretical justification. Projects Theoretical Foundations of Clustering Domain Adaptation Alternative Measures of Computational Complexity The Use of Unlabeled Data in Classification Tasks",
+  "content_length": 1633,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:26:15"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Corey Tessler",
+  "homepage": "https://www.unlv.edu/people/chuck-tessler",
+  "status": "success",
+  "content": "Chuck Tessler, Ph.D. | People | UNLV Skip to main content close Directories menu Directories Directories Home close find region Find Search A-Z Index Directories Quick Links Bookstore Bookstore Calendar Calendar Campus Maps Campus Maps Degrees Degrees Libraries Libraries MyUNLV MyUNLV News Center News Center RebelCard RebelCard Rebelmail Rebelmail Social Media Social Media UNLV Mail UNLV Mail WebCampus WebCampus Loading Directories Home A-Z Index Colleges, Schools, and Departments Administrative Units Research Centers and Institutes Resources and Services Employee Directory Contact UNLV Social Media Directory UNLV Mobile Apps Breadcrumb UNLV Home Chuck Tessler, Ph.D. Assistant Professor Department(s) Computer Science Mail Code 4019 Phone 702-774-1461 Fax 702-895-2639 Email corey.tessler@unlv.edu Biography After two decades as a successful professional in networking and reliable systems Corey (Chuck) Tessler earned his Ph.D. from Wayne State University in 2019. His research is focused upon hard real-time, distributed, and cyber-physical systems. His work takes a novel approach to modern architectures and safety-critical multi-threaded applications; where architecture and scheduling complement one another to improve system performance rather than detracting from it. The inter-thread cache benefit is one such technique that reduces the worst-case execution time of multi-threaded applications in the presence of cache memory. Research Areas Real-Time Systems, Schedulability, Cyber-Physical Systems",
+  "content_length": 1517,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:55:09"
+}

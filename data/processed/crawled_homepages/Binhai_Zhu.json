@@ -1,0 +1,9 @@
+{
+  "name": "Binhai Zhu",
+  "homepage": "https://www.cs.montana.edu/bhz",
+  "status": "success",
+  "content": "home Professor Binhai Zhu Computational geometry is a branch of computer science devoted to the study of algorithms which can be stated in terms of geometry. Some purely geometrical problems arise out of the study of computational geometric algorithms, and such problems are also considered to be part of computational geometry. Bioinformatics and computational biology use of techniques from applied mathematics, informatics, statistics, and computer science to solve biological problems. The terms bioinformatics and computational biology are often used interchangeably, although the former typically focuses on algorithm development and specific computational methods, while the latter focuses more on hypothesis testing and discovery in the biological domain. In general, this type of research includes the development and testing of software tools to generate new knowledge from primary source information deposited in databases and the literature. Dr. Binhai Zhu Professor Gianforte School of Computing Montana State University Bozeman, MT 59717 Email: bhz montana.edu Office: EPS 355 Phone: 406-994-4836 Fax: 406-994-4376 Current Research I am currently working on three general problems related to bioinformatics and computational biology. (1) Protein structure alignment and simplification, and protein folding, (2) Computing genomic distances when the data sets are not perfect, and (3) Inferring haplotypes with realistic constraints. As a computer scientist, I am interested in how hard these problems are and how fast we can solve them. On the biological side, we need good heuristic methods to solve real-world biological problems.",
+  "content_length": 1645,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:05:08"
+}

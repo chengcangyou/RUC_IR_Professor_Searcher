@@ -1,0 +1,9 @@
+{
+  "name": "Adolfo Muñoz",
+  "homepage": "http://giga.cps.unizar.es/~amunoz/index.php/en",
+  "status": "success",
+  "content": "istd.sutd.edu.sg This site can’t be reached istd.sutd.edu.sg unexpectedly closed the connection. Try: Checking the connection Checking the proxy and the firewall ERR_CONNECTION_CLOSED Reload Details Check your Internet connection Check any cables and reboot any routers, modems, or other network devices you may be using. Allow Chrome to access the network in your firewall or antivirus settings. If it is already listed as a program allowed to access the network, try removing it from the list and adding it again. If you use a proxy server… Go to Applications > System Settings > Network, select the active network, click the Details… button, and deselect any proxies that may have been selected. istd.sutd.edu.sg unexpectedly closed the connection.",
+  "content_length": 751,
+  "method": "selenium",
+  "crawl_time": "2025-12-01 15:41:48"
+}

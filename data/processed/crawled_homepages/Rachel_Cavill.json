@@ -1,0 +1,9 @@
+{
+  "name": "Rachel Cavill",
+  "homepage": "https://www.maastrichtuniversity.nl/rachel.cavill",
+  "status": "success",
+  "content": "R. Cavill - R. Cavill - Maastricht University Skip to main content R. Cavill Education Research Work for third parties R. Cavill Rachel is an assistant professor in the department of Data Science and Knowledge Engineering.  Her research has several key themes; Method development for data integration of different types of omics data.  For instance, metabolomic and transcriptomic data. Domain adaptation in bioinformatics.  The application of advanced machine learning methods that allow learning to take place across different domains (eg. different organisms, different tissues or different batches of data). SetPCA https://dke.maastrichtuniversity.nl/rachel.cavill/  A method that uses background knowledge about the variables (and the sets they form) to make multi-variate methods (eg PCA/PLS) more interpretable. Biological images - applying deep learning or feature extraction pipelines to biological images. Career history PhD University of York, England, Title: Multi-Chromosomal Genetic Programming Research Assistant, Computer Science Department, Robert Gordon University, Aberdeen Research Associate, Computational and Systems Medicine, Imperial College London Research Fellow, Toxicogenomics, Maastricht University R. Cavill Assistant Professor Applied Mathematics Dept. of Advanced Computing Sciences Faculty of Science and Engineering ORCID",
+  "content_length": 1355,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:14:04"
+}

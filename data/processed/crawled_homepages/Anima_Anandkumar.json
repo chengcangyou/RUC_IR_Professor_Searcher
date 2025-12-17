@@ -1,0 +1,9 @@
+{
+  "name": "Anima Anandkumar",
+  "homepage": "http://tensorlab.cms.caltech.edu/users/anima",
+  "status": "success",
+  "content": "Anima AI + Science Lab | Home menu Anima AI + Science Lab We envision and build principled foundations for AI.We enable and accelerate scientific applications by developing new AI methods. Climate Our AI based weather forecasting is 45000x faster than current weather models, while having the same accuracy. This speedup allows us to run thousands of simulations in different scenarios to predict what the climate will bring in the future. Flight Our methods allow drones to land and fly in strong winds while guaranteeing safety. Engineering Our Fourier Neural Operator is able to run PDE simulations at 1000x speedups - to accelerate simulating fluid behaviors in engineering domains - from designing better heat sinks to faster cars and planes and everything in between. Medicine Our Orbnet molecule model is able to predict quantum chemistry, and used to design new drugs - and help understand COVID-19. Foundations Our models can solve open ended tasks by learning from internet scale knowledge. Anima Anandkumar is Bren Professor at Caltech. She previously was a Senior Director of AI Research at NVIDIA and Principal Scientist at Amazon Web Services. She received her B.Tech from the Indian Institute of Technology Madras, and her Ph.D. from Cornell University. She did her postdoctoral research at MIT and an assistant professorship at the University of California Irvine. She has received several honors such as the IEEE fellowship, Alfred. P. Sloan Fellowship, NSF Career Award, and Faculty Fellowships from Microsoft, Google, Facebook, and Adobe. She is part of the World Economic Forum's Expert Network. CVQuanta Magazine Profile",
+  "content_length": 1641,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:58:45"
+}

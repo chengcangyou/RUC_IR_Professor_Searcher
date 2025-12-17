@@ -1,0 +1,9 @@
+{
+  "name": "Mauricio A. Álvarez",
+  "homepage": "https://maalvarezl.github.io",
+  "status": "success",
+  "content": "Welcome | Mauricio A Álvarez Website Welcome About me I am interested in machine learning in general, its interplay with mathematics and statistics and its applications. In particular, my research interests include probabilistic models, kernel methods, and stochastic processes. I work on the development of new probabilistic models and their application in different engineering and scientific areas that include Neuroscience, Neural Engineering, Systems biology, and Humanoid Robotics. New preprints and publications New paper at Machine Learning journal, Adversarial vulnerability bounds for Gaussian process classification, with Michael T. Smith, Kathrin Grosse and Michael Backes. New preprint, Shallow and Deep Nonparametric Convolutions for Gaussian Processes, with Thomas M. McDonald, Magnus Ross and Michael T. Smith. New preprint, Adjoint-aided inference of Gaussian process driven differential equations, with Paterne Gahungu, Christopher W Lanyon, Engineer Bainomugisha, Michael Smith and Richard D. Wilkinson. Accepted at GeoJournal, Predicting socioeconomic indicators using transfer learning on imagery data: an application in Brazil, with Diego Castro. Accepted at IEEE Transactions on Intelligent Transportation Systems, Correlated Chained Gaussian Processes for Modelling Citizens Mobility Using a Zero-Inflated Poisson Likelihood, with Juan-José Giraldo and Jie Zhang. New preprint, Angular Super-Resolution in Diffusion MRI with a 3D Recurrent Convolutional Autoencoder, with Matthew Lyon and Paul Armitage. Accepted at MIDL 2022. Other publications",
+  "content_length": 1569,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:56:29"
+}

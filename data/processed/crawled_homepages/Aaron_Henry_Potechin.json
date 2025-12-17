@@ -1,0 +1,9 @@
+{
+  "name": "Aaron Henry Potechin",
+  "homepage": "http://www.potechin.org/aaronpotechin",
+  "status": "success",
+  "content": "Aaron Potechin Home Page Home Research Teaching Contact Aaron Potechin's Home Page About me: I am an assistant professor in the Department of Computer Science at the University of Chicago. I am broadly interested in discrete mathematics and particularly interested in computational complexity theory. I love thinking about problems in my head and I am most driven when there is something I feel should be true and I am trying to figure out how to prove it. My current research focus is on the sum of squares hierarchy, a hierarchy of semidefinite programs which is one of the most powerful tools known for combinatorial optimization problems. I am very grateful to the NSF for their past support of my research through an NSF SMALL grant \"CCF 2008920: Further Investigation of the Sum of Squares Hierarchy\" and a graduate research fellowship. Here is my current CV.",
+  "content_length": 865,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:28:11"
+}

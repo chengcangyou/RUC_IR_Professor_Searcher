@@ -1,0 +1,9 @@
+{
+  "name": "Jianyun Nie",
+  "homepage": "http://rali.iro.umontreal.ca/nie/jian-yun-nie-en",
+  "status": "success",
+  "content": "Jian-Yun Nie – Professeur titulaire au DIRO — Université de Montréal Skip to content Search for: My research focuses on information retrieval and on Web search engines. The goal is the improvement of the state of the art and the current practices in this field, through the development of novel information retrieval models, and by exploiting new data sources. These sources, such as user logs, Wikipedia entries and thesauri are put to use to expand, rewrite and otherwise reorganize user queries. My research interests also lie in taking into account the user’s various intentions in different application contexts. To achieve this, we develop statistical methods to address the specific needs of information retrieval. My research also include multilingual aspects, i.e. successfully finding relevant documents in a language different from that of the query. The methods developed can be applied in various domains: medical information retrieval, e-commerce, opinion analysis on the Web, etc. Areas of expertise Information retrieval Logic models, language models Linguistics resource use in information retrieval Cross-linguistic information retrieval (CLIR) Datamining on the web Natural language analysis Statistical analyses, Syntax and semantics analyses Artificial intelligence Reasoning, Non-classical logic Contact Search for: Langue Français English Liens Laboratoire RALI Département IRO Livre Cross-Language Information Retrieval",
+  "content_length": 1443,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:30:22"
+}

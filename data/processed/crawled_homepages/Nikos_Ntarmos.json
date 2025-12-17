@@ -1,0 +1,9 @@
+{
+  "name": "Nikos Ntarmos",
+  "homepage": "https://ntarmos.info",
+  "status": "success",
+  "content": "About – Nikos Ntarmos I am the Director of the Database Lab at the Edinburgh Research Centre of Huawei Technologies R&D (UK), Ltd., where I lead a team of researchers working on designing and implementing the next generation of database systems, for environments ranging from small routers/switches to big-iron servers and the cloud. Until late-2023, I also held a Senior Lecturer post (now an Honorary Lecturer) at the School of Computing Science, University of Glasgow, UK, where I was leading the IDEAS research lab, and was a member of the IDA and the Systems research sections. I received my PhD and MSc in Computing Engineering & Informatics from the University of Patras, Greece, in 2008 and 2004 respectively, and my undergraduate diploma in Electronic & Computer Engineering from the Technical University of Crete, Greece, in 2002. Prior to joining the University of Glasgow (originally as a Lord Kelvin Adam Smith Fellow) in 2013, I worked as a postdoctoral researcher at the University of Patras, Greece, and as an adjunct assistant professor at the University of Ioannina, Greece. I am a member of the IEEE and the ACM, and a Fellow of the Higher Education Academy. In a previous life, I also worked as a senior systems administrator and software engineer, and routinely contributed to open-source projects. My research interests lie in the areas of distributed computing and large-scale data management systems. My current research work focuses on issues pertaining to distributed (Big) data management, with a special interest in storage, indexing and query processing in distributed NoSQL data stores, database management systems, geo-distributed data management infrastructures, and joint in-rest and streaming data processing.",
+  "content_length": 1743,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:06:11"
+}

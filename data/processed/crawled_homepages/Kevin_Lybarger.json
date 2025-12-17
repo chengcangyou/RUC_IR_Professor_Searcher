@@ -1,0 +1,9 @@
+{
+  "name": "Kevin Lybarger",
+  "homepage": "https://cs.gmu.edu/directory/detail/181",
+  "status": "success",
+  "content": "Kevin Lybarger | George Mason Department of Computer Science Kevin Lybarger Kevin Lybarger Assistant Professor, Dept. IST Office Engineering 5356 Phone 703-993-1547 Email klybarge@gmu.edu Web www.kevinlybarger.me/ Biography PhD, Electrical and Computer Engineering, University of Washington Dr. Lybarger's research interests combine data-driven machine learning and natural language processing (NLP) with important real-world problems. He investigates machine learning and NLP algorithm development and explores creative solutions to impactful use cases. His current research explores the intersection of NLP and clinical informatics, including extracting information from the clinical text that can improve health care and advance clinical research.",
+  "content_length": 750,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:42:25"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Tore Risch",
+  "homepage": "http://user.it.uu.se/~torer",
+  "status": "success",
+  "content": "Tore Risch, Professor Hoppa över länkar Information Technology Research Group Publications Short Biography Short CV Long CV Tore Risch, Professor Hello, my name is Tore Risch. I am professor in Database Technology in the Department of Information Technology at Uppsala University, Sweden. My research interests are on developing methods for processing search over data in terms of i) semi-structured semantic web based representations, and ii) high volume parallel data streams for industrial and scientific applications. A challenge in both cases is to provide scalable search as the data volume increases and the queries become complicated. The approach is to develop novel dynamic query transformation techniques and distributed execution strategies. I founded the research group, UDBL, Uppsala DataBase Laboratory. Watch Google Tech Talk presenting our scalable compute intensive data stream analythics technology. I am a founder of the start-up company Stream Analyze Sweden AB which develops technology for scalable on-line analyses of streamed data. According to Google Scholar my citation count on March 23, 2017 was 4213 with Hirsch’s h-index impact factor 28 (computed with Publish or Perish). Department of Information Technology Uppsala University Box 337 SE-751 05 Uppsala Sweden ITC building 19, room 137 Lägerhyddsvägen 7 Phone: +46 76 943 05 22 Email: Tore dot Risch at it.uu.se Hallo Bay grizzlies Younger Wolf",
+  "content_length": 1427,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:40:27"
+}

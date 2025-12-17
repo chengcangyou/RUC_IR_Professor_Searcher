@@ -1,0 +1,9 @@
+{
+  "name": "Daniel Sheldon",
+  "homepage": "https://people.cs.umass.edu/~sheldon",
+  "status": "success",
+  "content": "Daniel Sheldon Daniel R. Sheldon Home Publications Teaching About Me I am a professor in the Manning College of Information and Computer Sciences at the University of Massachusetts Amherst. My research investigates computational tools for converting data to knowledge and decisions: I develop new Bayesian models and inference algorithms to scalably solve a range of problems, especially ones in applied sciences. I investigate practical and principled approaches for differentially private data analysis, such as synthetic data generation and statistical inference. I use machine learning, AI, and statistics to solve problems in ecology and conservation, especially large-scale modeling of bird migration. Previously, I had a joint appointment at Mount Holyoke College. Before that, I was a postdoc at Oregon State University, where I held a National Science Foundation postdoctoral fellowship in Bioinformatics. I received my Ph.D. in computer science from Cornell University. W246 Computer Science Building College of Information and Computer Sciences University of Massachusetts Amherst (413) 545-4843",
+  "content_length": 1106,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:57:36"
+}

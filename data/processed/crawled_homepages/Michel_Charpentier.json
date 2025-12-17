@@ -1,0 +1,9 @@
+{
+  "name": "Michel Charpentier",
+  "homepage": "http://www.cs.unh.edu/~charpov",
+  "status": "success",
+  "content": "Michel Charpentier (miÊÉl ÊaÊpÉÌtje) There used to be a website here. Over time, most content has been deleted, or moved elsewhere. Most programming examples went to Medium: Java code: A Java Parallel Server Through the Ages On Lambdas, Anonymous Classes and Serialization in Java Generics and Wildcards in Java L-Systems in PostScript: Programming L-Systems in PostScript The journal paper Programujeme L-systÃ©my v PostScriptu in Zpravodaj ÄeskoslovenskÃ©ho sdruÅ¾enÃ­ uÅ¾ivatelÅ¯ TeXu (2012, vol. 1) can still be downloaded and is still in English, despite its Czech title. My other PostScript example on prime numbers and the Ulam spiral is still here. A TLA+ demo, now used by Markus Kuppe in his tutorials. Instead of writing a few programs on a website, I decided to write 489 pages of them in a book: Check the bookâs web site for more information. (You can download Chapters 9 and 26, free of charge, as a preview.) A few miscellaneous pages are still hosted here: My teaching statement. A summary of my PhD work, a vignette of formal methods research in the 90s. Files are just approximations of Piâ¦ Fun with dc",
+  "content_length": 1132,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:59:15"
+}

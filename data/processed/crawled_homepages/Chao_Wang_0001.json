@@ -1,0 +1,9 @@
+{
+  "name": "Chao Wang 0001",
+  "homepage": "https://sites.usc.edu/chaowang",
+  "status": "success",
+  "content": "Chao Wang – Professor of Computer Science Log InSearch Skip to content ContactOffice: GCS 505L Address: 1031 Downey Way, Los Angeles, CA 90089, USA Phone: 213-821-2962 (I do not check voice mail) Email: wang626 @ usc . edu I am a Professor of Computer Science at the University of Southern California. My areas of expertise are software engineering and programming languages — I develop mathematically rigorous methods (formal methods) for principled design of software to improve safety, security, and fairness. Research topics: formal verification, program synthesis, concurrency, side channel, AI safety [Google Scholar] Some recent talks (videos): Differential Verification of Deep Neural Networks (CMU AI Seminar, 2023) Data-Driven Synthesis of a Provably Sound Side-Channel Analysis (Simons Institute, 2021) Adversarial Symbolic Execution for Detecting Timing Side-Channel Leaks (Keynote at KLEE Workshop, 2021) Synthesizing Runtime Enforcers for Cyber Physical Systems (UC Irvine SE Symposium, 2020) University of Southern California Logo",
+  "content_length": 1045,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:50:19"
+}

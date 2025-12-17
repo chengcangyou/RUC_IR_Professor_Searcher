@@ -1,0 +1,9 @@
+{
+  "name": "Luis Pedrosa",
+  "homepage": "https://pedrosa.2y.net",
+  "status": "success",
+  "content": "Luis D. Pedrosa :: Homepage English     Português The Borg paper was awarded the EuroSys'25 Test-of-Time award! About Me: I am an Assistant Professor in the Department of Computer Science and Engineering at Instituto Superior Técnico / University of Lisbon and a Researcher at INESC-ID. I do Systems and Networking research in the Distributed Parallel & Secure Systems Group and the IST NanosatLab. I received my PhD in Computer Science at the University of Southern California in 2016, advised by Professor Ramesh Govindan in the Networked Systems Laboratory. I was also a Post-Doctoral Researcher, working with Professor Katerina Argyraki at the Swiss Federal Institute of Technology in Lausanne (EPFL - École Polytechnique Fédérale de Lausanne). My research uses techniques from the PL and formal methods communities to tackle problems in systems and networking. Much of my work involves analyzing a software system to build a model of its functionality. These models can then be used to find bugs or help debug performance issues. When the model is designed to be sound and complete, we can go a step further and formally verify correctness and performance, and even synthesize new and improved systems. Research Interests: Systems and Networking Program Analysis Software and Network Verification Program Synthesis Cloud Computing and Distributed Systems Software Networking Random Quote: The entire economic system depends on the fact that people are willing to do unpleasant things in return for money. Dilbert Homepage Publications Google Scholar Ciência Vitae ORCID DBLP Scopus Curriculum Vitae Short Bio Projects Teaching Team Hiking & Biking Contact View Print Login © 2025, Luis D. Pedrosa Skittlish theme adapted by David Gilbert, powered by PmWiki",
+  "content_length": 1761,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:48:48"
+}

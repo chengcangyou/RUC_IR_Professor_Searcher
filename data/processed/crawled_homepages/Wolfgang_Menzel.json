@@ -1,0 +1,9 @@
+{
+  "name": "Wolfgang Menzel",
+  "homepage": "https://nats-www.informatik.uni-hamburg.de/User/WolfgangMenzel",
+  "status": "success",
+  "content": "Fachbereich Informatik Access to an unknown server: Either you are trying to access an unknown server or you are trying to reach a server via htts that isn't configured for secure access. SCRIPT_URI: https://nats-www.informatik.uni-hamburg.de/index.shtml HTTP_HOST: nats-www.informatik.uni-hamburg.de SERVER_NAME: nats-www.informatik.uni-hamburg.de SERVER_ADDR: 134.100.9.78 REMOTE_ADDR: 220.246.84.46",
+  "content_length": 401,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:47:30"
+}

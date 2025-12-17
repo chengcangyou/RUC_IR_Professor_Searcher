@@ -1,0 +1,9 @@
+{
+  "name": "Tony Tan",
+  "homepage": "https://www.csie.ntu.edu.tw/~tonytan",
+  "status": "success",
+  "content": "Tony Tan's webpage Tony Tan Associate professor Department of Computer Science and Information Engineering College of Electrical Engineering and Computer Science National Taiwan University Roosevelt Road no. 1, Section 4 Taipei, Taiwan 10617 Room : CSIE Building, Room 516 Phone : +886-2-3366-4888 (ext. 516) Email : tonytan@csie.ntu.edu.tw Office hour : Drop by my office or make an appointment via email Research: (publications) Logic in computer science Automata and formal languages Database theory and systems Teaching: Click here",
+  "content_length": 535,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:40:13"
+}

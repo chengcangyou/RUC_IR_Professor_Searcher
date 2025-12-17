@@ -1,0 +1,9 @@
+{
+  "name": "David Streader",
+  "homepage": "https://ecs.victoria.ac.nz/Main/DavidStreader",
+  "status": "success",
+  "content": "David Streader | Te Kura Mātai Pūkaha, Pūrorohiko / School of Engineering and Computer Science | Te Herenga Waka—Victoria University of Wellington David Streader Please Note This person can no longer be contacted through the School of Engineering and Computer Science at Victoria University of Wellington Qualifications Research Interests Essentially I am interested in using formal methods in the production of correct software. On the formal side I have worked with the construction of operational semantics for state and event based systems. This includes concurrent systems. My interests lie in the construction of transformations between operational semantics that preserve notions like correctness, non-determinism and causality. Formality, to be of use, must be both understandable and usable. Consequently I am interested both in how visualizations of models scale as the problem size grows and how we might achieve push button correctness of automatically generated approximations. *Currently I am actively looking at: software to model and verify event based systems defining process semantics that includes both probabilistic and non deterministic choice Modeling artifacts use in Software Defined Networking How modern practices for writing high assurance software can be best transferred to an Industrial setting in New Zealand. This work is undertaken in collaboration with Gallagher Print version | Backlinks |",
+  "content_length": 1425,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:00:08"
+}

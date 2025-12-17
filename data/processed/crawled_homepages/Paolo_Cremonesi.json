@@ -1,0 +1,9 @@
+{
+  "name": "Paolo Cremonesi",
+  "homepage": "http://home.deib.polimi.it/cremonesi",
+  "status": "success",
+  "content": "Paolo Cremonesi Skip to content Paolo Cremonesi About me Paolo Cremonesi is associate professor of Computer Science Engineering at Politecnico di Milano and coordinator of the EIT Digital double degree programme in Data Science. Paolo holds a MSc in Aerospace Engineering and a PhD... Teaching Courses a.y. 2020/21: Applied Quantum Machine Learning (PhD level), Recommender Systems and Multidisciplinary Project (master’s degree level). Thesis supervision: topics are mainly in the field of Recommender Systems and Quantum Computing, but also in Performance... Research Paolo’s current teaching and research activities focus on recommender systems and quantum computing. He is the coordinator of the new-born Quantum Computing Lab and the RecSys Lab at Politecnico di Milano. RecSys Lab is a... NEWS: Politecnico di Milano’s team, coordinated by Maurizio Ferrari Dacrema, Cesare Bernardis and Fernando Benjamin Perez Maurera of the RecSys Lab, won the first place of the academic part of the RecSys Challenge 2021.team will illustrate the approach followed in a paper that will be presented at the official workshop to be held in Amsterdam on the occasion of the 15th ACM RecSys Conference, scheduled from 27th September to 1st October 2021. Read more: https://www.deib.polimi.it/eng/news/details/1035 NEWS: Amazon Personalize, a machine learning service that provides recommendation models, has added Hierarchical Recurrent Neural Network (HRNN), which our research group contributed to develop. For more details see the article and Amazon HRNN documentation. UMUAI Special Issue: Dynamic Recommender Systems and User Models",
+  "content_length": 1625,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:08:53"
+}

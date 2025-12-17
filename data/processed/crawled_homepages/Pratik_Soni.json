@@ -1,0 +1,9 @@
+{
+  "name": "Pratik Soni",
+  "homepage": "https://www.cs.utah.edu/~psoni",
+  "status": "success",
+  "content": "Pratik Soni Assistant Professor Kahlert School of Computing University of Utah Office: WEB 2863 email: psoni at cs dot utah dot edu Google Scholar | dblp I am an Assistant Professor at the Kahlert School of Computing and part of the Security/Privacy research cluster. Research: I work on theoretical and applied cryptography, with an emphasis on developing privacy-preserving proof systems (e.g., zk-SNARKs), advanced digital signatures (e.g., adaptor signatures), and secure multi-party computation (e.g., coin-tossing), and exploring their applications in improving privacy, fairness, and accountability in blockchain and ML systems. Education: Through 2020-2023, I was a Postdoctoral Research Fellow at CMU with Vipul Goyal and Elaine Shi. I received my Ph.D. from UC Santa Barbara where I was advised by Stefano Tessaro and Huijia (Rachel) Lin, and got my undergraduate degrees from BITS Pilani Goa (spent a year at NUS Singapore with Prateek Saxena for my thesis). Thanks to Google Research, Stellar Development Foundation, Protocol Labs, and Stena Center for Financial Technology for supporting my work!",
+  "content_length": 1109,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:13:15"
+}

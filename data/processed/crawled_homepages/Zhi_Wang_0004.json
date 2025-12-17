@@ -1,0 +1,9 @@
+{
+  "name": "Zhi Wang 0004",
+  "homepage": "http://www.cs.fsu.edu/~zwang",
+  "status": "success",
+  "content": "Systems Security Researcher@FSU Zhi Wang Associate Professor Office: 166 LOVE Bldg Department of Computer Science Florida State University Tallahassee, FL 32306 Phone: (850)645-0476 Email: I am an associate professor in the Department of Computer Science at the Florida State University. I have broad research interests in security with a focus on the systems security, particularly, operating systems / virtualization security, software security, and mobile security (Google Scholar). I am a recipient of the NSF CAREER award (2015) and FSU Developing Scholar Award (2019). Attention: if you are teaching a course that uses UNIX-like CLI environment, please take a look at WiTTY WiTTY is a web-based terminal emulator that allows students to record, share, and replay interactive console sessions with just a few clicks. With this tool, students can send the instructors recorded sessions, instead of ambigious descriptions of their problems. Drop me a line if you find it useful. We would love to hear about it. Here is the document for WiTTY https://syssecfsu.github.io/witty/",
+  "content_length": 1079,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:55:11"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Cristian R. Munteanu",
+  "homepage": "https://sites.google.com/site/muntisa",
+  "status": "success",
+  "content": "Cristian R Munteanu LabSearch this siteEmbedded FilesSkip to main contentSkip to navigationCristian R. MunteanuChemoinformatics & Professor in Computer ScienceRNASA-IMEDIR, Computer Science FacultyUniversity of A Coruna, SpainORCID: 0000-0002-5628-2268ScholarGPSLinkedIn  | Scopus  | Google Scholar | PublonsGitHub | FigShareXML ORCIDPublications: curl -H \"Accept: application/orcid+xml\" 'http://pub.orcid.org/v1.1/0000-0002-5628-2268/orcid-works' -L -iProfile: curl -H \"Accept: application/orcid+xml\" 'http://pub.orcid.org/v1.1/0000-0002-5628-2268/orcid-bio' -L -iGoogle SitesReport abuseGoogle SitesReport abuse",
+  "content_length": 613,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:55:28"
+}

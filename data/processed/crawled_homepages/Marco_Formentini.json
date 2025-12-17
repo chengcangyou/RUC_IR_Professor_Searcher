@@ -1,0 +1,9 @@
+{
+  "name": "Marco Formentini",
+  "homepage": "https://webapps.unitn.it/du/en/Persona/PER0205783/Didattica",
+  "status": "success",
+  "content": "Marco Formentini | Teaching | University of Trento Marco Formentini Member Patent commission Associate professor Department of Information Engineering and Computer Science Via Sommarive, 9 - 38123 Povo tel. 0461 282961 marco.formentini[at]unitn [dot] it Expertise: Corporate social responsibility Entrepreneurship Innovation Management Marketing Open innovation Qualitative analysis {{vm.properties.total}} results - {{vm.properties.numberOfCollections}} teaching activity No results found 10 20 50 This section provides the list of courses that the person is in charge to teach during the current academic year. Data source: GDA (UniTrento Online Didactics System) Teaching activity {{corso[0].nome}} Department: {{dipartimento.nome}}, Department: {{dipartimentoSing.nome}} , Holders: {{titolare.nominativo}}{{titolare.nominativo}}, Professors: {{docente.nominativo}}{{docente.nominativo}}, Assistant: {{assistente.nominativo}}{{assistente.nominativo}}, Tutors: {{tutore.nominativo}}{{tutore.nominativo}}, Abstract: Keywords {{k}} Program Stream Detail {{dettaglioCorso.corsoStudi}} {{dettaglioCorso.percorso}} {{dettaglioCorso.percorso}} Read Loading...",
+  "content_length": 1155,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:51:36"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Eddie Jones",
+  "homepage": "https://ec-jones.github.io",
+  "status": "success",
+  "content": "Eddie Jones - Lecturer I am lecturer in compilers and programming language at the University of Bristol in the programming languages research group with a broad interest in programming languages, functional programming, and formal verification. Despite the etymology, I really believe that abstraction can bring us closer to elegant practical solutions! Publications POPL 23 — Higher-Order MSL Horn Constraints In this paper, we extend a decidable fragment of a first-order Horn clauses based on automata to a higher-order setting. As an application of this work, we develop an approach to verified socket programming. PLDI 22 — CycleQ: an efficient basis for cyclic equational reasoning We develop a cyclic proof system for automatically reasoning about the equational properties of functional programs that manipulate algebraic datatypes. The system employs a novel proof inference rule for mitigating equational and inductive reasoning in the context of cyclic proofs as well as an optimised proof search strategy. POPL 21 — Intensional datatype refinement: with application to scalable verification of pattern-match safety We propose a refinement type system aiming to pattern-match safety of a functional program; that is, the absence of patterning matching errors at runtime. Using a novel restriction on the form of refinements, we develop a sound and complete inference algorithm with a runtime complexity that is, in the worst-case, is linear in the size of the program. Community Engagement POPL 25 — Program Committee.",
+  "content_length": 1529,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:04:26"
+}

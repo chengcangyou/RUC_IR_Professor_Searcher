@@ -1,0 +1,9 @@
+{
+  "name": "Jonathan M. Smith",
+  "homepage": "https://www.cis.upenn.edu/~jms",
+  "status": "success",
+  "content": "Jonathan M. Smith's Home Page Jonathan M. Smith NETWORK SUBSYSTEM NETWORK EVOLUTION STREAMING APPLICATIONS SECURITY AND PRIVACY DISTRIBUTED COMPUTING OPERATING SYSTEMS MOBILITY EDUCATION LIST OF PAPERS SHORT CV CONTACT Contact Info: jms@cis.upenn.edu 606 Levine Hall CIS Dept. 3330 Walnut St. Philadelphia, PA 19104-6389 Tel: 215.898.9509 Fax: 215.898.0587 Olga and Alberico Pompa Professor of Engineering and Applied Science, Professor of Computer and Information Science at the University Of Pennsylvania in Philadelphia. My long-term objective is the creation of useful distributed computing systems. The first step towards this objective was design, implementation and experimentation with high-performance network subsystems, primarily in the AURORA Gigabit Testbed project. The second step was giving distributed applications more control over their network systems, primarily in the Protocol Boosters and SwitchWare projects. The third and current step, is using cognitive systems approaches to automate configuration and adaptation to the environment, particularly for mobile systems. \"For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.\" -R. Feynman \"There are two classes of people, those who do and those who take credit. My advice is to be a member of the first class; there is much less competition.\" -attributed to Dwight Morrow, J.P. Morgan partner.",
+  "content_length": 1422,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:33:56"
+}

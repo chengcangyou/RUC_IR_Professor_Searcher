@@ -1,0 +1,9 @@
+{
+  "name": "Marlos Cholodovskis Machado",
+  "homepage": "https://webdocs.cs.ualberta.ca/~machado",
+  "status": "success",
+  "content": "Marlos C. Machado University Commons 7-241 University of Alberta Edmonton, AB, Canada Note to prospective students. I am an assistant professor at the University of Alberta. My research interests lie broadly in machine learning, specifically in (deep) reinforcement learning, representation learning, continual learning, and real-world applications of all the above. I am also an Alberta Machine Intelligence Institute (Amii) Fellow, a Canada CIFAR AI Chair through Amii, and a principal investigator in the Reinforcement Learning and Artificial Intelligence (RLAI) group. I completed my B.Sc. and M.Sc. at UFMG, Brazil, and my Ph.D. at the University of Alberta. During my Ph.D., among other things, I introduced stochasticity and game modes in the popular Arcade Learning Environment, and I popularized the idea of temporally-extended exploration through options, introducing the idea of eigenoptions. Before becoming a professor, I was a researcher at DeepMind and at Google Brain for four years; during which time I made several contributions to reinforcement learning, including the application of deep reinforcement learning to control Loon’s stratospheric balloons, published in Nature. My research has been featured in popular media such as BBC, Bloomberg TV, The Verge, and Wired.",
+  "content_length": 1289,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:54:01"
+}

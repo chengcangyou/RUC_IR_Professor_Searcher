@@ -1,0 +1,9 @@
+{
+  "name": "Brian A. Malloy",
+  "homepage": "http://www.brianmalloy.com",
+  "status": "success",
+  "content": "Brian Malloy, Ph.D. Brian Malloy, Ph.D. Home Publications Vita Instruction Computer Science Courses CpSc 3120 Fall Algorithms CpSc 4160/6160 Spring 2019 Games CpSc 8270 Fall 2018 Compiler Construct CpSc 4160/6160 Fall 2018 Games CpSc 8700 Software Eng 2018 Games CpSc 4160/6160 Spring 2018 Games CpSc 8270 Fall 2017 Compiler Construct CpSc 4160 Fall 2015 Python Prog Best Games 2014 CpSc 416/616 2014 Games Personal My Son and I Build a Computer Calendar Research Quantifying the Transition from Python 2 to 3: : Python is one of the most popular modern programming languages. In 2008 its authors introduced a new version, Python 3.0, that was not backward compatible with Python 2, initiating a transitional phase for Python software developers. We have developed a Python compliance analyser, PyComply, and have assembled a large corpus of Python applications. We use PyComply to measure and quantify the degree to which Python 3 features are being used, as well as the rate and context of their adoption. View Publication Video Game Development Videos describing the use of C++, Design Patterns, Data-driven programming, and construction of 2D Video Games, can be found on my youtube channel. youtube Channel Murray Stokely Award Given to a faculty member who has demonstrated excellence in teaching engineering at the undergraduate and/or graduate level. Go To Award Site",
+  "content_length": 1375,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:06:25"
+}

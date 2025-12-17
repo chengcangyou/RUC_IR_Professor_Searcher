@@ -1,0 +1,9 @@
+{
+  "name": "Charles L. A. Clarke",
+  "homepage": "https://plg.uwaterloo.ca/~claclark",
+  "status": "success",
+  "content": "Charlie Clarke's Home Page Charlie Clarke School of Computer Science University of Waterloo 200 University Avenue West Waterloo, Ontario Canada N2L 3G1 Telephone: (519) 888-4567 x35241 Office: DC2506 Email: claclark at plg.uwaterloo.ca Greetings! I'm a professor with the School of Computer Science. My research interests include information retrieval, search, data mining, and software tools. A list of my publications is included in my CV. You can also see my publication lists on Google Scholar and DBLP. Some chapters from our book are available online, including chapters on indexing and compession: Last Modified: January 1, 2017",
+  "content_length": 635,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:50:29"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Majid Kazemian",
+  "homepage": "http://kazemianlab.com",
+  "status": "success",
+  "content": "Majid Kazemian Cancer genome and Immune system regulation Our lab focuses on studying gene regulation in viral associated cancers (e.g. EBV and HBV related tumors), autoimmune disorders (e.g. Rheumatoid Arthritis), and infectious diseases (e.g. COVID-19). We utilize biological assays and computational models to identify novel biological pathways, new host-pathogen interactions and regulatory RNAs (e.g. enhancer RNAs and circular RNAs) that could trigger disease. We are exploiting single cell and bulk high throughput sequencing data (e.g. RNA-seq, ChIP-seq, ATAC-seq, Hi-C) using machine learning tools to guide experiments and treatments. Select recent papers 2023- Immunity, Nature Reviews Imm, Cell, Autoimmunity2022- Nature Immunology, Blood, Frontiers in Imm, Frontiers in Imm, JMV, Oncogene2021- Science Immunology, eLife, Journal of Virology, Journal of Immunology, Nature Immunology, 2020- Cell Reports, Journal of Virology, JCI Insights, Theranostics, Immunity,  Nature communications2019- Cancer Research, eLife, eLife2018- Nature Immunology2017- Nature Immunology, Nature Communications, Science-Immunology",
+  "content_length": 1122,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:50:08"
+}

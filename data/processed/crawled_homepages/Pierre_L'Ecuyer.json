@@ -1,0 +1,9 @@
+{
+  "name": "Pierre L'Ecuyer",
+  "homepage": "http://www.iro.umontreal.ca/~lecuyer",
+  "status": "success",
+  "content": "Pierre L'Ecuyer Pierre L'Ecuyer Département d'informatique et de recherche opérationnelle Pavillon Aisenstadt, Université de Montréal C.P. 6128, Succ. Centre-Ville, Montréal (Québec), Canada, H3C 3J7 Phone: (514) 343-2143 lecuyer@iro.umontreal.ca Cette page en français CV: Biosketch , Two-page Biosketch , Detailed curriculum Vitae Publications , Some slide presentations , Student theses , Google Scholar page Software: From my lab (old page), GitHub Repositories , SSJ library (stochastic simulation in Java), SSJ on Github , ContactCenters , Lattice Builder (older), LatNet Builder, TestU01-2009 , RNGStreams , clRNG (for OpenCL) , Personnal LaTeX macros , BiBTeX database Teaching: IFT-6521 : Dynamic programming , IFT-6561 : Stochastic simulation , IFT-3655 : Stochastic models Recruiting: Prospective postdoct, PhD, and master students: Click here for details Other: MCQMC 2018: The book is here. Book in my honor: Advances in Modeling and Simulation: Festschrift for Pierre L'Ecuyer, Springer, 2022. Presentation of the 2020 ISIM Lifetime Professional Achievement Award: LPAA-recording.mp4 Draft of my simulation book: Stochastic Simulation and Monte Carlo Methods, by Pierre L'Ecuyer, 2023. Selected conferences , Other links (research organizations, journals, etc.) Montreal weather , Cycling , Facebook page",
+  "content_length": 1318,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:12:30"
+}

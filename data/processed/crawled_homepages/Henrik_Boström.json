@@ -1,0 +1,9 @@
+{
+  "name": "Henrik Boström",
+  "homepage": "https://www.kth.se/profile/henbos",
+  "status": "success",
+  "content": "KTH | Henrik Boström Skip to main content Henrik BoströmProfessorKungliga Tekniska Högskolanhttps://www.kth.se/profile/henbosDetailsWorks for Division of Software and Computer SystemsTelephone +46 8 790 43 06Unit address Lindstedtsvägen 30E-mail bostromh@kth.seResearcherResearcher IDORCID IDGoogle Scholar IDAbout meI am professor of computer science - data science systems. My research concerns trustworthy machine learning, and focuses in particular on predicting with confidence (conformal prediction) and explainable machine learning. As results from — and tools for — this research, I have developed the Python packages crepes (Conformal classifiers, regressors and predictive systems) and xrf (Explainable random forests). Regarding open positions: We currently have two openings: one postdoc and one PhD position in probabilistic machine learning; see here for details (deadline is Dec. 19, 2025). Please follow the instructions for submitting your application carefully. Do not submit your application or expression of interest directly to me. Regarding internships: I have unfortunately no possibility of hosting external undergraduate students. If you are a researcher or a PhD student that would be interested in visiting us, you are very welcome to reach out. CoursesDegree Project in Information and Communication Technology, First Cycle (IA150X), examinerDegree Project in Information and Communication Technology, First Cycle (II143X), examinerProgramming for Data Science (FID3214), examinerProgramming for Data Science (ID2214), teacher, course responsible, examinerResearch Methodology and Scientific Writing (II2202), teacherPublicationsPublication listPortfoliocrepesxrfFörutse BNPLinksOpen positionsDBLP",
+  "content_length": 1725,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:19:59"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Ronald L. Rivest",
+  "homepage": "http://people.csail.mit.edu/rivest",
+  "status": "success",
+  "content": "Ronald L. Rivest : HomePage Ronald L. Rivest Professor Rivest is an Institute Professor at MIT. He joined MIT in 1974 as a faculty member in the Department of Electrical Engineering and Computer Science. He is a member of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), a member of the lab's Theory of Computation Group and a founder of its Cryptography and Information Security Group. He is a co-author (with Cormen, Leiserson, and Stein) of the text, Introduction to Algorithms. He has worked extensively in cryptography, and is perhaps best known as a co-inventor (with Adi Shamir and Len Adleman) of the RSA public-key cryptosystem. He is a founder of RSA, Verisign, and Peppercoin. He has research interests in cryptography, computer and network security, algorithms, voting security, climate change, and, most recently, contact tracing (exposure notification). Contact Information CSAIL web page Publications and Talks Classes Biographical information Photos Students and post-docs My github page FAQ Other Miscellaneous (old!) material Accessibility",
+  "content_length": 1079,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:20:39"
+}

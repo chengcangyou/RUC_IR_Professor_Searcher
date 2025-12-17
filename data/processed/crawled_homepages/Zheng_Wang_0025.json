@@ -1,0 +1,9 @@
+{
+  "name": "Zheng Wang 0025",
+  "homepage": "http://www.cs.miami.edu/home/zwang",
+  "status": "success",
+  "content": "Dr. Zheng Wang's Bioinformatics Lab, University of Miami Forecasting Hi-C data at future time points HiC4D: forecasting spatiotemporal Hi-C data with residual ConvLSTM. On the right: predicted (based on time points 1, 2, and 3) and true Hi-C heatmaps for time points 4, 5, and 6. Read more Single-Cell DNA Methylation Prediction scHiMe: predicting single-cell DNA methylation levels based on single-cell Hi-C data. Read more Predicting ChIA-PET from Hi-C DeepChIA-PET: Accurately predicting ChIA-PET from Hi-C and ChIP-seq with deep dilated networks. Read more Single-Cell 3D Genome SCL: A lattice-based approach to infer three-dimensional chromosome structures from single-cell Hi-C data. On the right, SCL-inferred 3D structure of single-cell human (GM12878) inactivated X-chromosome. Read more Family Classification of TADs TADKB: Family classification and a knowledge base of topologically associating domains. On the right, multiple TADs are highlighted in the 3D structure of human chromosome 10. Read more Enhance Hi-C Data Resolution HiCNN: A very deep convolutional neural network to better enhance the resolution of Hi-C data. On the right, black circle indicates a chromatin interaction that is revealed after enhancement. Read more Protein Function Prediction PANDA2: protein function prediction using graph neural networks Read more Protein Structure Prediction Predicting residue-specific qualities of individual protein models using residual neural networks and graph neural networks Read more keyboard_arrow_left Previous keyboard_arrow_right Next",
+  "content_length": 1563,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:55:02"
+}

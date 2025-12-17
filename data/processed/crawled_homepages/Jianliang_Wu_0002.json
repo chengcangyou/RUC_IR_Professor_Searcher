@@ -1,0 +1,9 @@
+{
+  "name": "Jianliang Wu 0002",
+  "homepage": "https://allenjlw.github.io",
+  "status": "success",
+  "content": "About me - Jianliang Wu / Homepage Jianliang Wu (武建亮)Assistant Professor @ Simon Fraser University Follow Vancouver, CA Email Twitter Github Google ScholarI’m looking for highly-motivated students! If you are interested in my research or working with me, drop me an email!I am an Assistant Professor at Simon Fraser University (SFU). Before joining SFU, I was a Ph.D. student in Purdue University PurSec Lab advised by Dongyan Xu and Antonio Bianchi. I also work closely with Dave (Jing) Tian. Before my Ph.D. study, I got my Bachelor’s and Master’s degree from Shandong University. I was advised by Shanqing Guo during my Master’s. I also worked with Jin Song Dong for half a year when I visited National University of Singapore.My research investigates Systems Security at both the design and implementation levels to secure diverse computing platforms, especially devices directly interacting with users and surrounding environments, aiming to improve the security of real‑world computing devices by leveraging and combining formal analysis, program analysis, machine learning, etc. I have built new formal models for systems to automatically identify previously‑unknown design vulnerabilities in specifications and prove their security guarantees. I have also employed program analysis techniques to develop new frameworks to mitigate attacks against system implementations. Lastly, I have leveraged fingerprinting and machine learning techniques to detect attacks against end‑user devices and potential privacy leaks on such devices.",
+  "content_length": 1538,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:30:14"
+}

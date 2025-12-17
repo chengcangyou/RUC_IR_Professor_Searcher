@@ -1,0 +1,9 @@
+{
+  "name": "Krzysztof J. Cios",
+  "homepage": "http://cioslab.vcu.edu/index.html",
+  "status": "success",
+  "content": "Cios Lab Cios Lab Data Mining and Biomedical Informatics The lab is focused on developing efficient learning algorithms for data mining with applications in biology and medicine. The lab developed a wide range of algorithms from clustering, through discretization (CAIM and ur-CAIM, currently the best discretization algorithms for supervised balanced and unbalanced data), visualization, and supervised inductive machine learning algorithms for single-instance, multiple-instance and one-class learning. The other focus is in artificial neural networks, in particular networks of spiking neurons. The later used for modeling of organization and reorganization of the somatosensory cortex, glutamate release mechanism in epileptic hippocampus, cortex multisensory processing, and cortex multi-layer multi column inhibition. Outside of the brain modeling realm they are used for recognition of partially occluded and rotated face images without the need of any preprocessing, as they operate in a deep learning mode. More about the lab's activities can be found at here",
+  "content_length": 1068,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:44:37"
+}

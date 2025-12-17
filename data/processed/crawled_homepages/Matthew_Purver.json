@@ -1,0 +1,9 @@
+{
+  "name": "Matthew Purver",
+  "homepage": "http://www.eecs.qmul.ac.uk/~mpurver",
+  "status": "success",
+  "content": "Matthew Purver matthew purver: about contact research teaching publications software links CompLingLab CogSci CIS EECS about me I am Professor of Computational Linguistics and head of the Computational Linguistics Lab at Queen Mary University of London; and a senior researcher at the Jožef Stefan Institute, Ljubljana, Slovenia. more ... contact My email address is m.purver (at) qmul.ac.uk; my office is CS/403, and in semester 2 (Jan-Apr) my office surgery hours are 1-3pm on Wednesdays - please email me for an appointment. more ... research My research is in computational linguistics (aka natural language processing) - getting computers to behave as if they understood human language. I'm mainly interested in conversational language: systems which can have conversations with people, or which can understand people having conversations with each other, face-to-face or online.more ... teaching I usually teach some combination of Natural Language Processing (ECS763P), Neural Networks and Natural Language Processing (ECS7001P) and Interactive System Design (ECS733P).more ... software Try our (free!) sentiment, emotion and excitement detection APIs; check out our Live London Emotion Map or our Wheel of Emotion emotion analysis demo; get our Sentimental iPhone app; download open source code for our incremental parser and dialogue system, DYLAN. more ... Tweets by @mpurver",
+  "content_length": 1385,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:56:00"
+}

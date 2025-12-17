@@ -1,0 +1,9 @@
+{
+  "name": "Matthias Volk 0001",
+  "homepage": "https://volkm.github.io",
+  "status": "success",
+  "content": "Matthias Volk I am a researcher interested in the improvement of safety-critical systems through formal methods. Since October 2023, I am an Assistant Professor at Eindhoven University of Technology and part of the Formal System Analysis group. Before, I was a postdoctoral researcher at University of Twente. I received my PhD from RWTH Aachen University with a thesis on Dynamic Fault Trees. Research goal My research goal is to improve the safety and reliability of complex, safety-critical systems through formal methods. Certifying that systems, such as autonomous vehicles, smart grids, and robotic systems, operate safely and reliably is a major challenge today. My aim is to develop rigorous, automated techniques for modeling and analyzing safety-critical systems, provide optimized implementations in mature tools for use by other researchers, and apply the approaches in industrial collaborations. In my research, I focus primarily on probabilistic model checking, and I am a main developer of the Storm model checker. news No news so far... The best way to reach me is via email. Further contact options here.",
+  "content_length": 1121,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:56:17"
+}

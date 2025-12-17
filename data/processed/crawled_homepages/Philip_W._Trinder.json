@@ -1,0 +1,9 @@
+{
+  "name": "Philip W. Trinder",
+  "homepage": "http://www.dcs.gla.ac.uk/~trinder",
+  "status": "success",
+  "content": "Phil Trinder Research Projects Publications Team Research Activities Phil Trinder Introduction I'm an Emeritus Professor, so mostly retired, in the School of Computing Science in the College of Science and Engineering at Glasgow University. Research My main research interests are the design, implementation and evaluation of high-level parallel and distributed programming languages; parallel and distributed functional programming, using Haskell, Erlang, and friends; and challenging parallel or distributed applications, e.g. algebraic computations, robot teams. So I'm interested in how to better exploit multi- and many-core machines, Clouds, High Performance Computers (HPC), and other platforms. Roles I'm a member of the Glasgow Parallelism Group (GPG). I'm a member of the Glasgow Systems Section (GLASS). I'm a member of the Programming Languages, Low Carbon and Sustainable Computing, and Understandable Autonomous Systems research themes. Contact Information Email: Phil.Trinder@Glasgow.ac.uk Home",
+  "content_length": 1009,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:12:12"
+}

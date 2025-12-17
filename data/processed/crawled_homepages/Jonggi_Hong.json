@@ -1,0 +1,9 @@
+{
+  "name": "Jonggi Hong",
+  "homepage": "https://jonggi.github.io",
+  "status": "success",
+  "content": "Jonggi Hong I am an assistant professor at Stevens Institute of Technology. Follow Hoboken, NJ, USA jhong8@stevens.edu ResearchGate Twitter LinkedIn Google Scholar I am an assistant professor in Computer Science at Stevens Institute of Technology. My research interest is about addressing the real-world problems using human-computer interaction and machine learning techniques. I build machine learning applications and investigate interactions between a user and the application using quantitative and qualitative analysis. In my recent projects, I explored the challenges of identifying errors from speech recognizer and conducted user studies to facilitate machine teaching with a teachable object recognizer for non-experts. ProjectsThe overarching theme of my research is designing and evaluating accessible interactions with emerging technologies such as wearables and AI-infused applications. Teachable interface for personalizing an object recognizer Intelligent Assistive Machines Lab, UMD Advisor: Hernisa Kacorri Future of work comm., Ability team, MSR Mentors: Daniela Massiceti, Edward Cutrell, Cecily Morrison, & Saqib Shaikh Identifying speech recognition errors with audio-only interactions Intelligent Assistive Machines Lab, UMD Advisor: Hernisa Kacorri Inclusive Design Lab, UMD Advisor: Leah Findlater Detecting of Misalignments Between Promotion Links and Landing Pages Systems Technology Lab, Adobe Research Mentors: Tak Yeon Lee, Eunyee Koh Interacting with wearable devices Inclusive Design Lab, UMD Advisor: Leah Findlater",
+  "content_length": 1548,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:34:10"
+}

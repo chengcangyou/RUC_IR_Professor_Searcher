@@ -1,0 +1,9 @@
+{
+  "name": "Tri Dao",
+  "homepage": "https://www.cs.princeton.edu/people/profile/td8762",
+  "status": "success",
+  "content": "Tri Dao CS Skip to main content Tri Dao Assistant Professor Contact Building 420 Computer Science Envelope td8762@cs.princeton.edu Phone (609) 258-5367 Diploma Ph.D., Stanford University, 2023 Research Areas Machine Learning Short Bio Tri Dao is an Assistant Professor at Princeton University and chief scientist of Together AI. He completed his Ph.D. in Computer Science at Stanford. He works at the intersection of machine learning and systems, and his research interests include sequence models with long-range memory and structured matrices for compact deep learning models. His work includes FlashAttention and Mamba.More information at: tridao.me Related News November 5, 2025 Tri Dao and Ellen Zhong named AI2050 Fellows by Schmidt Sciences Tri Dao and Ellen Zhong, assistant professors of computer science, have been named AI2050 Early Career Fellows by Schmidt Sciences.",
+  "content_length": 879,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:40:48"
+}

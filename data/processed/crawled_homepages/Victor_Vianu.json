@@ -1,0 +1,9 @@
+{
+  "name": "Victor Vianu",
+  "homepage": "https://cseweb.ucsd.edu/~vianu",
+  "status": "success",
+  "content": "Victor Vianu's Home Page Victor Vianu Professor, Computer Science and Engineering Department of Computer Science and Engineering U.C. San Diego La Jolla, CA 92093-0404, USA 858-534-6227 858-534-7029 (fax) Office: CSE 4238 vianu@cs.ucsd.edu Capsule Bio Research Area My research interests are in database systems and theory. Most recently, I've been focusing on verification of database-driven systems, an area at the boundary of databases and computer-aided verification. My current research focuses on automatic verification of interactive data-driven Web services and business processes. I am also interested in the theory of query languages and computational logic. UCSD Database Laboratory Home Page Database Group Research Seminar NSF support My work on business processes is supported by the National Science Foundation under grant Views of Data-Driven Business Processes: Foundations and Applications Publications (find some of them here) Link to databases/logic programming bibliography Book Foundations of Databases by S.Abiteboul, R.Hull and V.Vianu, Addison-Wesley, 1995. Online version Alice birthday celebration Classes CSE 132A: Database Systems Principles CSE 205A: Logic for Computer Science CSE 233: Database Theory Links Join the premier professional organization for database researchers and practitioners:",
+  "content_length": 1325,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:43:26"
+}

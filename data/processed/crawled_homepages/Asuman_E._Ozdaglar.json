@@ -1,0 +1,9 @@
+{
+  "name": "Asuman E. Ozdaglar",
+  "homepage": "https://asu.mit.edu",
+  "status": "success",
+  "content": "Laboratory for Information & Decision Systems Professor Ozdaglar’s research focuses on technical and societal aspects of large-scale data-driven systems. Her expertise includes optimization, machine learning, economics, and networks. In recent years, she has investigated issues of data ownership and markets, spread of misinformation on social media, economic and financial contagion, and social learning. In addition, she has an active research program on large-scale optimization, especially in the context of machine learning. Her recent work develops robust, efficient and decentralized machine learning models and algorithms. In optimization, her work has contributed to optimization duality, first-order scalable methods and new distributed algorithms for network resource allocation. Her work has also contributed to the study of adaptive game-theoretic dynamics and introduced alternative approaches to network games. Research Areas Optimization: Theory, Algorithms and Parallel, and Distributed Computing Machine Learning: Robustness, Task Adaptation, Federated Learning Game Theory: Network Games, Multi-Agent Reinforcement Learning Social and Economic Networks Contact Information Massachusetts Institute of Technology 77 Massachusetts Avenue Primary 38-403 & LIDS 32-D630 Cambridge, Massachusetts 02139 Phone:617-253-4607/617-324-0058 Fax:617-253-0572 asuman@mit.edu Assistant Rachel Wright rmwright@mit.edu Phone: 617-253-4602",
+  "content_length": 1440,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:01:55"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Joel McManus",
+  "homepage": "https://labs.bio.cmu.edu/mcmanus",
+  "status": "success",
+  "content": "McManus Lab | MCS Biological Sciences Research Overview How does variation in gene expression contribute to phenotypic diversity and disease? Research in the McManus lab focuses on understanding mechanisms that regulate mRNA translation. Using a combination of high throughput sequencing assays and bioinformatics, we examine how variation in RNA sequences and structures can affect protein production. We are particularly interested in untranslated regions (UTRs) and how they can affect the translation of a gene. Our work spans a wide range of research interests, from human genes and genetic disorders to translation regulation in fungal pathogens. Upstream Open Reading Frames (uORFs) Translation Regulation in Fungal Pathogens Prader-Willi syndrome",
+  "content_length": 754,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:31:55"
+}

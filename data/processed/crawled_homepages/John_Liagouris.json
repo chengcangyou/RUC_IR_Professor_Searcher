@@ -1,0 +1,9 @@
+{
+  "name": "John Liagouris",
+  "homepage": "https://cs-people.bu.edu/liagos",
+  "status": "success",
+  "content": "john liagouris john liagouris Assistant Professor, Boston University home news research students teaching publications other about me I'm an assistant professor at Boston University, where I co-lead the Complex Analytics and Scalable Processing Systems Lab (CASP). I'm a member of BU Systems and I'm also affiliated with BUSec. Before joining BU, I was a visiting scholar at the RISELab, UC Berkeley, a senior researcher (oberassistent) at the Systems Group, ETH Zurich, a visiting research fellow at HKU, and a research assistant at the Information Systems Management Institute (IMSI) of the \"Athena\" Research Center, Greece. I obtained a 5-year diploma in Electrical and Computer Engineering in 2008, and a PhD in 2015, both from NTUA. research interests I'm interested in distributed systems, cloud computing, security and privacy, and data management. My current work focuses on novel system architectures for secure computation and aims to explore how far we can go in supporting secure analytics with practical performance while only relying on cryptography and general-purpose compute. More.. prospective students I'm looking for motivated PhD students and postdocs. If you're interested in a PhD, please check our lab page and apply here by December 15. If you're interested in a postdoc position, feel free to send me an email. directed studies I typically supervise 2-3 students per year (BSc or MSc). If you're interested in doing a directed study with me, I'd highly recommend that you first take one of my courses (CS351 or CS651). contact Ioannis (John) Liagouris Department of Computer Science, Boston University 665 Commonwealth Avenue, CDS 721, Boston, MA, 02215 liagos at bu dot edu",
+  "content_length": 1700,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:32:51"
+}

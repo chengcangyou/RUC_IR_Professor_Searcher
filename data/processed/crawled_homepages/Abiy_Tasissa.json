@@ -1,0 +1,9 @@
+{
+  "name": "Abiy Tasissa",
+  "homepage": "https://engineering.tufts.edu/cs/people/faculty/abiy-tasissa",
+  "status": "success",
+  "content": "Abiy Tasissa | Department of Computer Science Research Website Abiy Tasissa Assistant Professor, Mathematics Assistant Professor, Computer Science abiy.tasissa@tufts.edu 177 College Avenue Research Website Research/Areas of Interest Matrix completion, compressive sensing, distance geometry Education PhD, Mathematics, Rensselaer Polytechnic Institute, United States, 2019MS, Aeronautics and Astronautics, Massachusetts Institute of Technology, United States, 2014BS, Mathematics, Massachusetts Institute of Technology, United States, 2012 Biography My research is broadly in applied mathematics with current research interests at the intersection of matrix completion, compressive sensing, high-dimensional probability and convex optimization. In the theoretical side, my work has used tools from probability to assess the effectiveness of certain convex optimization algorithms. The problems I study originate from consideration of real world applications. As such, they motivate the construction of a mathematical model and the design of algorithms that could handle noisy/incomplete data. A common thread in my research is a theoretical analysis of convex approximations and a principled design of algorithms for possibly large scale problems.Some of my research topics are:1. Algorithms for the distance geometry problem with the goal of determining 3D protein structure2. Fast convex algorithms for the graph matching problem3. Theoretical analysis of deep learning in certain applications.",
+  "content_length": 1496,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:28:44"
+}

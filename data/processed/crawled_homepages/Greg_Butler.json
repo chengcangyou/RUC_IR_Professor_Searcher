@@ -1,0 +1,9 @@
+{
+  "name": "Greg Butler",
+  "homepage": "http://www.cs.concordia.ca/~gregb",
+  "status": "success",
+  "content": "Gregory Butler Home page Research Teaching Curriculum Vitae Gregory Butler@Concordia Contact Links Gregory Butler Gregory Butler is Professor emeritus of Computer Science and Software Engineering at Concordia University, Montreal, Canada. His research focuses on the transformation of data to knowledge, particularly for knowledge-based bioinformatics. He is currently working on distributed computation with large-scale graphs for the reconstruction of networks for metabolism and regulation of microbial communities, and how to construct, mine, and manage the graph of knowledge provided by a provenance network with links into the scientific literature. Dr Butler represented Concordia on Canada's Big Data Consortium. He was Director of the Data Science Research Centre at Concordia and served in 2015 on the committee of experts for Montreal International's profile of the Big Data Industry in Montreal and Quebec. Dr Butler was a founding member of the Canadian Semantic Web Interest Group. Dr Butler was a co-founder of the Centre for Structural and Functional Genomics at Concordia where he directs the development of the bioinformatics platform for large-scale fungal genomics projects. This covers scientific data management, data integration, and data provenance; algorithms, data analysis, data mining and text mining; ontologies and the semantic web. Dr Butler obtained his PhD from the University of Sydney in 1980. He was a faculty member at the University of Sydney for nine years, prior to joining Concordia University in 1992. Last modified 1 June 2023 by gregb@cse.concordia.ca",
+  "content_length": 1596,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:15:38"
+}

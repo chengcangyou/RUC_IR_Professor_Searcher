@@ -1,0 +1,9 @@
+{
+  "name": "Akarsh Prabhakara",
+  "homepage": "https://akarsh-prabhakara.github.io",
+  "status": "success",
+  "content": "Home | Akarsh PrabhakaraI am an assistant professor in the Department of Computer Sciences at the University of Wisconsin - Madison since 2025. I am also affiliated with the Department of Electrical and Computer Engineering.My research interests broadly lie in wireless systems and cyber-physical systems. I lead the MachW Lab with the agenda to build wireless powered systems that perceive the world and communicate with high fidelity unlocking new application potentials.Email: akarsh@cs.wisc.eduOffice: 7669 Morgridge HallGoogle Scholar | Curriculum VitaeResearch OverviewWe are building systems along the following themes: Learning driven RF perception Wireless + robotics New wireless communication paradigms Ubiquitous wireless sensingLearning driven radio frequency perceptionfoundational models for mmWave radarsNeRFs for synthetic radar dataupsampling architectures for low-res radarssingle-vantage point long range depth imagingWireless + roboticssoft robotics for wireless field programminglocalization of RF tagged whalesNew wireless communication paradigmsmulti-bounce wireless imagingmmWave backscatter networkingcost effective LEO ground stationsUbiquitous wireless sensingtire wear sensinglow power object localizationfine structural health monitoringRecent NewsNov 25: RadarSim accepted at 3DV 26June 25: GRT accepted at ICCV 25May 25: Metamorph presented at ICRA 25TeamGraduate StudentsXincheng XieBrian ZhengHongyang LiTeachingIntro to Computer Networks (640): F25Big Ideas In Wireless: Perception and Communication (839): S25, S26ServiceTechnical Program CommitteeMobiCom: 2025-26MobiSys: 2025SenSys: 2026",
+  "content_length": 1625,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:51:36"
+}

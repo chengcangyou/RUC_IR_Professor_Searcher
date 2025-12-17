@@ -1,0 +1,9 @@
+{
+  "name": "Dirk Hovy",
+  "homepage": "http://dirkhovy.com",
+  "status": "success",
+  "content": "Dirk HovySearchDirk HovyFull ProfessorWelcome!I am a Professor in the Computing Sciences Department of Bocconi University in Milan, where I lead the MilaNLP lab together with Debora Nozza. I am also the scientific director of the Data and Marketing Insights research unit. Previously, I was CS faculty at the University of Copenhagen, got a PhD from USC’s Information Sciences Institute, and a master’s degree in linguistics from Marburg University, Germany.I am interested in the interaction between language, society, and machine learning, or what computers can tell us about language and what language can tell us about society. I am also interested in ethical questions of bias and algorithmic fairness in machine learning.I have authored over 150 articles on these topics, including 3 best and one outstanding paper awards, and have published two textbooks on text processing in Python for social scientists.I co-founded and organized several workshops (on computational social science, and ethics in NLP), and I was a local organizer for the EMNLP 2017 conference. I was awarded an ERC Starting Grant project 2020 for research on demographic bias in NLP.Outside of work, I enjoy cooking, leather-crafting, and picking up heavy things to put them back down.LatelyProjectsINDOMITAInnovative Demographically-aware Hate Speech Detection in Online Media in ItalianMENTALISMMeasuring, Tracking, and Analyzing Inequality using Social MediaINTEGRATORIncorporating Demographic Factors into Natural Language Processing ModelsMiMacMixed methods for analyzing political parties’ promises to voters during election campaignsTwitter Healthy ConversationsDevising Metrics for Assessing Echo Chambers, Incivility, and Intolerance on Twitter Cite × Copy Download",
+  "content_length": 1751,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:02:51"
+}

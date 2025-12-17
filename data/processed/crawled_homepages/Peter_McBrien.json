@@ -1,0 +1,9 @@
+{
+  "name": "Peter McBrien",
+  "homepage": "http://www.doc.ic.ac.uk/~pjm",
+  "status": "success",
+  "content": "Peter McBrien's Home Page Peter McBrien's Home Page. A brief biography, contact details, and other details about me can be found under About Me I work on the AutoMed project, investigating new techniques for data integration based around a schema transformation approach called both as view (BAV), developed in collaboration with Alex Poulovassilis. Details of all my reseach activity can be found under Research along with a complete list of my publications. Details of all my teaching and projects I offer can be found under Teaching I provide a number of medium sized example databases for the purpose of providing test beds to student and research projects, details of which can be found under Example DBs and JDBC. The Links page lists sites I frequently use or have been involved in creating. I am company secretary of PSA Parts Ltd, which is a distributor of mobile power products such as batteries, ac adapters, and chargers for laptop computers, camcorders, and digital cameras. The company runs a number of e-commerce sites: www.duracelldirect.co.uk www.psaparts.co.uk",
+  "content_length": 1078,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:11:35"
+}

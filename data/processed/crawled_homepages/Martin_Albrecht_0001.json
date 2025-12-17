@@ -1,0 +1,9 @@
+{
+  "name": "Martin Albrecht 0001",
+  "homepage": "https://malb.io",
+  "status": "success",
+  "content": "Martin R. Albrecht Martin R. Albrecht Table of Contents Decl Text Here Code Link Decl I am a professor in cryptography at King’s College London. I am also a Principal Research Scientist for SandboxAQ. I work in cryptography, especially post-quantum and lattice-based cryptography as well as cryptography “in the wild”. Text DBLP Blog (src) This Here SIS with hints Are graded encoding schemes broken yet? Code Some open-source projects I’m involved in are: FPLLL: Fast lattice algorithms FPyLLL: Python interface to FPLLL G6K: Faster lattice algorithms Lattice Estimator: How fast are algorithms solving lattice problems? M4RI: Fast dense linear algebra mod 2 M4RIE: Fast dense linear algebra for small extensions of GF(2). BDD with Predicate: Solving the Hidden Number Problem to steal some Bitcoin More of my code, such as smaller projects, can be found in various places: Github Gists Bitbucket Link e-mail: King's College London or SandboxAQ Bsky Mastodon Twitter Keybase Gscholar",
+  "content_length": 984,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:54:12"
+}

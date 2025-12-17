@@ -1,0 +1,9 @@
+{
+  "name": "Vincent J. Hellendoorn",
+  "homepage": "https://vhellendoorn.github.io",
+  "status": "success",
+  "content": "Welcome! | Vincent Hellendoorn Welcome! I am a Research Scientist at Google DeepMind, where I develop intelligent tools for software engineering and teach LLMs to reason. Also Assistant Professor at CMU, where I am on leave to work at GDM. Research The goal of my work is to make safe, effective programming more accessible through intelligent software assistance tools. AI-based tools hold great promise for extracting expertise from public data about software (on GitHub, StackOverflow, etc.) and presenting this in a timely fashion to help new developers, veteran programmers, and non-coders alike. I work towards this goal across three frontiers: 1. investigating new applications of AI in SE to understand the community’s needs broadly and provide practical value (e.g., FSE’18, FSE’21 IRV, EMSE’21); 2. analyzing current models and trends to make sure our results are impactful (ICSE’19, FSE’21, CACM’22); 3. building new models based on these insights (ICLR’20, NeurIPS’21, ICLR’22), including PolyCoder, briefly the largest open-source model trained exclusively on source code (get it here!). I strongly believe in balancing academic and industry research to balance the speed of progress and its impact on society. Please ping me anytime for thoughts on ongoing academic research projects and potential collaborations. Contact Email & General Info: vhellendoorn@{google.com|cmu.edu}, either works. GitHub, Bluesky, Scholar",
+  "content_length": 1431,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:44:02"
+}

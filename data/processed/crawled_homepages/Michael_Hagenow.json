@@ -1,0 +1,9 @@
+{
+  "name": "Michael Hagenow",
+  "homepage": "https://www.hageneaux.com",
+  "status": "success",
+  "content": "Mike Hagenow Hello, I’m Mike. I am an assistant professor in the Department of Computer Sciences at UW-Madison. Previously, I was a postdoctoral fellow in the Aeronautics and Astronautics department (and CSAIL) at MIT. As a researcher, I work on developing methods for effective human-robot teaming with a focus on contact-rich tasks that are physically demanding on people. My main research interests lie in shared autonomy and robot learning. Before working in robotics, I was a manager at Epic Systems working on patient portals. I received my BS in mechanical engineering from Tufts University in 2014 and my MS/PhD in mechanical engineering from UW-Madison in 2019 and 2023, respectively. If you are interested in chatting/collaborating, don't hesitate to reach out! Contact What do I work on? I look for ways to make it easier for robots and humans to work together to complete complicated tasks. In particular, I focus on how to make it easier for humans to teach robots complex tasks and ways to facilitate effective real-time teaming. My research falls at the intersection of Learning from Demonstration (LfD), physical Human-Robot Interaction (PHRI), and shared autonomy. Curriculum Vitae Research Statement Recent Publications I try to keep my google scholar page up to date. Below is an automatically generated set of recent pre-print publications from ArXiv:",
+  "content_length": 1371,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:58:09"
+}

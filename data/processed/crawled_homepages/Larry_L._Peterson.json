@@ -1,0 +1,9 @@
+{
+  "name": "Larry L. Peterson",
+  "homepage": "https://www.cs.arizona.edu/~llp",
+  "status": "success",
+  "content": "Larry Peterson is a Professor of Computer Science at the University of Arizona, where he teaches an introductory Computer Science course on applying programming constructs and algorithmic thinking to real-world problems in science, engineering, and commerce. He is also a co-author of the best selling networking textbook Computer Networks: A Systems Approach (5e). His research focuses on the design, implementation, and deployment of Internet-scale distributed systems, including the widely used PlanetLab and MeasurementLab platforms. He is currently working on a new cloud-based platform, called OpenCloud. Peterson is also the Robert E. Kahn Professor of Computer Science, Emeritus at Princeton University (where he served as Chair from 2003-2009), a co-founder of CoBlitz LLC (a CDN technology startup that was acquired by Akamai in 2012), and Chief Architect of the Open Networking Lab (a non-profit that builds open source software designed to open Cloud and Internet infrastructure to innovation). Professor Peterson is a former Editor-in-Chief of the ACM Transactions on Computer Systems, and served as program chair for SOSP, NSDI, and HotNets. He is a member of the National Academy of Engineering, a Fellow of the ACM and the IEEE, the 2010 recipient of the IEEE Kobayashi Computer and Communication Award, and the 2013 recipient of the ACM SIGCOMM Award. He received his Ph.D. degree from Purdue University in 1985.",
+  "content_length": 1429,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:45:28"
+}

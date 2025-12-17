@@ -1,0 +1,9 @@
+{
+  "name": "Ergun Simsek",
+  "homepage": "https://redirect.cs.umbc.edu/~simsek",
+  "status": "success",
+  "content": "CPMS Group Home People Research Publications (UMBC) Publications (pre-UMBC) Teaching Contact Hello World Led by Dr. Ergun Simsek, the \"Computational Photonics for Multilayered Structure (CPMS)\" is a newly established group within UMBC's Computational Photonics Laboratory. We are a team of electrical engineers, physicists, and computer scientists with the goal of developing new theories, tools, and computational methods for photonics devices and applications. Our work is heavily focused on using machine learning algorithms for tasks such as inverse photonic design, electromagnetic inversion, spectrum prediction, and material characterization. With the aid of modern numerical optimization algorithms, we design various types of high-performance photonic components and devices, including photodetectors, plasmonic sensors, electro-optic modulators, and absorbers. A common thread among the majority of the devices we work on is their multi-layered structure.",
+  "content_length": 965,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:06:53"
+}

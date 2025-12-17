@@ -1,0 +1,9 @@
+{
+  "name": "Gorjan Alagic",
+  "homepage": "http://www.alagic.org",
+  "status": "success",
+  "content": "Gorjan Alagic – Cryptography, Quantum I’m a researcher in cryptography and quantum algorithms. I’m currently a member of the QuICS center at the University of Maryland, and a guest researcher at NIST. “… quantum computers will use ‘qubits’ that behave in surprising ways, efficiently performing selected mathematical algorithms exponentially faster than a classical computer… A sufficiently large quantum computer, if built, would be capable of undermining all widely-deployed public key algorithms used for key establishment and digital signatures.”– the NSA",
+  "content_length": 559,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:15:28"
+}

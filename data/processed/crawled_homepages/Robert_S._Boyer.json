@@ -1,0 +1,9 @@
+{
+  "name": "Robert S. Boyer",
+  "homepage": "https://www.cs.utexas.edu/users/boyer",
+  "status": "success",
+  "content": "Home page of Robert S. Boyer Home page of Robert Stephen Boyer, Professor Emeritus, Computer Sciences Department Home mailing address: 614 W. 32nd St. Austin, TX 78705 Publications Graduated Ph. D. students Honors Employment The Nqthm theorem prover, some examples of its use, and documentation of its logic and user commands. My ftp directory Technical reports and Ph. D. theses, plus sources, executables, and examples of use for several computer programs, mainly in the research areas of program verification and automated reasoning. The exact same material may be obtained at ftp://ftp.cs.utexas.edu/pub/boyer, which is to say, via anonymous ftp to ftp.cs.utexas.edu, under directory pub/boyer. About one gigabyte of material, authored by many people. The whole 9 yards. Happiness and the Art of Being Standard disclaimer Nothing on my web pages should be taken as representing the official position of the University of Texas at Austin or any other part of the government of the State of Texas. Two Photos of Me 2004 1991 A Question It is generally granted that 'p implies p', which is to say, 'if p, then p'. So what about this claim: 'If any number is prime, then any number is prime'?",
+  "content_length": 1192,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:19:06"
+}

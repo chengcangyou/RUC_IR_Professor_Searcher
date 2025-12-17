@@ -1,0 +1,9 @@
+{
+  "name": "Rotem Oshman",
+  "homepage": "http://www.cs.tau.ac.il/~roshman",
+  "status": "success",
+  "content": "Rotem Oshman's Website You seem to have Javascript disabled. This website needs javascript in order to function properly. Rotem Oshman Associate Professor Home / Publications / Teaching Contact Rotem Oshman Checkpoint 335 Department of Computer Science Tel-Aviv University Tel-Aviv, 69978 Israel Email: roshman at tau dot ac dot il Phone: +972-3-640-5586 About Me I am a member of the Department of Computer Science at Tel-Aviv University. My main research interests are distributed computing, communication complexity, and formal methods in computer science. You can view some of my talks online: Distributed Interactive Proofs, October 2018 at the Simons Institute Workshop on Interactive Complexity The Communication Complexity of Distributed Subgraph Detection, October 2014 at the Institute for Advanced Studies, Princeton Tight Bounds for Set Disjointness in the Message-Passing Model, May 2013 at the Institute for Advanced Studies, Princeton New Connections Between Distributed Computing and Communication Complexity (scroll down), December 2012 at Tel Aviv University",
+  "content_length": 1076,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:21:11"
+}

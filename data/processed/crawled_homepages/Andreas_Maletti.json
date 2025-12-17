@@ -1,0 +1,9 @@
+{
+  "name": "Andreas Maletti",
+  "homepage": "http://www.informatik.uni-leipzig.de/alg",
+  "status": "success",
+  "content": "Algebraische und logische Grundlagen der Informatik Abteilungsleitung Andreas Maletti Büro: Augusteum A-424 Tel: +49-341-97-32201 Fax: +49-341-97-32209 Sekretariat Andrea Hesse Büro: Paulinum P-429 Tel: +49-341-97-32220 Wissenschaftliches Personal Teodora Nasz Büro: A-416 Karin Quaas Büro: A-418 Lena Katharina Schiffer Büro: A-416 Ehemalige Leitung Wintersemester 2023/2024 Komplexitätstheorie (M.Sc.) Kryptographie (M.Sc.) Sem. Datenkompression (B.Sc.) Sem. Theor. Informatik (M.Sc.) Sommersemester 2023 Berechenbarkeit (B.Sc.) Maschinelle Übersetzung (M.Sc.) Modelle der Übersetzung (M.Sc.) Abschlussarbeiten Bitte kontaktieren Sie uns, falls Sie eine Abschlussarbeit zu unseren Themen schreiben möchten. 43 Zeitschriftartikel 71 Tagungsbeiträge 9 Techn. Berichte 3 Abschlussarbeiten 744 Gutachten Wir beschäftigen uns mit formalen Modellen zur Modellierung von Übersetzungsprozessen (vorrangig auf Bäumen). Dazu untersuchen wir verschiedene Übersetzer und Automaten auf deren Ausdrucksstärke und Passfähigkeit zur gegebenen Anwendung. Die typischen Anwendungen sind die syntaktische Analyse und die Übersetzung natürlicher Sprache, aber wir beschäftigen uns auch mit der Verarbeitung von XML-Daten. Des Weiteren untersuchen wir die Komplexität fÃ¼r die wesentlichen Probleme auf diesen Modellen und entwickeln vereinzelt auch Prototypen.",
+  "content_length": 1342,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:57:08"
+}

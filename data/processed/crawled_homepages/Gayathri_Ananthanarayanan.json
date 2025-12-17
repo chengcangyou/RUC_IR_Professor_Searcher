@@ -1,0 +1,9 @@
+{
+  "name": "Gayathri Ananthanarayanan",
+  "homepage": "https://homepages.iitdh.ac.in/~gayathri",
+  "status": "success",
+  "content": "GA GAYATHRI ANANTHANARAYANAN About RESEARCH PUBLICATIONS CONTACTSTUDENTS Gayathri Ananthanarayanan is currently an Assistant Professor at the Department of Computer Science and Engineering in Indian Institute of Technology Dharwad, Karnataka. She has completed her Ph.D from Indian Institute of Technology Delhi under the supervision of Prof M.Balakrishnan and Prof. Smruti R. Sarangi. Her doctoral dissertation dealt with the study and analysis of the different factors that affect the scaling trends of many core processors. Her research mainly focused on studies linking various factors such as Performance, Power consumption, Temperature and Process Variations. After completing her Ph.D, she was a Post doctoral Fellow at the School of Computing, National University of Singapore. She obtained her Bachelor's degree in Electronics and Instrumentation and a Master's Degree in Embedded Systems from Birla Institute of Technology and Science, Pilani, India. Her research interests lie in the broad areas of computer architecture and embedded systems. Currently, her research focuses on Hardware Performance analysis, Efficient deployment of Edge-AI applications on Heterogenous Multi-processor Platforms (HMPSoCs) and security aspects of  AI applications in the context of Advanced driver assistance systems (ADAS). Bang for the Buck: Evaluating the cost-effectiveness of Heterogeneous Edge Platforms for Neural Network Workloads got accepted in ACM SEC 2023 Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems: A Quantitative Audit got accepted in ACM JETC 2024",
+  "content_length": 1605,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:13:02"
+}

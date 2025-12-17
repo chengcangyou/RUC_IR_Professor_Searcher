@@ -1,0 +1,9 @@
+{
+  "name": "Suzanne Stevenson",
+  "homepage": "http://www.cs.toronto.edu/~suzanne",
+  "status": "success",
+  "content": "Suzanne Stevenson's Home Page Suzanne Stevenson Brief Bio Publications Teaching Dept. of Computer Science Cognitive Science Research Community (CoRC) University of Toronto Suzanne Stevenson Professor Department of Computer Science University of Toronto Toronto, Ontario M5S 3G4, CANADA email: suzanne [at] cs [dot] toronto [dot] edu fax: 416-978-1455 office: Pratt Building, Room 283C 6 King's College Road My research is in computational linguistics and cognitive science. I take a highly multidisciplinary approach integrating computational theories and techniques with insights from the fields of linguistics and psycholinguistics. Most of my work is in cognitive science, developing computational cognitive models of how people learn and process language, with a focus on meaning (especially word-level semantics, and pragmatics). My work in CL involves analysis of both social media text and LLMs, informed by cognitive and sociolinguistic principles. Please note that I am not taking on new graduate students at this time.",
+  "content_length": 1028,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:34:38"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Fernando D. Diaz",
+  "homepage": "https://841.io",
+  "status": "success",
+  "content": "Fernando Diaz Fernando Diaz Associate Professor Language Technologies Institute, Carnegie Mellon University Research Scientist Google Research diazf [at] acm [dot] org office: GHC 5405 My research focuses on the design and evaluation of information access systems, including information retrieval (e.g. web search) and recommender systems. This has included developing evaluation metrics, designing algorithms, and understanding the broader, societal implications of these technologies. My recent work spans preference-based evaluation and fairness in ranking, understanding AI's impact on culture industries, retrieval-enhanced machine learning, and tip-of-the-tongue retrieval algorithms. My previous projects have included text summarization in crisis informatics contexts, inferring user intent from mouse cursor behavior, aggregated search, time-sensitive ranking, and core retrieval algorithms. You can learn more about this work on my research page. Detailed biographical information can be found on my curriculum vitae. A complete list of my work is available on my publications page.",
+  "content_length": 1092,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:09:59"
+}

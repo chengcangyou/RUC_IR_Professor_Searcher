@@ -1,0 +1,9 @@
+{
+  "name": "Sascha Hunold",
+  "homepage": "https://hunoldscience.net",
+  "status": "success",
+  "content": "Sascha Hunold HunoldScience Home Publications Contact © 2020. All rights reserved. Built with Hugo Theme Blackburn Sascha Hunold Associate Professor @ TU Wien Education Habilitation (venia docendi), Computer Science. TU Wien, Austria PhD, Computer Science, University of Bayreuth, Germany MSc, Computer Science, Martin Luther University Halle-Wittenberg, Germany Research interests Reproducible Research High-Performance Benchmarking of Parallel Hardware and Software HPC Using MPI (Focusing on Collective Communication) Advanced Parallel Task Scheduling and Optimization Publications Private Publication List DBLP Google Scholar Teaching for the current semester, see here Recent Program Committees IPDPS 2025 CCGrid 2025 ISC 2025 HPDC 2025 CLUSTER 2025 Euro-Par 2025 SC25 SC24 CLUSTER 24 Bench 2024 TPDS Review Board Software tools I use for research ReproMPI PGMPITuneLib Scheduling.jl ParLab@TUWien",
+  "content_length": 902,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:24:44"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Daniel S. Brown",
+  "homepage": "https://www.cs.utah.edu/~dsbrown/index.html",
+  "status": "success",
+  "content": "Daniel S. Brown Research Overview I am an Assistant Professor in the Robotics Center and School of Computing at the University of Utah. Previously, I was a postdoc at UC Berkeley working with Anca Dragan and Ken Goldberg on human-in-the-loop robot learning. I received my PhD in 2020 from the CS department at UT Austin where I was advised by Scott Niekum. My research focuses on robot learning under uncertainty, reward inference from human input, and AI safety. In particular, I've worked on methods that give a robots and other autonomous agents the ability to provide high-confidence bounds on performance when learning a policy from a limited number of demonstrations, ask risk-aware queries to better resolve ambiguities and perform robust policy optimization from demonstrations, learn more efficiently from informative demonstrations, learn from ranked suboptimal demonstrations, even when rankings are unavailable, and perform fast Bayesian reward inference for visual control tasks. Publications CV See the ARIA Lab website for updated news! Daniel_S_Brown",
+  "content_length": 1066,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:57:33"
+}

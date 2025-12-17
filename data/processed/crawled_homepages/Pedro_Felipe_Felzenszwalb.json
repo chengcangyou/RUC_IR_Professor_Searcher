@@ -1,0 +1,9 @@
+{
+  "name": "Pedro Felipe Felzenszwalb",
+  "homepage": "http://cs.brown.edu/~pff",
+  "status": "success",
+  "content": "Pedro Felzenszwalb Pedro Felipe Felzenszwalb Professor of Engineering and Computer Science Office: Barus & Holley 355 Phone: (401) 863-1531 Email: pff (at) brown.edu Office hours: Thursday 1pm-2pm in B&H 355 CV Research My main research interests are in computer vision, artificial intelligence, machine learning, optimization and signal processing. I have worked on a range of different problems within computer vision, including the âlow-levelâ problem of image restoration, the \"mid-level\" problem of image segmentation, and the âhigh-levelâ problem of object recognition. My research involves connections between computer vision and artificial intelligence to a variety of areas including optimization, statistics, and natural language processing. Papers Talk slides Code PhD students and Postdocs 3D printing Teaching Fall 2022: Linear System Analysis (ENGN 1570) Spring 2023: Topics in Optimization (ENGN 2912P) Fall 2023: Linear System Analysis (ENGN 1570) Spring 2024: Pattern Recognition and Machine Learning (ENGN 25220) Person detection in the PASCAL challenge (deformable part model) Curve detection with the min-cover algorithm Random shapes defined by a stochastic context-free grammar Contour completion with belief propagation Mailing address: Box D Brown University 184 Hope St. Providence, RI 02912",
+  "content_length": 1324,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:10:38"
+}

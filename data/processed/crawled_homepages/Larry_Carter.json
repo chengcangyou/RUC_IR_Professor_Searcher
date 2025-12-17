@@ -1,0 +1,9 @@
+{
+  "name": "Larry Carter",
+  "homepage": "https://cseweb.ucsd.edu/~carter",
+  "status": "success",
+  "content": "Larry Carter's Home Page Larry Carter Computer Science and Engineering Dept. University of California, San Diego 9500 Gilman Drive, Mail Code 0404 La Jolla, CA 92093-0404 Email: carter at cs.ucsd.edu I am happily acting as a Professor Emeritus in UCSD's CSE department . I am frequently sighted on campus, but I am not taking on new students. Summer 2005 I taught in UCSD's COSMOS program. Here are some related files. Some research areas I have worked in include: heterogeneous computing, performance programming and hierarchical tiling. Here are some of my papers. Some courses I've taught include graduate algorithms, parallel computation, architecture, and performance programming. Here's a short biography. Personal: A picture from the cover of my CD of new-age-y music.",
+  "content_length": 775,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:45:24"
+}

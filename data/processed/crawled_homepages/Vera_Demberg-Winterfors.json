@@ -1,0 +1,9 @@
+{
+  "name": "Vera Demberg-Winterfors",
+  "homepage": "http://www.coli.uni-saarland.de/~vera",
+  "status": "success",
+  "content": "\\n\\n\\n\\n\"; echo \" \\n\\n\"; } // gibt HTML-Code aus, der direkt hinter dem Hauptteil stehen soll function end_mainpage() { echo \"\\n \\n\\n\"; echo \"\\n\\n\"; } if( !isset($u) ) { $u = $_GET['u']; } if( !isset($i) ) { $i = $_GET['i']; } // Set the whoami variable. This can be passed in one of three ways: // 1. set the $whoami variable from another PHP script and include page.php // 2. have the browser get page.php?id=something // 3. if the ID can't be obtained in either of these ways, default to \"index\" if( !isset($whoami) ) { $whoami = $_GET['id']; } if( !isset($whoami) ) { $whoami = \"index\"; } $pt = readtree(); $pagetype = \"content\"; $pagetitle = $pt->title; if (file_exists(\"contents/$whoami.html\")){ if ($whoami == \"whatsnew\"){ $modtime = strftime(\"%Y-%m-%d\", filemtime(\"contents/news.xml\")); $pwuid_record = posix_getpwuid(fileowner(\"contents/news.xml\")); } else{ $modtime = strftime(\"%Y-%m-%d\", filemtime(\"contents/$whoami.html\")); $pwuid_record = posix_getpwuid(fileowner(\"contents/$whoami.html\")); } } $modname = $pwuid_record[\"name\"]; $contactmail = 'webmaster [at] coli.uni-sb.de'; if( $pt->hasattr(\"stylesheet\") ) { $extra_stylesheet = $pt->getattr(\"stylesheet\"); } // output header if ($whoami == \"whatsnew\") include \"/web/www.coli.uni-saarland.de/html/common_start_utf8.html\"; else include \"/web/www.coli.uni-saarland.de/html/common_start.html\"; echo \"\\n\"; // output navbar $thispage = navigation($pt, $whoami); // output contents start_mainpage(); contents($thispage); end_mainpage(); // for use in footer if (is_object($thispage)) $responsible = $thispage->expandResponsible(); // output footer include \"/web/www.coli.uni-saarland.de/html/common_end.html\"; ?>",
+  "content_length": 1672,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:43:12"
+}

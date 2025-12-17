@@ -1,0 +1,9 @@
+{
+  "name": "Zeev Dvir",
+  "homepage": "http://www.cs.princeton.edu/~zdvir",
+  "status": "success",
+  "content": "Zeev Dvir's Homepage - Home Zeev Dvir's Homepage Home Publications Contact Hi! I'm a Professor jointly appointed by the Computer Science  and Mathematics departments at Princeton University.I have a broad interest in theoretical computer science and mathematics. I am especially interested in computational complexity, pseudo-randomness, coding theory and combinatorics.Download my survey on Incidence theorems and their applicationsHere are some lecture notes on Locally Decodable Codes News: Quanta magazine published a nice article on the Kakeya conjecture covering some of my work.",
+  "content_length": 585,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:54:43"
+}

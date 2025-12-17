@@ -1,0 +1,9 @@
+{
+  "name": "Matteo Sammartino",
+  "homepage": "https://matteosammartino.com",
+  "status": "success",
+  "content": "Matteo Sammartino Senior Lecturer (Associate Professor) in Computer Science Royal Holloway University of London Centre for Programming Languages and Systems University College London (Honorary) Office 2-07, Bedford building, Surrey, TW20 0EX (UK) (+44) 01784 443690 matteo.sammartino [at] rhul.ac.uk short biography I completed my PhD at the University of Pisa in 2013, under the supervision of Prof. Ugo Montanari. In 2015 I moved to Radboud University for a postdoc, and in 2016 I joined the Programming Principles, Logic and Verification group at University College London. In 2020 I joined Royal Holloway, University of London as Lecturer. My research focuses on formal methods for various classes of real-world systems, including concurrent/distributed and infinite-state systems. In recent years, I became interested in the use of artificial intelligence in automated verification. My long-term research plan consists in the use of artificial intelligence to solve challenging real-world modelling and verification problems. news May 27, 2025 My paper with Leo Henry, Thomas Neele and Mohammad Reza Mousavi Compositional Active Learning of Synchronizing Systems through Automated Alphabet Refinement has been accepted at CONCUR 2025!",
+  "content_length": 1239,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:55:44"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Pavel Panchekha",
+  "homepage": "https://pavpanchekha.com",
+  "status": "success",
+  "content": "Pavel Panchekha BlogWBEHerbieGithubPapers/CVShare under CC-BY-SA. Pavel Panchekha I am Pavel Panchekha. I apply programming languages techniques to web browsers and numerical analysis at the University of Utah. Blog WBE Herbie Github Papers/CV News: My student Yumeng will presenting her work on differential fuzzing of 3D-printing software at OOPSLA. News: My collaborator Thomas will be presenting our award-winning work on incremental type-checking at OOPSLA. Web browsers I research web browser internals. Past projects include: Fuzzing layout invalidation Multi-tenant garbage collection Optimizing 2D graphics I am writing a textbook on web browsers, which inspires a lot of these projects. Automated numerics I also work on automatic numerical analysis. Past projects include: Automatic accuracy improvement Synthesis via term rewriting Scalable static accuracy analysis Automatic program tuning Compution over the reals Math library implementation I lead the FPBench and Herbie projects, where a lot of my research is deployed. Students I am currently advising Marisa Kirisame (PhD), Bhargav Kulkarni (PhD), Yumeng He (PhD), Artem Yadrov (PhD), Andrew Riachi (PhD), Jesus Ponce (BS), Jonas Regehr (BS). I have previous advised or mentored Parth Rajeshbhai Desai (BS), Zane Enders (BS), Jackson Brough (BS), Garrett Brothers (BS), Ian Briggs (PhD), Cooper G. Coradeschi (BS), Yash Lad (MS), Pranav Shenoy (MS), Yuvaraj Chesetti (MS), Ayushi Sharma (MS), Oliver Flatt (BS), Nathan Davis (MS), Skyler Griffith (BS), William Shupe (MS), JJ Garzella (BS), David Thien (BS), Adam T. Geller (BS), Jason (Chen) Qiu (BS), Alex Sanchez-Stern (BS).",
+  "content_length": 1645,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:10:24"
+}

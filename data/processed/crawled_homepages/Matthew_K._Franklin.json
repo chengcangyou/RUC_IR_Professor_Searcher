@@ -1,0 +1,9 @@
+{
+  "name": "Matthew K. Franklin",
+  "homepage": "http://www.cs.ucdavis.edu/~franklin",
+  "status": "success",
+  "content": "Matt Franklin at U. C. Davis Matt Franklin Teaching: In Spring 2016, I am teaching ECS 120 (Theory of Computation). Background: I received a Ph.D. in Computer Science from Columbia University in February 1994. Before joining U.C. Davis in July 2000, I worked at various research labs (Xerox PARC in Palo Alto, CA; AT&T Labs in Florham Park, NJ; AT&T Bell Labs in Murray Hill, NJ). My cv is here. Activities: My research interests include a wide variety of topics in cryptology and distributed computing, including protocols for electronic commerce, threshold cryptology, secure distributed computation, combinatorial security, electronic voting, and cryptanalysis. Miscellaneous: Some family pictures",
+  "content_length": 700,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:55:57"
+}

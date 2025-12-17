@@ -1,0 +1,9 @@
+{
+  "name": "Simon Dobson",
+  "homepage": "https://simondobson.org",
+  "status": "success",
+  "content": "Simon Dobson's home on the web Simon Dobson’s home on the web I’m a computer scientist interested in complex and self-adaptive systems, where chains of cause and effect can be difficult to establish. In my research I build the computational tools needed to study and simulate these systems at scale; develop better ways to understand them using advanced analytical techniques; and work on relating them to practical sensing and engineering. I write about various topics in science, computing, research practice, and books, and develop software in (mainly) Python and Lisp. Mastodon confirmation-of-ownership link (invisible) Simon Dobson Aut tace aut loquere meliora silentio",
+  "content_length": 675,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:28:36"
+}

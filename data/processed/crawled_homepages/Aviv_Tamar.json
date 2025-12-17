@@ -1,0 +1,9 @@
+{
+  "name": "Aviv Tamar",
+  "homepage": "https://people.eecs.berkeley.edu/~avivt",
+  "status": "success",
+  "content": "Aviv Tamar Toggle navigation Aviv Tamar @ Technion Home Team Publications Talks Teaching Aviv Tamar Welcome to my homepage! I’m an associate professor at Technion ECE, where I head the Robot Learning Lab. My research focuses on AI and machine learning, with an emphasis on robotics applications. My long term goal is to bring robots into human-centered domains such as homes and hospitals. Towards this goal, some fundamental questions need to be solved, such as how can machines learn models of their environments that are useful for performing tasks, and how to learn behavior from interaction in an interpretable and safe manner. Most of my work falls under the framework of reinforcement learning, and its connections to representation learning and planning. To learn more: Browse our twitter feed for latest research highlights Check out recorded talks Dig in and read our papers Tweets by AvivTamarLab News Jan 2024 Together with Yishay Mansour and Shie Mannor we are writing a book on Foundations of RL. Check out the preprint here! Jan 2023 Position paper with Shie Mannor on Deployable RL ... see all News Site made with Jekyll; Template from Allan Lab. Funding: - ERC-StG (Project BAYES-RL) Contact: avivt at technion.ac.il 458 Fischbach building, Technion Haifa 32000 Israel",
+  "content_length": 1285,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:02:20"
+}

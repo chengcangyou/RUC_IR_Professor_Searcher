@@ -1,0 +1,9 @@
+{
+  "name": "Michael R. Brent",
+  "homepage": "http://mblab.wustl.edu",
+  "status": "success",
+  "content": "The Brent Lab | Home Home People Research Publications News & Events Software Collaborators & Funding Contact Research Focus The Brent Lab is developing and applying computational methods for mapping gene regulation networks, modeling them quantitatively, and engineering new behaviors into them. Mapping Transciption Factor Networks We develop efficient methods for determining which transcription factors can bind and regulate each gene in a genome. Modeling Dynamic Transciption Factor Networks We develop efficient algorithms for predictive modeling of transcriptional profiles as a function of the activity levels of transcription factors. Transcriptome Engineering We develop algorithms for designing modifications to a transcription factor network that will drive the cell into a transcriptional state associated with a desired behavior. Understanding the relationship between binding and regulation We are working to understand why some genes that are bound by a transcription factor are functionally regulated by that factor while others are not. Capsule Regulation and Virulence in Cryptococcus Neoformans We use a powerful combination of molecular and computational techniques to reconstruct the regulatory network that controls C. neoformans capsule synthesis - in order to target this process in antifungal therapy. The Brent Lab Center for Genome Sciences & Systems Biology 4515 McKinley Ave., 4th floor, Room 4307 St. Louis, MO 63110 Tel: 314.286.0210 Fax: 314.935.7302 Email: brent[at]wustl.edu Copyright © 2011 - All Rights Reserved - The Brent Lab Thanks to SGP Templates",
+  "content_length": 1589,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:58:45"
+}

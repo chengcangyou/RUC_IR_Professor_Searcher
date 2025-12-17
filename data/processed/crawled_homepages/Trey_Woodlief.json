@@ -1,0 +1,9 @@
+{
+  "name": "Trey Woodlief",
+  "homepage": "https://treywoodlief.com",
+  "status": "success",
+  "content": "About me - Trey Woodlief Trey WoodliefAssistant Professor, Computer Science. Interested in autonomous system safety. Follow 135 McGlothlin-Street Hall William & Mary Email LinkedIn Github Google ScholarI am an Assistant Professor of Computer Science at William & Mary interested in autonomous system safety. Autonomous systems interact with the physical world and thus are almost always safety critical systems that require careful scrutiny. However, this interaction with the physical world also leads to very different software development and engineering paradigms than typical cyber-only software systems, rendering many of our prior cyber-only tools ill-suited to the task of verifying and validating real-world autonomous systems. My work aims to fill this gap by designing techniques that specifically address the unique issues that lie at the intersection of software engineering and autonomous systems. Prior to joining William & Mary, I was a member of the LESS Lab at the University of Virginia co-advised by Dr. Sebastian Elbaum and Dr. Kevin Sullivan.Outside of research, I am an active volunteer for FIRST, a non-profit organization that provides grade-school students around the world with hands-on STEM education opportunities through robotics competitions. I am an alum of FIRST Robotics Competition Team 1533 Triple Strange, and credit my experience with FIRST as a high school student for pushing me to pursue the field of robotics and my current line of research. Since graduating, I have volunteered at every level of FIRST as a referee. I am the co-creator and developer of the FIRST Tech Challenge Scoring System, FTCLive, that provides live scoring and event management for all FIRST Tech Challenge events.",
+  "content_length": 1730,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:40:47"
+}

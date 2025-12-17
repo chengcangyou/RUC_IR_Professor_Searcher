@@ -1,0 +1,9 @@
+{
+  "name": "Ying Wu 0001",
+  "homepage": "http://users.ece.northwestern.edu/~yingwu",
+  "status": "success",
+  "content": "Professor Ying Wu's Home Page <body> <p>Welcome to Professor Ying Wu's web page at Northwestern University!</p> </body>",
+  "content_length": 119,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:51:36"
+}

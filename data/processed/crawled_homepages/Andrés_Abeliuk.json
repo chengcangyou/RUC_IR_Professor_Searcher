@@ -1,0 +1,9 @@
+{
+  "name": "Andrés Abeliuk",
+  "homepage": "https://aabeliuk.github.io",
+  "status": "success",
+  "content": "About me - Andrés Abeliuk Andrés AbeliukComputational Social Scientist Follow Santiago, Chile University of Chile Twitter Github Google ScholarHi! I am an Assistant Professor in the Department of Computer Science at the University of Chile. My research focuses on understanding the impact of algorithms in society and designing social computing systems by applying behavioral modeling, optimization, game theory, and online experiments to harness collective behavior towards more efficient social outcomes.In 2017, I received my Ph.D in Computer Science from the University of Melbourne under the supervision of two great teachers that shaped my research interests: Pascal Van Hentenryck and Gerardo Berbeglia. Together we worked in the analysis of behavioral models for choice under social influence in cultural markets. We have tackled the problem from a complexity, dynamic evolution and experimental perspective. My thesis focused on understanding, predicting and controlling the negative effects of social influence and algorithmic curation of content on the Web and in cultural markets.After graduating, I became a postdoctoral researcher at MIT Media Lab as a member of the Scalable Cooperation Group, lead by Prof. Iyad Rahwan. There I investigated algorithm theory, computational complexity and combinatorial optimization and its applications in social systems of matching markets (e.g., online dating markets), artificial intelligence and ethics.Then, I took a position as a research scientist at the USC Information Sciences Institute, lead by Prof. Kristina Lerman. At USC, I participated in research collaborations with large multidisciplinary teams developing algorithms and prototypes of socio-technological systems.",
+  "content_length": 1731,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:58:17"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Robert Tappan Morris",
+  "homepage": "https://pdos.csail.mit.edu/~rtm",
+  "status": "success",
+  "content": "Robert Morris Robert Morris Room 32-G972 32 Vassar Street Cambridge, MA 02139, USA rtm@csail.mit.edu I work at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) in the PDOS group. In recent years I've taught 6.S081, 6.824, 6.828, and 6.858. I'm interested in operating systems, networks, distributed systems, and storage systems. Projects I've worked on include Noria, Biscuit, multi-core scalability, Corey, Asbestos, Pastwatch, Ivy, Chord and DHash, RON, Roofnet, and Click. You can find my MIT papers on the PDOS publications page, and my pre-MIT papers here.",
+  "content_length": 584,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:19:12"
+}

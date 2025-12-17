@@ -1,0 +1,9 @@
+{
+  "name": "Gijs Jasper Wijnholds",
+  "homepage": "https://gijswijnholds.github.io",
+  "status": "success",
+  "content": "About me - Gijs Wijnholds Gijs WijnholdsAssistant Professor at Leiden University Follow Utrecht, NL Email Github Google Scholar ORCIDI’m an assistant professor (tenured) in the Text Mining and Retrieval Group in Leiden University, at the Leiden Institute for Advanced Computer Science (LIACS).Before I worked as a postdoctoral researcher at the Institute for Language Sciences at Utrecht University, as a member of the research project “A composition calculus for vector-based semantic modelling with a localization for Dutch” led by Prof. Dr. Michael Moortgat. The project (funded by the NWO) aims at developing novel techniques for modelling sentences as vectorial representations, with a specific focus on specificities of the Dutch language.Recently I defended my PhD that I pursued in the Theory Group of the School of Electronic Engineering and Computer Science at Queen Mary University of London. Under the supervision of Mehrnoosh Sadrzadeh I worked on several issues in compositional distributional semantics. In particular I focused on sentence-level representations involving ellipsis and anaphora, developing a new theoretical model as well as studying its experimental implications (see my publications).Before starting the PhD in London, I received my masters degree in Logic from the Institute of Logic, Language and Computation in Amsterdam in 2014, and a bachelor’s degree in Artificial Intelligence at Utrecht University in 2011.In between finishing the masters and starting the PhD, I worked for a while at the Software Improvement Group, where I was co-author of two books on software (team) quality (see here and here).",
+  "content_length": 1640,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:14:39"
+}

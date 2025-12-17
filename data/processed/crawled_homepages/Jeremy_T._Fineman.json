@@ -1,0 +1,9 @@
+{
+  "name": "Jeremy T. Fineman",
+  "homepage": "http://people.cs.georgetown.edu/~jfineman",
+  "status": "success",
+  "content": "Jeremy T. Fineman Jeremy T. Fineman Professor Wagner Chair in Computer Science Department of Computer Science Georgetown University Home Publications Teaching Contact Research Interests: My research interests primarily lie in algorithm design and analysis, focusing on parallel algorithms, scheduling, and memory-efficient or large-data algorithms. I am also interested in classic (sequential) algorithms and data structures. For more details, please view my CV. Bio: Before starting at Georgetown in 2011, I was a Computing Innovation Postdoctoral Fellow at Carnegie Mellon University, working with Guy Blelloch. I received my Ph.D. from the Massachusetts Institute of Technology, where Charles Leiserson acted as my advisor. I received my A.B. from Dartmouth College.",
+  "content_length": 769,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:29:29"
+}

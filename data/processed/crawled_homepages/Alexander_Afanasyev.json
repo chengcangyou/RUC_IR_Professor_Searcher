@@ -1,0 +1,9 @@
+{
+  "name": "Alexander Afanasyev",
+  "homepage": "https://users.cs.fiu.edu/~afanasyev",
+  "status": "success",
+  "content": "Alex Afanasyev, Ph.D. Alex Afanasyev Assistant Professor School of Computing and Information SciencesFlorida International University 11200 SW 8th St, PG6 140D Miami, FL 33199 aa@cs.fiu.edu +1 (305) 348-4960 I am an Assistant Professor in the School of Computing and Information Sciences in Florida International University. My main research focus is on the next generation Internet architecture as part of the Named Data Networking (NDN) project; and my research interests include a variety of topics that are vital for the success of NDN, including scalability of name-based routing, auto-configuration, distributed data synchronization, application and network security. I’m also leading the development effort of the overall NDN codebase. My particular interest right now is application of Information-Centric Networking (ICN) to Internet-of-Things (IoT), specifically realizing the vision of IoT where applications securely communicate with and about “things” without being concerned about specific details of the devices/controllers that represent things. I received my B.Tech. and M.Tech. degrees in Computer Science from Bauman Moscow State Technical University, Moscow, Russia in 2005 and 2007, respectively. I also got M.S. degree in Computer Science at the University of California, Los Angeles in 2012 and in 2013 got my Ph.D degree in Computer Science from UCLA (see my profile page for more details).",
+  "content_length": 1414,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:53:18"
+}

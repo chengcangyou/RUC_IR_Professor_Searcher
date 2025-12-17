@@ -1,0 +1,9 @@
+{
+  "name": "R. Sekar 0001",
+  "homepage": "http://seclab.cs.sunysb.edu/sekar",
+  "status": "success",
+  "content": "R. Sekar R. Sekar SUNY Empire Innovation Professor of Cyber Security Professor, Stony Brook University (2006--18) Assistant/Associate Professor, Stony Brook and Iowa State Universities (1996--06) Research Scientist, Bellcore (1991--96) Education Ph.D., Computer Science, Stony Brook University (1991) B. Tech, Electrical (Power) Engineering, Indian Institute of Technology, Madras (1986) Publications CV Google Scholar Secure Systems Lab Students Research My research is motivated by practical problems in software and systems security. It emphasizes building real systems, while drawing on principles and techniques from programming languages, compilers, and algorithms. Current Projects Websheets: Re-imagining web application development for data owners. eAudit: Efficient syscall-granularity provenance recording for Linux. APT detection: Detecting and reconstructing advanced and stealthy cyber attack campaigns. Binary analysis: Scalable and sound techniques for static binary analysis and instrumentation. Scripting, Query, and Domain-specific Languages E*, an event stream processing language for cyber attack detection. Q*, the programming/query language underpinning Websheets. FQ, forensic query language for cyber attack investigation and threat hunting. DML, a language for teaching Discrete Math and CS Foundations. Teaching Foundations of Computer Science (CSE 150) Compiler Design (CSE 304/504) System Security (CSE 509) Algorithms (CSE 548) Last Modified 2025",
+  "content_length": 1476,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:14:01"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Geraint Jones",
+  "homepage": "http://www.cs.ox.ac.uk/people/geraint.jones",
+  "status": "success",
+  "content": "Geraint Jones | Department of Computer Science Skip to main content University of Oxford Department of Computer Science HomeAbout UsPeopleEmeritus FacultyGeraint JonesGeraint Jones Geraint Jones Emeritus FellowEmeritus Fellow, Wolfson CollegeCollege Lecturer, New CollegeE: Geraint.Jones@wolfson.ox.ac.ukThemes:Programming LanguagesInterestsI am interested in hardware design methods that can be used to help control the complexity of large designs, and to improve the designer's confidence in their correctness. Some of this work has involved a relational programming framework called Ruby which is intended for regular (array-structured) synchronous hardware designs; the derivation of Ruby designs from specifications are modelled on calculational approaches to writing functional programs. Before this I was involved in the design of the occam programming languages and the transputer, and worked on models of communicating sequential processes. Those of my publications of which on-line copies still exist include some papers about Ruby, papers about occam, and few other odd things.ActivitiesAlgebra of ProgrammingAbout UsPeopleFacultyResearchStudentsProfessional ServicesVisiting ProfessorsEmeritus FacultyAssociate MembersVacanciesWomen in the departmentEquality, diversity and inclusionSupport UsOur HistoryContact Us Back to Top",
+  "content_length": 1338,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:13:53"
+}

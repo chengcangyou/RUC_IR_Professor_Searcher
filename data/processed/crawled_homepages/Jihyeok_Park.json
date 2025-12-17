@@ -1,0 +1,9 @@
+{
+  "name": "Jihyeok Park",
+  "homepage": "https://plrg.korea.ac.kr",
+  "status": "success",
+  "content": "PLRG @ Korea University - PLRG @ Korea University Welcome to Programming Language Research Group (PLRG) at Korea University! Our research goal is to help developers design and implement high-quality software using diverse programming language technologies. Especially our research interests are as follows: program analysis for automatically understanding program behaviors and detecting bugs and vulnerabilities. mechanized specification to fill the gap between human-readable specifications and machine-friendly software. program synthesis to lessen the burden of software development by automatically generating programs. automated testing to generate test cases for software automatically on behalf of humans. We are actively recruiting motivated graduate/undergraduate students and postdocs. For more detailed information, please see Research and Publications. Contact Information I’m recruiting motivated graduate and undergraduate students, as well as postdocs, interested in programming languages and software engineering. See Research and Publications for details. Room 507, IT & General Education Center (정운오IT교양관) Dept. of Computer Science and Engineering Korea University Anam-dong 5-ga, Seongbuk-gu Seoul 136-713, Korea (office) +82) 02-3290-4602 Search Cancel",
+  "content_length": 1273,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:30:35"
+}

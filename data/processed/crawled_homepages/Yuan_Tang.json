@@ -1,0 +1,9 @@
+{
+  "name": "Yuan Tang",
+  "homepage": "http://people.csail.mit.edu/yuantang",
+  "status": "success",
+  "content": "Yuan Tang Yuan Tang School of Computer Science, School of Software Fudan University E-mail: Address: Phone: yuantang AT fudan DOT edu DOT cn yuantang AT csail DOT mit DOT edu A203 Computer Center, Fudan University Shanghai 200433, P. R. China +86-139-1704-7105 A copy of my CV, Research Statement, Teaching Statement Brief Bio I am an associate professor in the School of Computer Science, School of Software, Fudan University. I used to be a visiting scientist of MIT CSAIL from 2009 to 2015 (back and forth). I got a PhD in computer science from the Institute of Software, Chinese Academy of Science, and BS in computer science from Peking University. Research Interests Performance Science, an interdisciplinary research area at the intersection of parallel and concurrent computing, computational and data science, programming languages, systems and theory. I am particularly interested in pursuing scalable and portable performance for real-world applications and algorithms on modern computing systems by exploiting the balance among time, or equivalently parallelism for parallel algorithms, space, caching and communication. Teaching Introduction to Computer System (U) Instructor, a two-semester course taught every year since 2012 Recognized as an Outstanding Class of Fudan University Performance Engineering of Software Systems (U) Instructor, a one-semester course taught every year since 2012 Research Projects Publications Professional Services Reviewer ACM Transactions on Architecture and Code Optimization (TACO), since 2015",
+  "content_length": 1542,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:53:19"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Viet Tung Hoang",
+  "homepage": "http://www.cs.fsu.edu/~tvhoang",
+  "status": "success",
+  "content": "Viet Tung Hoang- Homepage Viet Tung Hoang I am an associate professor in the Department of Computer Science at Florida State University, USA. My research area is cryptography, with a practice-oriented theme. I am interested in broadening the theory of cryptography to understand the exact security of real-world schemes and narrow the performance gap between provable-security designs and heuristic ones. Office: 261 Love Building, Florida State University, Tallahassee, FL 32306Email: tvhoang@cs.fsu.edu Research: Papers    CV Teaching: CIS 5371 (Cryptography). Office hours: MonWed 2:30pm-3:30pm via Zoom.",
+  "content_length": 607,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:43:32"
+}

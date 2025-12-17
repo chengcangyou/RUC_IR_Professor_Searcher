@@ -1,0 +1,9 @@
+{
+  "name": "Wojciech Czerwinski",
+  "homepage": "https://www.cs.ox.ac.uk/seminars/1696.html",
+  "status": "success",
+  "content": "Department of Computer Science, University of Oxford: Separability of Reachability Sets of Vector Addition Systems Skip to main content University of Oxford Department of Computer Science Home Events Verification Seminars Separability of Reachability Sets of Vector Addition Systems Separability of Reachability Sets of Vector Addition SystemsWojciech Czerwinski ( University of Warsaw )26Oct11:00 26th October 2016 ( week 3, Michaelmas Term 2016 )Room 441, Wolfson BuildingGiven two families of sets F and G, the separability problem of sets from a class G by sets from a class F asks whether for two given sets U, V in G there exists a set S in F such that U is included in S and V has an empty intersection with S. We show that separability problem of reachability sets of Vector Addition Systems by both modular and unary sets is decidable. Short bio Wojciech Czerwinski is an Assistant Professor at the University of Warsaw, where he obtained his PhD in 2013.  He has also been a postdoctoral researcher at the University of Bayreuth.  His main research interests are in the areas of automata theory, logic, verification and database theory. Seminar SeriesVerification SeminarsSee alsoConcurrencyHardware VerificationProbabilistic Model CheckingProbabilistic Verification for Systems BiologySecurityAutomated VerificationCoordinatorsAlessandro AbateAgustín Martínez SuñéRajarshi RoyNews & EventsEventsUpcoming eventsOutreach eventsSeminars by SeriesStrachey Lectures Back to Top",
+  "content_length": 1483,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:47:15"
+}

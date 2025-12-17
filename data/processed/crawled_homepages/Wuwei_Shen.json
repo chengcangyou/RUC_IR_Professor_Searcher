@@ -1,0 +1,9 @@
+{
+  "name": "Wuwei Shen",
+  "homepage": "https://cs.wmich.edu/~wwshen",
+  "status": "success",
+  "content": "Welcome to Wuwei Shen's homepage I am a Professor in the Department of Computer Science at Western Michigan University. I got my Phd degree from Dept of EECS, the University of Michigan. Research: Software Development Process, Software Model Design and Analysis, CASE Tools, Object-Oriented Programming Language, Software Verification. Here is my main publication list. Teaching: CS285: Java(W02). CS485: Programming Language(W03, SP04, SP05, SP06). CS581: Compiler Construct(SP05, SP06). CS595/CS560: Object-Oriented Software Design (W02, F02, F03, F04, F05). CS660: Software Engineering I: Formal Specification of Software Systems (F02, W03, F04, F05, F06) Project: UML Validation Tool: This tool is used to help a software developer to find errors in his/her UML model. ICER Tool: A tool supports the conformance checking between a profile and an application model. Hobby: I dont have many hobbies. But watching sports games is the most favorite thing I would like to do during my spare time. I am a big Michigan Wolverine fan! Here you can see my photos. Email: wshen AT wmich DOT edu",
+  "content_length": 1088,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:47:56"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Patrik Haslum",
+  "homepage": "https://cs.anu.edu.au/people/patrik-haslum",
+  "status": "success",
+  "content": "Patrik Haslum | ANU School of Computing School Sharepoint College Sharepoint ANU College of Systems & Society Search this site Search this site (powered by Google) Powered by Google Close search Research AI planning, with a focus on plan quality optimisation; optimisation and AI for decision support. Student projects Story planning: unlimiting creativity Optimal troubleshooting (and other tractable POMDPs) Efficient validation and presentation of policies for MDPs These are mainly intended for undergraduate, honours and masters research projects, but some have the potential to be PhD topics. I can also supervise a number of other projects related to AI planning. Publications and resources Nir, Dan, Christian and I have written a book on PDDL. There is also a much shorter tutorial on Writing Planning Domains and Problems in PDDL that I wrote a long time ago. For recent publications, see google scholar profile and dblp entry. Older publications and other planning research resources (source code, domain models, etc) can be found at http://users.cecs.anu.edu.au/~patrik/. The INVAL plan validator. bars search times",
+  "content_length": 1127,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:09:35"
+}

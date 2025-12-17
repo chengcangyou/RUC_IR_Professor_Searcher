@@ -1,0 +1,9 @@
+{
+  "name": "Iain Murray 0001",
+  "homepage": "http://homepages.inf.ed.ac.uk/imurray2",
+  "status": "success",
+  "content": "Iain Murray Iain Murray Professor of Machine Learning and Inference, ANC, School of Informatics, University of Edinburgh. Contact: i.murray@ed.ac.uk. Background/bio/interests. Currently highlighting: Density estimation: Maximum Likelihood Diffusions, Spline Flows, NADE. Inference: Sequential Neural Likelihood and Pseudo-Marginal Slice Sampling. Browser extension: redirect links to PDFs on arXiv et al. to the paper’s abstract page. An old cartoon sketch of some research interests. Main content: Group (PhD students) Publications Teaching, including video lectures on Machine Learning, MCMC Edinburgh Informatics roles: Personal Tutor, MLPR Machine Learning course, Project supervision. Code, Computer notes Information for prospective group members Other fun things: NeurIPS submission times; oranges and lemons; my brain; Juggling. My other webpages and useful links. Mastodon Accessibility—Iain Murray’s homepage, contact details",
+  "content_length": 935,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:22:13"
+}

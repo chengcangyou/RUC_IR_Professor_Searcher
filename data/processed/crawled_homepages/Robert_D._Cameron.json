@@ -1,0 +1,9 @@
+{
+  "name": "Robert D. Cameron",
+  "homepage": "http://www.cs.sfu.ca/~cameron",
+  "status": "success",
+  "content": "Home Page - Robert D. Cameron Prof. Rob Cameron Welcome to my personal home page! Here are some useful links. My CS Faculty Profile is up-to-date as of Dec. 2015. The Parabix website documents my ongoing research into high-performance (gigabyte per second) streaming text processing. I spend a lot of time working with the LLVM Compiler Infrastructure as the back-end for Parabix technology. My spinoff company is International Characters, Inc. Potential Graduate Students! If you are interested in graduate studies working with me, make sure that you use an important keyword such as Parabix or icgrep in your email! Student Entrepreneurs: Sell Our Software We develop high-performance text-processing applications like icgrep using the Parabix-LLVM framework. If you are interested in starting your own software business building on unique made-at-SFU technology, let me know.",
+  "content_length": 878,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:18:32"
+}

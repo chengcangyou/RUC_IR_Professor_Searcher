@@ -1,0 +1,9 @@
+{
+  "name": "Liuba Shrira",
+  "homepage": "http://www.cs.brandeis.edu/~liuba",
+  "status": "success",
+  "content": "Liuba Shrira Liuba Shrira E-mail: liuba@brandeis.edu Professor Computer Science Department Brandeis University office Volen Center, Room 258, 415 South Street Waltham, MA 02454, USA Phone : (781) 736 2704 Fax : (781) 736 2741 Research Interests I am interested in the design and evaluation of system architectures that provide consistency and reliability without compromising on performance. For example, how to provide high-performance reliable and available storage in adversarial environment, how to make long-lived consistent past states available to an application without performance penalty, how to upgrade without down-time a storage system as it evolves over time. I am helping organize SIGMOD 2022, OSDI 2022, EuroSys 2022, FAST 2023, SOSP 2023, EuroSys 2023, USENIX ATC'23. Please consider submitting! Short bio Former Students and Postdocs Nikolaos Tsikoudis (first job Datometry), Ross Shaull (first job NuoDb), Magnus Bjornsson (first job EMC), Hong Tian (first job Amazon), Dong Siying (first job Microsoft) , Hao Xu (first job Startup), Georges Brun-Cottan (first job EMC), Paaras Kumar (first job EMC) Teaching: COSI 31A, Computer Systems Structure and Organization COSI 146a, Fundamentals of Computer Systems COSI 147a, Distributed Computer Systems and Networks COSI 220, Advanced Topics in Computer System Publications DBLP",
+  "content_length": 1342,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:47:41"
+}

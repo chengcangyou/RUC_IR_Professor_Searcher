@@ -1,0 +1,9 @@
+{
+  "name": "Paul Feautrier",
+  "homepage": "http://perso.ens-lyon.fr/paul.feautrier",
+  "status": "success",
+  "content": "Paul Feautrier Paul Feautrier 1  How to reach me Paul Feautrier, Emeritus Professor of Computer Science Ecole Normale Supérieure 45 rue d’Ulm F 75230 Paris Cedex 05 Please note that my title as Emeritus Professor means that I am retired. As such, I am no longer allowed to propose interships or advise PhD students.Since my move from Lyon to Paris, I am slowly rebuilding my webpage. Beware: some informations may still be obsolete.Electronic Mail feautrier arrobas ens dot fr Paul dot Feautrier arrobas ens-lyon dot fr Paul dot Feautrier arrobas inria dot fr Old e-mail addresses should still reach me, for a time. Phone Numbers voice:+ 33 1 44 32 21 67 cellular:+ 33 6 13 56 56 16 fax:+ 33 4 72 72 80 80 CV, in French2  Research Interests Today, my research is centered about all aspects of parallel programming, including automatic parallelization, parallel programs verification and optimization, and high-level hardware synthesis. My work is done within the Parkas team of Ecole Normale Supérieure and INRIA Paris. Publications Recent Presentations The Polytope Model, Past, Present, Future New Architectures, New Compilation Problems The Care and Feeding of Polyhedra Static Analysis of X10 Prgrams Clock and Barrier Removal Syntol An Ancient but Interesting Paper 3  Software Pip c2fsm Known bugs and problems 4  Courseware These slides are posted here in the hope that they migth be useful. However, I make no claim about their correctness or completeness. In fact, I am quite sure they contains numerous errors, which I am willing to correct on demand.Parallel Code Generation, in French. Automatic Parallelization Operation Research A First Course on Compilation This document was translated from LATEX by HEVEA.",
+  "content_length": 1722,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:09:45"
+}

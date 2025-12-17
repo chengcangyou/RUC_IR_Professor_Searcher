@@ -1,0 +1,9 @@
+{
+  "name": "Fan Zhong",
+  "homepage": "https://cvfzhong.github.io",
+  "status": "success",
+  "content": "Fan Zhong Fan Zhong （钟 凡） School of Computer Science and Technology Shandong University, Qingdao EMail: zhongfan@sdu.edu.cn I'm currently an associate professor at Shandong University. I received my Ph.D degree from State Key Lab. of CAD&CG, Zhejiang University in 2010. My research interests include image matching, segmentation, and visual representation, etc. Qingnan Fan, Fan Zhong, Dani Lischinski, Daniel Cohen-Or, Baoquan Chen: JumpCut: Non-Successive Mask Transfer and Interpolation for Video Cutout, ACM Transactions on Graphics, 2015, VOL. 34(6). ( In SIGGRAPH Asia' 2015 ) [.PDF, Project] Fan Zhong, Song Yang, Xueying Qin, Dani Lischinski, Daniel Cohen-Or, Baoquan Chen: Slippage-free Background Replacement for Hand-held Video, ACM Transactions on Graphics, 2014, VOL. 33(6). ( In SIGGRAPH Asia' 2014 ) [.PDF, Project] Fan Zhong, Xueying Qin, Qunsheng Peng, Xiangxu Meng: Discontinuity-Aware Video Object Cutout, ACM Transactions on Graphics, 2012, VOL. 31(6), pp 175:1-175:10. ( In SIGGRAPH Asia' 2012 ) [.PDF, Project] Fan Zhong, Xueying Qin, Qunsheng Peng: Robust image segmentation against complex color distribution, The Visual Computer, 2011, VOL. 27, pp 707-716. ( In Computer Graphics International' 2011 ) [.PDF] Fan Zhong, Xueying Qin, Qunsheng Peng: Transductive Segmentation of Live Video with Non-Stationary Background, In CVPR 2010, pp 2189-2196. (.PDF) Fan Zhong, Xueying Qin, Jiazhou Chen, Wei Hua, Qunsheng Peng: Confidence-based Color Modeling for Online Video Segmentation, In ACCV 2009, pp 697-706 (.PDF). 钟凡，秦学英，陈佳舟，莫铭臻，彭群生：在线视频分割实时后处理，计算机学报，2009，VOL. 32 (2)，pp 261-267。(.PDF).",
+  "content_length": 1611,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:09:04"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Mark Zhao",
+  "homepage": "https://home.cs.colorado.edu/~myzhao",
+  "status": "success",
+  "content": "Mark Zhao myzhao@colorado.edu eccr 1b26 engineering center boulder, co office hours basil publications scholar linkedin I am an Assistant Professor of Computer Science at the University of Colorado Boulder, where I lead the Boulder AI and Systems Infrastructure Lab (BASIL). I build computer systems to train and deploy large-scale ML models. My research focuses on end-to-end ML pipelines, aiming to improve their scalability, efficiency, and security by co-designing the many interacting systems that comprise them. My interests span the computing stack – including systems, databases, architecture, and security – and their intersection with machine learning. I completed my Ph.D. in Electrical Engineering at Stanford University, advised by Christos Kozyrakis. I was a Visiting Researcher in the FAIR and infrastructure teams at Meta from 2020-2022, where I built data systems for Meta’s ML training pipelines. I received my B.S. in Electrical and Computer Engineering from Cornell University, where I worked with Ed Suh. Prospective Students: I have multiple PhD openings in my group. I am also looking for motivated graduate students and undergraduate researchers at CU Boulder. Please reach out!",
+  "content_length": 1202,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:53:45"
+}

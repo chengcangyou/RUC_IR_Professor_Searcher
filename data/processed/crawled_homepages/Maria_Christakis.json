@@ -1,0 +1,9 @@
+{
+  "name": "Maria Christakis",
+  "homepage": "https://mariachris.github.io",
+  "status": "success",
+  "content": "Maria Christakis Maria Christakis About Publications Group Teaching Software Current Position Since September 2022, I am a full professor at the TU Wien Faculty of Informatics in Vienna, Austria, where I lead the Rigorous Software Engineering Group and the Software Engineering Research Unit at the Information Systems Engineering Institute. Research Interests My research goal is to develop theoretical foundations and practical tools for building more reliable and usable software and increasing developer productivity. I am primarily interested in software engineering and formal methods. I particularly like investigating topics in automatic test generation, program analysis, and software verification. My tools and techniques explore novel ways in writing, specifying, verifying, testing, and debugging programs in order to make them more robust while improving the developer experience. News I am honored to receive an Ethereum Foundation Grant on Systematic Testing of zkVMs! We are grateful to receive an Aztec Award (joint with Diligence Security) for detecting soundness and completeness bugs in the Noir zero-knowledge pipeline with our tool Circuzz (CCS'25)! I will be giving a keynote at SE'26! Open Positions I am hiring Ph.D. students and post-doctoral researchers. If you are interested, please send me your CV. Curriculum Vitae A PDF version of my CV can be found here. Mail TU Wien Univ. Prof. Dr. Maria Christakis Favoritenstraße 9 / E194-01 Office HC0201 1040 Wien Austria Email maria.christakis@tuwien.ac.at Phone +43 1 58801-194102 Last updated: 29 Oct 2025 Data Protection at TU Wien",
+  "content_length": 1607,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:52:17"
+}

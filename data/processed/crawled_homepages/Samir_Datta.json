@@ -1,0 +1,9 @@
+{
+  "name": "Samir Datta",
+  "homepage": "http://www.cmi.ac.in/~sdatta",
+  "status": "success",
+  "content": "Samir Datta Samir Datta Home Students Complexity Networks Wordle! My Precious I am a professor at the Chennai Mathematical Institute. My broad area of interest is Theoretical Computer Science and I specialize in Computational Complexity Theory. I used to dabble in Computer Networks. Here is a list of my publications in Complexity and in Networks. Here is a list of my students, present and past. On a personal note, here are some photographs and here's My Precious. My work has mainly been focused on computational complexity, in particular the bounded space complexity of various graph problems, especially when restricted to planar graphs and related graph classes such as bounded tree width, bounded genus, H-minor free etc. The problems range from very simple like reachability, to NP-hard problems like Steiner Tree via intermediate ones like restricted versions of the circuit value problem, embedding on surfaces, matching problems and graph isomorphism. I have also worked in circuit complexity - mainly in providing alternative characterizations and proving properties of arithmetic circuits. Other sporadic ventures include complexity aspects of game theory, proof theory and numerical analysis. Apart from interests in these and related areas I am open to problems which have the possibility of proving complexity bounds for new problems or applying ideas from graph theory. This template is from styleshout.",
+  "content_length": 1421,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:23:14"
+}

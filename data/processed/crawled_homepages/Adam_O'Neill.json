@@ -1,0 +1,9 @@
+{
+  "name": "Adam O'Neill",
+  "homepage": "https://groups.cs.umass.edu/oneill",
+  "status": "success",
+  "content": "Adam O'Neill – Assistant Professor at College of Information & Computer Sciences University of Massachusetts Amherst Search Google Appliance Enter the terms you wish to search for. Links to common UMass Amherst services and features College of Information and Computer Sciences Go.UMass Email SPIRE Moodle Blackboard Learn UDrive People Finder I am an Assistant Professor at the College of Information and Computer Sciences, University of Massachusetts Amherst. I am affiliated with the UMass Cybersecurity Institute. My main research interest is cryptography, in particular the design and analysis of protocols with novel security or functionality properties relevant in emerging applications of cryptography to other areas such as databases, networking, and machine learning. I am also interested in improving the analyses of existing, widely-used protocols. You can find some statistics about my research on my Google scholar profile.More specifically, topics I am working on include:Searchable encryptionAggregate and threshold signaturesIdealized modelsFunctional encryption",
+  "content_length": 1079,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:29:09"
+}

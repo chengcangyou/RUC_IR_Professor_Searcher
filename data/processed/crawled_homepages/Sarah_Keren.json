@@ -1,0 +1,9 @@
+{
+  "name": "Sarah Keren",
+  "homepage": "https://sarahk.cs.technion.ac.il",
+  "status": "success",
+  "content": "Prof. Sarah Keren | Home page Sarah Keren is a senior lecturer (assistant professor) at the Computer Science Faculty at the Technion, Israel Institute of Technology. Before joining the Technion, she was postdoctoral fellow at the Harvard School of Engineering and Applied Sciences and the Hebrew University School of Computer Science and Engineering. The overall objective of Sarah’s research in the area of artificial intelligence (AI) is multi-agent environment design which takes into account the constraints, limitations, and capabilities of the different agents in an AI system and finds the best way to design their environment so that it complements the agents’ capabilities and compensates for their limitations. Sarah’s work brings the power of model-based reasoning and decision making under uncertainty to solve the automated design problem, as well as to interpret the behaviors of the AI agents. She is also using methods from multi-agent systems, multi-agent reinforcement learning and game theory. The long-term goal of Sarah’s research is to provide the theoretical foundations for designing AI systems that are capable of effective partnership in sustainable and efficient collaborations of automated agents as well as of automated agents and people.  more about me At the Technion I lead the Collaborative AI and Robotics Lab (CLAIR Lab). PUBLICATIONS Matthias Gerstgrasser, Tom Danino, and Sarah Keren, \"Selectively Sharing Experiences Improves Multi-Agent Reinforcement Learning\" Adi Amuzig, David Dovrat and Sarah Keren, \"Value of Assistance for Mobile Agents\" Sarah Keren, David Wies and Sara Bernardini, \"Helpful Information Sharing for Partially Informed Planning Agents\" all publications NEWS & EVENTS",
+  "content_length": 1726,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:24:26"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Alexander Herzog",
+  "homepage": "http://www.alexherzog.net",
+  "status": "success",
+  "content": "Dr. Alexander Herzog I’m a computational social scientist who specializes in using machine learning and natural language processing to study political and social problems. My work is at the intersection of political science and computer science, with a focus on comparative politics, coalition governance, and developing scalable solutions to process and extract knowledge from large volumes of unstructured data, such as legislative speeches and social media. My current position is Research Associate at the Chair for Empirical Political Science at the University of Bamberg. Before joining the University of Bamberg, I received my Ph.D. in Political Science from New York University, taught at the London School of Economics, and was a lecturer in Computer Science in the School of Computing at Clemson University.",
+  "content_length": 817,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:53:24"
+}

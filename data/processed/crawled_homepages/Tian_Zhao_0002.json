@@ -1,0 +1,9 @@
+{
+  "name": "Tian Zhao 0002",
+  "homepage": "http://jiangxi.cs.uwm.edu",
+  "status": "success",
+  "content": "Tian Zhao's Homepage Tian Zhao Dept. of EECS EMS 1145 UW Milwaukee 3200 N Cramer St Milwaukee, WI 53211 Ph: 414.229.5682 Fax: 414.229.2769 tzhao AT uwm DOT edu I'm currently an Associate Professor at the Computer Science Department of the University of Wisconsin-Milwaukee . Teaching CS 431 Programming language concepts CS 251 Intermediate computer programming CS 738Program analysis CS 552Object-oriented programming CS 536/361 Software engineering CS 351 Data structures and algorithms CS 201 Introductory computer programming CS 657/790Software testing and quality assurance CS 657/790Parallel programming CS 535 Algorithm design and analysis Education Ph.D. in Computer Science, Purdue University (08/02). Thesis Advisor: Prof. Jens Palsberg. M.S.E.E. Electrical and Computer Engineering, Purdue University (05/01). M.S. Computer Science, Purdue University (05/99). M.S. Economics, Purdue University (05/98). B.S. International Trade and Finance, ZhongShan University (07/94). Research Interests Programming Languages, Type Systems, Type Inference, Static Program Analysis, Object-Oriented Programming. I am currently interested domain specific programming, program analysis, dynamic languages, and geospatial data semantics. Publications DeepDSL: a domain specific language for deep convolutional neural networks. Arrows: an asynchronous programming library for JavaScript Push-pull asynchronous streaming GIS research",
+  "content_length": 1424,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:38:23"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Ravi Anand",
+  "homepage": "https://www.iiitd.ac.in/ravianand",
+  "status": "success",
+  "content": "IIIT-Delhi Skip to main content -A A A+ AA Ravi Anand Ravi Anand Assistant Professor (CSE) Ph.D. (2021), IIT Kharagpur Contact Details 011-26907466 ravi.anand@iiitd.ac.in Web Profile A-503 (R&D Block) Profile Dr. Ravi Anand earned his Ph.D. from IIT Kharagpur in 2021 and subsequently held positions as a Postdoctoral Researcher at ISI Kolkata and the Graduate School of Information Sciences, University of Hyogo. His primary research interests lie in the cryptanalysis of symmetric ciphers, spanning both classical as well as quantum framework. He also works in design of ciphers, particularly those tailored for the demands of the 5G Advanced era. Notably, his cipher design, Rocca-S, is currently under consideration by the Internet Engineering Task Force (IETF) for standardization in Transport Layer Security (TLS) protocols, with support from KDDI Research, Japan. Dr. Anand is actively engaged as a reviewer for premier cryptography conferences and journals. Research Interests Classical and quantum cryptanalysis of symmetric ciphersDesign of symmetric Ciphers Teaching Interests Cryptography - Classical and QuantumQuantum ComputingCryptanalysis Affiliated Centres & Labs",
+  "content_length": 1180,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:16:00"
+}

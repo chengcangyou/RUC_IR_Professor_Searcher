@@ -1,0 +1,9 @@
+{
+  "name": "Vinayak A. Rao",
+  "homepage": "https://varao.github.io",
+  "status": "success",
+  "content": "Vinayak Rao Vinayak Rao Department of Statistics Home People Publications Teaching OnlineTeachingResources Associate Prof. of Statistics & Comp. Sci. (by courtesy) Contact MATH 508 150 N University St, Purdue Univ. West Lafayette, IN 47907 Phone: 765-494-3956 Fax: 765-494-0058 varao (at) purdue.edu cv google scholar github flickr Research Interests: Bayesian nonparametrics: Dependent nonparametric models, MCMC methods and deterministic approximations for efficient inference in nonparametric models Continuous time stochastic processes: MCMC methods for inference in Markov jump processes and continuous time Bayesian networks Point processes: Nonstationary renewal processes and repulsive point processes Markov chain Monte Carlo for doubly intractable problems Machine learning Select recent publications: Banerjee, I., Honnappa, H., and Rao, V.A. (2025) Offline Estimation of Controlled Markov Chains: Minimaxity and Sample Complexity Operations Research [abs] Beraha, M., Favaro, S. and Rao, V.A. (2024) MCMC for Bayesian nonparametric mixture modeling under differential privacy Journal of Computational and Graphical Statistics [pdf] Awan, J., and Rao, V.A. (2023) Privacy-aware rejection sampling Journal of Machine Learning Research [abs] Ju, N., Awan, J., Gu R. and Rao, V.A. (2022) Data augmentation MCMC for bayesian inference from privatized data Advances in Neural Information Processing Systems [abs] Zhang, B. and Rao, V.A. (2020) Efficient parameter sampling for Markov jump processes Journal of Computational and Graphical Statistics [arxiv:1704.02369]",
+  "content_length": 1573,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:43:52"
+}

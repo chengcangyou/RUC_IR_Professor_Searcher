@@ -1,0 +1,9 @@
+{
+  "name": "Alexey Onufriev",
+  "homepage": "http://people.cs.vt.edu/onufriev",
+  "status": "success",
+  "content": "Dr. Alexey Onufriev Home Research Lab members Teaching Publications Software Molecular biophysics Alexey Onufriev Professor, Departments of Computer Science and Physics. Graduate program in Genetics, Bioinformatics, and Computational Biology. Department of Biomedical Engineering and Mechanics. 2160C Torgersen Hall, Virginia Tech Telephone: (540) - 231 - 4237 Email @cs.vt.edu : alexey Research We develop and use theoretical approaches and computational methods to understand structure-function connection in biomolecular systems. Water, DNA, and 3D structure of the genome are our current favorites. We also develop methods and algorithms, including AI-based, that are used in computational design of new medicines. My philosophy is that among the multitude of models of a complex system that one can build, only the very simple, robust solutions may have a chance to represent reality. Complex solutions with tens of fitting parameters may sometimes be of great practical use, but often misrepresent reality (the geocentric model of the Universe is one such example). The same philosophy applies to computational methods we develop: simple, robust solutions are preferred. As with any theoretical work, close contact with experimental groups is essential.",
+  "content_length": 1259,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:54:08"
+}

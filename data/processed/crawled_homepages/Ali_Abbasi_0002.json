@@ -1,0 +1,9 @@
+{
+  "name": "Ali Abbasi 0002",
+  "homepage": "https://ali-abbasi.info",
+  "status": "success",
+  "content": "Ali Abbasi Ali Abbasi Embedded Systems Security Group CISPA Helmholtz Center for Information Security About News Publications Talks Teaching Thesis Join Us Contact Privacy Policy and Legal Notice Menu About News Publications Talks Teaching Thesis Join Us Contact Privacy Policy and Legal Notice About I am a faculty at the CISPA Helmholtz Center for Information Security at Saarbrücken, where I lead the Embedded Systems Security group (EMSEC). My research sits at the intersection of hardware and system security, focusing on hardware-assisted techniques to enhance the security of embedded and mission-critical systems. This includes employing side-channel analysis for system-level introspection and developing scalable approaches to vulnerability discovery, such as firmware fuzzing via rehosting and hardening under strict real-time constraints. The aim is to bridge hardware and software security to address complex attack surfaces in real-world environments, including space and automotive systems. Open PhD/Postdoc Positions: I have multiple open PhD and Postdoc positions in embedded systems security topics, including firmware defense/fuzzing and side-channel. Academic Services/Program Committee: USENIX Security Symposium (USENIX Security): 2026 IEEE Symposium on Security and Privacy (IEEE S&P): 2025, 2026 ACM Conference on Computer and Communications Security (ACM CCS): 2023, 2024, 2025,2026 Network and Distributed System Security Symposium (NDSS): 2025 IEEE Conference on Security for Space Systems (3S): 2024, 2025 NDSS Workshop on the Security of Space and Satellite Systems (SpaceSec): 2023, 2024, 2025, 2026",
+  "content_length": 1629,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:54:20"
+}

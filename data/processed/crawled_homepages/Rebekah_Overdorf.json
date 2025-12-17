@@ -1,0 +1,9 @@
+{
+  "name": "Rebekah Overdorf",
+  "homepage": "https://informatik.rub.de/overdorf",
+  "status": "success",
+  "content": "Prof. Dr. Rebekah Overdorf – Fakultät für Informatik – Ruhr-Universität Bochum Prof. Dr. Rebekah Overdorf Security and Trustworthiness of Online InformationProfessor / Chair management Room: MC 5.138 E-Mail: rebekah.overdorf@rub.de Tel.: +49 (0)234 32-17818 Office Hours: By Arrangement AboutI’m the head of the Chair for Security and Trustworthiness of Online Information at RUB and a member of the RC Trust. I work at the intersection of security & privacy and data science. My work focuses on how manipulation shapes what users see online and how we can detect, understand, and mitigate this manipulation. I explore how malicious actors currently exploit platform mechanisms, often at scale and with real societal impact, and create novel attacks on systems in order to inform defences. The aim of my chair is to restore trust in information by exposing manipulation and developing defensive tools that prevent it, even in the absence of platform cooperation.",
+  "content_length": 962,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:16:18"
+}

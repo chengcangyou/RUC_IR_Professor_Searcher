@@ -1,0 +1,9 @@
+{
+  "name": "John Shawe-Taylor",
+  "homepage": "http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor",
+  "status": "success",
+  "content": "Welcome to John Shawe-Taylor's homepage John S Shawe-Taylor is a professor at University College London (UK). His main research area is Statistical Learning Theory, but his contributions range from Neural Networks, to Machine Learning, to Graph Theory. John Shawe-Taylor obtained a PhD in Mathematics at Royal Holloway, University of London in 1986. He subsequently completed an MSc in the Foundations of Advanced Information Technology at Imperial College. He was promoted to Professor of Computing Science in 1996. He has published over 150 research papers. He moved to the University of Southampton in 2003 to lead the ISIS research group. He has been appointed the Director of the Centre for Computational Statistics and Machine Learning at University College, London from July 2006. He has coordinated a number of European wide projects investigating the theory and practice of Machine Learning, including the NeuroCOLT projects. He is currently the scientific coordinator of a Framework VI Network of Excellence in Pattern Analysis, Statistical Modelling and Computational Learning (PASCAL) involving 57 partners. Video Lectures Some videos of John's talks can be found on the videolectures.net beta site Books He is the co-author of two very successful books on the theory of Support vector machines and Kernel methods: An Introduction to Support Vector Machines (Nello Cristianini and John Shawe Taylor) Cambridge University Press, 2000 Kernel Methods for Pattern Analysis John Shawe Taylor and Nello Cristianini Cambridge University Press, 2004",
+  "content_length": 1553,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:33:08"
+}

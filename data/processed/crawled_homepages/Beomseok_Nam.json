@@ -1,0 +1,9 @@
+{
+  "name": "Beomseok Nam",
+  "homepage": "http://dicl.skku.edu",
+  "status": "success",
+  "content": "SKKU DICL SKKU Data Intensive Computing Lab Welcome to the Data Intensive Computing Lab! Our lab is dedicated to the exploration of cutting-edge data intensive computing techniques and their practical applications in various domains. Our lab's research interests are diverse and interdisciplinary, ranging from computer systems to distributed systems and database systems. We also collaborate with industry partners to apply our research in real-world data-intensive applications. Data structures serve as the foundation in the development of system software, database systems, and applications. Our lab develops advanced data structures tailored to the unique requirements of emerging memory and storage technologies. We explore new architectures, algorithms, and protocols for achieving high performance and efficiency in distributed systems, and for leveraging emerging technologies such as machine learning and blockchain. We develop parallel algorithms to unlock the full potential of modern computing hardware, making it possible to solve larger and more complex data-intensive problems faster and more efficiently.",
+  "content_length": 1121,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:04:11"
+}

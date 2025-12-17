@@ -1,0 +1,9 @@
+{
+  "name": "Ana L. Milanova",
+  "homepage": "http://www.cs.rpi.edu/~milanova",
+  "status": "success",
+  "content": "Ana's Homepage Ana Milanova Professor Department of Computer Science Rensselaer Polytechnic Institute 110 8th Street, Troy, NY 12180-3590 Office: Lally Hall 314 Phone: (518) 276-6887, Fax: (518) 276-4033 Email: milanova AT cs DOT rpi DOT edu Research: My research is in the general area of programming languages, compilers and security. Currently I am working on two projects: (1) compilation and optimization for Multi-Party Computation (MPC) and (2) program analysis for Python with applications to the specification and verification of machine learning libraries. For more information, see my research statement, Google Scholar or my CV with links to selected publications. Teaching: Fall 2025: CSCI 4430 Programming Languages Spring 2025: CSCI 4450 & CSCI 6450 Program Analysis Fall 2024: CSCI 4966 & CSCI 6966 Programming in Haskell Current and Former Students: PhD: Linh Tran (with Stacy Patterson), Ingkarat Rak-amnouykit (PhD 2024), Lindsey Kennard (PhD 2020, now at STR), Yao Dong (PhD 2017, now at Microsoft), Wei Huang (PhD 2014, now at Google), Yin Liu (PhD 2010, now at Google) Masters: Brandon Fogg, Seth Laurenceau (MS 2023), Ben Sherman (MS 2022), Andrew Ma (MS 2019), Toshi Piazza (MS 2018), Alex Giris (MS 2017), Branden Clark (MS 2016), Shuran Li (MS 2016), Ben Kaiser (MS 2015), Ben Levinn (MS 2009), Orri Eirikson (MS 2006), Shyam Sunder (MS 2004), James Lewis (MS 2004) Undergraduate reserchers (recent): Benjamin Levy (2021 - present), Asher Gottlieb (2022), Mike Yang (2021), Dan McCrevan (BS 2020), Collin Jones (BS 2019), Elizabeth Dinella (BS 2018)",
+  "content_length": 1575,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:56:10"
+}

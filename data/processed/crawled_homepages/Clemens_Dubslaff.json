@@ -1,0 +1,9 @@
+{
+  "name": "Clemens Dubslaff",
+  "homepage": "http://clemensdubslaff.de",
+  "status": "success",
+  "content": "Clemens Dubslaff | Welcome Home Publications Tools Misc Contact Welcome I am Clemens Dubslaff, a computer scientist conducting research at the crossroads between theoretical computer science and software engineering. Currently, I work as an assistant professor in the formal system analysis group at TU Eindhoven (The Netherlands). I am also associated with TU Dresden (Germany) through the Cluster of Excellence CeTI and the Collaborative Research Center CPEC. Research Interests I am interested in formal methods and (probabilistic) model checking in particular. My research areas mainly cover symbolic methods, configurable systems analysis, explainability in formal methods, and reliability analysis. News 20|09|25 The article \"Tailoring Binary Decision Diagram Compilation for Feature Models\" has been accepted for JSS (joint work with N. Husung and N. KÃ¤fer). 10|04|24 The new decision diagram framework OxiDD has been launched, accepted as tool paper, and received the EASST best paper award at TACAS'24 (joint work with N. Husung, H. Hermanns, and M. A. KÃ¶hl). 25|11|23 The article \"Feature Causality\" has been accepted for JSS (joint work with K. Weis, C. Baier, and S. Apel). 03|08|23 I am happy to be awarded an NWO VENI grant for my project on symbolic verification and explainability. 20|04|23 Two papers accepted at IJCAI: \"A Unifying Formal Approach to Importance Values in Boolean Functions\" (joint work with H. Harder, C. Baier, and S. Jantsch); and \"More for Less: Safe Policy Improvement with Stronger Performance Guarantees\" (joint work with M. Suilen, P. WienhÃ¶ft, T. SimÃ£o, N. Jansen, and C. Baier). Home Publications Tools Misc Contact",
+  "content_length": 1662,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:54:39"
+}

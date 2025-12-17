@@ -1,0 +1,9 @@
+{
+  "name": "Parthe Pandit",
+  "homepage": "https://parthe.github.io",
+  "status": "success",
+  "content": "Parthe Pandit Home CV Research publications Software EigenPro TorchKernels RFM Parthe Pandit Thakur Family Chair Assistant Professor Center for Machine Intelligence and Data Science (C-MInDS) Indian Institute of Technology, Bombay email: pandit@iitb.ac.in office: KR 320, Kanwal Rekhi building contact: +91 22 2159 (IIT ext. 3776) About Me I am a core faculty member at C-MInDS, IIT Bombay. Prior to joining IIT Bombay, I was a postdoc at HDSI, UCSD. I obtained a PhD in ECE and MS in Statistics both from UCLA, and a B.Tech + M.Tech dual degree in EE from IIT Bombay. My current research focusses on understanding the generalization behaviour of interpolating machine learning models such as neural networks. I also develop fast and scalable algorithms for training kernel machines. Students interested in working with me please read this note. News [Sept 2025] JMLR paper on the behaviour of kernel matrices in the quadratic asymptotic regime (arXiv) [Sept 2025] Spotlight at NeurIPS 2025 on fast training of kernel machines (arXiv) [Sept 2025] Sudhendu Ahir awarded the TCS fellowship (linkedin). Congratulations Sudhendu! [May 2025] Oral at ICML 2025 on Emergence and Grokking in Kernel Machines (arXiv) [Feb 2025] Paper on random feature maps for approximating the Laplacian kernel. (arXiv) [Jan 2025] AISTATS 2025 paper on momentum for training of kernel machines. (PMLR) [Dec 2024] I am honoured to receive the AI2050 Early Career Fellowship from Schmidt Sciences. (Forbes) [Mar 2024] I was awarded the INSPIRE faculty fellowship by DST. [Mar 2024] Science published our paper on the mechanism of feature learning in neural networks. Page generated 2025-11-10 09:29:25 IST, by jemdoc.",
+  "content_length": 1691,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:09:06"
+}

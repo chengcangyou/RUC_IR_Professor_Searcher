@@ -1,0 +1,9 @@
+{
+  "name": "Zhilin Wu",
+  "homepage": "http://lcs.ios.ac.cn/~wuzl",
+  "status": "success",
+  "content": "Welcome to Zhilin Wu's Homepage! Zhilin Wu To be an applied theoretician ! Home Resume Publications Projects Teaching Zhilin Wu Contact: Zhilin Wu, P.O.Box #8718, ISCAS-SKLCS, No.4, South 4th Street, Zhongguancun, Haidian District, 100190, Beijing, China. Office: Room 211, Building #5, Software Park, Chinese Academy of Sciences Mail: \"wu\"+\"zl\" at ios dot ac dot cn Phone: +86 10 6266 1648 Fax: +86 10 6266 1648 Full Research Professor, State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences For my information in Chinese, please visit my homepage at UCAS Research Interests: - Automated analysis and verification of big data programs - Automated analysis and verification of Javascript programs - Automated analysis and verification of Android programs Research Statement: In general, I am interested in applying formal models and sepcifications to the automated analysis and verification of computer systems (mainly software). Around this goal, my research topics cover the following aspects: -- Investigation of the theoretical properties (expressibility, decidability, complexity) of automata models and logic specifications, -- Efficient algorithms for the decision problems (nonemptiness, reachability, satisfiability, entailment) of the automata models and logic specifications, -- Methodology for the automated formal analysis and verification of computer programs, -- Tool implementation and case studies Claim: Template adapted from \"A Subtle Green\" developed by Bryant Smith",
+  "content_length": 1524,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:55:31"
+}

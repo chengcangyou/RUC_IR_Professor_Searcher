@@ -1,0 +1,9 @@
+{
+  "name": "Faith Ellen",
+  "homepage": "http://www.cs.toronto.edu/~faith",
+  "status": "success",
+  "content": "Faith Ellen Professor Faith Ellen Department of Computer Science, University of Toronto, 10 King's College Road, Toronto, Ontario, CANADA M5S 3G4 Office : Sandford Fleming 2302C Email : faith at cs dot toronto dot edu Phone : (416) 978 6183 Fax : (416) 946 8498 My research is in the theory of distributed computing. I particularly like proving lower bounds on the complexity of concrete problems with the goal of understanding how parameters of various models of computation affect their computational power. I also study data structures in distributed and sequential models. Hagit Attiya and Faith Ellen, Impossibility Results for Distributed Computing, Morgan&Claypool, 2014 Dan Alistarh, James Aspnes, Faith Ellen, Rati Gelashvili, and Leqi Zhu, Why Extension-Based Proofs Fail, 2020 2221 Course Information Journal Publications Conference Publications Slides from Talks Other Publications Unpublished Manuscripts",
+  "content_length": 917,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:08:57"
+}

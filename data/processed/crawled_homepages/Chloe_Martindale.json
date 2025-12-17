@@ -1,0 +1,9 @@
+{
+  "name": "Chloe Martindale",
+  "homepage": "https://www.martindale.info",
+  "status": "success",
+  "content": "Home PQCrypto Seminar Talks Research Chloe Martindale I am a Senior Lecturer in Cryptography at the University of Bristol. My current research is focussed on post-quantum cryptography, with a special focus on isogeny-based cryptography. See this article for a gentle general audience introduction to isogeny-based cryptography (comes with a warning that this was written before SIDH was broken), or see these slides for my short course on CSIDH. There are many more resources to learn about isogeny-based cryptography on the website of the isogeny school from 2021. Contact information: Office: 3.47, Computer Science, Faculty of Engineering, University of Bristol E-mail: chloe (dot) martindale (at) bristol (dot) ac (dot) uk Mastodon: @chloelono",
+  "content_length": 747,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:51:26"
+}

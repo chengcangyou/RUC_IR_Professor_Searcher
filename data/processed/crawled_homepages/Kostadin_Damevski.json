@@ -1,0 +1,9 @@
+{
+  "name": "Kostadin Damevski",
+  "homepage": "http://damevski.github.io",
+  "status": "success",
+  "content": "Kostadin Damevski, Ph.D. Kostadin Damevski @ VCU Research Projects Publications Teaching Students Vita Google Scholar GitHub LinkedIn Professor and Graduate Program Director Computer Science Virginia Commonwealth University - Richmond, Virginia Office: Engineering Research Building Rm. 2324 Email: kdamevski at vcu.edu My current research interests are centered around using machine learning and natural language processing to solve problems in software engineering, specifically, to facilitate automation of a number of tasks that software developers commonly perform. For instance, my research has focused on helping developers locate the code needed to fix a specific bug and to improve how developers search for relevant documentation on the Web. I'm also interested in cybersecurity, i.e., writing secure code, and end-user programming. At VCU, I co-lead the Software Engineering Center. A lot more details about what I do are on my vita. I'm actively looking for collaborations with industry and motivated graduate and undergraduate students to join my research group. Please contact me if you are interested.",
+  "content_length": 1116,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:44:09"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Frank Tip",
+  "homepage": "http://www.franktip.org",
+  "status": "success",
+  "content": "Frank Tip Frank Tip home publications research service contact Frank Tip is a Professor at the Khoury College of Computer Sciences at Northeastern University and an Amazon Scholar at Amazon Web Services. Previously, he was a Senior Principal Engineer at Samsung Research America in Mountain View, California (2014-2016), a Professor and Cheriton Research Chair in the David R. Cheriton School of Computer Science at the University of Waterloo (2012-2014), and a Research Staff Member and Manager at the Software Technology Department at the IBM T.J. Watson Research Center (1995-2012). He received his PhD in 1995 from the University of Amsterdam. Frank's current research interests include: Test Generation using Large Language Models, Securing WebAssembly using Static Analysis and Binary Instrumentation, Asynchronous Programming, Refactoring, Program Optimization, and applications of Static and Dynamic Program Analysis.",
+  "content_length": 925,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:11:33"
+}

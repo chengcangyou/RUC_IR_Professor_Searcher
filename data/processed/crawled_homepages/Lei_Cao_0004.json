@@ -1,0 +1,9 @@
+{
+  "name": "Lei Cao 0004",
+  "homepage": "https://www.cs.arizona.edu/person/lei-cao",
+  "status": "success",
+  "content": "Lei Cao | Computer Science Skip to main content Lei Cao Assistant Professor Office: GS 712 Interests: Cloud Data System; Systems for ML; ML for Data Systems (Ph.D., Worcester Polytechnic Institute) caolei@arizona.edu I am an Assistant Professor at the Computer Science department of University of Arizona. I also hold a research affiliation at MIT CSAIL where I spent several years as a Postdoc Associate and then a Research Scientist, actively collaborating with Prof. Samuel Madden, Prof. Michael Stonebraker, Prof. Tim Kraska, and Dr. Michael Cafarella. Before that I worked for IBM T.J. Watson Research Center as a Research Staff Member. I have conducted research in the broad areas of data systems and data science ranging from the low-level core database performance optimization to designing the high level, application specific machine learning techniques. My recent research falls in the emerging area of \"Systems for AI and AI for Systems\", focused on building data management and analytics tools that satisfy the SAUL properties: Scalable, Automatic, Human-in-the-loop.Read more. Systems",
+  "content_length": 1098,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:46:15"
+}

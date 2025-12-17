@@ -1,0 +1,9 @@
+{
+  "name": "Mike H. MacGregor",
+  "homepage": "https://webdocs.cs.ualberta.ca/~macg",
+  "status": "success",
+  "content": "M.H. (Mike) MacGregor Optimal resource allocation Networks for people and the environment Research People Teaching Cool Links M.H. (Mike) MacGregor Professor Department of Computing Science, University of Alberta, Edmonton, Alberta, Canada T6G 2E8 e-mail: mike dot macgregor at ualberta dot ca Phone: 780.492.7434 Fax: 780.492.6393 My research program, broadly speaking, focuses on the optimal allocation of resources in networks. There are many practical problems in this area that require technical and theoretical finesse, such as finding algorithms for the optimal design of wireless sensor networks, devising techniques for sharing fixed-capacity links between multiple traffic types of differing priorities, or modeling and predicting encounter patterns in delay-tolerant networks to enable optimal routing of messages. I'm not currently recruiting any graduate students. © 2013 Mike MacGregor",
+  "content_length": 899,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:59:47"
+}

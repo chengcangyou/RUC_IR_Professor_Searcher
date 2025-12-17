@@ -1,0 +1,9 @@
+{
+  "name": "Evi Micha",
+  "homepage": "https://evi-micha.github.io",
+  "status": "success",
+  "content": "Evi Micha - Homepage Evi Micha Assistant Professor Computer Science University of Southern California evi.micha at usc.edu About Research Teaching CV I am an Assistant Professor in the Thomas Lord Department of Computer Science at the University of Southern California. I am a part of the Theory Group and the Center for AI in Society. My research lies at the intersection of Computer Science (specifically AI and theory) and Economics, spanning areas such as computational social choice and algorithmic fairness. Broadly, one thread of my research explores how to aggregate individual preferences into collective decisions, with applications ranging from democratic systems (such as citizens' assemblies) to AI alignment (such as RLHF). Another thread focuses on algorithmic fairness in AI systems, drawing on multidisciplinary ideas with applications ranging from clustering to peer review. Before joining USC, I was a postdoctoral fellow at Harvard University, working with Ariel Procaccia. I completed my PhD degree in the Department of Computer Science at the University of Toronto, where I was part of the Theory Group and advised by Nisarg Shah. I was also affiliated with the Vector Institute for Artificial Intelligence and the Schwartz Reisman Institute for Technology and Society. I am hiring PhD students for Fall 2026. If you're interested, apply to the CS PhD program at USC and mention me as a potential advisor.",
+  "content_length": 1427,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:08:24"
+}

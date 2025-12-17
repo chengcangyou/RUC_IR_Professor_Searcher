@@ -1,0 +1,9 @@
+{
+  "name": "Thomas Shrimpton",
+  "homepage": "https://cise.ufl.edu/~teshrim",
+  "status": "success",
+  "content": "Thomas Shrimpton Home Teaching Publications Service CV Tom Shrimpton Professor CISE Department University of Florida Office: MH 4136 Email: teshrim at cise.ufl.edu Phone: +1 (352) 294-2092 Tom Shrimpton is a professor in the Department of Computer and Information Science and Engineering (CISE) at the University of Florida. His research is in cryptography, with an emphasis on the needs of real-world cryptographic practice. Much of his work has focused upon the theory and practice of hash functions, authenticated encryption schemes, and other symmetric-key primitives. Recently, he has worked more broadly in applied cryptography, IC supply chain security, data structures, and censorship circumvention tools.. He earned a Ph.D. in 2004 from the University of California (Davis) under Phillip Rogaway. In 2009, Professor Shrimpton was the recipient of a National Science Foundation CAREER award. In 2014, he was awarded one of the ten New Digital Age gifts from Eric Schmidt.",
+  "content_length": 979,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:38:00"
+}

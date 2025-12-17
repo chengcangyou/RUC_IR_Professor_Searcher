@@ -1,0 +1,9 @@
+{
+  "name": "Carlos Ortiz Marrero",
+  "homepage": "https://cmortiz.github.io",
+  "status": "success",
+  "content": "About My name is Carlos M Ortiz Marrero. I am an Assistant Professor at Colorado State University, a joint appointee at Pacific Northwest National Laboratory, and PI at the Co-design Center for Quantum Advantage (C2QA). I am currently working on problems related to Quantum Algorithms, Quantum Benchmarking, and Machine Learning. The best way to reach me is by email at carlos.ortiz.marrero@colostate.edu.",
+  "content_length": 405,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:49:09"
+}

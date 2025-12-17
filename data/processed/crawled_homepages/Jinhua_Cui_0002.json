@@ -1,0 +1,9 @@
+{
+  "name": "Jinhua Cui 0002",
+  "homepage": "https://cimcs.github.io",
+  "status": "success",
+  "content": "Jinhua CUI I am an associate professor at Hunan University. I earned my Ph.D. degree in Computer Science from National University of Defense Technology. Previously, I was a research assistant at the School of Computing in National University of Singapore, and a senior research engineer at the Secure Mobile Centre in Singapore Management University. I have been carrying out some interesting research projects with Prof. Xuhua Ding, Prof. Prateek Saxena, Prof. Shweta Shinde, and Prof. Zhiping Cai. My current research interests include confidential computing, and software-hardware co-design and optimization. I love extensively designing and building prototype systems with hardware-assisted primitives on x86 / RISC-V / ARM platforms to run unmodified applications, protect ISA resources, and so on. Email: jhcui at hnu.edu.cn",
+  "content_length": 830,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:31:07"
+}

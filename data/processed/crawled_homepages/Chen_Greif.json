@@ -1,0 +1,9 @@
+{
+  "name": "Chen Greif",
+  "homepage": "https://www.cs.ubc.ca/~greif",
+  "status": "success",
+  "content": "Chen Greif's Homepage Chen Greif Professor Department of Computer Science The University of British Columbia Mailing address: Department of Computer Science The University of British Columbia 201 - 2366 Main Mall Vancouver BC, V6T 1Z4 Canada Email: greif@cs.ubc.ca Office: ICCS 219 Phone: +1 604 827 5185 Research Interests scientific computing - numerical linear algebra iterative solvers and preconditioning techniques for sparse linear systems numerical solution of saddle-point linear systems numerical solution of elliptic partial differential equations Textbook A First Course in Numerical Methods Published by SIAM, 2011 (intended for undergraduate and beginning graduate students) Errata (last updated: January 24, 2021) Supplementary material including Matlab programs Current Professional Appointments and Recognitions SIAM Fellow (class of 2022) Recipient of the CAIMS-SCMAI Research Prize (2023) Section Editor, Numerical Algorithms for Scientific Computing, SIAM Journal on Scientific Computing Chair, Prize Canvassing Committee, International Linear Algebra Society Member, Editorial Board, SIAM Computational Science and Engineering Book Series Member, SIAM Book Committee Publications || Teaching || Bio",
+  "content_length": 1219,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:50:47"
+}

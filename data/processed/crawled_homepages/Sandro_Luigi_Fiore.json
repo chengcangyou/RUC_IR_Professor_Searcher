@@ -1,0 +1,9 @@
+{
+  "name": "Sandro Luigi Fiore",
+  "homepage": "https://webapps.unitn.it/du/en/Persona/PER0228723/Didattica",
+  "status": "success",
+  "content": "Sandro Luigi Fiore | Teaching | University of Trento Sandro Luigi Fiore Member Open Science Committee Associate professor Department of Information Engineering and Computer Science Via Sommarive, 9 - 38123 Povo tel. 0461 283594 sandro.fiore[at]unitn [dot] it Expertise: Artificial Intelligence Big data Climate change Climate informatics Cloud computing Computation Data analytics Data management systems Data mining Data science Distributed systems High performance computing Middleware Open science Scientific computing {{vm.properties.total}} results - {{vm.properties.numberOfCollections}} teaching activity No results found 10 20 50 This section provides the list of courses that the person is in charge to teach during the current academic year. Data source: GDA (UniTrento Online Didactics System) Teaching activity {{corso[0].nome}} Department: {{dipartimento.nome}}, Department: {{dipartimentoSing.nome}} , Holders: {{titolare.nominativo}}{{titolare.nominativo}}, Professors: {{docente.nominativo}}{{docente.nominativo}}, Assistant: {{assistente.nominativo}}{{assistente.nominativo}}, Tutors: {{tutore.nominativo}}{{tutore.nominativo}}, Abstract: Keywords {{k}} Program Stream Detail {{dettaglioCorso.corsoStudi}} {{dettaglioCorso.percorso}} {{dettaglioCorso.percorso}} Read Loading...",
+  "content_length": 1294,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:23:42"
+}

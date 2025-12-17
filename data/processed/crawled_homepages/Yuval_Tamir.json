@@ -1,0 +1,9 @@
+{
+  "name": "Yuval Tamir",
+  "homepage": "http://www.cs.ucla.edu/~tamir",
+  "status": "success",
+  "content": "Yuval Tamir, UCLA CSD Yuval Tamir, Associate Professor Computer Science Department 361 Engineering VI UCLA Los Angeles, CA 90095-1596 tel: (310)206-2852, fax: (310)794-5057 e-mail: Concurrent Systems Laboratory Selected Papers, Courses, Prospective Graduate Students Areas of Interest: Systems parallel, distributed, and networked systems (software & hardware) resilient computing (hardware & software) virtualization, operating systems network design automation multicore architectures on-chip and off-chip interconnection networks and switches Dr. Tamir received his Ph.D. degree in Electrical Engineering and Computer Sciences from the University of California, Berkeley. He founded and is currently directing the UCLA Concurrent Systems Laboratory. His research interests include hardware, software, and algorithmic issues related to the design and implementation of computer systems. Most of his work is focused on techniques for achieving high performance and high reliability for parallel and distributed systems. Current research projects include: resilient virtualization, fault injection, router configuration verification, network diagnosis, data race detection, fault-tolerant cluster managers, fault tolerance for distributed applications, networks-on-a-chip for chip multiprocessors, hardware support for checkpointing.",
+  "content_length": 1333,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:54:20"
+}

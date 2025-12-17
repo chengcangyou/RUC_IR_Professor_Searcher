@@ -1,0 +1,9 @@
+{
+  "name": "Mariko Isogawa",
+  "homepage": "https://isogawa.ics.keio.ac.jp",
+  "status": "success",
+  "content": "Isogawa Lab Overview 慶應義塾大学 理工学部情報工学科　五十川研究室では，カメラや他のセンサの計測値をもとに，シーン中の人やモノの状態を理解するためのコンピュータビジョン技術や，より良い情報を生成するための画像映像合成を主な研究テーマとしています．機械学習技術やセンシング技術にも取り組んでいます． Our main research topics include Computer Vision to understand human/objects in a scene according to the information obtained via a camera or other sensors and image/video synthesis to generate rich information. Furthermore, we focus on Machine Learning and Sensing techniques. Research Areas コンピュータビジョン / Computer Vision 人物状態推定・画像修復・3次元復元 Human Behavior Estimation, Image Inpainting, 3D Reconstruction センシング / Sensing センサ技術・信号処理・データ取得 Sensor Technology, Signal Processing, Data Acquisition 深層学習 / Deep Learning ニューラルネットワーク・生成モデル・GPUプログラミング Neural Networks, Generative Models, GPU Programming News Aug 2025 コンピュータビジョンにおける国内最大級の学会であるMIRUにてD1柴田くん，M2大海くんがMIRU優秀賞，B4千葉くん, M1加藤くんがMIRUインタラクティブ発表賞，M2池田くん，M1原くんがMIRU学生奨励賞を受賞しました！ Our papers received awards at MIRU 2025! Jul 2025 難関国際会議BMVC2025にM1瀬下くんの論文が採択されました！Our paper accepted to BMVC 2025! Jun 2025 医用画像処理トップカンファレンスのMICCAI2025に加藤さんの論文が採択されました！Our paper accepted to MICCAI 2025! Jun 2025 難関国際会議ワークショップCVPRW2025に柴田くんの論文が採択されました！Our paper accepted to IEEE/CVF CVPRW 2025! May 2025 難関国際会議ICIP2025にM1原くん，M2池田くんの2件の論文が採択されました！ また，難関国際ジャーナルのOJSPにM2内山くんの論文が採択されました！ Our paper accepted to IEEE ICIP and IEEE OJSP 2025! Mar 2025 可視化とCGに関するトップジャーナルであるIEEE TVCGに斎藤英雄研の堀くんとの論文が採録され、IEEE VR 2025にて発表されました！ Our IEEE TVCG paper was presented at IEEE VR 2025! Collaborations ※ sorted alphabetically Universities & Institutes AIST Carnegie Mellon University Keio University Faculty of Pharmacy Keio University School of Medicine Kyoto University Kyushu University Max Planck Institutes Nagoya University University of Stuttgart Companies Direava Inc. NTT OMRON SINIC X SONY",
+  "content_length": 1763,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:52:43"
+}

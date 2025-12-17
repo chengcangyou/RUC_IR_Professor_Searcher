@@ -1,0 +1,9 @@
+{
+  "name": "Sebastian Hack",
+  "homepage": "http://compilers.cs.uni-saarland.de/people/hack",
+  "status": "success",
+  "content": "Sebastian Hack - Compiler Design Lab, Saarland University Contact Tel_+49 681 302-57520 Mail_ Please activate Javascript Address_Saarland Informatics Campus Building E1 3 66123 Saarbrücken Germany Room_408 Assistant_Sandra Neumann _ Sebastian Hack Short CV Sebastian Hack is a full professor of computer science at Saarland University since 2010. He is interested in compiler construction, especially domain-specific languages, program analysis and synthesis, code generation, and vectorization. From 2008-2010, he was an assistant professor at Saarland University. Before, he was a Post-Doc at EPFL, Switzerland in the LAMP lab and a Post-Doc with INRIA at ENS Lyon, France in the COMPSYS project. He earned his PhD in 2006 from Karlsruhe University, Germany and his Diploma degree also from Karlsruhe University in 2004. From 2012 to 2014 he served as the dean of study affairs, and from 2018 to 2020 as the dean of the department of mathematics and computer science of Saarland University. Publications A list of my publications on DBLP. Teaching In the Winter 2025, I offer the following courses: Core Course Compiler Construction Seminar Group Seminar Misc Some information for students on writing a thesis or a paper preparing a talk Recent Professional Activities 2025 CGO 2024 OOPSLA 2022 CGO 2021 PLDI 2020 CC ICPP 2019 CGO 2018 WPMVP CC PLDI 2017 CC 2016 CGO PPoPP DATE 2015 IWOCL SC DATE CC 2014 WPMVP 2013 SC IWOCL LCTES IMPACT 2012 DAC ESOP 2011 PPPJ CC Software Here's some software, I have been involved in. Mostly in the earlier days of my career. libFirm: A graph-based SSA intermediate representation. GrGen: A graph transformation tool.",
+  "content_length": 1655,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:25:15"
+}

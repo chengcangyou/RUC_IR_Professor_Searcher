@@ -1,0 +1,9 @@
+{
+  "name": "Mikio Yamamoto",
+  "homepage": "http://www.mibel.cs.tsukuba.ac.jp/~myama",
+  "status": "success",
+  "content": "Mikio Yamamoto Mikio Yamamoto Associate Professor Graduate School of Systems and Information Engineering, Department of Computer Science, University of Tsukuba, 1-1-1 Tennodai, Tsukuba, 305-8573 Japan. Email: myama AT cs.tsukuba.ac.jp Tel: +81-29-853-6559 Fax: +81-29-853-5809 Research Interests Natural Language Processing Japanese Morphlogical Analyzer based on extended-characters Language modeling using untagged corpus Extraction of semantic information from corpus Applications of Suffix Arrays C codes to compute tf and df for all substrings Spoken Language Processing Language modeling for speech recognizer Speech corpora Publications Papers in English Papers in Japanese",
+  "content_length": 680,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:59:53"
+}

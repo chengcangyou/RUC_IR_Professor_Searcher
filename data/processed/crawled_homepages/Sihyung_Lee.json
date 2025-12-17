@@ -1,0 +1,9 @@
+{
+  "name": "Sihyung Lee",
+  "homepage": "https://sites.google.com/site/sihyungleeweb",
+  "status": "success",
+  "content": "이시형 (Sihyung Lee)Search this siteEmbedded FilesSkip to main contentSkip to navigation연구 (Research)양자 컴퓨터를 활용한 빠른 탐색 방법인 Grover의 알고리즘의 구현 방법과 응용 방법 제안* (여러 해 모두를 효율적으로 탐색하는 방법) Finding All Solutions with Grover's Algorithm by Integrating Estimation and Discovery [code] [SCIe]* (임의 크기의 탐색 문제에 대한 구현 방법) Implementation of Grover's Iterator for Quantum Searching with an Arbitrary Number of Qubits [code] [SCIe]다양한 프로그램을 작성해 보며 서로 다른 명령의 기능을 스스로 학습한 후 이를 활용해 사용자가 원하는 프로그램을 자동으로 생성하는 시스템 제안* (양자 컴퓨터 프로그램 생성) Quantum Program Synthesis through Opeartor Learning and Selection [video] [data] [SCIe]* (고전 컴퓨터 프로그램 생성) Program Synthesis through Learning the Input-Output Behavior of Commands [video] [data] [SCIe]무료 클라우드 저장공간을 Proxy로 활용해 방화벽 설정과 비용 없이 편리하게 서버를 호스트하는 방법 제안* Reducing Complexity of Server Configuration through Public Cloud Storage [SCIe]선거기간 동안 인터넷의 공통관심집단(카페, 커뮤니티)을 대상으로 맞춤형 조작 의견을 유포하는 기법을 분석하고 이를 탐지하는 방법 제안* 온라인 공간에서 관심집단 대상 비정상 정보의 특징 분석과 탐지 [등재지]2012년 대통령 선거 ~ 현재까지 인터넷 의견에 대한 조작 기법이 어떻게 변화해 가는지 분석하고, 시간에 따른 변화를 추적하는 방법 제안* 온라인 공간에서 비정상 정보 유포 기법의 시간에 따른 변화 분석 [등재지]Google SitesReport abusePage detailsPage updated Google SitesReport abuse",
+  "content_length": 1155,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:28:22"
+}

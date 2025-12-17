@@ -1,0 +1,9 @@
+{
+  "name": "Todd C. Mowry",
+  "homepage": "http://www.cs.cmu.edu/~tcm",
+  "status": "success",
+  "content": "Todd C. Mowry Professor of Computer Science, Carnegie Mellon University Greetings!  I'm a professor in the Computer Science Department here at Carnegie Mellon University.  My research interests span a number of areas in the design of computer systems, including computer architecture, compiler optimization, operating systems, parallel processing, and database performance.  You can learn more about my current research and teaching activities by clicking the links above.Todd C. Mowry",
+  "content_length": 485,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:39:32"
+}

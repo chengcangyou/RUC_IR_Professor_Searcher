@@ -1,0 +1,9 @@
+{
+  "name": "Kristina Sojakova",
+  "homepage": "https://who.rocq.inria.fr/Kristina.Sojakova",
+  "status": "success",
+  "content": "Kristina Sojakova Research Since Spring 2020 I have been a research member of the Prosecco Team at INRIA Paris, working on the formal verification of cryptographic protocols. Formerly I was a postdoc at Cornell University with Greg Morrisett on the Viaduct project. In August 2016 I received a PhD in Computer Science from Carnegie Mellon University. My advisors were Frank Pfenning and Steve Awodey. My primary involvement while at CMU was in the Homotopy Type Theory project. Before Cornell I was working with Patricia Johann on developing a framework for (higher dimensional) parametricity for System F. My interests include privacy and security, type theory, logic, category theory, and programming languages. Links My publications can be found here. My CV can be found here.",
+  "content_length": 779,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:44:30"
+}

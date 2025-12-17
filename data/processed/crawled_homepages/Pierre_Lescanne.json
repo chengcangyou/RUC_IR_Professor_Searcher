@@ -1,0 +1,9 @@
+{
+  "name": "Pierre Lescanne",
+  "homepage": "https://perso.ens-lyon.fr/pierre.lescanne",
+  "status": "success",
+  "content": "Pierre Lescanne Pierre Lescanne Professeur émérite à l'École Normale Supérieure de Lyon (PLUME, LIP et IF) e-mail : Pierre.Lescanne@ens-lyon.fr Tel : (+33) 6 85 70 94 31 Le jour où, placée devant le problème de la résolution d'une équation x=g(x) une machine sans aide apparente ou cachée de son cornac sera parvenue à l'idée de forme la suite x0, x1=g(x0), x2=g(x1), etc. Je ne serai pas loin de penser, moi aussi, à la possibilité de faire «penser« les ordinateurs. The day when, facing the problem of solving an equation x=g(x) a computer, with no appearing or hidden help of its mahout, will come to the idea of generating the sequence x0, x1=g(x1), x2=g(x2), etc. I will not be far from thinking, me too, at the possibility of making the computers to ``think''. Jean Dieudonné, préface du livre Computer in mathematical research About this page Last modified: Mon Dec 23 2021",
+  "content_length": 880,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:12:33"
+}

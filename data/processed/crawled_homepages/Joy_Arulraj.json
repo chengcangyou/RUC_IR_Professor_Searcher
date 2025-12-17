@@ -1,0 +1,9 @@
+{
+  "name": "Joy Arulraj",
+  "homepage": "https://www.cc.gatech.edu/~jarulraj",
+  "status": "success",
+  "content": "Joy Arulraj - Home Toggle navigation Home Research Publications Talks Code Joy Arulraj Associate Professor Georgia Institute of Technology College of Computing School of Computer Science arulraj@gatech.edu Klaus Advanced Computing Building 3324 266 Ferst Dr NW, Atlanta, GA 30332-0765 CV | Google Scholar | DBLP | Twitter | Github Research Groups Data Systems and Analytics Group Research Interests Data Systems, Machine Learning We are developing the TokenSmith Text Database System. We are curating the Periodic Table of Computer System Design Principles. We earlier developed the EVA AI-Relational Data System. I am looking for a few graduate students. If you are interested in data systems and AI, we should talk. I recommend filling out this research interest questionnaire. Georgia Tech undergraduate students: the above applies to you, too. I am teaching a new online course on building database systems based on BuzzDB, an educational database system being developed at Georgia Tech. Students Gaurav Tarkok Kakkar Weili Shi (with Kexin Rong) Abhishek Vijeev Sayan Sinha (with Aditya Prakash) Graduated Students Pramod Chunduri → AWS Jiashen Cao (with Hyesoon Kim) → Meta Xinyu Liu (with Alex Orso) → ServiceNow Jaeho Bang → AI Rebellions Qi Zhou (with Bill Harris) → Meta Jinho Jung (with Taesoo Kim) → Korean Army Teaching Database System Implementation (CS 4420/6422) Advanced Database System Implementation (CS 4423/6423)",
+  "content_length": 1432,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:36:08"
+}

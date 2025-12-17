@@ -1,0 +1,9 @@
+{
+  "name": "Joe Cavallaro",
+  "homepage": "http://cavallaro.rice.edu",
+  "status": "success",
+  "content": "Joseph R. Cavallaro | Electrical & Computer Engineering, Rice University Dr. Joseph R. Cavallaro Professor, Electrical and Computer Engineering Professor, Computer Science Director, Center for Multimedia Communication cavallar@rice.edu 713-348-4719 B.S.E.E. (1981) University of Pennsylvania M.S.E.E. (1982) Princeton University Ph.D. (1988) Cornell University In August 1988, Dr. Cavallaro joined the faculty of Rice University, Houston, Texas, where he is a Professor in the Department of Electrical and Computer Engineering and by courtesy in the Department of Computer Science. He is also Director of the Center for Multimedia Communication (CMC) at Rice. Professor Cavallaro’s research is in special-purpose VLSI processor architectures. Advances in VLSI technology have made possible the implementation of special-purpose processors for signal processing, computer graphics, and robotics. Many of these applications involve a core group of matrix computations that can be efficiently performed on parallel arrays of functional units. In particular, important numerical algorithms for wireless communication systems can greatly benefit from enhanced parallel architectures and high-speed computer arithmetic. These algorithms and their efficient mapping to low-power architectures are studied on DSP, ASIC, and Application-specific Instruction Processors (ASIP). He is an IEEE Fellow (2015) for contributions to very large-scale integration (VLSI) architectures and algorithms for signal processing and wireless communications. PDF of CV",
+  "content_length": 1542,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:31:47"
+}

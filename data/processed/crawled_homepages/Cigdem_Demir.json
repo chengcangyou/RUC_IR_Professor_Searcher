@@ -1,0 +1,9 @@
+{
+  "name": "Cigdem Demir",
+  "homepage": "http://www.cs.bilkent.edu.tr/~gunduz",
+  "status": "success",
+  "content": "Cigdem Gunduz Demir Home Page Home Publications Projects Downloads Teaching Contact Cigdem Gunduz Demir Associate Professor of Computer Engineering Bilkent University Welcome to my research web page! I am an Associate Professor at the Department of Computer Engineering at Bilkent University. I received my B.S. and M.S. degrees in computer engineering from Bogazici University, Istanbul, Turkey, in 1999 and 2001, respectively, and my Ph.D. degree in computer science from Rensselaer Polytechnic Institute, New York, in 2005. I was visiting Stanford University in Spring 2013 and Nanyang Technological University, Singapore, in Fall 2009. I am a member of the professional societies of IEEE and ISCB, and a member of the alumni of Rensselaer Polytechnic Institute, Bogazici University, and Ankara Science High School. My main research interests and projects include development of new bio-computational models and application of machine learning, deep learning, and computer vision algorithms for medical image analysis. In my research group at Bilkent, we have focused on the microscopic analysis of histopathological images at the tissue level and in vitro fluorescence and live cell images at the cellular level. We have also been working on the analysis of in vivo CT and MR images. Our research topics include: Machine learning Deep learning Semantic segmentation Classification Please contact me for possible positions available in our group.",
+  "content_length": 1449,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:54:05"
+}

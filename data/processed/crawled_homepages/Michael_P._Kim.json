@@ -1,0 +1,9 @@
+{
+  "name": "Michael P. Kim",
+  "homepage": "https://www.cs.cornell.edu/~mpkim",
+  "status": "success",
+  "content": "Michael P. Kim - Cornell University Michael P. Kim Assistant Professor of Computer Science at Cornell University mpk@cs. about My research investigates foundational questions about responsible machine learning. Much of this work aims to identify problematic behaviors that emerge in machine-learned models and to develop algorithmic tools that provably mitigate such behaviors. More broadly, I am interested in how the theory of computation can provide insight into emerging societal and scientific challenges. Prior to Cornell, I was a Miller Postdoctoral Fellow at UC Berkeley, hosted by Shafi Goldwasser. I completed my Ph.D. in the Stanford Theory Group under the guidance of Omer Reingold. selected publications [all] [scholar] Near-Optimal Algorithms for Omniprediction [arXiv] Princewill Okoroafor, Robert Kleinberg, MPK FOCS 2025 Certifying Private Probabilistic Mechanisms [IACR] Zoe Ruha Bell, Shafi Goldwasser, MPK, Jean-Luc Watson CRYPTO 2024 Planting Undetectable Backdoors in Machine Learning Models [arXiv] [Quanta] Shafi Goldwasser, MPK, Vinod Vaikuntanathan, Or Zamir FOCS 2022 Outcome Indistinguishability [arXiv] [ECCC] Cynthia Dwork, MPK, Omer Reingold, Guy N. Rothblum, Gal Yona STOC 2021 Multicalibration: Calibration for the (Computationally-Identifiable) Masses [arXiv] Ãrsula HÃ©bert-Johnson, MPK, Omer Reingold, Guy N. Rothblum ICML 2018 teaching CS 6828: Foundations of Responsible Machine Learning [Fall 2024] CS 4820: Introduction to Analysis of Algorithms [Spring 2024] [Spring 2025]",
+  "content_length": 1514,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:58:43"
+}

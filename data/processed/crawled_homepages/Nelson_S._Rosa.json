@@ -1,0 +1,9 @@
+{
+  "name": "Nelson S. Rosa",
+  "homepage": "https://gfads.cin.ufpe.br",
+  "status": "success",
+  "content": "A web page that points a browser to a different page after 2 seconds If your browser doesn't automatically go there within a few seconds, you may want to go to the destination manually.",
+  "content_length": 185,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:04:37"
+}

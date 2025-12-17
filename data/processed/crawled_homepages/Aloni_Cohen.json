@@ -1,0 +1,9 @@
+{
+  "name": "Aloni Cohen",
+  "homepage": "https://aloni.net",
+  "status": "success",
+  "content": "About Me - Aloni Cohen I am an Assistant Professor of Computer Science and Data Science at the University of Chicago. My research explores the interplay between theoretical cryptography, privacy, law, and policy. Specifically, I aim to understand and resolve the tensions between the theory of cryptography and the privacy and surveillance law that governs its eventual real-world context. Right now, I’m thinking about differential privacy, GDPR, the Fifth Amendment, encryption, multiparty computation, and the Census. I earned my PhD in the Cryptography and Information Security group at MIT, advised by Shafi Goldwasser. I was a postdoc at Boston University, joint at the Hariri Institute for Computing and the School of Law. Formerly an Affiliate at the Berkman Klein Center for Internet & Society, a Fellow at Facebook and at the Aspen Tech Policy Hub, and recipient of the NSF Graduate Student Research Fellowship. My email is my first name @g.uchicago.edu. I tweet infrequently at @aloni_bologna. My office is Room 309 at the Data Science Institute (5460 S University Ave).",
+  "content_length": 1081,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:55:05"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "John Gilbert 0001",
+  "homepage": "http://www.cs.ucsb.edu/~gilbert",
+  "status": "success",
+  "content": "John R. Gilbert's home page John R. Gilbert Professor Emeritus Computer Science Department University of California Santa Barbara, CA 93106-5110 Email is the best way to reach me: gilbert@cs.ucsb.edu My research interests are in combinatorial scientific computing, high-performance graph algorithms, tools and software for computational science and engineering, and numerical linear algebra. Short bio Publications Talks Teaching GraphBLAS: Graphs in the language of linear algebra Combinatorial BLAS: High-performance graph primitives SuperLU: Sparse linear solvers Meshpart: Matlab graph partitioning toolbox",
+  "content_length": 610,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:32:40"
+}

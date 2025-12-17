@@ -1,0 +1,9 @@
+{
+  "name": "Nisarg Shah 0001",
+  "homepage": "http://www.cs.toronto.edu/~nisarg",
+  "status": "success",
+  "content": "Nisarg Shah's Homepage Nisarg Shah University of Toronto Home Bio Publications Teaching People Contact Me CV nisarg@cs.toronto.edu Nisarg Shah I am an Associate Professor in the Department of Computer Science at the University of Toronto, where I am part of the Theory Group. I am also a Research Lead at the Schwartz Reisman Institute for Technology and Society and a Faculty Affiliate of the Vector Institute for Artificial Intelligence. About My Research My research is on developing theoretical foundations of artificial intelligence (AI) systems. By leveraging insights from computer science, economics, political science, philosophy, and cognitive psychology, I uncover how to design AI systems that aggregate individual preferences to make collective decisions (social choice theory), how self-interested agents behave in such systems (game theory), and how to design robust AI systems in the presence of strategic agents (mechanism design). My recent work has focused extensively on the issue of algorithmic fairness in AI systems. Using multidisciplinary insights, my work has proposed robust fairness definitions that meaningfully and non-trivially apply to a broad range of decision-making settings from voting and resource allocation, to conference peer reviewing and recommender systems, to classification and clustering. I co-developed the not-for-profit website Spliddit.org, which has helped more than 250,000 people make provably fair decisions in their everyday lives. Check out my publications.",
+  "content_length": 1513,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:06:29"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Shangqian Gao",
+  "homepage": "https://www.cs.fsu.edu/department/faculty/sgao",
+  "status": "success",
+  "content": "Shangqian Gao – DEPARTMENT OF COMPUTER SCIENCE Dr. Shangqian Gao Assistant Professor Office: 251A Love Building Telephone: Email: sgao [ at fsu dot edu ] Visit Personal Page Research My research interests includes: Large Language Models: Model compression for Large Language Models (LLMs), including but not limited to structural pruning, Singular-value decomposition (SVD), layer-wise sparsity allocation, sparse Mixture of Experts (MoE), etc. Memorization in LLMs. Self-improvement and alignment for LLMs. Efficient Vision: Differentiable Neural Architecture Search (NAS), and efficient image and image-to-text generation models, such as diffusion models and GANs. Policy Gradient Methods for Reinforcement Learning: Variance-reduced policy gradient methods based on momentum techniques and mirror descent.",
+  "content_length": 808,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:26:25"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "C.-C. Jay Kuo",
+  "homepage": "http://mcl.usc.edu",
+  "status": "success",
+  "content": "USC Media Communications Lab Latest News MCL Research on Video-Text AlignmentNovember 23rd, 2025This work presents an interpretable and computationally efficient Video-Text Alignment (VTA) framework for cross-modal retrieval. Unlike end-to-end multimodal models [...] MCL Research on Kidney SegmentationNovember 16th, 2025Kidney cancer is one of the most common malignancies of the urinary system. To detect kidney cancer, we must [...] MCL Research on Seismic Data ProcessingNovember 9th, 2025Earthquakes generate seismic waves that travel through the Earth’s interior, carrying critical information about the Earth’s structure and the [...] MCL Research on Mice Navigation Pattern StrategiesNovember 2nd, 2025Understanding how animals navigate and learn from their environments has long been a central question in neuroscience. The Morris [...]",
+  "content_length": 846,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:07:18"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Subramanian Ramamoorthy",
+  "homepage": "http://homepages.inf.ed.ac.uk/sramamoo",
+  "status": "success",
+  "content": "RAD - Robust Autonomy and Decisions Home People Research Publications Youtube ECR Contact A generative force model for surgical skill quantification using sensorised instruments A. Straižys, M. Burke, P.M. Brennan, S. Ramamoorthy - Communications Engineering Vol. 2, 2023 Elaborating on learned demonstrations with temporal logic specifications C. Innes, S. Ramamoorthy - RSS-20 Surfing on an uncertain edge: Precision cutting of soft tissue using torque-based medium classification A. Straizys, M. Burke, S. Ramamoorthy - ICRA-20 Disentangled Relational Representations for Explaining and Learning from Demonstration Y. Hristov, D. Angelov, A.Lascarides, M. Burke, S. Ramamoorthy - CORL-19 From explanation to synthesis: Compositional program induction for learning from demonstration M. Burke, S. Penkov, S. Ramamoorthy - RSS-19 Robust Autonomy and Decisions Group We investigate learning, adaptation and control mechanisms to enable autonomous robots to cope with the uncertain and the unknown. Our research focus areas include: Dexterous manipulation skills: understanding what humans/animals do, in order to achieve similar robotic skills Human-robot interaction, including paradigms such as machine teaching Active sensing and incremental, compositional model learning Physics-informed machine learning, including geometric/topological representations and multi-scale modelling Safety and trustworthiness of autonomous systems We develop techniques that are relevant to a broad range of applications, ranging from advanced manufacturing to mobility and field robotics. An application domain of particular current interest is healthcare technologies, including biomedical devices and biophysical discovery platforms. News feed",
+  "content_length": 1731,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:33:17"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Qi Zhang 0038",
+  "homepage": "https://qizhg.github.io",
+  "status": "success",
+  "content": "Qi Zhang Hi, I am Qi Zhang, an assistant professor at WPI. I work on building collaborative AI agents. My research interests are in formalisms, theories, and algorithms of single- and multi-agent planning and reinforcement learning. 2025 - Now    Assistant Professor, CS/AI @ WPI 2020 - 2025   Assistant Professor, CSE/AI @ U of South Carolina 2015 - 2020   PhD, CSE @ UMich Email: qzhang9 at wpi.edu      Office: Unity Hall 355 CV / Research Statement I am looking for PhD students and visiting researchers! Selected Papers Google Scholar Efficient Information Sharing for Training Decentralized Multi-Agent World Models Xiaoling Zeng, Qi Zhang RL Conference 2025   [openreview] Reinforcement Learning with Euclidean Data Augmentation for State-Based Continuous Control Jinzhu Luo, Dingyang Chen, Qi Zhang NeurIPS 2024   [arXiv] Efficient Sequential Decision Making with Large Language Models Dingyang Chen, Qi Zhang, Yinglun Zhu EMNLP 2024   [arXiv] E(3)-Equivariant Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning Dingyang Chen, Qi Zhang ICML 2024   [arXiv] Context-Aware Bayesian Network Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning Dingyang Chen, Qi Zhang ICML 2023   [openreview] Convergence and Price of Anarchy Guarantees of the Softmax Policy Gradient in Markov Potential Games Dingyang Chen, Qi Zhang, Thinh T. Doan ICML 2022 DARL Workshop   [arXiv] Communication-Efficient Actor-Critic Methods for Homogeneous Markov Games Dingyang Chen, Yile Li, Qi Zhang ICLR 2022   [openreview]",
+  "content_length": 1542,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:13:32"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Anna Gál",
+  "homepage": "https://www.cs.utexas.edu/~panni",
+  "status": "success",
+  "content": "Anna Gal Anna Gál Professor Ph.D. in Computer Science: University of Chicago, 1995 (Advisor: János Simon) Contact Information Email: panni at cs dot utexas dot edu Phone:(512) 471-9539 Fax:(512) 471-8885 Office: GDC 4.420 Postal: Department of Computer Science University of Texas at Austin 2317 Speedway, Stop D9500 Austin, TX 78712 Research Interests Computational complexity, communication complexity, coding theory, circuit complexity, lower bound methods, algorithms, and combinatorics. Publications Algorithms and computational theory group Teaching SPRING 2023: CS395T Analysis of Boolean Functions FALL 2022: CS331 Algorithms and Complexity SPRING 2022: CS388M Communication Complexity FALL 2021: CS353 Theory of Computation Former Ph.D. Students Jeff Ford, ``Lower Bound Methods for Multiparty Communication Complexity'', Ph. D. May 2006. Vladimir Trifonov, ``Techniques for Analyzing the Computational Power of Constant-Depth Circuits and Space-Bounded Computation'', Ph. D. August 2006. Andrew Mills, \"Lower Bounds and Correctness Results for Locally Decodable Codes\", Ph. D. August 2011. Keith Jing-Tang Jang, ``The Size and Depth of Boolean Circuits'', Ph. D. August 2013. Siddhesh Chaubal, \"Complexity Measures of Boolean Functions and their Applications\", Ph. D. December 2020.",
+  "content_length": 1292,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:59:01"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Anurag Mittal",
+  "homepage": "http://www.cse.iitm.ac.in/~amittal",
+  "status": "success",
+  "content": "Anurag Mittal's Home Page <body> <p>This page uses frames, but your browser doesn't support them.</p> </body>",
+  "content_length": 109,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:00:30"
+}

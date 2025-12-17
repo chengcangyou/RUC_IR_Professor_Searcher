@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual Environment (绝对不能传)
+venv/
+env/
+.env
+
+# Data & Models (生成的向量缓存不需要传，让用户自己算)
+data/processed/professor_vectors.npy
+data/processed/professor_embeddings.npy
+*.npy
+
+# OS
+.DS_Store
+data/processed/crawled_batch_0_31951.json

@@ -1,0 +1,9 @@
+{
+  "name": "Yisong Yue",
+  "homepage": "http://www.yisongyue.com",
+  "status": "success",
+  "content": "Home - Yisong YueYisong YueMachine Learning Professor @ CaltechAbout MeProfessor of Computing and Mathematical Sciences at Caltech.Research Interests: Machine Learning and Artificial Intelligence.Industry Advising: Asari AI, CaineX, Latitude AI, Lila Sciences, and Tera AI.ICLR Leadership: Member of ICLR Board. General Chair of ICLR 2025. Senior Program Chair of ICLR 2024.ScholarX/TwitterLinkedInMoreCurrent ResearchCore AI ResearchAI for ScienceAI for AutonomyData & Evaluation. Create new data engines. Create benchmarks that are formally verified. Unify scientific inverse problems into common frameworks.Models & Architecture. Create new effective representations, such as for time series.Inference & Search. Develop principled Bayesian inference methods using diffusion priors. Develop advanced LLM reasoning methods such as dynamic tree decomposition and self-training.More News & Updates",
+  "content_length": 896,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:51:48"
+}

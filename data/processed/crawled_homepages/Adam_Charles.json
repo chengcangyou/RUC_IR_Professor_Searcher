@@ -1,0 +1,9 @@
+{
+  "name": "Adam Charles",
+  "homepage": "https://www.bme.jhu.edu/ascharles",
+  "status": "success",
+  "content": "Adam Charles: JHU BME Skip to content I am an Assistant Professor of Biomedical Engineering (BME) at The Johns Hopkins University with affiliations at the Department of Neuroscience, Center for Imaging Science (CIS), the Kavli Neuroscience Discovery Institute (NDI) and the Mathematical Institute for Data Science (MINDS). My lab works focuses on machine learning and signal processing for neural imaging, data analysis, and other applications (including remote sensing and theoretical/computational neuroscience). We develop tools based in probabilistic and low-dimensional modeling to create the next-generation of methods needed to acquire and interpret complex neural signals. New methods are vital for progress in our understanding of the computations that the brain performs and furthering our understanding of how we as humans experience the world. CV: pdf Google scholar: here",
+  "content_length": 884,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:28:58"
+}

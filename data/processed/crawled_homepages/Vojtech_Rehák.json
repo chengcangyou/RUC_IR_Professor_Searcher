@@ -1,0 +1,9 @@
+{
+  "name": "Vojtech Rehák",
+  "homepage": "https://www.fi.muni.cz/~xrehak",
+  "status": "success",
+  "content": "Vojtech Rehak - Academic Homepage Faculty of Informatics, Masaryk University Brno, Czech Republic. Address: Faculty of Informatics Botanicka 68a 602 00 BRNO Office: A408 Phone: +420 549 49 4687 Timetable: in IS Email: rehak (at) fi.muni.cz University generated homepage OsobnÃ­ strÃ¡nka generovanÃ¡ IS Research interests: Game theory, Security games, Patrolling Stochastic systems, Continuous-time Markov chains, Generalized semi-Markov processes, Deterministic and stochastic Petri nets, analysis and synthesis Network protocol description, Message Sequence Charts, realizability, race conditions, formal verification My PhD related to Process Rewrite Systems and supervised by Mojmir Kretinsky Concurrency theory, Models of infinite state processes, Automata and formal languages Model checking, Formal verification in practice Current projects: Regstar - Efficient Strategy Synthesis for Adversarial Patrolling Games Former projects: ITI -- Institute for Theoretical Computer Science PRISM-GSMP fdPRISM scstudio bnfparser² Liberouter -- IPv6 router project ParaDiSe -- Parallel and Distributed Systems Laboratory Lists of publications: Our university database DBLP Google scholar ORCID ResearcherID Scopus Outdated personal list of publications divided by topics: related to network protocol description and stochastic systems (the ITI project) related to process rewrite systems (my PhD research) related to practical verification (the Liberouter project) related to symbolic model checking (my Master thesis)",
+  "content_length": 1513,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:44:56"
+}

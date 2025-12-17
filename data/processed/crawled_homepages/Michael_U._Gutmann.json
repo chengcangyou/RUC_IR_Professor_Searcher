@@ -1,0 +1,9 @@
+{
+  "name": "Michael U. Gutmann",
+  "homepage": "https://michaelgutmann.github.io",
+  "status": "success",
+  "content": "Michael U. Gutmann Michael U. Gutmann MENU Home Publications Manuscripts Refereed papers Other papers Code Presentations Research talks Tutorials Teaching Materials University of Edinburgh University of Helsinki Contact Source on GitHub Michael U. Gutmann I am a Senior Lecturer (Assoc Prof) in Machine Learning at the School of Informatics of the University of Edinburgh, affiliated with the Institute for Adaptive & Neural Computation. My research is in machine learning for science, with a focus on developing methods for (Bayesian) inference and design. A short biography is available here. Recent papers arXiv: CFMI: Flow Matching for Missing Data Imputation [link] arXiv: Simulation-based Bayesian inference under model misspecification [link] BioRxiv: Risk-averse optimization of genetic circuits under uncertainty [link] TMLR: Improving Variational Autoencoder Estimation from Incomplete Data with Mixture Variational Families [link] eLife: Designing Optimal Behavioral Experiments Using Machine Learning [link] CC BY-SA 4.0 Michael U. Gutmann. Last modified: June 13, 2025. Accessibility. Website built with Franklin.jl and the Julia programming language.",
+  "content_length": 1164,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:58:59"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Shibo Li",
+  "homepage": "https://www.cs.fsu.edu/department/faculty/shiboli",
+  "status": "success",
+  "content": "Shibo Li – DEPARTMENT OF COMPUTER SCIENCE Dr.Shibo Li Assistant Professor Office: 206A Love Building Telephone: Email: sli11 [ at fsu dot edu ] Visit Personal Page Research My primary research area, AI for Science, integrates physical system analysis with machine learning methodologies. Computational physics, developed over centuries, is essential for understanding the universe and creating new technologies. Meanwhile, AI has revolutionized many sectors. Though these fields may seem distinct, they are complementary: physical insights improve data-driven methods’ efficacy, and data-driven methods capture physical laws flexibly. Leveraging abundant data, these methods provide statistical insights, augment traditional research, and offer efficient computing infrastructure for enhanced efficiency. My research interests include but not limited to probabilistic machine learning and modeling, approximate inference surrogate modeling, operator learning, physics-informed machine learning multi-task learning, meta learning, transfer learning interactive machine learning and optimization",
+  "content_length": 1093,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:27:21"
+}

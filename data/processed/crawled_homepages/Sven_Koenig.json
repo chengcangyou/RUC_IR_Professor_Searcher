@@ -1,0 +1,9 @@
+{
+  "name": "Sven Koenig",
+  "homepage": "http://idm-lab.org",
+  "status": "success",
+  "content": "Sven Koenig: Home Page <body> <p> Home Page of Sven Koenig </p> <p> I am interested in <b>intelligent systems</b> that operate in large, nondeterministic, nonstationary or only partially known domains. Most of my research centers around techniques for <b>decision making (planning and learning)</b> that enable single situated <b>agents</b> (such as <b>robots</b> or <b>decision-support systems</b>) and <b>teams of agents</b> to act intelligently in their environments and exhibit goal-directed behavior in real-time, even if they have only incomplete knowledge of their environment, imperfect abilities to manipulate it, limited or noisy perception or insufficient reasoning speed. I believe that finding good solutions to these problems requires approaches that cut across many different fields and, consequently, my research draws on areas such as <b>artificial intelligence</b>, decision theory, and operations research. Applications of my research include planetary exploration, supply-chain management, medicine, crisis management (such as oil-spill containment), robotics and real-time games (entertainment, serious games, training and simulation). </p> <p> Sven Koenig <br /> Professor <br /> <a href=\"http://www.cs.usc.edu/\" target=\"_top\">Computer Science Department</a> <br /> <a href=\"http://www.usc.edu/\" target=\"_top\">University of Southern California (USC) </a> <br /> Henry Salvatori Computer Science Center (SAL) <br /> 941 Bloom Walk <br /> Los Angeles, CA 90089-0781 <br /> phone: 213-740-6491 <br /> fax: 213-740-7285 <br /> <a href=\"mailto:skoenig@usc.edu\">skoenig@usc.edu</a> <br /> </p> </body>",
+  "content_length": 1617,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:34:41"
+}

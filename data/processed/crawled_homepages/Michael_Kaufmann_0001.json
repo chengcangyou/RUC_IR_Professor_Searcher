@@ -1,0 +1,9 @@
+{
+  "name": "Michael Kaufmann 0001",
+  "homepage": "http://algo.inf.uni-tuebingen.de/?site=mitarbeiter/michaelkaufmann/index",
+  "status": "success",
+  "content": "Home | Universität Tübingen Dieser Arbeitsbereich wird von Prof. Dr. Kaufmann geleitet. Unsere Forschungs­schwerpunkte liegen im Bereich Automatisches Graphenzeichnen, Kombinatorische Optimierung, Diskrete Algorithmen, Paralleles Rechnen und SAT Solving. Das Lehrangebot unseres Arbeitsbereichs umfasst die Vorlesungen Algorithmen, Algorithmen und Komplexität, Methoden der Algorithmik sowie Graphenzeichnen. Praktika und Seminare im Bereich Graphenalgorithmen und Graphenzeichen werden ebenfalls regelmässig angeboten. Lehre im WiSe 2024/25 Vorlesung (Master)Algorithms and Complexityzu Alma — zum Moodle Proseminar (Bachelor)Fun with Algorithmszu alma — zum Moodle",
+  "content_length": 666,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:58:27"
+}

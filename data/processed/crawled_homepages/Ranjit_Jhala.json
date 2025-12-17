@@ -1,0 +1,9 @@
+{
+  "name": "Ranjit Jhala",
+  "homepage": "https://ranjitjhala.github.io",
+  "status": "success",
+  "content": "Home ← Ranjit Jhala Ranjit Jhala Home Research Students Teaching Video Ranjit Jhala I am a Professor of Computer Science Engineering in the Jacobs School of Engineering at the University of California, San Diego Contact Office: CSE 3110 Phone: (858) 534 1420 Email: jhala@cs.ucsd.edu Parking: CSE Visitor Parking Map Research I am interested in Programming Languages and Software Engineering, specifically, in techniques for building reliable computer systems. My work draws from, combines and contributes to the areas of Type Systems, Model Checking, Program Analysis and Automated Deduction, with my fantastic students in the Programming Systems Group. Current projects include: Flux [PLDI 2023] [POPL 2025] [SOSP 2025] Liquid Haskell [ICSE 2025] [POPL 2024] [OSDI 2021], [PLDI 2019], [POPL 2018], [ICFP 2017], [ICFP 2015], [Blog] Interaction-based Program Analytics [OOPSLA 2022], [PLDI 2020], [OOPSLA 2017], [ICFP 2016], Timing Channels [CCS 2021], [USENIX Sec 2019], [PLDI 2019], [CCS 2018], [S&P 2015] See my papers for more. Teaching CAV 2019 Tutorial: Verification with Refinement Types Some general nuggets: ICFP @ PLMW 2018: How to design talks Currently I am teaching: Winter 2025 : CSE 130: Programming Languages Winter 2025 : CSE 230: Graduate Programming Languages Twitter Tweets by @ranjitjhala Design by Mark Reid Powered by Hakyll",
+  "content_length": 1347,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:15:44"
+}

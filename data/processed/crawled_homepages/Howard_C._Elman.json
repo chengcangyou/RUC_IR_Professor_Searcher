@@ -1,0 +1,9 @@
+{
+  "name": "Howard C. Elman",
+  "homepage": "https://www.cs.umd.edu/users/elman",
+  "status": "success",
+  "content": "Howard Elman Howard Elman Position, University of Maryland at College Park Professor Department of Computer Science Institute for Advanced Computer Studies (UMIACS) Director, Applied Mathematics & Statistics, and Scientific Computing (AMSC) Program, 2018-2024 Affiliate Professor, Department of Mathematics Contact Information Department of Computer Science University of Maryland College Park, MD 20742, USA Phone: (301)405-2694 / Fax: (301)405-6707 Email: helman at umd.edu Professional Activities Vice President for Publications, SIAM Associate Editor, Mathematics of Computation Program Committee, Copper Mountain Conference on Iterative Methods Editor-in-Chief, SIAM Journal on Scientific Computing, 1998-2004 Citations SIAM Fellow Research Interests Numerical analysis, numerical linear algebra, computational fluid dynamics, parallel computation. Curriculum Vitae Education Ph.D. Yale University 1982. B.A. Columbia University 1975. H.S. Stuyvesant High School 1971. Fall 2024 Course Material AMSC/CMSC 460, Computational Methods Papers Book Howard C. Elman, David J. Silvester and Andrew J. Wathen Finite Elements and Fast Iterative Solvers Second Edition, Oxford University Press, 2014 US Edition UK Edition See Google books for more information. Software The Incompressible Flow & Iterative Solver Software (IFISS) package is a software library that generates the algebraic systems arising from finite element discretization of the diffusion, convection-diffusion, Stokes and Navier-Stokes equations and explores solution algorithms for the associated problems. It is an open-source Matlab package associated with the book referenced above, and which can also be used as a stand-alone experimental library. GAMM16-tutorial.zip Officer and Laughing Girl",
+  "content_length": 1762,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:21:13"
+}

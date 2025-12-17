@@ -1,0 +1,9 @@
+{
+  "name": "James Vallino",
+  "homepage": "http://www.se.rit.edu/~jrv",
+  "status": "success",
+  "content": "Jim Vallino's RIT SE Department Home Page <body bgcolor=\"#FFFFFF\"> <p>This page uses frames, but your browser doesn't support them.</p> </body>",
+  "content_length": 143,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:26:25"
+}

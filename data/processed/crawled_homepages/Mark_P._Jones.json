@@ -1,0 +1,9 @@
+{
+  "name": "Mark P. Jones",
+  "homepage": "http://web.cecs.pdx.edu/~mpj",
+  "status": "success",
+  "content": "Mark P Jones: Home Page Mark P. Jones Publications I am a professor in the Department of Computer Science in the Maseeh College of Engineering & Computer Science at Portland State University in Portland, Oregon, USA. I am currently on sabbatical (until June 2026) after serving as department chair for six years, from August 2019 until August 2025. My PSU Profile has a few more details. My research interests include all aspects of programming language design, implementation, and application. I am particularly interested in the use of advanced programming language technologies for low-level systems programming, and in the development and application of expressive type systems and language abstractions that support the construction and certification of secure and reliable software systems. [Caveat: In my current role of department chair, I am focussed on administrative work and do not have much time for research.] I am the original designer and implementor of the Gofer and Hugs systems. People still ask me about Timbot. I developed a course on Languages and Low-Level Programming; and I have since reimplemented several of the associated lab examples using mil-tools. Emailmpj at pdx.edu Github@zipwith Mailing Address Department of Computer Science (CMPS) Portland State University P.O. Box 751 Portland, OR 97207-0751 USA Shipping Address Department of Computer Science (CMPS) Portland State University 1900 SW 4th Avenue, Suite 120 Portland, Oregon 97201 USA Last Updated: September 2025",
+  "content_length": 1502,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:53:35"
+}

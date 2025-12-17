@@ -1,0 +1,9 @@
+{
+  "name": "A. Udaya Shankar",
+  "homepage": "https://www.cs.umd.edu/users/shankar",
+  "status": "success",
+  "content": "udaya shankar A. Udaya Shankar Professor (Retired 2022) Computer Science Department Room 4141, A.V. Williams Bldg Email: shankar@cs.umd.edu Courses taught recently CMSC 216 Introduction to Computer Systems CMSC 412 Operating Systems CMSC 414 Computer and Network Security CMSC 712 Distributed Algorithms and Verification Research interests The design and analysis of distributed systems, especially as found in networking and operating systems. I'm interested in both correctness analysis and performance analysis. One area of current work is a framework, based on assertional reasoning, for writing correct distributed programs. The theory for the framework, called Sesf, is in this (text). I'm currently developing tutorial-level software for this framework, specifically, a suite of distributed programs and a testing harness. Here is a preliminary version. Another area of current work is timestep stochastic simulation of networks of TCP and UDP flows. Unlike traditional packet-level simulation, the network state is updated probabilistically at steps of time. This results in fast simulation, especially for high-speed networks. Details and a simulator (tssnet) are available here. Selected Publications PhD students TS Eliot: prufrock, hippopotamus",
+  "content_length": 1256,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:28:04"
+}

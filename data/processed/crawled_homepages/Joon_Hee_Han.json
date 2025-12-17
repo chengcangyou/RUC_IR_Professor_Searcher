@@ -1,0 +1,9 @@
+{
+  "name": "Joon Hee Han",
+  "homepage": "http://cvlab.postech.ac.kr/jhhan",
+  "status": "success",
+  "content": "오류안내 페이지 | Computer Vision Lab. POSTECH 다음 항목에 오류가 있습니다. 존재하지 않는 게시판입니다. 돌아가기",
+  "content_length": 77,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:34:15"
+}

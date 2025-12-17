@@ -1,0 +1,9 @@
+{
+  "name": "Luís M. S. Russo",
+  "homepage": "http://web.tecnico.ulisboa.pt/luis.russo",
+  "status": "success",
+  "content": "LuÃ­s M. S. Russo LuÃ­s M. S. Russo Professor of Computer Science INESC-ID, Rua Alves Redol, nÂ° 9 1000-029 Lisboa, Portugal luis.russo _a_t_ tecnico.ulisboa.pt Phone: (+351) 21 31 00272 Fax: (+351) 21 31 45843 Research I am a computer scientist and researcher that specializes in compressed data structures. I work on developing and analyzing efficient algorithms and data structures for compressing large datasets. In particular I develop applications of compressed data structures to bioinformatics. Software Here are links to some prototypes: Quick Hyper Volume COPS MAX-DAG Teaching I usually teach courses related to algorithms and data structures.",
+  "content_length": 654,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:49:01"
+}

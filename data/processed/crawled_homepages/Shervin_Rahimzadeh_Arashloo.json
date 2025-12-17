@@ -1,0 +1,9 @@
+{
+  "name": "Shervin Rahimzadeh Arashloo",
+  "homepage": "http://www.cs.bilkent.edu.tr/~s.rahimzadeh",
+  "status": "success",
+  "content": "Shervin R. Arashloo Shervin R. Arashloo Home Teaching Research Publications Journal Articles Conference Papers Academic Roles Editorial Supervision Projects Activities Schedule Profiles Google Scholar Scopus Shervin R. Arashloo I am a faculty member in the Department of Computer Engineering at Bilkent University. My research focuses on the intersection of computer vision, machine learning, and data science, advancing the mathematical and learning foundations of trustworthy visual AI. I develop learning algorithms to enhance the robustness, reliability, and generalisation of AI systems, with an emphasis on one-class classification, deep and kernel learning, and biometric security (e.g., face presentation attack detection and deepfake detection). I serve as Associate Editor for the Pattern Recognition, IEEE TCSVT and Neurocomputing journals, and have sustained international collaborations with leading research groups (CVSSP, University of Surrey, UK). Interests: Develop data-efficient machine learning methods for classification and anomaly detection, targeting robustness to unseen conditions and domain shifts. Advance forensic robustness by designing algorithms resilient to spoofing, adversarial attacks, and deepfake manipulations. Translate kernel-based and one-class theoretical advances into scalable deep architectures and deployable models for realworld applications. Contact Department of Computer Engineering Faculty of Engineering Bilkent University 06800 Bilkent, Ankara, TURKEY Tel: +90 (312) 290 3440 Fax: +90 (312) 266 4047 Email: s.rahimzadeh [at] cs.bilkent.edu.tr Office: EA-429",
+  "content_length": 1611,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:27:18"
+}

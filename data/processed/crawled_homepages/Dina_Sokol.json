@@ -1,0 +1,9 @@
+{
+  "name": "Dina Sokol",
+  "homepage": "http://www.sci.brooklyn.cuny.edu/~sokol",
+  "status": "success",
+  "content": "Professor Dina Sokol Research My research focuses on developing efficient algorithms for string processing. The field is called Stringology. It includes algorithms for pattern matching, finding repetitions in strings, compression, 2-dimensional matching, and parameterized matching. Application areas that benefit from these algorithms include computational biology (searching DNA and protein sequences), text processing and information retrieval, data compression, image search, etc. Publications DBLP Google Scholar ORCID Scopus Teaching All course materials are posted on Blackboard/Brightspace. For my current courses, see my faculty profile . Contact Email: dsokol AT brooklyn.cuny.edu Office: Room 3209d Ingersoll Hall Phone: 718-951-5000 X 2065",
+  "content_length": 751,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:02:38"
+}

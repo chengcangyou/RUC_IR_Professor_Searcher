@@ -1,0 +1,9 @@
+{
+  "name": "Ranald Alexander Clouston",
+  "homepage": "https://cs.anu.edu.au/people/ranald-clouston",
+  "status": "success",
+  "content": "Ranald Clouston | ANU School of Computing School Sharepoint College Sharepoint ANU College of Systems & Society Search this site Search this site (powered by Google) Powered by Google Close search Interests Research I am interested in creating new logics, or adapting old ones, to solve problems in computer science. For example, I have studied logics for recursively defined infinite structures such as streams, for mutable resources such as memory locations, and for handling variable names. I am particularly interested in how logics can be turned into type systems to guarantee well-behaved code, or to support formally checked mathematics. Biography I studied Logic and Computation as an undergraduate at Victoria University of Wellington in New Zealand, then completed a PhD at the University of Cambridge in 2010. I worked as a research fellow at ANU, then as a postdoc and assistant lecturer at Aarhus University in Denmark, then returned to ANU in 2018 to take up a Lecturer position. Activities & Awards bars search times",
+  "content_length": 1031,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:15:39"
+}

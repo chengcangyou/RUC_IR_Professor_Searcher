@@ -1,0 +1,9 @@
+{
+  "name": "Prashant Nalini Vasudevan",
+  "homepage": "https://www.comp.nus.edu.sg/~prashant",
+  "status": "success",
+  "content": "Prashant Nalini Vasudevan Prashant Nalini Vasudevan I am an Assistant Professor in the Department of Computer Science at the National University of Singapore. I work in Theoretical Computer Science, usually on the theoretical foundations of Cryptography and its interactions with Complexity Theory. I am looking for postdoctoral researchers with experience in cryptography and related topics in theorerical CS to come work with me; see my Research page for details. Email prashvas at nus dot edu.sg Office COM3-02-23 More info CV DBLP Made using Jinja2, Skeleton, and way too much time",
+  "content_length": 585,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:13:10"
+}

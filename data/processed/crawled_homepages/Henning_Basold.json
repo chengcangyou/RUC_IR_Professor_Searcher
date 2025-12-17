@@ -1,0 +1,9 @@
+{
+  "name": "Henning Basold",
+  "homepage": "https://liacs.leidenuniv.nl/~basoldh",
+  "status": "success",
+  "content": "About Me Home Education Team Research Publications Thesis Code Talks Contact It’s an honour to have you on my homepage! I am a lecturer (assistant professor/universitair docent) at the Leiden Institute for Advanced Computer Science (LIACS) at the Leiden University. You may my interests and activities on my research page and that of my team STyLo. Previously, I was a postdoc with Damien Pous in the the PLUME team and a member of the CoVeCe project. My PhD thesis I wrote under the supervision of Helle Hvid Hansen, Jan Rutten and Herman Geuvers at the Radboud University, Nijmegen and the CWI, Amsterdam.",
+  "content_length": 607,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:19:55"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Sam Kriegman",
+  "homepage": "https://skriegman.github.io",
+  "status": "success",
+  "content": "sam kriegman sam kriegman tweets email papers xenobots bio videos code lab vita",
+  "content_length": 79,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:23:00"
+}

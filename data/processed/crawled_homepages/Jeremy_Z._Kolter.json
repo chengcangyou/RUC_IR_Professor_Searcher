@@ -1,0 +1,9 @@
+{
+  "name": "Jeremy Z. Kolter",
+  "homepage": "http://www.zicokolter.com",
+  "status": "success",
+  "content": "Zico Kolter I am a Professor and Director of the Machine Learning Department with the School of Computer Science at Carnegie Mellon University. My group’s work focuses on machine learning very broadly. Much of our work aims at making deep learning algorithms more robust, safer, and understanding how data impacts how models function. To these ends, we have worked on methods for assessing and improving the robustness of deep learning systems, building complex “modules” (such as optimization solvers) within the loop of deep architectures, and building new types of architectures for deep networks.",
+  "content_length": 600,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:29:29"
+}

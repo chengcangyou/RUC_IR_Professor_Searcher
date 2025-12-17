@@ -1,0 +1,9 @@
+{
+  "name": "Xiao Shaun Wang",
+  "homepage": "https://wangxiao1254.github.io",
+  "status": "success",
+  "content": "About me - Xiao Wang Xiao Wang (汪骁) Follow Evanston, IL Email Github Google ScholarI am an associate professor of computer science at Northwestern University. My research interests broadly cover computer security, privacy, and cryptography. Recently, I’ve been working on practical multi-party computation, zero-knowledge proof, and lattice-based cryptography, as well as their applications in machine learning, databases, formal methods, health informatics, and the legal domain. I like building real systems based on advanced cryptographic techniques and pushing their limits of practicality.Fun-Time Photo",
+  "content_length": 608,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:48:13"
+}

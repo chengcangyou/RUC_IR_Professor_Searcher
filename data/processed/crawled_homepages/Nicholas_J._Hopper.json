@@ -1,0 +1,9 @@
+{
+  "name": "Nicholas J. Hopper",
+  "homepage": "https://www-users.cs.umn.edu/~hopper",
+  "status": "success",
+  "content": "Nick Hopper Nicholas Hopper Professor Computer Science & Engineering Department University of Minnesota hoppernj at umn edu 200 Union St SE Minneapolis, MN 55455 USA Office: 4211 Keller Hall Phone: (612)-626-1284 Read more about my: Bio | Publications | Advising | Teaching I'm a Professor (and Director of Undergraduate Studies) in the Computer Science & Engineering Department. My primary research interest is in online communications security and privacy; within this field my main focus is on anonymous communication, censorship resistance, and applied cryptography. In the past, I have also worked on security and privacy in peer-to-peer networks, BGP routing, electronic cash, and provable security for steganography and watermarking.",
+  "content_length": 740,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:05:16"
+}

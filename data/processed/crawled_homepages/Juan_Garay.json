@@ -1,0 +1,9 @@
+{
+  "name": "Juan Garay",
+  "homepage": "https://engineering.tamu.edu/cse/profiles/garay-juan.html",
+  "status": "success",
+  "content": "Garay, Juan | Texas A&M University Engineering Skip To Main Content Skip To Profile Details Skip To Research Interests Skip To Selected Publications Professor, Computer Science & Engineering Phone: 979-845-4359 Email: garay@cse.tamu.edu Office: PETR 429 Website: Personal Website Google Scholar Profile Research Interests Cryptography and information security Cryptographic protocols and schemes Secure multiparty computation Cryptocurrencies and blockchain protocols Cryptography and game theory Network security Distributed computing Consensus problems Algorithms Selected Publications Juan A. Garay, Aggelos Kiayias, Rafail M. Ostrovsky, Giorgos Panagiotakos, Vassilis Zikas: Resource-Restricted Cryptography: Revisiting MPC Bounds in the Proof-of-Work Era. EUROCRYPT (2) 2020: 129-158 Juan A. Garay, Aggelos Kiayias, Nikos Leonardos: The Bitcoin Backbone Protocol: Analysis and Applications. EUROCRYPT (2) 2015: 281-310. (To appear in Journal of the ACM.) Juan A. Garay, Jonathan Katz, Ueli Maurer, BjÃ¶rn Tackmann, Vassilis Zikas: Rational Protocol Design: Cryptography against Incentive-Driven Adversaries. FOCS 2013: 648-657 Juan A. Garay, Philip D. MacKenzie, Manoj Prabhakaran, Ke Yang: Resource Fairness and Composability of Cryptographic Protocols. J. Cryptol. 24(4): 615-658 (2011). (Preliminary version in TCC 2006.) Juan A. Garay, Yoram Moses: Fully Polynomial Byzantine Agreement for n Greater Than 3t Processors in t + 1 Rounds. SIAM J. Comput. 27(1): 247-290 (1998). (Preliminary version in STOC 1993.) Google Scholar Profile",
+  "content_length": 1542,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:36:38"
+}

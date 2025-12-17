@@ -1,0 +1,9 @@
+{
+  "name": "Nadir Weibel",
+  "homepage": "https://www.ubicomp.ucsd.edu/weibel",
+  "status": "success",
+  "content": "Avant-Garde Avant-Garde Project Avant-Garde is a multidisciplinary research project by Schools of Medicine and Computer Science and Engineering at the UC San Diego. Led by Dr. Davey Smith, associate professor of medicine in the Division of Infectious Diseases, Avant-garde project aims to stimulate high-impact research that may lead to groundbreaking opportunities for the prevention and treatment of HIV/AIDS in drug abusers. Exploratory Visual Analytics Dashboard As part of this endeavor, a heterogeneous dataset containing socio-demographic, clinical and viro-genetic information about patients in San Diego area has been collected. This data can be used for more effective prevention and targeted intervention by enabling providers to better understand relationships between factors such social, demographic, genetic and genetic of high risk groups and individuals. To achieve this goal, Dr. Weibel and his team at ubicomp lab has designed and implemented a data exploration platform tailor-made to specific needs of HIV researchers. This tool support data analysis through multiple coordinated views that represent data from various angles. Advanced interaction techniques such as dynamic filtering and brushing-and-linking enables searchers to easily investigate trends, distributions, and relationships. Your browser does not support the video tag. Team Dr. Nadir Weibel (Supervision) Dr. Ali Sarvghad (Design, evaluation, supervision) Vincent Liaw (Implementation, testing) Joel Sequeira (Implementation, testing) Dr. Davey Smith Dr. Sanjay Mehta",
+  "content_length": 1556,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:02:58"
+}

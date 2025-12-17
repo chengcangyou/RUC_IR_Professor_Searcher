@@ -1,0 +1,9 @@
+{
+  "name": "Paola Quaglia",
+  "homepage": "https://webapps.unitn.it/du/en/Persona/PER0003890/Didattica",
+  "status": "success",
+  "content": "Paola Quaglia | Teaching | University of Trento Paola Quaglia Member Library Committee Associate professor Department of Information Engineering and Computer Science Via Sommarive, 9 - 38123 Povo tel. 0461 283905 paola.quaglia[at]unitn [dot] it Expertise: Algorithms Concurrency Concurrent algorithms Context-free languages Formal grammars Formal languages Invariants Models of computation Operational semantics Parsing Process calculi Programming languages Shared memory algorithms Stochastic processes Systems biology {{vm.properties.total}} results - {{vm.properties.numberOfCollections}} teaching activity No results found 10 20 50 This section provides the list of courses that the person is in charge to teach during the current academic year. Data source: GDA (UniTrento Online Didactics System) Teaching activity {{corso[0].nome}} Department: {{dipartimento.nome}}, Department: {{dipartimentoSing.nome}} , Holders: {{titolare.nominativo}}{{titolare.nominativo}}, Professors: {{docente.nominativo}}{{docente.nominativo}}, Assistant: {{assistente.nominativo}}{{assistente.nominativo}}, Tutors: {{tutore.nominativo}}{{tutore.nominativo}}, Abstract: Keywords {{k}} Program Stream Detail {{dettaglioCorso.corsoStudi}} {{dettaglioCorso.percorso}} {{dettaglioCorso.percorso}} Read Loading...",
+  "content_length": 1292,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:08:50"
+}

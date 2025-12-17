@@ -1,0 +1,9 @@
+{
+  "name": "Rajat Mittal 0001",
+  "homepage": "http://www.cse.iitk.ac.in/users/rmittal",
+  "status": "success",
+  "content": "Rajat Mittal Department of Computer Science and Engineering Home Articles Old-Courses CS 682 Associate Professor, RM202 (Rajeev Motwani Building), Department of Computer Science and Engineering , IIT Kanpur, Kanpur 208016, India. Phone: 6210. If outside IITK, please add +91-512-(679/259/392). E-mail: rmittal @iitk .ac .in . Research Quantum Computing, Complexity of Boolean functions, Computational Complexity. Selected articles Approximate degree composition for recursive functions with S. Chakraborty, C. Kayal, M. Paraashar and N. Saurabh; RANDOM 2024. Certificate games with S. Chakraborty, A. Gal, S. Laplante and A. Sunny; ITCS 2023. Counting basic-irreducible factors mod p^k in deterministic poly-time and p-adic applications with A. Dwivedi and N. Saxena; CCC 2019. Characterization of binary constraint system games with R. Cleve; ICALP 2014 and QIP 2014. Quantum query complexity of state conversion with T. Lee, B. Reichardt, R. Spalek and M. Szegedy; FOCS 2011 and QIP 2012. Product rules in semidefinite programming with M. Szegedy; FCT 2007. Complete list of articles Teaching Complexity measures for Boolean functions Old courses Guide to e-Lectures Hindi videos for introduction to programming Misc Climbing@IITK Climbing in India Waste Management",
+  "content_length": 1267,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:14:54"
+}

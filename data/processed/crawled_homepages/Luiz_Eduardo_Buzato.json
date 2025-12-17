@@ -1,0 +1,9 @@
+{
+  "name": "Luiz Eduardo Buzato",
+  "homepage": "http://www.ic.unicamp.br/~buzato",
+  "status": "success",
+  "content": "Luiz Eduardo Busato's Home Page Instituto de Computação UNICAMP Luiz Eduardo Busato Ph. D., Newcastle University School of Computing Newcastle upon Tyne, UK, 1994. Instituto de Computação Universidade Estadual de Campinas (UNICAMP) Av. Albert Einstein 1251, Cidade Universitária Zeferino Vaz - Barão Geraldo 13083-852 Campinas, SP - BRAZIL phone: +55 (19) 35215840 Curriculum Vitae Short CV My profile at Google Scholar Lattes CV [Portuguese] (CNPq) Research Interests Distributed Algorithms: Consensus (e.g., Paxos, Fast Paxos, PBFT), Checkpointing, Transactions Concurrent and Parallel Programming High Availability: Reliability, Performance, Benchmarks Scalable Distributed Systems Research Distributed Algorithms and Systems Distributed Checkpointing Reflective Programming During my PhD I have designed, built, and deployed a distributed system that allows the runtime reconfiguration of distributed transaction-based applications. Teaching Distributed Algorithms Distributed Systems Concurrent and Parallel Programming Object-Oriented Programming Software Engineering: software architecture, agile methods Last updated 2023.03 (busato).",
+  "content_length": 1142,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:48:48"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Fazli Can",
+  "homepage": "http://www.cs.bilkent.edu.tr/~canf",
+  "status": "success",
+  "content": "FAZLI CAN's Bilkent University Home Page <body bgcolor=\"#800000\" link=\"#FFFFFF\" vlink=\"#FFFFFF\"> <p>This page uses frames, but your browser doesn't support them.</p> </body>",
+  "content_length": 173,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:09:27"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Nils Jansen 0001",
+  "homepage": "https://nilsjansen.org",
+  "status": "success",
+  "content": "Nils Jansen. The chair of Artificial Intelligence and Formal Methods has a mission: Increase the trustworthiness of Artificial Intelligence (AI). We conduct broad foundational and application-driven research. Our vision of neurosymbolic AI combines the fields of machine learning and formal methods, with a particular focus on formal verification. We tackle problems that are inspired by autonomous systems and planning problems in robotics. The following goals are central to our efforts: Increase the dependability of AI in safety-critical environments. Render AI models robust against uncertain knowledge about their environment. Enhance the capabilities of formal verification to handle real-world problems using learning techniques. We are interested in various aspects of dependability and safety in AI, intelligent decision-making under uncertainty, and safe reinforcement Learning. A key aspect of our research is a thorough understanding of the (epistemic or aleatoric) uncertainty that may occur when AI systems operate in the real world. Read more at the webpage of my group(s), or at the official website of our chair at Ruhr University. The best way to reach me is via this email address. Office Ruhr-University: MC 4.151 | Universitaetsstr. 150 | 44801 Bochum | Germany. Office Radboud University: Room M1.01.05 | Toernooiveld 212 | 6525EC Nijmegen.",
+  "content_length": 1363,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:06:14"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Serge Fehr",
+  "homepage": "http://homepages.cwi.nl/~fehr",
+  "status": "success",
+  "content": "Serge Fehr: Home Home Contact Short CV Publications Activities Students Teaching Links Serge Fehr Senior Researcher, Cryptology Group, CWI Amsterdam Professor, Mathematical Institute, Leiden University Serge Fehr is a scientific staff member of the Cryptology Group at CWI, the Dutch Center for Mathematics and Computer Science in Amsterdam, and a (part-time) full professor in the Faculty of Science at Leiden University. He participates in AMSec, the Amsterdam Cyber Security Center, and he is supported by NWO, the Dutch Research Council, and by DIAMANT, the Dutch national mathematics research network on Discrete, Interactive & Algorithmic Mathematics, Algebra & Number Theory. Research interest: Foundations of cryptology, information-theoretic and (post-)quantum cryptography, zero-knowledge proofs, and secure multiparty computation. Current and upcoming activities: Steering committee member of the workshop series Beyond IID In Information Theory. Work package leader in the NWO NWA HAPKIDO consortium. Co-organizer of the national Symposium Series on Post-Quantum Cryptography. Recent publications: T. Attema, S. Fehr, M. KlooÃ, N. Resch. The FiatâShamir Transformation of (Î1,...,ÎÎ¼)-Special-Sound Interactive Proofs. In Journal of Cryptology. S. Fehr, Y.H. Huang, and J. Kastner. Sandwich BUFF: Achieving Non-Resignability Using Iterative Hash Functions. In TCC 2025. D. Abram, S. Fehr, M. Obremski, P. Scholl. On the Impossibility of Actively Secure Distributed Samplers. In TCC 2025. [more] CWI DISCLAIMER",
+  "content_length": 1526,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:25:40"
+}

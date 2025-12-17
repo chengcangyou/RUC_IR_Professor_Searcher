@@ -1,0 +1,9 @@
+{
+  "name": "Andy King",
+  "homepage": "https://www.cs.kent.ac.uk/people/staff/amk",
+  "status": "success",
+  "content": "Andy King - School of Computing - University of Kent Jump to content design1 Andy King Emeritus Professor of Computer Science Email a.m.king@kent.ac.uk More information ORCID iD: 0000-0001-5806-4822 Location Room 211 Kennedy Building University of Kent Canterbury Kent CT2 7FS On this page About Research interests About Research interests I belong to the following research groups:Programming Languages and Systems GroupCyber Security GroupAlthough I teach artificial intelligence, constraint solving and system security, my interests are much more diverse than that, ranging from high-level declarative programming to low-level assembly code.A reoccurring theme of my work is abstract interpretation in which all paths through a program are systematically examined so as automatically derive information for optimising a program for, say, time or energy. Abstract interpretation is also increasingly used to search a program for bugs, such as security holes, which another interest of mine.Recently I have been working on geometric algorithms, reverse engineering and the automatic synthesis of transfer functions. Last updated 7 July 2025",
+  "content_length": 1141,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:58:26"
+}

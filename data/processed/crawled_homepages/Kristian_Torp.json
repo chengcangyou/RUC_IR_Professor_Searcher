@@ -1,0 +1,9 @@
+{
+  "name": "Kristian Torp",
+  "homepage": "http://people.cs.aau.dk/~torp",
+  "status": "success",
+  "content": "Kristian Torp Welcome My name is Kristian Torp , I am an associate professor at Aalborg University. I am with the Department of Computer Science where I work in the Daisy, that is part of the Database, Programming, and Web Technologies group. My research interests include the following. Spatio-temporal data management and analytics Traffic Analytics Efficiently handling of very large data sets Research I am involved in a number of research projects related to moving objects, traffic, and large data sets. For a list see Current research projects Awards 2018 IEEE Workshop Big Spatial Data, Best Paper Award 2018 ACM SIGSPATIAL, Best Demo Award 2015 ACM SIGSPATIAL, Best Paper Award 2014 ACM SIGSPATIAL, Best Short Paper 2013 MDM, Best Demo Award 2012 ACM IWGS@SIGSPATIAL, Best Paper Award Teaching My teaching is related to data management and programming. Contact Information Kristian Torp Associate Professor, Ph.D. Department of Computer Science, Aalborg University Selma LagerlÃ¶fs Vej 300 DK-9220 Aalborg Ãst,Denmark phone: + 45 9940 7222 (direct) fax: + 45 9940 9798 e-mail torp@cs.aau.dk Other articles A temporal database supports multiple version of rows. Dealing with multiple versions can be quite complicated. A number of DBMS vendors have added support for temporal support. As an example of a valid-time table consider the emp is shown below. Name Dept VTS VTE Karen RD 10 20 Karen HR â¦ read more The SQL Insert statement read more A temporal database supports multiple version of rows. Dealing with multiple versions can be quite complicated. A number of DBMS vendors have added support for temporal support. read more I am currently involved in the following projects optiTruck DiCyPS ELVITEN read more",
+  "content_length": 1726,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:44:27"
+}

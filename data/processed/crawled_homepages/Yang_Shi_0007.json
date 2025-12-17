@@ -1,0 +1,9 @@
+{
+  "name": "Yang Shi 0007",
+  "homepage": "https://xiaoyangtao.github.io",
+  "status": "success",
+  "content": "Yang Shi Yang Shi yangshi.idvx(at)tongji.edu.cn Google Scholar dblp I am an Associate Professor at the College of Design and Innovation, Tongji University, Shanghai, China. I am also a faculty member of Intelligent Big Data Visualization Lab (iDVx). My research interest is human-computer interaction approaches to augmenting creativity. I received my PhD from the School of Computer Science and Engineering at Central South University, where I worked with Professor Yaoxue Zhang  (Academician of the Chinese Academy of Engineering). I was a visiting scholar at Visualization & Interface Design Innovation Lab at University of California, Davis, where I worked with Professor Kwan-Liu Ma. I received my Master and Bachelor degrees from Carnegie Mellon University and Zhejiang University, respectively. I am currently seeking highly-motivated and hard-working Ph.D students who major in computer science, data science, data journalism, design, or psychology to work with me on exciting HCI and VIS research projects. If you are interested, please contact me through email and send me your CV and portfolio. Publications All Featured Awards Journal Conference News {{news_item.text}} Students {{degreeblock.degree}} {{student.name}} {{student.degree}} {{student.next}}",
+  "content_length": 1266,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:50:09"
+}

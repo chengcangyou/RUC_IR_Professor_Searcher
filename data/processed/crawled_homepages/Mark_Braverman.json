@@ -1,0 +1,9 @@
+{
+  "name": "Mark Braverman",
+  "homepage": "https://mbraverm.princeton.edu",
+  "status": "success",
+  "content": "Mark Braverman | Mark Braverman's Home PageMark Braverman Edit this pageMark BravermanI am a professor at the Department of Computer Science at Princeton University.My office is 304 in CS Building (see campus map here).My brief bio can be found here.I am interested in complexity theory, information theory, the theory of real computation, machine learning, algorithms, algorithmic mechanism design, and its applications.My e-mail address: #######@cs.princeton.edu, replacing ####### with mbraverm.Recent and current program committees (since 2021): ITCS'22 (program committee chair)PapersAll papersHighlighted papersOptimization-friendly generic mechanisms without money [arXiv] [talk]Communication and information complexity, ICM'22, preliminary version [pdf]TeachingSpring 2022: COS445 Economics and computationFall 2021: COS521 Advanced algorithm design",
+  "content_length": 857,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:53:15"
+}

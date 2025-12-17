@@ -1,0 +1,9 @@
+{
+  "name": "Khanh Nguyen 0001",
+  "homepage": "https://khanhtn.engr.tamu.edu",
+  "status": "success",
+  "content": "Khanh Nguyen – CSE@TAMU Skip to primary navigation Skip to main contentMenu I am an Assistant Professor in the Department of Computer Science & Engineering at Texas A&M University. My research aims to develop practical techniques to solve scalability issues in Big Data systems, including ML workloads. Specifically, I am interested in developing programming language extensions, compiler and runtime support to improve system performance in terms of resource efficiency, workload scalability, and tail latency.",
+  "content_length": 511,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:42:43"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Holger Giese",
+  "homepage": "https://hpi.de/en/research/research-groups/system-analysis-and-modeling",
+  "status": "success",
+  "content": "System Analysis and Modeling | Hasso-Plattner-Institut Prof. Dr. Holger Giese System Analysis and Modeling The System Analysis and Modeling group at the HPI focuses on the use of models for software-intensive systems at development-time and run-time. This subsumes the specification of dynamic and flexible systems, learning models and adaptation policies, analyze and formally verify such models, and model synthesis. The considered systems are typically distributed systems, embedded real-time systems as well as systems that are capable to adapt and coordinate themselves (self-managed). Therefore, the chair further does research on model queries, model transformations, model and code generation, and model integration during development-time and run-time. Prof. Dr. Holger Giese Function Head of System Analysis and Modeling Room A-2.5 (via A-2.6) Phone: +49 331 5509-366 Mail: holger.giese@hpi.de Office Kerstin Miers Office Assistant for System Analysis and Modeling Phone: +49 331 5509-314 Fax: +49 331 5509-309 Mail: office-giese@hpi.de About the research group HomeTeachingResearchPublicationsTeam Last change: 18/02/2025, Mareike-Vic Schreiber",
+  "content_length": 1155,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:20:44"
+}

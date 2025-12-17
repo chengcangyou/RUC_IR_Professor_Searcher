@@ -1,0 +1,9 @@
+{
+  "name": "Paolo Casari",
+  "homepage": "https://webapps.unitn.it/du/it/Persona/PER0221586/Didattica",
+  "status": "success",
+  "content": "Paolo Casari | Didattica | Università di Trento Paolo Casari Professore associato Dipartimento di Ingegneria e Scienza dell'Informazione Via Sommarive, 9 - 38123 Povo tel. 0461 283783 paolo.casari[at]unitn [dot] it Settore scientifico disciplinare: IINF-03/A - Telecomunicazioni (IINF-03/A) Competenze: Cloud computing Computazione pervasiva Comunicazione radio Modellazione di reti Modelli e simulazioni Ottimizzazione Propagazione delle onde ad ultrasuoni Protocolli di rete Reti mobili Reti veicolari Reti wireless Reti wireless di sensori Rilevazioni con sensori distribuiti Sistemi distribuiti Valutazione di prestazione delle reti {{vm.properties.total}} risultati - {{vm.properties.numberOfCollections}} attività didattiche Nessun risultato 10 20 50 Questa sezione riporta la lista degli insegnamenti per i quali risulta un incarico di didattica affidato alla persona nell'anno accademico corrente. Fonte dei dati: GDA (sistema gestionale per didattica e studenti) Attività didattica {{corso[0].nome}} Dipartimento: {{dipartimento.nome}}, Dipartimento: {{dipartimentoSing.nome}} , Titolari: {{titolare.nominativo}}{{titolare.nominativo}}, Docenti: {{docente.nominativo}}{{docente.nominativo}}, Assistenti: {{assistente.nominativo}}{{assistente.nominativo}}, Tutor: {{tutore.nominativo}}{{tutore.nominativo}}, Abstract: Keywords {{k}} Corso di studi Percorso Dettaglio {{dettaglioCorso.corsoStudi}} {{dettaglioCorso.percorso}} {{dettaglioCorso.percorso}} Vedi Loading...",
+  "content_length": 1476,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:08:52"
+}

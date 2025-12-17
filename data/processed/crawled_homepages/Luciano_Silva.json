@@ -1,0 +1,9 @@
+{
+  "name": "Luciano Silva",
+  "homepage": "https://www.inf.ufpr.br/luciano",
+  "status": "success",
+  "content": "Luciano Silva inf.ufpr.br:luciano [~/public_html] > finger -l luciano Login: luciano Name: Luciano Silva Directory: /home/prof/luciano Shell: .local/bin/lucIA_bash Office Phone: +55(41)98530-4016 Location: unknown Prompt: Dr:\"function(parameters)\" Drive: 5min call On since Fri Jan 11 1974 16:50 (-03) on pts/1 from bc583:85a:385v:f5b3:8b35:e358:83eb:583d (messages on) Mail forwarded to | \".local/bin/lucIA_mail -g @\" luciano@ufpr.br http://lattes.cnpq.br/9578832375902806",
+  "content_length": 473,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:48:32"
+}

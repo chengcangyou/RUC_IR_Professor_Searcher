@@ -1,0 +1,9 @@
+{
+  "name": "Vlad Kolesnikov",
+  "homepage": "https://www.scs.gatech.edu/people/vladimir-kolesnikov",
+  "status": "success",
+  "content": "Vladimir Kolesnikov | School of Computer Science Skip to main navigation Skip to main content Vladimir Kolesnikov Professor and SCP Senior Associate Chair, Joint with the School of Computer Science kolesnikov@gatech.edu https://faculty.cc.gatech.edu/~vlad/ Research Areas: \t\t\t\tCryptography, secure computation Biography Prior to joining GaTech, Vlad Kolesnikov was a Member of Technical Staff in Bell Labs' Enabling Computing Technologies domain in Murray Hill, NJ. He received his Ph.D. in Computer Science from the University of Toronto in 2006. Dr. Kolesnikov has worked on cryptography and security since 2000. His main current research interest is practical and foundational aspects of secure computation, especially of the two-party computation. He has authored a number of papers and patent applications on improving and using garbled circuit, homomorphic encryption, and related techniques. His other interests include key exchange, especially its definitional aspects. Dr. Kolesnikov has been involved in the design and analysis of Smart Grid networks, Storage Area Networks, wireless and biometric authentication, and other secure systems. He served on standards committees (WiMAX), and was and is a PI on IARPA and ONR projects. Affiliations School of Computer Science School of Cybersecurity and Privacy",
+  "content_length": 1315,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:44:45"
+}

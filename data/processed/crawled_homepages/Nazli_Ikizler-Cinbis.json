@@ -1,0 +1,9 @@
+{
+  "name": "Nazli Ikizler-Cinbis",
+  "homepage": "https://web.cs.hacettepe.edu.tr/~nazli",
+  "status": "success",
+  "content": "Nazli Ikizler-Cinbis I am a professor of computer science at the Computer Engineering Department of Hacettepe University in Ankara, Turkey. I received my BSc, MS, and PhD degrees from Bilkent University Computer Engineering Department. Before joining here, I was a post-doctoral researcher at Boston University Computer Science Department, working with Prof. Stan Sclaroff and was a member of the Image and Video Computing Group. Between Feb 2005 and June 2006, I was a visiting scholar at UIUC working with Prof. David Forsyth in the Computer Vision Group. I am one of the cofounders of HU Computer Vision Lab. My primary area of research is computer vision and machine learning, focusing models on deep learning. I am particularly interested in human action/activity understanding, sign language recognition, zero-shot/few-shot learning, and image/video captioning. Curriculum Vitae Google Scholar Page News [June 2024] I served as an area chair for ECCV 2024. [May 2024] Undergraduate project of Arda and Fırat on SLR in low-resolution settings has been accepted to Signal, Video, and Image Processing Journal. [Jan 2024] Our work on Cross-Lingual Few Shot Recognition has been accepted to Pattern Recognition. [Jan 2022] Our work on zero-shot sign language recognition has been accepted to TPAMI! [Jan 2022] Our work on self-supervised learning for few-shot semantic segmentation will be presented at WACV 2022. Contact Hacettepe University Department of Computer Engineering Beytepe Campus Ankara, Turkey, 06800 Email",
+  "content_length": 1522,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:04:15"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Samuel T. King",
+  "homepage": "https://bob.cs.ucdavis.edu",
+  "status": "success",
+  "content": "Sam King Sam King (email) Computer Science @ UC Davis My research focus is on technology to manage Type 1 Diabetes. Managing Type 1 Diabetes is hard, and I believe that novel software, hardware, and AI can help make it easier. I spent eight years in industry including time at two startups that I founded, Twitter, Lyft, and Stripe. I wrote a blog post about why I moved from academia to industry and back. Fun fact: I'm the most hard-core biohacker at UC Davis, bar none. No, I don't microdose or take drugs and I barely even take supplements. Yet, it's not even close. I'm by far the most hard-core biohacker on campus. Please see this link before asking me to write a letter of recommendation. Recent research highlights Video: This 10 minute YouTube video provides an overview of our research program on how CS can help improve the lives of people living with Type 1 Diabetes. Paper: Here is our first paper on Type 1 Diabetes! We go deep on security for automated insulin delivery systems. Impact: Our humble UC Davis research software for scanning credit cards to prevent fraud has run on over 1 billion (!) devices. Some of the largest and most popular apps have used it for areas like food delivery, vacation rentals, mobile payments, grocery delivery, e-commerce, fashion, restaurants, and more. In the press here and here, and the papers about the systems that led directly to this impact are here (Boxer, DareDevil). Code: Here is the code for GlucOS, which shows what an automated insulin delivery system looks like when designed by security experts.",
+  "content_length": 1562,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:23:23"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Carlos A. Pérez-Delgado",
+  "homepage": "https://www.cs.kent.ac.uk/people/staff/cd472",
+  "status": "success",
+  "content": "Carlos Perez Delgado - School of Computing - University of Kent Jump to content design1 Carlos Perez Delgado Senior Lecturer Library Liaison Officer Email c.perez@kent.ac.uk Telephone +44 (0)1227 8 16534 More information Go to google-scholar ORCID iD: 0000-0003-3536-2549 Location Room 113 Kennedy Building University of Kent Canterbury Kent CT2 7FS On this page About Research interests Teaching About Information is physical. Hence, our ability to obtain, process, communicate, and secure information is ultimately governed by the laws of physics.My main area of work has been to further our knowledge of the advantages and limitations that quantum theory conveys to communication, computation, metrology, and security. Research interests I belong to the following research groups:Cyber Security GroupSome of my contributions include:An intrinsically quantum data-structure for representing undirected graphs that provably out-performs any possible classical data-structure.An approach for delegated —secure or otherwise— quantum computation that can drastically reduce the communication overhead between computing nodes.Fundamental limits on the communication overhead of any secure delegated quantum computation.Fundamental limits on the accuracy of any quantum measurementAn approach for performing efficient quantum measurements in otherwise difficult to measure scenarios. Teaching COMP3830 (Convenor)COMP5580COMP6340COMP8220 (Convenor) Last updated 21 July 2025",
+  "content_length": 1469,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:48:55"
+}

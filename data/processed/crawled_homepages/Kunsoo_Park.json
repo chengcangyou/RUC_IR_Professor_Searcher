@@ -1,0 +1,9 @@
+{
+  "name": "Kunsoo Park",
+  "homepage": "http://theory.snu.ac.kr/?page_id=982",
+  "status": "success",
+  "content": "컴퓨터이론 및 응용 연구실 | Computer Theory and Applications Lab 컴퓨터이론 및 응용 연구실Computer Theory and Applications Lab 목    표 이론이 실제를 만나는 곳을 추구한다 We pursue where theory meets practice세계 최고의 연구현실에 응용되는 연구컴퓨터이론은 컴퓨터공학의 기초학문으로서 효율적인 알고리즘 개발, NP-complete 개념, 현대 암호학 이론 등으로 컴퓨터공학 발전에 근본적인 기여를 하여 왔다. Turing Award를 받은 다수의 컴퓨터이론 학자들이 이러한 사실을 잘 보여주고 있다.본 연구실은 컴퓨터이론 및 응용에 대해 연구하는 곳으로 구체적으로 그래프 알고리즘, 스트링 알고리즘, 암호학, bioinformatics, 금융공학 등에 대해 연구하고 있다.빅데이터는 대부분 스트링 데이터(text, bio-sequence 등)이거나 그래프 데이터(social network, bio-network, web graph 등)로 존재한다. 최근에는 스트링 및 그래프 형태의 빅데이터를 빠르게 분석하는 알고리즘에 대해 활발하게 연구하고 있다.Research Area Graph Algorithms String Algorithms Bioinformatics Cryptography Financial Engineering Recent NewsAug 13, 2024 박근수 교수, CPM Test of Time Award 2024 수상 스트링 알고리즘 분야의 주 학술대회인 CPM(Combinatorial Pattern Matching)에서 20년 이전에 발표된 논문 중에서 가장 영향력이 컸던 논문을 선정하여 Test of Time Award를 주기로 2024년에 결정하였고, 그 첫번째 수상 논문으로 박근수 교수의 논문이 선정되었다.Nov 17, 2023 박근수 교수, VLDB 2023에서 Distinguished Reviewer Award 수상 박근수 교수는 Proceedings of the VLDB Endowment의 Review Board member로서 2022년 4월부터 2023년 3월까지 봉사하였는데, 시간복잡도에 대한 깊이있는 이해에 기반한 코멘트와 건설적인 리뷰를 한 공로를 인정받아 VLDB 2023 학술대회에서 Distinguished Reviewer Award를 수상하였다.Oct 10, 2023 빅데이터 분석 처리 속도 극대화: 최대 수백배 빨라진다 (디일렉 인터뷰) “2022 국가연구개발 우수성과 100 선 및 정보전자분야 최우수성과”로 선정된 본 연구실의 “빅데이터 그래프 분석의 핵심 문제들에 대해 세계 최고 성능의 알고리즘 개발” 성과에 대하여 과학기술 전문 미디어 디일렉(TheElec)에서 인터뷰한 내용입니다.",
+  "content_length": 1371,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:44:57"
+}

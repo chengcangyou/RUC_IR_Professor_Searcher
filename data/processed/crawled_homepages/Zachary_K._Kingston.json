@@ -1,0 +1,9 @@
+{
+  "name": "Zachary K. Kingston",
+  "homepage": "https://zkingston.com",
+  "status": "success",
+  "content": "Zak Kingston zkingstonpurdue.edu DSAI 3059 ⇑ One of my cherry shrimp 🦐 About I am an Assistant Professor in the Department of Computer Science at Purdue University, leading the Computational Motion, Manipulation, and Autonomy (CoMMA) Lab. For publications and up-to-date information, please look at my lab's website! Previously, I was a postdoctoral research associate and lab manager for the Kavraki Lab at Rice University under the direction of Dr. Lydia Kavraki. During my Ph.D., I was funded by a NASA Space Technology Research Fellowship and worked with the Robonaut 2 team at NASA JSC. My research interests broadly encompass algorithms, methods, and software for complex robots to make decisions and find feasible or optimal motions to achieve task objectives quickly and safely in the world. Put plainly, if it involves planning, I'm pretty interested! For example, my students and I have worked on sampling-based motion planning for high-dimensional systems, such as manifold-constrained planning, microsecond-speed planning, planning on a GPU, and planning for soft growing vine robots. I also work on longer horizon reasoning, how machine learning can be used for planning, and more. More details can be found on my lab's website and in my curriculum vitae .",
+  "content_length": 1269,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:54:33"
+}

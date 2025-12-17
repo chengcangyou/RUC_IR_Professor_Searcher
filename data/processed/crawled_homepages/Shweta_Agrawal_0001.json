@@ -1,0 +1,9 @@
+{
+  "name": "Shweta Agrawal 0001",
+  "homepage": "http://www.cse.iitm.ac.in/~shwetaag",
+  "status": "success",
+  "content": "Shweta's Home Page Shweta Agrawal Home Bio Research Professional Group Teaching Social-Initiatives I am a Professor and the Venky Harinarayan and Anand Rajaraman Faculty Fellow at the Computer Science and Engineering department at the Indian Institute of Technology, Madras. My research interests are in cryptography and generally, theoretical computer science. My work focusses mainly on post-quantum cryptography, notably, cryptography based on the hardness of lattice problems. More generally, I am interested in exploring mathematical structures that enable novel, advanced capabilities in cryptography, in the classical as well as quantum regime. I am fascinated by the interplay of structure and randomness that lies at the heart of cryptography, not unlike abstract expressionism! We have recently launched CyStar to promote fundamental and applied research in cybersecurity. See here for a press release and here for some photographs of the event. Email: {first name} AT cse.iitm.ac.in Office: SSB (Computer Science Block Annexe) 403, Computer Science and Engg, IIT Madras",
+  "content_length": 1080,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:28:06"
+}

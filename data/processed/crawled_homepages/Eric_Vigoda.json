@@ -1,0 +1,9 @@
+{
+  "name": "Eric Vigoda",
+  "homepage": "https://sites.cs.ucsb.edu/~vigoda",
+  "status": "success",
+  "content": "Eric Vigoda Summer school at UCSB, August 8-12, 2022 New tools for optimal mixing of Markov chains: Spectral independence and entropy decay Theory Colloquium Series, Fall 2023 Teaching Current Year Teaching: Fall 2025: 130A (Data Structures and Graph Algorithms) Research Publication list Brief Bio available here Some previous courses: 134 (Undergraduate Randomized Algorithms) 130B (Algorithms) Markov Chain Monte Carlo (MCMC) algorithms, Fall 2021 Advanced Graduate Algorithms (Georgia Tech) Videos and notes for MOOC on Intro to Graduate Algorithms for Georgia Tech's OMSCS program Main research interests: Markov chain Monte Carlo (MCMC) methods Randomized algorithms Phase transitions in Statistical Physics Markov chains in Evolutionary Biology Office: HFH 2113 Email: vigoda (at) ucsb.edu",
+  "content_length": 796,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:07:14"
+}

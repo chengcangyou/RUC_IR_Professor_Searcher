@@ -1,0 +1,9 @@
+{
+  "name": "Matt Thomson",
+  "homepage": "https://thomsonlab.caltech.edu",
+  "status": "success",
+  "content": "Thomson Lab | The laboratory of living algorithms Applying quantitative experimental and modeling approaches to explain, predict, and program biological systems. From cell-division to brain development, biological systems accomplish tasks through self-organization across molecular, cellular and organismal scales. Our goal is to understand how unexplained properties of biological systems, including their mechanical organization and their ability to process information, emerge from collective interactions. The Thomson lab investigates basic principles of self-organization and collective behavior in biological systems. We formulate predictive mathematical models using high-dimensional data. We apply models to reprogram and engineer biological systems to achieve new behaviors. To uncover new scientific principles, we work across biological model systems. Recent work has focused on systems including cytoskeletal active matter and cellular self-organization in neural circuit development. We apply tools from biochemistry, computer science, molecular biology, and physics. We are united in our goal to explore principles underlying collective organization and intelligence in biology and to reengineer biological systems ranging from cells to organisms. Learn more about our research",
+  "content_length": 1291,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:55:40"
+}

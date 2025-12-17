@@ -1,0 +1,9 @@
+{
+  "name": "Nima Anari",
+  "homepage": "https://nimaanari.com",
+  "status": "success",
+  "content": "Nima AnariI am an Assistant Professor of Computer Science at Stanford University, and a member of the Theory Group.I am a theoretical computer scientist, with broad interests in algorithms, probability, and combinatorics. Some of my current research interests include:Sampling algorithms and Markov chainsParallel algorithmsHigh-dimensional expandersGeometry of polynomialsYou can find my papers on the Research Page, DBLP, arXiv, or Google Scholar.I received my Ph.D. in Computer Science from UC Berkeley, and B.Sc. in Computer Engineering and Mathematics from Sharif University. See my Short Bio or CV.",
+  "content_length": 604,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:06:17"
+}

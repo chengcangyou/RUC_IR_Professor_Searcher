@@ -1,0 +1,9 @@
+{
+  "name": "Jie Ren",
+  "homepage": "https://www.wm.edu/as/computerscience/people/ren_jie.php",
+  "status": "success",
+  "content": "Jie Ren | Computer Science | School of Computing, Data Sciences & Physics | William & Mary Skip to main content Education Ph.D. Electrical Engineering and Computer Science, University of California Merced ; B.S. Computer Science and Engineering, Beijing Institute of Technology Areas of Specialization High-Performance Computing, Parallel & Distributed Systems Bio Dr. Jie Ren is an Assistant Professor of Computer Science at William & Mary. Her research interests include High-Performance Computing, parallel and distributed systems, heterogeneous and composable memory systems, and affordable machine learning systems. Her work aims to improve the accessibility, efficiency, and scalability of modern computing infrastructures.",
+  "content_length": 729,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:30:26"
+}

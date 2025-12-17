@@ -1,0 +1,9 @@
+{
+  "name": "Noam Rinetzky",
+  "homepage": "http://www.cs.tau.ac.il/~maon",
+  "status": "success",
+  "content": "Noam Rinetzky Noam Rinetzky School of Computer Science – Tel Aviv University Contacts maon@cs.tau.ac.il +972-3-640-5232 School of Computer Science, Tel Aviv University, Tel Aviv 69978, Israel I am an associate professor in the School of Computer Science at Tel Aviv University. Research Interests I am interested in the technical challenges that arise when designing, engineering, abstracting, and verifying infinite state concurrent programs and distributed systems. These challenges cannot be addressed by a single silver bullet. Thus, my scientific interests, listed below, are quite broad. Programming Languages Program verification Program logics Abstract interpretation (aka static analysis) Concurrency and concurrent programming Distributed systems Smart contracts and Blockchain programming About Me I joined Tel Aviv University in October 2012. From October 2010 until October 2012 I was a Royal Academy of Engineering/EPSRC Research Fellow at the School of Electronic Engineering and Computer Science at Queen Mary, University of London, and prior to that I was a post-doctoral research associate in Peter O'Hearn's Separation Logic and Local Reasoning group at Queen Mary. I did my doctoral studies the Computer Science Department of Tel Aviv University, where I was supervised by Prof. Mooly Sagiv. Before my doctoral studies, I worked for a few years in IBM Haifa Research Laboratory on secure distributed storage systems as a research staff member in the Object Store project. https://orcid.org/0000-0002-7750-4085 © Noam Rinetzky. All rights reserved.",
+  "content_length": 1567,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:06:41"
+}

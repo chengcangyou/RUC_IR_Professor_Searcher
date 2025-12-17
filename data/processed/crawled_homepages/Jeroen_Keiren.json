@@ -1,0 +1,9 @@
+{
+  "name": "Jeroen Keiren",
+  "homepage": "https://www.jeroenkeiren.nl",
+  "status": "success",
+  "content": "About me - Jeroen Keiren Jeroen Keiren Formal methods researcher at TU/e Follow Netherlands Website Email Mastodon I am an assistant professor in the Formal System Analysis group at the Eindhoven University of Technology (TU/e). My research interests lie in the development of formal methods for the design and application of correct and reliable software and hardware systems. A common theme throughout much of my research is reducing the structures generated in model checking, for example using bisimulation methods. Specific areas of expertise include (explicit state) model checking, parity games and timed systems. I am also particularly interested in the application of such techniques to industry critical systems. I am currently PI of two research projects that focus on the verification of machine control applications described using a variation of UML state machine diagrams in the Cordis SUITE. Short bio Jeroen Keiren obtained his Masterâs degree (with honors) in Computer Science at TU/e in 2009. He obtained his PhD in Formal System Analysis in 2013 at the same university. His thesis was titled Advanced Reduction Techniques for Model Checking. Afterwards, Jeroen became a postdoc at the Vrije Universiteit, Amsterdam (2013-2015) and Assistant Professor at the Open Universiteit (2015-2019) and University of Maryland (2016). During this time, he was also a visiting researcher in the Digital Security group at Radboud University, Nijmegen (2015-2019) and visiting lecturer/assistant professor (1 day/week) in the Embedded Software group at TU Delft. At the beginning of 2019, he returned to the TU/e as an assistant professor in the Formal System Analysis Group.",
+  "content_length": 1682,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:29:31"
+}

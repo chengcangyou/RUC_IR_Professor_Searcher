@@ -1,0 +1,9 @@
+{
+  "name": "Katsuhiko Gondow",
+  "homepage": "http://www.sde.cs.titech.ac.jp/english",
+  "status": "success",
+  "content": "Gondow Lab. TOP Welcome! Research area: software engineering, software development tools, program understanding, software maintenance, program visualization,human factors in program development, programming education Research overview: In our laboratory, we research on tools to aid programmers to develop software (i.e., computer-aided software engineering).Software nowadays has over million lines of code, which far exceeds the scale of software that only human power can develop.To solve this issues, many software development tools have been proposed and developed.Software development tools are programs that aid the human activity in software development such as debuggers, version control systems, integrated development environments like Eclipse.Such existing tools, however, are not good enough;there is much room to improve them.Our research policy is to implement novel software development tools that can be applied to real-world software, while enjoying programming! Ookayama Campus 2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550 Suzukakedai Campus 4259 Nagatsuta-cho, Midori-ku, Yokohama, Kanagawa 226-8503 Tamachi Campus 3-3-6 Shibaura, Minato-ku, Tokyo 108-0023 Copyright (C) Tokyo Institute of Technology. All rights reserved. Please validate the JavaScript setting of the browser so that you see this website comfortably.",
+  "content_length": 1336,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:41:04"
+}

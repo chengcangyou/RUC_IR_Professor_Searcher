@@ -1,0 +1,9 @@
+{
+  "name": "Jirí Kléma",
+  "homepage": "https://ida.fel.cvut.cz/klema",
+  "status": "success",
+  "content": "About me - JiÅÃ­ KlÃ©ma JiÅÃ­ KlÃ©ma An associate professor at the Czech Techncial University in Prague working in the field of bioinformatics and artificial intelligence. Follow Prague, Czech Republic Czech Technical University Email Google Scholar ORCID PubMed Scopus I am an Associate Professor at the Czech Techncial University in Prague and a researcher in the Intelligent Data Analysis lab. My work focuses on bioinformatics, data mining and machine learning. I am part of the Department of Computer Science at the Faculty of Electrical Engineering, where I also serve as Deputy Head responsible for teaching. My long-term research efforts over the past years can be divided into two main areas. First, I develop dedicated algorithms for knowledge discovery from heterogeneous molecular biology data. Together with my students, I have created methods such as network-guided random forests, semantic biclustering of gene expression data, and approaches for learning RNA interaction networks from expression data. Second, I collaborate with medical and clinical research institutes on specific projects and case studies, applying both our algorithms and state-of-the-art statistical and machine learning methods to real-world biological problems. My teaching closely aligns with the research interests outlined above. I currently act as a lecturer for graduate courses in Bioinformatics and Statistical Data Analysis. In addition, I lead a reading group on data mining and machine learning for PhD students. I am also actively involved in two of our major study programmesâOpen Informatics and Medical Electronics and Bioinformaticsâserving on their programme boards and contributing to curriculum development.",
+  "content_length": 1720,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:31:20"
+}

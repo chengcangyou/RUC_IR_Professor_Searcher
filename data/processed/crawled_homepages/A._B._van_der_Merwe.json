@@ -1,0 +1,9 @@
+{
+  "name": "A. B. van der Merwe",
+  "homepage": "http://www.cs.sun.ac.za/~abvdm",
+  "status": "success",
+  "content": "Brink van der Merwe Biographical Sketch My main research interest is in automata theory. Apart from working on regular expressions, I've been working on formalising BPE tokenization in the last few years. See my Google Scholar profile for more details.",
+  "content_length": 252,
+  "method": "requests",
+  "crawl_time": "2025-12-01 15:37:02"
+}

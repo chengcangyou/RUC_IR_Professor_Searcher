@@ -1,0 +1,9 @@
+{
+  "name": "David Cash",
+  "homepage": "https://people.cs.uchicago.edu/~davidcash",
+  "status": "success",
+  "content": "David Cash David Cash Professor Director of Graduate Studies Department of Computer Science, and the College University of Chicago Crerar/JCL, Office 353 5730 S. Ellis Ave Chicago, IL 60637 davidcash@uchicago.edu Current (Autumn 2025) teaching: CMSC 27100: Discrete Mathematics I do research in cryptography, computer security, and theoretical computer science. Recently I have worked on building and analyzing systems for securely navigating encrypted data, constructing quantum-secure cryptography, and proving foundational results in theoretical cryptography. My publications are available online. See also my Google Scholar Citations page and my DBLP entry. You can also read about my academic genealogy.",
+  "content_length": 708,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:58:45"
+}

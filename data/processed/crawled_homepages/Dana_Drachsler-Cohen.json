@@ -1,0 +1,9 @@
+{
+  "name": "Dana Drachsler-Cohen",
+  "homepage": "https://ddana.net.technion.ac.il",
+  "status": "success",
+  "content": "Dana Drachsler Cohen | Assistant Professor, Faculty of Electrical and Computer Engineering I am an assistant professor at the Faculty of Electrical and Computer Engineering, Technion. I lead the SAFE lab (Secure Artificial Intelligence via Formal Methods and Engineering). Our research focuses on bringing security guarantees to deep learning models. In parallel to its immense success, deep learning has been shown to be vulnerable to different kinds of attacks, exploiting what we do not know about the deep models’ decision process. Our lab leverages formal methods (e.g., analysis, synthesis) to mathematically prove the safety of deep learning models, by analyzing different properties. Our lab puts an emphasis on engineering and develops practical systems that scale beyond existing methods. In addition to formal analysis, our algorithms increase transparency of deep models via customized programs and properties. See Publications to learn more. ** Are you a student interested in these topics? I am looking for excellent students in different levels (PhD/MSc/BSc). ** E-mail: ddana@ee.technion.ac.il     Office: Zisapel 518",
+  "content_length": 1133,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:56:43"
+}

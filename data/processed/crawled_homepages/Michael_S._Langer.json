@@ -1,0 +1,9 @@
+{
+  "name": "Michael S. Langer",
+  "homepage": "http://www.cim.mcgill.ca/~langer",
+  "status": "success",
+  "content": "Michael Langer Michael Langer Home Teaching Publications Students Contact Home I am an Associate Professor in the School of Computer Science at McGill University. I am also a Member of McGill's Center for Intelligent Machines. Research Area(s): I am interested in computational models of vision - both human and computer - specifically, how vision systems can estimate 3D scene properties such as shape, scene layout, materials, and lighting. My research has explored a variety of visual cues, including shading and shadows, specular reflection and highlights, defocus blur, motion parallax, binocular disparity, visibility and occlusions. Background: I received my B.Sc. (Math) and Ph.D. degrees from McGill, and an M.Sc. in Computer Science from U. of Toronto. I was a postdoctoral researcher at the NEC Research Institute, and at the Max Planck Institute for Biological Cybernetics where I was a Humboldt Research Fellow. I have been a professor at McGill since 2000. For details, see my CV.",
+  "content_length": 994,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:58:58"
+}

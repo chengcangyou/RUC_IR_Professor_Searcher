@@ -1,0 +1,9 @@
+{
+  "name": "Fuhai Li 0001",
+  "homepage": "https://engineering.washu.edu/faculty/Fuhai-Li.html",
+  "status": "success",
+  "content": "Fuhai Li | WashU McKelvey School of Engineering Expertise Develops LLM-Graph AI foundation models and agentic AI for large-scale data integration, interpretation and autonomous scientific discovery Research Dr. Li’s research interests lie in modeling and interpreting large-scale and complex textual-numeric graphs. His lab develops LLM-graph foundation models, AI agents and agentic AI to automate graph understanding and reasoning in real-world systems, thereby speeding up scientific discovery in a scalable, robust and trustworthy manner.",
+  "content_length": 542,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:12:13"
+}

@@ -1,27 +1,33 @@
-# 🎓 教授搜索引擎 (Professor Search Engine)
+# 🎓 梦中情导检索器2.0 (DreamAdvisor Finder)
 
-一个基于内容相似度的教授搜索引擎，支持地区/国家过滤和 AI 智能总结。
+> **基于语义向量检索 (Embedding) 的 CS/AI 领域导师匹配平台** \> 打破语言壁垒，支持中英互搜，搭配 AI 智能总结。
 
----
+-----
 
-## ✨ 功能特性
+## ✨ 核心特性
 
-### 1. **智能搜索**
-- 基于 **TF-IDF + Cosine Similarity** 的内容相似度计算
-- 搜索教授主页内容，匹配研究方向
-- 支持内容长度归一化
+### 1\. **深度语义搜索 (Semantic Search)** 🧠
 
-### 2. **灵活过滤**
+  - **摒弃传统关键词匹配**：从 TF-IDF 升级为 **Vector Embedding** 技术。
+  - **中英跨语言检索**：直接搜中文（如“信息检索”），精准匹配英文主页（"Information Retrieval"），彻底解决语言鸿沟。
+  - **模型驱动**：集成 **BAAI/bge-base-zh-v1.5** 模型，理解查询意图而非字面匹配。
+
+### 2\. **硬件加速优化** ⚡️
+
+  - **Apple Silicon 原生支持**：针对 Mac M-series 芯片优化。
+  - **MPS 加速**：利用 Metal Performance Shaders 调用 GPU 进行向量计算，性能提升显著。
+  - **智能缓存**：首次运行自动构建向量索引，二次启动实现**秒级加载**。
+### 3. **灵活过滤** 📑
 - 按**地区**过滤（如 Asia, Europe, Americas）
 - 按**国家**过滤（支持国家名称和代码）
 - 智能分层过滤，支持地区-国家联动
 
-### 3. **AI 智能总结** 🤖
+### 4. **AI 智能总结** 🤖
 - 使用 **Qwen-AI** 自动分析 Top 50 搜索结果
 - 生成中文总结，包括研究方向、机构分布、领域特点等
 - 支持 Markdown 格式渲染
 
-### 4. **Web 可视化界面** 🌐
+### 5. **Web 可视化界面** 🌐
 - 简约美观的现代化设计
 - 左右分栏布局（过滤器 + 结果展示）
 - 分页显示（每页 5 个结果）
@@ -40,13 +46,28 @@
 
 ## 🚀 快速开始
 
-### 1. 安装依赖
+### 1\. 环境准备
+
+建议使用虚拟环境（Python 3.8+）：
 
 ```bash
+# 创建并激活虚拟环境
+python3 -m venv venv
+source venv/bin/activate
+
+# 安装依赖 (新增 pytorch & sentence-transformers)
 pip3 install -r scripts/requirements.txt
 ```
 
-### 2. 启动 Web 服务器
+### 2\. 配置国内加速 (重要\!) 🇨🇳
+
+为防止模型下载卡顿，**运行前请务必执行**：
+
+```bash
+export HF_ENDPOINT=https://hf-mirror.com
+```
+
+### 3\. 启动引擎
 
 ```bash
 # 方法 1: 使用 app.py
@@ -59,33 +80,48 @@ python3 quick_start.py
 ./start_web.sh
 ```
 
-### 3. 访问网页
+### 4\. 访问
 
-打开浏览器访问: **http://localhost:5001**
+浏览器打开: **http://localhost:5001**
 
-**⚠️ 首次启动需要 30-60 秒加载索引，请耐心等待！**
+-----
 
----
+## 📊 数据与技术栈
 
-## 🌐 Web 界面使用
+  - **数据规模**：覆盖 **31,951** 位教授，**249** 个国家/地区。
+  - **核心模型**：`BAAI/bge-base-zh-v1.5` (768维向量)。
+  - **向量索引**：约 23,000 × 768 矩阵 (FP32)。
+
+### 技术架构
+
+| 组件 | 技术选型 | 说明 |
+| :--- | :--- | :--- |
+| **检索内核** | **Sentence-Transformers** | 向量化与余弦相似度计算 |
+| **计算后端** | **PyTorch (MPS)** | Apple Silicon GPU 加速支持 |
+| **AI 总结** | **Qwen-Plus** | 阿里云 Dashscope API |
+| **Web 框架** | **Flask 3.0** | 轻量级后端服务 |
+| **前端** | **HTML5 + JS** | 响应式设计，Markdown 渲染 |
+
+-----
+
+## 🌐 使用示例
 
 ### 界面布局
 
 ```
 ┌─────────────┬──────────────────────────────────┐
 │             │  🤖 AI 智能总结                   │
-│  搜索框     │  ─────────────────────────────   │
-│  ┌────────┐ │  这50位教授主要聚焦于...          │
-│  │        │ │                                  │
-│  └────────┘ │  ─────────────────────────────   │
-│             │                                  │
-│  过滤器     │  📋 搜索结果 [共 50 个结果]       │
+│  [ 信息检索 ]│  ─────────────────────────────   │
+│             │  用户正在寻找IR方向导师...         │
+│             │  推荐关注人大的几位教授...         │
+│  过滤器     │  ─────────────────────────────   │
 │  ☑ 亚洲     │                                  │
-│    ☑ 中国   │  🏆 #1 - Qinghua Liu             │
-│    ☐ 日本   │  🏫 Washington University (US)   │
-│  ☐ 欧洲     │  📊 相似度: 70.05%               │
-│  ☐ 非洲     │  🔗 访问主页                      │
-│             │                                  │
+│    ☑ 中国   │  📋 搜索结果 (语义匹配)           │
+│    ☐ 日本   │  🏆 #1 - Ji-Rong Wen (文继荣)    │
+│  ☐ 欧洲     │  🏫 Renmin University of China   │
+│  ☐ 非洲     │  📊 相似度: 0.8214               │                  
+│            │  📝 ...focus on IR and NLP...    │
+│             │  🔗 访问主页 
 │             │  [< 上一页] 第 1/10 页 [下一页 >]│
 └─────────────┴──────────────────────────────────┘
 ```
@@ -105,49 +141,12 @@ python3 quick_start.py
 
 ---
 
-## 💻 命令行使用
-
-### Python 代码示例
-
-```python
-from scripts.search_engine import ProfessorSearchEngine
-
-# 初始化搜索引擎（启用 AI 总结）
-engine = ProfessorSearchEngine(enable_ai_summary=True)
-
-# 搜索（自动生成 AI 总结）
-result = engine.search("reinforcement learning", top_k=50)
-
-# 查看结果
-print(f"查询: {result['query']}")
-print(f"结果数量: {len(result['results'])}")
-print(f"\nAI 总结:\n{result['ai_summary']}")
-
-# 打印完整结果
-engine.print_results(result)
-```
-
-### 带过滤的搜索
-
-```python
-# 按地区过滤
-result = engine.search("machine learning", top_k=50, regions=["Asia"])
-
-# 按国家过滤
-result = engine.search("computer vision", top_k=50, countries=["United States", "us"])
-
-# 组合过滤
-result = engine.search("robotics", top_k=50, regions=["Asia"], countries=["China", "cn"])
-```
-
----
-
 ## 📂 项目结构
 
 ```
 professor_searcher/
-├── app.py                             # Flask Web 应用
-├── quick_start.py                     # 快速启动脚本（推荐）
+├── app.py                             # Flask 主程序
+├── quick_start.py                     # 启动脚本 (含环境检查)
 ├── start_web.sh                       # Shell 启动脚本
 ├── README.md                          # 项目说明
 │
@@ -160,11 +159,11 @@ professor_searcher/
 │   └── js/
 │       └── app.js                     # 前端逻辑
 │
-├── scripts/                           # Python 脚本
-│   ├── search_engine.py               # 核心搜索引擎
-│   ├── process_data.py                # 数据处理
-│   ├── crawl_homepages.py             # 爬虫
-│   └── requirements.txt               # Python 依赖
+├── scripts/
+│   ├── search_engine.py               # 核心引擎 (含 BGE 模型加载与 MPS 优化)
+│   ├── process_data.py                # 数据清洗工具
+│   ├── crawl_homepages.py             # 爬虫工具
+│   └── requirements.txt               # 依赖清单
 │
 └── data/                              # 数据目录
     ├── raw/                           # 原始数据
@@ -172,209 +171,222 @@ professor_searcher/
     │   ├── csrankings*.csv            # 教授基本信息
     │   └── institutions.csv           # 学校信息
     └── processed/                     # 处理后的数据
-        ├── professors.json            # 教授完整信息
-        ├── crawled_batch_0_31951.json # 爬取结果汇总
-        └── crawled_homepages/         # 教授主页内容（22,823个文件）
+        ├── professors.json            # 教授元数据
+        ├── professor_vectors.npy      # [核心] 预计算的向量缓存文件
+        └── crawled_homepages/         # 教授网页文本
 ```
 
----
+-----
+
+## 💻 API 与 命令行
+
+### Python 调用示例
+
+```python
+from scripts.search_engine import ProfessorSearchEngine
+
+# 初始化 (自动加载向量缓存)
+engine = ProfessorSearchEngine(enable_ai_summary=True)
+
+# 语义搜索：直接用中文搜英文主页
+# 会自动匹配到 "Information Retrieval", "Web Search" 等相关教授
+result = engine.search("信息检索与大模型", top_k=50)
+
+engine.print_results(result)
+```
+
+### API 接口
+
+  - **POST** `/api/search`
+  - **GET** `/api/filter-options`
+
+-----
 
 ## ⚙️ 技术实现
 
-### 后端
-- **Flask 3.0+**: Web 框架
-- **Python 3.8+**: 编程语言
-- **scikit-learn**: TF-IDF + Cosine Similarity
-- **Qwen-Plus**: AI 总结模型（通过 OpenAI SDK）
+### 后端核心
+框架: Flask 3.0+
+核心算法: Semantic Search (语义检索)
+向量模型: BAAI/bge-base-zh-v1.5 (768维)
+计算加速: PyTorch (MPS) - 专为 Apple Silicon (M1-M4) 优化
+AI 总结: Qwen-Plus (通义千问)
 
-### 前端
-- **HTML5**: 页面结构
-- **CSS3**: 现代化样式
-- **Vanilla JavaScript**: 前端逻辑
-- **marked.js**: Markdown 渲染
+### 前端技术
+HTML5/CSS3: 响应式现代化布局
+Vanilla JS: 原生 JavaScript 交互
+Marked.js: Markdown 渲染器
 
-### 性能指标
-- **初始化时间**：30-60 秒（首次启动）
-- **搜索时间**：<1 秒
-- **AI 总结时间**：3-10 秒
-- **总体响应**：4-11 秒
-
----
+### 性能指标 (基于 MacBook Air M4)
+首次索引构建：2-4 分钟 (计算 22,000+ 教授向量)
+后续热启动：< 1 秒 (直接读取 .npy 缓存)
+搜索响应：< 200ms (向量点积运算)
+AI 总结耗时：3-8 秒 (取决于 LLM API 响应)
 
 ## 🎨 界面设计
-
 ### 配色方案
-- **主色**：紫色渐变 (#667eea → #764ba2)
-- **强调色**：靛蓝色 (#4F46E5)
-- **成功色**：绿色 (#10B981)
-- **背景**：浅灰色 (#F9FAFB)
+主色调：学术紫渐变 (#667eea → #764ba2)
+交互色：深靛蓝 (#4F46E5) - 用于按钮和高亮
+状态色：翠绿 (#10B981) - 表示高相似度匹配
+背景色：云雾灰 (#F9FAFB) - 护眼阅读体验
 
-### 设计特点
+### 交互体验
 - ✨ 圆角卡片设计
 - 🎭 柔和阴影效果
 - 🎬 流畅悬停动画
 - 📱 响应式布局
 - 🔄 实时加载反馈
+GET /api/status
+检查搜索引擎状态及硬件加速情况。
+响应示例：
+JSON
 
----
-
-## 📖 API 文档
-
-### GET /api/status
-检查搜索引擎状态
-
-**响应示例**：
-```json
 {
   "status": "ready",
+  "device": "mps",
   "message": "Search engine is ready"
 }
-```
+GET /api/filter-options
+获取地区、国家等过滤维度。
+响应示例：
+JSON
 
-### GET /api/filter-options
-获取可用的过滤选项
-
-**响应示例**：
-```json
 {
   "success": true,
   "data": {
-    "regions": ["Asia", "Europe", "Americas", ...],
+    "regions": ["Asia", "Europe", "Americas"],
     "countries": [
-      {"name": "United States", "alpha_2": "us", "region": "Americas", ...},
-      ...
+      {"name": "China", "alpha_2": "cn", "region": "Asia"},
+      {"name": "United States", "alpha_2": "us", "region": "Americas"}
     ]
   }
 }
-```
+POST /api/search
+执行语义搜索。
+请求体：
+JSON
 
-### POST /api/search
-执行搜索
-
-**请求体**：
-```json
 {
-  "query": "reinforcement learning",
+  "query": "信息检索与大语言模型",  // 支持直接中文搜索
   "regions": ["Asia"],
-  "sub_regions": [],
-  "countries": ["cn", "jp"],
-  "top_k": 50
+  "countries": ["cn", "sg"],
+  "top_k": 20
 }
-```
+响应示例：
+JSON
 
-**响应示例**：
-```json
 {
   "success": true,
   "data": {
-    "query": "reinforcement learning",
+    "query": "信息检索与大语言模型",
     "results": [
       {
-        "name": "Qinghua Liu",
-        "institution": "Washington University",
-        "country": "us",
-        "position": "Professor",
-        "homepage": "https://...",
-        "similarity": 0.7005
+        "rank": 1,
+        "name": "Ji-Rong Wen",
+        "institution": "Renmin University of China",
+        "country": "cn",
+        "similarity_score": 0.8245,  // 余弦相似度
+        "snippet": "...focus on Information Retrieval (IR), NLP and..."
       },
       ...
     ],
-    "ai_summary": "这50位教授主要聚焦于..."
+    "ai_summary": "根据搜索结果，推荐关注中国人民大学的文继荣教授..."
   }
 }
-```
 
----
+## 🧪 测试示例 (中英互搜)
 
-## 🧪 测试示例
-
-### 推荐搜索关键词
-- `reinforcement learning`
-- `machine learning`
-- `computer vision`
-- `natural language processing`
-- `deep learning`
-- `robotics`
-- `recommender system`
-
-### 推荐过滤条件
-- **地区**：Asia, Europe, Americas, Oceania, Africa
-- **国家**：United States (us), China (cn), United Kingdom (gb), Germany (de), Japan (jp)
-
----
+### 推荐搜索场景
+由于使用了 BGE 语义模型，你可以尝试以下跨语言或概念性搜索：
+中文搜英文主页：
+信息检索 (对应 Information Retrieval)
+联邦学习 (对应 Federated Learning)
+具身智能 (对应 Embodied AI)
+复杂概念搜索：
+AI in healthcare (医疗AI)
+Large Language Model reasoning (大模型推理)
+Robotics path planning (机器人路径规划)
+推荐过滤组合
+找国内大牛：Region: Asia + Country: China
+找美国名校：Region: Americas + Country: United States
 
 ## 📚 依赖项
+Plaintext
 
-```
+# 核心依赖
+torch>=2.0.0              # 深度学习框架 (支持 MPS)
+sentence-transformers>=2.2.0 # 向量检索库
+numpy>=1.24.0             # 数学计算
+openai>=1.0.0             # AI 总结 API
+flask>=3.0.0              # Web 服务
+
+# 数据处理
 pandas>=2.0.0
-numpy>=1.24.0
-requests>=2.31.0
 beautifulsoup4>=4.12.0
-lxml>=4.9.0
-selenium>=4.15.0
-webdriver-manager>=4.0.0
-openai>=1.54.0
-scikit-learn>=1.3.0
-sentence-transformers>=2.2.0
-flask>=3.0.0
-```
+requests>=2.31.0
 
----
+## ❓ 常见问题 (FAQ)
+#### Q: 第一次启动为什么这么慢？
+A: 首次启动时，系统需要：
+下载 BAAI/bge-base-zh-v1.5 模型 (约 400MB)。
+使用 M4 芯片计算 22,823 位教授的语义向量。
+Mac M4 耗时约 2-4 分钟，请耐心等待。 构建完成后，下次启动仅需 1 秒。
 
-## ❓ 常见问题
+#### Q: 模型下载卡住或报错？
+A: 国内网络可能无法连接 HuggingFace。请在终端执行以下命令开启国内镜像加速，然后再启动：
+Bash
 
-### Q: 启动很慢怎么办？
-A: 首次启动需要加载 22,823 个教授的主页内容并构建索引，请耐心等待 30-60 秒。看到"Search engine ready!"后即可访问。
+export HF_ENDPOINT=https://hf-mirror.com
 
-### Q: 如何修改端口？
-A: 修改 `app.py` 或 `quick_start.py` 最后一行的 `port=5001` 为其他端口。
+#### Q: 搜索结果的相似度分数代表什么？
+A: 这是余弦相似度 (Cosine Similarity)。
+接近 1.0：语义极度相关。
+0.6 - 0.8：通常是非常强的匹配。
+低于 0.4：相关性较低。
 
-### Q: 可以关闭 AI 总结吗？
-A: 可以，修改 `app.py` 或 `quick_start.py` 中的 `enable_ai_summary=False`。
+#### Q: 为什么不用更大的模型 (如 BGE-M3)？
+A: 我们在 BGE-Base 和 BGE-M3 之间做了权衡。Base 模型在 Mac Air 上速度快 5-10 倍，且对于“找导师”这一场景，其语义理解能力已经完全足够（支持中英互搜）。
 
-### Q: 如何修改返回结果数量？
-A: 修改 `static/js/app.js` 中的 `top_k: 50` 为其他数值。
+#### Q: 如何强制重新计算索引？
+A: 如果你更新了数据或更换了模型，请删除缓存文件：
+Bash
 
-### Q: 浏览器兼容性？
-A: 支持 Chrome 90+, Firefox 88+, Safari 14+, Edge 90+。不支持 IE。
+rm data/processed/professor_vectors.npy
+重启后系统会自动重新计算。
 
-### Q: 过滤器不工作？
-A: 已修复！现在过滤器使用 `countries.csv` 中的正确地区信息，不再依赖 `professors.json` 中可能错误的 region 字段。
+#### Q: 必须要有 GPU 吗？
 
----
+A: 不是必须的。代码会自动检测：
 
-## 🔧 数据处理工具
+  - Apple Silicon (M1-M4): 自动开启 MPS 加速 (快)。
+  - NVIDIA GPU: 自动开启 CUDA 加速 (快)。
+  - 普通 CPU: 自动回退到 CPU 模式 (较慢，但依然可用)。
 
-### 处理原始数据
-```bash
+
+## 🔧 数据工具链
+1. 数据清洗
+Bash
+
 python3 scripts/process_data.py
-```
-将原始 CSV 文件处理成 `professors.json`。
+将 csrankings.csv 清洗并转换为标准 JSON 格式。
+2. 爬虫更新
+Bash
 
-### 爬取教授主页
-```bash
 python3 scripts/crawl_homepages.py
-```
-爬取教授主页内容，支持动态页面（Selenium）。
-
----
+支持断点续传，爬取教授主页文本用于语义分析。
 
 ## 🙏 致谢
 
-- **数据来源**：[CSrankings](http://csrankings.org/)
-- **AI 模型**：Qwen-Plus (阿里云 Dashscope)
-- **搜索算法**：scikit-learn TF-IDF + Cosine Similarity
-
----
+  - **基座模型**: [BAAI/bge-base-zh-v1.5](https://huggingface.co/BAAI/bge-base-zh-v1.5)
+  - **数据来源**: [CSrankings.org](http://csrankings.org/)
+  - **LLM 支持**: Qwen (通义千问)
 
 ## 🎉 开始使用
+Bash
 
-```bash
-# 启动 Web 界面
-python3 quick_start.py
-
-# 访问
+# 1. 开启镜像加速 (重要!)export HF_ENDPOINT=https://hf-mirror.com# 2. 启动 Web 界面
+python3 quick_start.py# 3. 访问
 http://localhost:5001
-```
 
-**祝你找到理想的导师！** 🎓✨
+**祝你用 AI 找到梦中情导！** 🎓✨
+
+

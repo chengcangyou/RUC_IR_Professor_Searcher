@@ -1,0 +1,9 @@
+{
+  "name": "Stephen Herwig",
+  "homepage": "http://www.cs.wm.edu/~smherwig",
+  "status": "success",
+  "content": "Stephen Herwig Assistant Professor Department of Computer Science William & Mary smherwig@wm.edu McGlothlin-Street Hall 136 251 Jamestown Rd Williamsburg, VA 23185, USA I am an Assistant Professor of Computer Science at William & Mary. My research area is systems security, with a focus on how systems can protect applications from untrusted environments, like the cloud. Much of this work looks at elegant ways to extend operating systems and distributed systems using trusted hardware and applied cryptography. I received my PhD from the University of Maryland, advised by Dave Levin. I am always looking for self-motivated students with stong interests in building secure systems, and who are comfortable with low-level software development. If you are interested, please read this first, and then send me an email.",
+  "content_length": 818,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:31:54"
+}

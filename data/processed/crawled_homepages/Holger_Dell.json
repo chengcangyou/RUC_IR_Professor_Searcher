@@ -1,0 +1,9 @@
+{
+  "name": "Holger Dell",
+  "homepage": "https://holgerdell.com",
+  "status": "success",
+  "content": "Holger Dell Holger Dell Associate Professor ????@itu.dk I'm an Associate Professor in the Algorithms and Complexity group at IT University of Copenhagen. I'm passionate about research and teaching in computer science, specifically the theory of algorithms and complexity. dblp DBLP Google Scholar Scholar ORCID ORCID GitHub GitHub Research I design efficient algorithms for discrete problems and prove intractability results. My research focuses on combinatorial counting problems, algebraic graph algorithms, and methods from complexity theory. Most recently, I published work on Solving Polynomial Equations Over Finite Fields. I also have an ongoing DFG-project on the Parameterized Complexity of Network Dynamics. Example: Network Dynamics Teaching I teach in a student-centered way and put an emphasis on carefully crafted exercises and assignments. My approach is inspired by alternative grading methods, particularly the Grading for Growth philosophy. I am currently working on Algo-Learn, a self-testing e-learning platform for typical undergraduate courses in algorithms and data structures, in which exercises are generated and graded programmatically. Curriculum Vitae I joined ITU Copenhagen as Associate Professor in 2019. In the past, I was Professor at Goethe University Frankfurt, Independent Research Group Leader at Saarland University, and Postdoc at UC Berkeley, Paris Diderot, and UW Madison. I obtained my PhD at Humboldt University Berlin in 2011, under the supervision of Martin Grohe. Address IT University of Copenhagen Rued Langgaards Vej 7 DK-2300 København S Denmark",
+  "content_length": 1595,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:20:42"
+}

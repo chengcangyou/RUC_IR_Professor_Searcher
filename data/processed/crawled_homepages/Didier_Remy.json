@@ -1,0 +1,9 @@
+{
+  "name": "Didier Remy",
+  "homepage": "https://cambium.inria.fr/~remy",
+  "status": "success",
+  "content": "Didier Remy Didier Rémy Senior researcher (directeur de recherche) at INRIA Paris in the Cambium project-team. Google my site: Contacting me Publications Teaching Hacks WhizzyTeX Interests Type systems and type inference, object-oriented languages, concurrent and distributed languages, semantics of programming languages Foundations and design of the OCaml language (at INRIA). See my publications, talks, and projects [ modules | abbreviations | disornamentation | ornaments | unique inhabitants | GADTs | coercions | MLF ]. Award Sep 2013: I am deeply honored to receive the ACM SIGPLAN Most Influential ICFP Paper Award jointly with Didier Le Botlan for our ICFP 2003 paper MLF:Raising ML to the power of System F. Hacks Latex packages: locallabel, mathpartir, excercise, proof, copytofile. ifjobname. boolean. reversion. BibTeX: non invasive printing of URLs in references. WhizzyTeX --- Version 1.4.0 of Jul 21, 2021 (works with new version of latex.cls) Active Dvi --- Version 2.0.0, 2021 (installable from opam) Other Information Current and former students. Le calendrier de Gallium, son séminaire et son blog Gagallium. A short vitae. Inria's White Book on Cybersecurity.",
+  "content_length": 1181,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:01:51"
+}

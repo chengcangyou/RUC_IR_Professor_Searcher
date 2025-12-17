@@ -1,0 +1,9 @@
+{
+  "name": "Harold Soh",
+  "homepage": "https://haroldsoh.com",
+  "status": "success",
+  "content": "Harold Soh Hello, I'm Harold. I’m an Associate Professor of Computer Science at the School of Computing, National University of Singapore (NUS). I direct the Collaborative, Learning, and Adaptive Robots (CLeAR) Lab. My research interests are in human-AI/robot interaction, machine learning, and robotics. I’m particularly interested in developing trustworthy collaborative robots. Read more about my research, teaching or get in touch. Latest News 26 Sep 2024 Our work on leveraging a *single* diffusion model for out-of-distribution (OOD) detection was accepted to NeurIPS 2024. This work is a step towards trustworthy ML models that know what data they aren't trained with. 20 Sept 2024 Check out our lab's first EMNLP paper on using LLMs for knowledge graph construction. We are looking to make LLMs better use external trustworthy knowledge sources and this is a step towards that direction. 27 Aug 2024 Gave a talk at the Microsoft Research Asia ACE Series! Thank you to the Microsoft Accelerator Team! 14 May 2024 All four of our submissions (3 papers, 1 demo) were accepted to R:SS'24! 6 May 2024 Awarded the University Annual Teaching Excellence Award (2023). As a third time winner, I'm now on the Honor Roll! Click Here for More News ...",
+  "content_length": 1247,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:18:44"
+}

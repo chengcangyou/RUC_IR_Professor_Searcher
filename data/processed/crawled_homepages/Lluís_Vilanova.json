@@ -1,0 +1,9 @@
+{
+  "name": "Lluís Vilanova",
+  "homepage": "https://www.doc.ic.ac.uk/~lvilanov",
+  "status": "success",
+  "content": "LluÃ­s Vilanova Follow Imperial College LondonEmailGoogle ScholarORCID LinkedIn[eye-catching-symbol] I am actively looking to recruit people to work in my group! Please check the opportunities page if you are interested in systems, with any combination of computer architecture, operating systems, distributed systems, security and formal methods.BioLluÃ­s Vilanova (pronounced as âyou-easeâ) is an Associate Professor (Senior Lecturer in the UK system) in the Department of Computing at Imperial College London, where he is co-lead of the Large-Scale Data & Systems (LSDS) group, and co-founder of the Cloud, Data and Exascale Computing Hub at I-X. His work covers computer architecture, operating systems, and security, with a special interest on using co-design across hardware and software layers to break the zero-sum game we typically find between security and performance.Previously, LluÃ­s was a post-doctoral researcher with Yoav Etsion at the Technionâs Electrical Engineering department. He received his PhD degree from the Computer Architecture Department at Universitat PolitÃ¨cnica de Catalunya, where he worked under the guidance of Nacho Navarro, while also participating as a researcher at the Barcelona Supercomputing Center.Research interestsMy interests span wide areas of systems research, focusing on efficiency, simplicity, and security:Computer architectureOperating systems and runtimesVirtualizationCo-design of hardware/software interfacesCloud systems and infrastructuresResource management in heterogeneous and parallel systemsSystem designs for security and privacyFormal methods for building secure systemsYou could take a look at my list of publications to get a more precise idea of my research interests.",
+  "content_length": 1744,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:47:45"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Przemyslaw Prusinkiewicz",
+  "homepage": "http://algorithmicbotany.org",
+  "status": "success",
+  "content": "Algorithmic Botany: Home Home - Research - People - Publications - Software - Courses - Local Welcome to Algorithmic Botany, the website of the Biological Modeling and Visualization research group in the Department of Computer Science at the University of Calgary. Led by Professor Przemyslaw Prusinkiewicz, the BMV group studies the modeling, simulation, and visualization of plants. One of our primary focuses is the ongoing development of a suite of software tools for performing simulated experiments: the \"Virtual Laboratory\". You can also read more about our research, about the members of BMV, see our publications, or read other documents, including The Algorithmic Beauty of Plants and Visual Models of Morphogenesis.",
+  "content_length": 726,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:13:23"
+}

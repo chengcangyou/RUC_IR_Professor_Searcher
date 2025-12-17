@@ -1,0 +1,9 @@
+{
+  "name": "Gowtham Kaki",
+  "homepage": "https://gowthamk.github.io",
+  "status": "success",
+  "content": "Gowtham Kaki gowtham.kaki@colorado.edu twitter.com/gowthamk github.com/gowthamk gowthamkaki.bsky.social About I am an Assistant Professor of Computer Science at the University of Colorado (CU), Boulder. My background is in Programming Languages and Formal Methods. My research is driven by the curiousity to apply language design techniques and formal methods to solve hard problems in computer science. I work at intersection of PL and Distributed Systems, Databases, Security, and Artificial Intelligence. I am an alumnus of Purdue University, West Lafayette, and BITS Pilani, India. I am part of the CUPLV research group and we are almost always on the lookout for motivated students. Research Interests Distributed Systems/Databases: Safety, Liveness, Weak Consistency, Weak Isolation, CRDTs, MRDTs, Local-first Software, and Dataflow Programming. Cryptography and Privacy: Indistinguishability, Symbolic and Computational Secrecy, and Probabilistic Reasoning. Functional Programming: Dependent Types, DSLs, Concurrency, and Program Synthesis. Students Nicholas Lewchenko (Ph.D) Kirby Linvill (Ph.D) Christian Fontenot (Ph.D; co-advised with Bor-Yuh Evan Chang) Dakota Bryan (PhD; co-advised with Bor-Yuh Evan Chang) Sai Lalith Kumar Aka (PhD) Pranav Subramanian (UG Senior Thesis Spring 2023, Currently at NASA JPL) Teaching Spring'21,'22,'25, Fall'23: CSCI 3155 Principles of Programming Languages Spring'23: CSCI 7000-11 Principles of Functional Programming Fall'21, '24: CSCI 5535: Foundations of Programming Languages Spring'21: CSCI 7000 Distributed Systems Verification Service POPL PC: 2025 OOPSLA PC: 2023, 2022 PLDI PC: 2026, 2023 PaPoC PC: 2025, 2023, 2022 ATVA PC: 2024",
+  "content_length": 1685,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:15:29"
+}

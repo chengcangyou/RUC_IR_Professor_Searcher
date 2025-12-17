@@ -1,0 +1,9 @@
+{
+  "name": "Stefanie Tellex",
+  "homepage": "https://cs.brown.edu/people/stellex",
+  "status": "success",
+  "content": "Main Main Main / Main MainPublicationsResearchPersonal projects Welcome to my home page. I am an assistant professor in the Computer Science Department at Brown University. The aim of my research program is to construct robots that seamlessly use natural language to communicate with humans. In twenty years, every home will have a personal robot which can perform tasks such as clearing the dinner table, doing laundry, and preparing dinner. As these machines become more powerful and more autonomous, it is critical to develop methods for enabling people to tell them what to do. Robots that can communicate with people using language can respond appropriately to commands given by humans, ask questions when they are confused, and request help when they get stuck. We apply probabilistic methods, corpus-based training, and decision theory to develop interactive robotic systems that can understand and generate natural language. I completed my Ph.D. at the MIT Media Lab in 2010, where I developed models for the meanings of spatial prepositions and motion verbs. My postdoctoral work at MIT CSAIL focused on creating robots that understand natural language. I have published at SIGIR, HRI, RSS, AAAI, IROS, and ICMI, winning Best Student Paper at SIGIR and ICMI. I was named one of IEEE Spectrumâs AIâs 10 to Watch and won the Richard B. Salomon Faculty Research Award at Brown University. Here is our language-understanding system running on a forklift: Direction-understanding on a robotic helicopter: Direction-understanding for the PR2: I am also interested in reinforcement learning as applied to âhuman-cat communicationâ:projects/gizmo.html: Stefanie Tellex stefie10 at cs dot brown dot edu",
+  "content_length": 1710,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:31:19"
+}

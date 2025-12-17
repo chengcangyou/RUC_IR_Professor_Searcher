@@ -1,0 +1,9 @@
+{
+  "name": "Bo Mao",
+  "homepage": "http://astl.xmu.edu.cn",
+  "status": "success",
+  "content": "ï»¿ å¦é¨å¤§å­¦å è¿å­å¨ææ¯å®éªå®¤ Home News People Projects Publications Software Academic Equipments Entertainment CFPs In recent years, storage systems are evolving rapidly, with many fundamental shifts. Disk-based networked storage arrays are embracing hybrid and tiered models. Data compression and data deduplication are becoming standard features for inline storage. Flash-based SSDs continue to change the storage landscape and new memory storage technologies are poised to disrupt the storage stack even further. Virtualization and multi-core hardware continue to place increasing demands on storage systems. Cloud storage is also demanding low-cost, highly-scalable, and high-performance storage. Finally, machine learning, big data analytics, distributed key-value stores, and the proliferation of storage devices in consumer electronics all offer exciting opportunities and challenges that we want to explore further. Overall, our objective is to design and develop advanced storage systems with high performance, reliability, availability, scalability, and energy efficiency!Contacting us  Email: suzhen at xmu.edu.cn (Prof. Suzhen Wu) or maobo at xmu.edu.cn ( Prof. Bo Mao)Advanced Storage Technology Lab Xiamen University Xiamen, Fujian 361005",
+  "content_length": 1267,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:05:25"
+}

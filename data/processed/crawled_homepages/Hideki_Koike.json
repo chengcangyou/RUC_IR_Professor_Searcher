@@ -1,0 +1,9 @@
+{
+  "name": "Hideki Koike",
+  "homepage": "https://www.vogue.cs.titech.ac.jp",
+  "status": "success",
+  "content": "Koike Laboratory @ Tokyo TechSearch this siteEmbedded FilesSkip to main contentSkip to navigationKoike LaboratoryQoomBallCameraOmniEyeBallRoboticGloveWelcome to Koike Laboratory at Tokyo Tech !Koike Laboratory is a research laboratory at Institute of Science Tokyo. Our research focus is on Human-Computer Interaction. In particular, we are interested in Vision-based HCI, Projector-Camera Systems, Digital Sports, Human Augmentation, Information Visualization. 小池研は東京科学大学 情報理工学院 情報工学系の研究室です．私たちは人間にとってより使いやすくてより楽しいコンピュータインタフェースに関する研究，つまりHuman-Computer Interactionの研究を行っています．特に，コンピュータビジョンを用いた次世代インタフェース，プロジェクタ-カメラシステム，デジタル・スポーツ，コンピュータグラフィックスを用いた大規模情報の視覚化，ウィルス・ワーム・不正侵入検知，ハニーポット等のネットワークセキュリティ，より使いやすい認証システムに関する研究を行っています．研究内容人間にとって真に使いやすい情報システムとはどのようなものか、またそのようなシステムをどのように設計実現すればよいのか．こうした研究はHuman Computer Interaction(HCI)と呼ばれ，近年急速に注目を集めている．我々は既存の技術や概念にとらわれることなく，未来の技術進化を予測しつつハードウェア，ソフトウェア両面からのシステム工学的アプローチによって，次世代対話型システムの具現化に挑んでいる．Vision-based HCI従来のマウスやキーボードに代わり，コンピュータビジョンを用いて人間の動作認識を行うことで計算機システムとの対話を実現する．これまでに，机型インタフェースEnhancedDesk，お風呂ディスプレイAquaTop Display, 球体ディスプレイQoom, 360度コミュニケーションデバイスOmniEyeBallなどを開発してきました．Digital Sports (Augmented Human)伝統的なスポーツを高度電子情報技術で拡張することで，スーパーアスリートのための技能獲得，スポーツ放送の臨場感増強，人々のスポーツ参加支援，怪我人・障碍者等へのリハビリ支援を目的とします．これまでに，拡張現実感型ボールスポーツ「跳ね星」，カメラ内蔵ボール「BallCam!」，センサ内蔵ボール等を開発してきました．Information Visualization情報視覚化の目的は膨大な情報を図として表示することで，人間の情報理解を迅速かつ正確にすることです．ただし，単純な視覚化は複雑な情報を複雑な図にするだけです．我々はFractalの概念を利用した情報量制御手法やフィルタリング手法，対話的操作を組み合わせることでこの問題の解決を行っています．Google SitesReport abuseGoogle SitesReport abuse",
+  "content_length": 1520,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:20:19"
+}

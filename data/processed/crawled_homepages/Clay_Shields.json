@@ -1,0 +1,9 @@
+{
+  "name": "Clay Shields",
+  "homepage": "http://people.cs.georgetown.edu/~clay",
+  "status": "success",
+  "content": "Clay Shields - Georgetown University Clay Shields Professor, Computer Science Intro Teaching Research Personal Contact I am a Professor in the Department of Computer Science at Georgetown University in Washington, D.C. I conduct research in computer and network security, focusing primarily on computer and network forensics, anonymous network protocols, tracing the source of network attacks, and secure wireless networks. I teach classes in security, networking, operating systems, and programming.",
+  "content_length": 500,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:54:38"
+}

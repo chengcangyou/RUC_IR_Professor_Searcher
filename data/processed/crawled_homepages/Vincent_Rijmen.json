@@ -1,0 +1,9 @@
+{
+  "name": "Vincent Rijmen",
+  "homepage": "https://www.esat.kuleuven.be/cosic/people/vincent-rijmen",
+  "status": "success",
+  "content": "Person - COSIC Vincent Rijmen Bio Mathematical theories for the design of symmetric cryptography primitives I did a lot of research in the design and cryptanalysis of primitives for symmetric cryptography: block ciphers, hash functions, MACs, stream ciphers. I’m trying to formalize both the design and the practice of cryptanalysis by introducing slightly more advanced concepts from mathematics. Research Mathematical theories for the design of symmetric cryptography primitives I did a lot of research in the design and cryptanalysis of primitives for symmetric cryptography: block ciphers, hash functions, MACs, stream ciphers. I’m trying to formalize both the design and the practice of cryptanalysis by introducing slightly more advanced concepts from mathematics. Awards & Prizes (selection) Levchin Prize for Real-World Cryptography (RWC, 2023) Excellence in the Field of Mathematics Award at RSA Conference (RSA Conference , 2020) Europe Applied Research Finalist (CSAW, 2019) IACR Fellow (IACR, 2019) Reviewer of the Year (Journal of Cryptology, 2016) Publications List of publications on Lirias List of publications in COSIC database Information Contact information Room: B01.02",
+  "content_length": 1189,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:44:07"
+}

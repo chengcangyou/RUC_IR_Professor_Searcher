@@ -1,0 +1,9 @@
+{
+  "name": "Marco Donato",
+  "homepage": "https://engineering.tufts.edu/cs/people/faculty/marco-donato",
+  "status": "success",
+  "content": "Marco Donato | Department of Computer Science Personal website TECS Lab website Full Profile Career Highlights / Publications Research Professional Activities Courses / Teaching Activities Marco Donato Assistant Professor, Electrical and Computer Engineering Assistant Professor, Computer Science marco.donato@tufts.edu 171 College Avenue Full Profile (facultyprofiles.tufts.edu) Personal website TECS Lab website Full Profile Career Highlights / Publications Research Professional Activities Courses / Teaching Activities Research/Areas of Interest emerging technologies, non-volatile memories, SoC design, hardware for machine learning, noise modeling and reliability Education B.Sc. in Electrical Engineering, Università di Roma La Sapienza, Rome, Italy, 2008M.Sc. in Electrical Engineering, Università di Roma La Sapienza, Rome, Italy, 2010Ph.D. in Electrical Sciences and Computer Engineering, Brown University, Providence, United States, 2016 Biography Marco Donato is an assistant professor in the Department of Electrical and Computer Engineering at Tufts University. Prior to joining Tufts, he was a postdoctoral fellow in the John A. Paulson School of Engineering and Applied Sciences at Harvard University. He earned a PhD in Electrical Sciences and Computer Engineering from Brown University and holds a MSc and BSc degree from the University of La Sapienza in Rome, Italy. His research focuses on designing reliable and energy efficient hardware leveraging emerging technologies. He is currently working on co-design methodologies for building specialized architectures for machine learning applications that leverage dense, fault-prone embedded non-volatile memories.",
+  "content_length": 1681,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:51:34"
+}

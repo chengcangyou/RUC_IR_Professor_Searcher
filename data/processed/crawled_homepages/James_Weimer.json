@@ -1,0 +1,9 @@
+{
+  "name": "James Weimer",
+  "homepage": "https://jamesweimer.net",
+  "status": "success",
+  "content": "James Weimer I am an Assistant Professor in the Department of Computer Science at Vanderbilt University. I am a member of the Institute for Software Integrated Systems, and the Vanderbilt Institute for Surgery and Engineering. I am the Director of the Internet of Medical Things (IoMT) Lab and the Medical Device Club. My research develops foundations and tools for safety guarantees and predictable performance of learning-enabled cyber-physical systems (CPS) - primarily targeting the internet-of-medical-things (IoMT) and autonomous vehicles (AVs). Specifically, my research aims to develop tools and techniques to address challenges arising from real-world data constraints, which can be caused by unmodeled variability, dataset shifts, anomalies, and sensing limitations. We seek to overcome data constraints by improving data generation through better experimental design, increased data efficiency, and novel analysis techniques. Find out more here. I am a Co-Founder of Neuralert Technologies and Vasowatch. Curriculum Vitae: [html] , [pdf – slow to load] News Neuralert stroke detector named a TIME 2022 Best Invention in the Medical Care category. Verisig selected as the 2022 ACM Transactions on Embedded Computing Systems (TECS) Best Paper Vasowatch received a Phase 1 NIH STTR Grant RT-ACL selected as a Best Paper Award Finalist at IEEE/ACM CHASE StrokeDetectAI licensed to Neuralert Reducing Social Isolation project funded by NSF SCC Neuralert stroke detector designated a breakthrough device by the US FDA",
+  "content_length": 1522,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:26:25"
+}

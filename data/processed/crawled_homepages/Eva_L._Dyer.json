@@ -1,0 +1,9 @@
+{
+  "name": "Eva L. Dyer",
+  "homepage": "https://nerdslab.github.io",
+  "status": "success",
+  "content": "Home - NerDS Lab We develop machine learning tools to decode brain activity and uncover the computational principles behind intelligence and behavior. Welcome to the NerDS Lab The Neural Data Science (NerDS) Lab at the University of Pennsylvania develops next-generation machine learning methods to unlock the mysteries of the brain. We are driven by the belief that artificial intelligence and neuroscience can inform each other, and that building scalable, interpretable models of brain activity will lead to breakthroughs in both fields. Our vision is to create models that generalize across individuals, tasks, brain regions, and even species—models that reveal latent computational principles of biological intelligence. To achieve this, we integrate advances in deep learning, self-supervised learning, and representation alignment with cutting-edge neural datasets. In parallel, we are committed to building open-source software and reproducible research tools that empower scientists to analyze complex time series data and neural recordings at scale. Whether it’s decoding neural dynamics or understanding the structure of behavior, our goal is to develop technologies that not only work, but also help explain why.",
+  "content_length": 1224,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:08:15"
+}

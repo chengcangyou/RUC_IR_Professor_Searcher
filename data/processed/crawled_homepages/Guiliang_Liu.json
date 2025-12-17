@@ -1,0 +1,9 @@
+{
+  "name": "Guiliang Liu",
+  "homepage": "http://guiliang.me",
+  "status": "success",
+  "content": "Guiliang Liu Guiliang Liu Guiliang Liu Assistant Professor The School of Data Science (SDS) The Chinese University of Hong Kong, Shenzhen Recruitment Ph.D./ MPhil students recruitment: I am looking for self-motivated Ph.D. or MPhil students with solid mathematical background and programming skill. Should you be interested, please send me an email with you CV, transcript, and publications. Check the potential research topics in my research interest below. I have a joint appointment at Shenzhen Loop Area Institute (SLAI, a.k.a. \"Hetao\" Institute). If you would like to work with me at SLAI, please contact me. Research Interests Embodied Decision-Making (Our lab intro). My research focuses on the intersection of embodied intelligence and decision-making systems, particularly those driven by reinforcement learning algorithms. I am particularly interested in investigating decision-making in safety-critical scenarios, with the goal of developing robust and reliable control methods for various embodied agents. The decision-making process can be informed by diverse signals, such as expert demonstrations, human feedback, or social norms. Whole-body Control for Humanoid Robots; Generalist Robotic Manipulation System (a.k.a Vision-Language-Action, VLA); Generative Skill Acquisition from Simulation; Reinforcement Learning from Human Feedback (RLHF); For more details, please visit our Embodied Decision-Making (EdeM) Lab. Contact Email: liuguiliang[at]cuhk[dot]edu[dot]cn Address: N0.2001 Longxiang Ave., Shenzhen, Guangdong, China",
+  "content_length": 1540,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:16:15"
+}

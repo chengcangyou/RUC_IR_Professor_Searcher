@@ -1,0 +1,9 @@
+{
+  "name": "Adrian Sampson",
+  "homepage": "http://adriansampson.net",
+  "status": "success",
+  "content": "Adrian Sampson I do programming languages and computer architecture. I like research that breaks down abstraction barriers and rethinks the hardware–software interface. I worked on approximate computing, the idea that computers can be more efficient if we let them make mistakes. See what’s going on in my research group, which is called Capra. I am an associate professor in the Department of Computer Science at Cornell University, where I am part of the Computer Systems Laboratory and the programming languages group. I graduated from the University of Washington in 2015. Here’s my CV. latest blogging: August 8, 2024 — more bloggings — subscribe Geometry Bugs and Geometry Types A special kind of bug exists in code that has to deal with geometric concepts like positions, directions, coordinate systems, and all that. Long ago, in an OOPSLA 2020 paper, we defined geometry bugs and designed a type system to catch them. This post demonstrates the idea through some buggy GLSL shaders. keep reading…",
+  "content_length": 1005,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:50:55"
+}

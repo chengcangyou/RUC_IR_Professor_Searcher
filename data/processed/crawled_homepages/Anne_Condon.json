@@ -1,0 +1,9 @@
+{
+  "name": "Anne Condon",
+  "homepage": "http://www.cs.ubc.ca/~condon",
+  "status": "success",
+  "content": "Dr. Anne Condon - The University of British Columbia Dr. Anne Condon | Research Homepage for Anne Condon Search Computer ScienceDr. Anne Condon Home Papers Contact Links About Me I am a professor of Computer Science at The University of British Columbia. Ph.D., University of Washington, 1987. B.Sc., University College Cork, Ireland, 1982. Research Interests I am interested in computational complexity theory and design of algorithms. Over the years, the problems Iâve worked on come from many areas, including bioinformatics, hardware verification, and combinatorial auctions. Much of my current work focuses on models (such as Chemical Reaction Networks) and algorithms for computing with molecules, as well as methods for predicting DNA kinetics. Home Papers Contact Links",
+  "content_length": 779,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:59:10"
+}

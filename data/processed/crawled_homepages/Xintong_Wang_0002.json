@@ -1,0 +1,9 @@
+{
+  "name": "Xintong Wang 0002",
+  "homepage": "https://xintongemilywang.github.io",
+  "status": "success",
+  "content": "Xintong Wang's Homepage I am an Assistant Professor in the Department of Computer Science at Rutgers University, and a member of the EconCS Group at Rutgers. My research interests lie in the intersection of artificial intelligence and economics. My recent work focuses on studying multi-agent, game-theoretic environments where agents interact, often with the aid of algorithms, and agents' desires may not easily and reliably match up. Examples include online platforms, financial markets, a rush-hour commute, and a game of poker. Through integrating computational tools (e.g., machine learning, simulation techniques) and economic principles (e.g., game theory), I explore two broad categories of problems: (i) understanding agent incentives and behavior to design rules or systems that can lead to socially optimal outcomes from agent interactions; (ii) addressing computational challenges that arise when operating or analyzing multi-agent systems. My work finds applications to economic platforms, recommender systems, financial markets (centralized and decentralized), blockchain and its applications, social networks, etc. Before Rutgers, I was a postdoctoral fellow in Computer Science and EconCS group at Harvard University, working with David C. Parkes. In 2021, I completed my Ph.D. in Computer Science at the University of Michigan, advised by Michael P. Wellman. I have worked as Ph.D. research intern at Microsoft Research and J.P. Morgan AI Research. Office hour (Fall 2025): TBD @ CoRE 319. Feel free to drop by and discuss research or anything. Teaching CS 598: Economics and Computation (Fall 2025) CS440: Introduction to Artificial Intelligence (Fall 2024) CS 598: AI Methods for Market Design (Spring 2024) Research Papers",
+  "content_length": 1743,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:48:59"
+}

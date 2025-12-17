@@ -1,0 +1,9 @@
+{
+  "name": "Yang Young Lu",
+  "homepage": "https://batmen-lab.github.io",
+  "status": "success",
+  "content": "BATMEN Lab - Home BATMEN Lab Welcome to the BATMEN (BioinformAtics & Trustworthy Machine lEarNing) Lab headed by Dr. Yang Lu! Research synopsis: Our principal research interests lie in the development of computational methods for the analysis of genomic and proteomic data. We are particularly interested in developing interpretable machine learning models to make sense of complex biological data. We are also interested in finding scientifically interesting and statistically confident hypotheses by interpreting these models. Highlights Our Research We make our research visible to both the computational biology and machine learning community. See what we’ve published Our Tools We tackle the challenges of data-intensive biology, which span data collection, data interpretation, hypothesis generation, and hypothesis testing. Browse our featured tools Our Team We are an interdisciplinary team of collaborative researchers with diverse skill sets. Meet our team",
+  "content_length": 966,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:50:13"
+}

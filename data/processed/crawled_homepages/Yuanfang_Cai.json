@@ -1,0 +1,9 @@
+{
+  "name": "Yuanfang Cai",
+  "homepage": "https://www.cs.drexel.edu/~yfcai",
+  "status": "success",
+  "content": "Yuanfang Cai Dr. Yuanfang Cai Professor in Computer Science Office: University Crossings 104 Tel: +1 215 895 0298; Fax: +1 215 895 0545; Email: yfcai AT cs DOT drexel DOT edu Home Research Publications Teaching Services Students I am a Professor of Computer Science at Drexel University. My broad research area is software engineering, and my specific interests include formal software design modeling and analysis, software economics, software evolution and modularity. The questions that motivated my research include: how to design software that enable hundreds of developers to work collaboratively, concurrently, and independently from each other? how to make sure that modules in a software system can evolve independently? Does it worthwhile to refactor? How to detect software quality problems that incur tremendous maintenance cost but are not detectible using traditional V&V methods, such as extra dependencies and technical debts? I received my Ph.D. and M.S degrees in Computer Science from the University of Virginia in 2006 and 2002 respectively, advised by Professor Kevin Sullivan. I received my B.S. in Computer Science from Xidian University in 1996, advised by Professor Gong. Before I came to the US in 2000, I worked for North China Institute of Computing Technology, one of the top computer research institutions in China. Department of Computer Science, Drexel University, 3141 Chestnut Street, Philadelphia, PA 19104 | 215-895-2669",
+  "content_length": 1456,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:53:21"
+}

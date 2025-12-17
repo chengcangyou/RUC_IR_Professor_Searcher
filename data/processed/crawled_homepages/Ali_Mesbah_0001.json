@@ -1,0 +1,9 @@
+{
+  "name": "Ali Mesbah 0001",
+  "homepage": "https://www.ece.ubc.ca/~amesbah",
+  "status": "success",
+  "content": "Ali Mesbah | Home slides twitter gscholar dblp github award youtube pdf My research is in software engineering, with emphasis on AI-driven software analysis, software testing, and software evolution. You can learn more about me and my research by visiting my publications page, my research group SALT lab, or my short bio.",
+  "content_length": 322,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:54:32"
+}

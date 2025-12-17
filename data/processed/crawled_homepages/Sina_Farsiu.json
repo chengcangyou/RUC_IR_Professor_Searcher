@@ -1,0 +1,9 @@
+{
+  "name": "Sina Farsiu",
+  "homepage": "http://people.duke.edu/~sf59",
+  "status": "success",
+  "content": "Sina Farsiu, Anderson-Rupp Professor of Biomedical Engineering, Duke University I direct the Vision and Image Processing (VIP) Laboratory at Duke University, where I am a professor of Biomedical Engineering and Ophthalmology, with secondary appointments in Electrical and Computer Engineering and Computer Science, and the Associate Chair for faculty in Biomedical Engineering. I am a Fellow of IEEE, OSA, SPIE, ARVO, and AIMBE, and have served in editorial roles for leading journals including Biomedical Optics Express, IEEE Transactions on Image Processing, and SIAM Journal on Imaging Sciences. VIP Labâs mission is to improve outcomes for patients with ocular and neurological diseases through advanced imaging and AI-driven analysis. We develop state-of-the-art imaging systems and open-source machine learning tools for objective disease monitoring and biomarker discovery. Our research spans: ML-based medical image analysis for diseases like AMD, glaucoma, Alzheimerâs, and ROP; Image processing theory and algorithms to enhance imaging resolution and stability across diverse sensing systems; Development of next-generation ophthalmic imaging hardware, including handheld AO-OCT and other adaptive optics platforms. Research Focus AI and Machine Learning Image Analysis for Ophthalmology and Neuroscience Image Reconstruction Advanced Research in Sushi Science Computational Imaging and Adaptive Optics Clinical Research in Ophthalmology Email: sina DOT farsiu AT duke DOT edu Office: CIEMAS 2575 | Address: 101 Science Dr, BOX 90281, Durham, NC 27708",
+  "content_length": 1565,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:28:58"
+}

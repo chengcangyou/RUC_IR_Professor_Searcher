@@ -1,0 +1,9 @@
+{
+  "name": "Joseph James Sawada",
+  "homepage": "https://www.uoguelph.ca/computing/people/joseph-sawada",
+  "status": "success",
+  "content": "Joseph Sawada | School of Computer Science Joseph Sawada ProfessorEmail: jsawada@uoguelph.caPhone number: x53277Office: Reynolds 2226Website links: Website Google Scholar Research StatementResearch KeywordsSelected Publications A variety of combinatorial objects from necklaces to free plane trees to stamp foldings to vertex orderings of chordal graphs are investigated. No interesting object is left behind. The goal is to gain a more thorough understanding of the object in question by considering how to efficiently list all non-isomorphic instances of that object. Another interesting question that arises, is whether or not each instance can be listed so that there is a constant amount of change between successive objects. Such algorithms are called Gray codes. The study of de Bruin sequences and universal cycles are of particular interest lately. Combinatorial algorithms De Bruijn sequences Universal cycles Gray codes Graph theory Fun combinatorial problems A surprisingly simple de Bruijn sequence construction. J. Sawada, A. Williams, and D. Wong to appear Discrete Mathematics 2015. Successor rules for flipping pancakes and burnt pancakes. J. Sawada and A. Williams to appear Theoretical Computer Science, 2015. Constructions of k-critical P5-free graphs. C. Hoang, B. Moore, D. Recoskie, J. Sawada, and M. Vatshelle Discrete Applied Mathematics, Vol 182 (2015), 91-98. Binary bubble languages and cool-lex order. F. Ruskey, J. Sawada and A. Williams Journal of Combinatorial Theory, Series A 119 (2012) 155-169. Share this page Share on Facebook Share on Twitter Share on LinkedIn Print this page",
+  "content_length": 1614,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:35:06"
+}

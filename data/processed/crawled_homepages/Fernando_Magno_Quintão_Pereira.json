@@ -1,0 +1,9 @@
+{
+  "name": "Fernando Magno Quintão Pereira",
+  "homepage": "http://homepages.dcc.ufmg.br/~fernando",
+  "status": "success",
+  "content": "Fernando Magno Quintao Pereira <body> <p> This web page uses frames, but your browser doesn't support them. </p> <script type=\"text/javascript\"> var gaJsHost = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"http://www.\"); document.write(unescape(\"%3Cscript src='\" + gaJsHost + \"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E\")); </script> <script type=\"text/javascript\"> try{ var pageTracker = _gat._getTracker(\"UA-8958830-1\"); pageTracker._trackPageview(); } catch(err) {} </script> </body>",
+  "content_length": 526,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:10:06"
+}

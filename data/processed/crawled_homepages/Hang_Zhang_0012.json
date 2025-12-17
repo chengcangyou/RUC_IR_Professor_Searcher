@@ -1,0 +1,9 @@
+{
+  "name": "Hang Zhang 0012",
+  "homepage": "https://hangz.me",
+  "status": "success",
+  "content": "Hang Zhang's Homepage Hang ZhangAssistant Professor @ IUB Follow Bloomington, IN, USA Email Twitter LinkedIn Github Google ScholarWelcome! I am an assistant professor in the Computer Science Department at Indiana University Bloomington. Before joining IUB, I obtained my Ph.D. degree from UC Riverside under the supervision of Prof. Zhiyun Qian, and received my postdoc training at Georgia Tech, working with Prof. Taesoo Kim.My research area is computer system and software security, I am especially interested in devising and applying sophisticated program analysis techniques to solve practical yet challenging security problems, such as vulnerability discovery and analysis in complex software systems like OS Kernels. My past research applies different approaches (e.g., manual reverse engineering, automatic static and dynamic program analysis) to analyze different code layers (e.g., binary, IR, and source code), revealing multiple kernel security vulnerabilities and resulting in open-source security tools attracting interest from both academia and industry.Prospective Students: I am actively looking for Ph.D. students who are passionate about computer security research. If you enjoy hacking, feel free to drop me an email with your CV and a brief self-introduction! Though not necessary, background in program analysis, reverse engineering, CTF, bug hunting, or source code level understanding of complex software (e.g., OS kernels, browsers, databases) would be advantageous.",
+  "content_length": 1490,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:17:54"
+}

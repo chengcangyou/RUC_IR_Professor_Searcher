@@ -1,0 +1,9 @@
+{
+  "name": "Arvind Krishnamurthy",
+  "homepage": "http://www.cs.washington.edu/people/faculty/arvind",
+  "status": "success",
+  "content": "Arvind KrishnamurthySearch this siteEmbedded FilesSkip to main contentSkip to navigationArvind KrishnamurthyShort-Dooley ProfessorPaul G. Allen SchoolComputer Science & Engg.University of WashingtonOffice: 592 Allen Centerarvind@cs.washington.eduArvind Krishnamurthy is the Short-Dooley Professor in the Paul G. Allen School of Computer Science & Engineering and a fellow of the ACM. His research interests are in building effective and robust computer systems in the context of both data centers and Internet-scale systems. More recently, his research has focussed on programmable networks and systems for machine learning.Here are some pointers to recent research:Programmable networks (iPipe,  IncBrick, FlexNIC, FlexSwitch, Approx. Fair Queueing, Gimbal)High-performance networking (CC-NIC, HCC, TAS)Distributed systems for the datacenter (Xenic, Meerkat, SpecPaxos, Tapir)Systems for machine learning (TVM, Nexus, SwitchML, TVM Optimizer, Networks for ML, Punica)Report abusePage detailsPage updated Report abuse",
+  "content_length": 1017,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:01:33"
+}

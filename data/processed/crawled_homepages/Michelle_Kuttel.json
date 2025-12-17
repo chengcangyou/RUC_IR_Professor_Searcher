@@ -1,0 +1,9 @@
+{
+  "name": "Michelle Kuttel",
+  "homepage": "https://people.cs.uct.ac.za/~mkuttel",
+  "status": "success",
+  "content": "Michelle Kuttel homepage Michelle Kuttel Professor, Department of Computer Science, University of Cape Town, Private Bag X3, Rondebosch 7701, Cape Town, South Africa About Resume/CV Publications Software Current students Alumni Research Google Scholar Profile Orcid ID Web of Science ResearcherID B-2941-2009 mkuttel@cs.uct.ac.za Computational Chemistry: primary focus on computational glycochemistry, using molecular modelling to investigate the conformation and interactions of bacterial carbohydrates playing key roles in infection. Parallel and High Performance Computing: using parallel architectures to accelerate compute-intensive algorithms. Research Programming: the development of software tools to support research in glycochemistry. Visualisation: using visualisation methods to generate novel effective visualisations of complex scientific data.",
+  "content_length": 858,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:59:24"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Abulhair Saparov",
+  "homepage": "https://asaparov.org",
+  "status": "success",
+  "content": "Abulhair SaparovHOME / Publications / TeachingAbulhair Saparov e-mail code youtube c.v.DSAI 3123475 Stadium Mall DriveWest Lafayette, IN 47907I am an Assistant Professor of Computer Science at Purdue University.My research focuses on applications of statistical machine learning to natural language processing (NLP), natural language understanding (NLU), and reasoning. I am currently primarily working on ways (e.g. reasoning) to improve the generalizability and robustness of ML, NLP, and NLU models especially on data and tasks beyond those encountered during their training. More specifically, I have worked on algorithms to abduce world models (i.e. theories) from logical forms, and to reason over previously-acquired knowledge to perform downstream tasks, such as question-answering. I am also interested in symbolic and neuro-symbolic representations of meaning and reasoning in the context of NLU. In the past, I developed generative probabilistic models of grammar to train semantic parsers (i.e. how can a machine learn to convert natural language into logical forms?) and generate natural language utterances from logical forms (i.e. how can a machine learn to convert logical forms into natural language?). In my work, I have applied Bayesian nonparametrics, approximate posterior inference, combinatorial optimization, and real-time visualization. I am also broadly interested in other applications of statistical machine learning, such as to the natural sciences.",
+  "content_length": 1478,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:28:48"
+}

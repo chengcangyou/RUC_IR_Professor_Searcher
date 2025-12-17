@@ -1,0 +1,9 @@
+{
+  "name": "Nikhil Hegde",
+  "homepage": "https://hegden.github.io",
+  "status": "success",
+  "content": "Nikhil Hegde Nikhil Hegde I am currently an Assistant Professor with the department of Computer Science and Engineering at the Indian Institute of Technology Dharwad. My interests lie in the areas of Parallel and Distributed computing, and Programming Languages. Specifically, I am interested in developing abstractions and systems necessary to create parallel programs that are efficient and are easy to implement for an average programmer. Currently, I focus on automating the creation of, and optimizing distributed implementations of irregular algorithms. Well-known examples of such algorithms are: finding nearest neighbors, mining frequent items in a transaction set, accelerating ray tracing, n-body simulation algorithms (fast-multipole-method, Barnes-Hut), two-point correlation etc. I received my Ph.D. from the School of Electrical and Computer Engineering at Purdue University in 2019. My advisor was Prof. Milind Kulkarni. I worked in the Parallelism, Languages, and Compilers Lab (PLCL) and my research focused on distributed-memory execution of irregular applications. I obtained my master's degree from Indian Institute of Technology, Madras in 2005, and bachelor's degree from B. M. S. College of Engineering, Bangalore in 2002, both in Computer Science and Engineering. I also have over eight years of professional experience working in the industry developing hardware, middleware, and software for mobile platforms. In the past, I worked for Intel, Nokia, ST Microelectronics, and AdsFLO, a start-up that delivered mobile advertising solutions. Here is my detailed CV.",
+  "content_length": 1589,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:05:54"
+}

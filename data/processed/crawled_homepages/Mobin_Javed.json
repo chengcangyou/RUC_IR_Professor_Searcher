@@ -1,0 +1,9 @@
+{
+  "name": "Mobin Javed",
+  "homepage": "http://web.lums.edu.pk/~mobin",
+  "status": "success",
+  "content": "Mobin Javed I am a tenured Associate Professor of Computer Science at LUMS, Pakistan. My research focuses on: {Internet Security, Privacy, and Measurements} Prior to joining LUMS, I was a post-doc at ICSI, Berkeley. I completed my Ph.D. from UC Berkeley in 2016, where I had the good fortune of being advised by Vern Paxson. I am a data enthusiast at heart, and enjoy the art of mining large-scale datasets to uncover interesting information that can both (i) enhance our understanding of the state of Internet, and (ii) lead to better defenses against Internet threats. Please navigate to the research tab to learn more about my work.",
+  "content_length": 635,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:00:54"
+}

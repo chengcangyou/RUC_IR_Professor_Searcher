@@ -1,0 +1,9 @@
+{
+  "name": "David G. Mitchell",
+  "homepage": "https://www.cs.sfu.ca/~mitchell",
+  "status": "success",
+  "content": "David G. Mitchell David Mitchell Associate Professor of Computing Science My research interests involve application of mathematical logic to problems in computer science, in particular to declarative problem solving. These include SAT, Satisfiability-based problem solving, (theory of) Constraint Modelling Languages, Automated Reasoning, and use of interpretations (or, viewed from the other side, logically defined transductions on classes of structures) in problem solving and as a model of high-level declarative programming. PhD, Computer Science, University of Toronto. MSc, Computing Science, Simon Fraser University. BSc, Cognitive Science and Artificial Intelligence, University of Toronto. Research: - Publications - Graduate Students Teaching: Spring 2020: -   Data Structures and Programming (CMPT-225) -   Satisfiability-Based Problem Solving (CMPT-417/827) email: lastname at cs dot sfu dot ca Laboratory Affiliation: Computational Logic Laboratory SFU CS Faculty Page SFU Computing Science Home Page SFU Home Page",
+  "content_length": 1028,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:59:02"
+}

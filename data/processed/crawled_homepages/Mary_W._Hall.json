@@ -1,0 +1,9 @@
+{
+  "name": "Mary W. Hall",
+  "homepage": "http://www.cs.utah.edu/~mhall",
+  "status": "success",
+  "content": "Mary Hall's Homepage Mary Hall Research Interests: Automatic performance tuning, Model-guided empirical optimization, Interprocedural analysis and optimization, parallelizing compilers, programming support for optimization and parallelization, PIM-based architectures, compiling to FPGA-based systems Address: School of Computing MEB 3466 University of Utah Salt Lake City, UT 84112 (801) 585-1039 E-mail: mhall@cs.utah.edu Research Group CV",
+  "content_length": 441,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:55:04"
+}

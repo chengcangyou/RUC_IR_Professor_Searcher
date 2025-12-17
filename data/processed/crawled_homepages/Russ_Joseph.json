@@ -1,0 +1,9 @@
+{
+  "name": "Russ Joseph",
+  "homepage": "http://www.ece.northwestern.edu/~rjoseph",
+  "status": "success",
+  "content": "Russ Joseph - Electrical and Computer Engineering and Computer Science Russ Joseph Associate Professor Department of Electrical and Computer Engineering Department of Computer Science Northwestern University Technological Institute, L467 2145 Sheridan Road Evanston, IL 60208 Email: Phone: (847) 491-3061 Fax: (847) 467-4144 Research Interests computer architecture microprocessor design for reliability and variability tolerance power-aware\tcomputing Selected Publications Time squeezing for tiny devices (ISCA-2019) [pdf] An Instruction-Driven Adaptive Clock Management Through Dynamic Phase Scaling and Compiler Assistance for a Low Power Microprocessor (JSSC-2019) Compiler-guided instruction-level clock scheduling for timing speculative processors (DAC-2018) [pdf] Greybox Design Methodology: A Program Driven Hardware Co-optimization with Ultra-Dynamic Clock Management (DAC-2017) [pdf] Enabling Deep Voltage Scaling in Delay Sensitive L1 Caches (DSN-2016) [pdf] Exploration of associative power management with instruction governed operation for ultra-low power design (DAC-2016) [pdf] Identifying Critical Instructions to Boost Timing Speculation (MICRO-2011) [pdf] Exploring Circuit Timing-aware Languages and Compilation (ASPLOS-2011) [pdf] Efficient Parameter Variation Sampling for Architecture Simulations (DATE-2011) [pdf] Multi-Optimization Power Management for Chip Multiprocessors (PACT-2008) [pdf] (Full List of Publications) Teaching CompEng-203 Introduction to Computer Engineering CompEng-205 Fundamentals of Computer Systems Software CompEng-453 Parallel Architectures",
+  "content_length": 1591,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:21:35"
+}

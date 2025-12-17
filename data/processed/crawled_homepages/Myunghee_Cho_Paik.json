@@ -1,0 +1,9 @@
+{
+  "name": "Myunghee Cho Paik",
+  "homepage": "https://mcpstat.github.io",
+  "status": "success",
+  "content": "Professor Myunghee Cho Paik Department of Statistics Seoul National University Teaching Fall 2020 Deep Learning: statistical perspective Spring 2021 Sequential Decision Making Recent manuscripts Valid oversampling schemes to handle imbalance published in the Pattern Recognition Letters, 2019 Uncertainty quantification using Bayesian neural networks in classification: Application to biomedical image segmentation published in the CSDA, 2020 Lipschitz continuous autoencoders in application to anomaly detection presented at AISTATS 2020 Contextual multi-armed bandit algorithm for semiparametric reward model presented at ICML 2019 Principled analytic classifier for positive-unlabeled learning via weighted integral probability metric published in the Machine Learning, 2020 Doubly Robust Lasso Bandit presented at NeurIPs 2019 Principled Learning Method for Wasserstein Distributionally Robust Optimization with Local Perturbations presented at ICML 2020 Kernel-convoluted Deep Neural Networks with Data Augmentation presented at AAAI 2021 Doubly Robust Thompson Sampling for linear payoffs presented at NeurIPs 2021 (Spotlight)",
+  "content_length": 1132,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:02:36"
+}

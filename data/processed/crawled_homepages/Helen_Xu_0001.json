@@ -1,0 +1,9 @@
+{
+  "name": "Helen Xu 0001",
+  "homepage": "https://itshelenxu.github.io",
+  "status": "success",
+  "content": "Helen Xu Helen XuAssistant Prof @ Georgia Tech Follow Atlanta, GA Email LinkedIn Github Google ScholarI am an assistant professor at Georgia Tech in the School of Computational Science and Engineering. Previously, I was the Grace Hopper Postdoctoral Fellow in Computing Sciences at Lawrence Berkeley National Laboratory, where I was lucky to be hosted by Dr. Aydin Buluc. Before that, I graduated with my Ph.D. in Computer Science from MIT, where I was fortunate to be advised by Prof. Charles E. Leiserson. My thesis was on “The Locality-First Strategy for Developing Efficient Multicore Algorithms.”Research interestsParallel and high-performance computingCache-friendly algorithms and data structuresSoftware performance engineeringNews[Jul. ‘25] I am co-organizing the Workshop on Highlights of Parallel Computing (HOPC) at SPAA ‘25.[Jun. ‘25] Our paper “Improving SpGEMM Performance Through Matrix-Reordering and Cluster-wise Computation” has been accepted to SC ‘25.[Jun. ‘25] Our paper “Bridging Cache-Friendliness and Concurrency: A Locality-Optimized In-Memory B-Skiplist” has been accepted to ICPP ‘25.[Aug. ‘24] Our paper “Batch-Parallel Compressed Sparse Row: A Locality-Optimized Dynamic-Graph Representation” has been accepted to HPEC ‘24 as an Outstanding Student Paper.[Aug. ‘24] This semester, I am teaching CSE 6220 / CX 4220: Introduction to HPC. Feel free to follow along on our YouTube channel.",
+  "content_length": 1415,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:19:35"
+}

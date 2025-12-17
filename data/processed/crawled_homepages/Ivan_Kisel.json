@@ -1,0 +1,9 @@
+{
+  "name": "Ivan Kisel",
+  "homepage": "https://www.fias.science/de/computerwissenschaften/gruppen/ivan-kisel",
+  "status": "success",
+  "content": "Ivan Kisel / FIAS Computerwissenschaften - Gruppen zur Übersicht Arbeitsgruppe von Ivan Kisel Die Arbeitsgruppe von Prof. Dr. Ivan Kisel hat sich auf die Entwicklung hochparalleler, effektiver Algorithmen für die Spuren- und Teilchenrekonstruktion in den Experimenten der Hochenergiephysik spezialisiert. Die Hauptforschungsinteressen der Gruppe sind: Rekonstruktion von Ladungspartikelspuren mit der Methode Cellular AutomatonRekonstruktion von Spurparametern mit einer Kalman-FiltermethodeRekonstruktion von kurzlebigen Partikeln mit einem KF Particle Paket basierend auf der Kalman-Filtermethode Fellow Detail Forschung (in englischer Spache)Lehre Mitglieder Grigory KozlovPostdocBüro: 2|06 (GSC)Tel.: +49 69 798 47694g.kozlov_at_gsi.deArtemiy BelousovDoktorand/inBüro: 2|06 (GSC)Tel.: +49 69 798 44112belousov_at_fias.uni-frankfurt.deAizat DaribayevaDoktorand/inBüro: 2|07 (GSC)Tel.: +49 69 798 47695Robin LakosDoktorand/inBüro: 2|06 (GSC)Tel.: +49 69 798 47694lakos_at_fias.uni-frankfurt.deAkhil MithranDoktorand/inBüro: 2|11 (GSC)Tel.: +49 69 798 47696Oddharak TyagiDoktorand/inBüro: 2|07 (GSC)Tel.: +49 69 798 47695otyagi_at_fias.uni-frankfurt.deGianna ZischkaMasterstudent/inBüro: 2|06 (GSC)Tel.: +49 69 798 47694gianna.zischka_at_stud.uni-frankfurt.de",
+  "content_length": 1260,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:24:23"
+}

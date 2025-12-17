@@ -1,0 +1,9 @@
+{
+  "name": "Bariş Akgün",
+  "homepage": "https://mysite.ku.edu.tr/baakgun",
+  "status": "success",
+  "content": "Barış Akgün | Assistant Professor at Koç University Short Bio: I am an Assistant Professor at the Koç University. Prior to joining the faculty at KU on September 2016, I was a Post-Doctoral Fellow at the Electrical And Computer Engineering Department of The University of Texas at Austin. I earned my PhD Degree in Robotics from the Georgia Institute of Technology in 2015.  I received my MSc Degree from the Computer Science Department and BSc. Degree with an extra-curricular Mechatronics minor from the Mechanical Engineering Department of Middle East Technical University in 2010 and 2007 respectively. My research interests lie at the intersection of Human-Robot Interaction, Machine Learning for Robotics and Artificial Intelligence for Robotics. My main research focus is on designing systems and algorithms for robots that learn both from demonstration and by themselves, so that they can operate autonomously in complex real-world environments and side-by-side with humans. I am also interested in applied machine learning, especially for sequential and time-series data. Contact: baakgun(at)ku",
+  "content_length": 1103,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:03:09"
+}

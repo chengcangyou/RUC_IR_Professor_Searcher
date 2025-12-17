@@ -1,0 +1,9 @@
+{
+  "name": "Yuval Kochman",
+  "homepage": "http://www.cs.huji.ac.il/~yuvalko",
+  "status": "success",
+  "content": "Yuval Kochman's Homepage Yuval Kochman's Homepage Publications Curriculum Vitae Mail: yuvalko at cs dot huji dot ac dot il. I'm a senior lecturer (assistant professor) at the Rachel and Selim Benin School of Computer Science and Engineering at the Faculty of Science, the Hebrew University of Jerusalem. I received my PhD from Tel Aviv University, under the supervision of Prof. Ram Zamir. After that, I was a post-doctoral associate at the Signals, Information, and Algorithms Laboratory of Prof. Gregory W. Wornell at MIT. My research areas include Information Theory, Signal Processing and Communication. Specific projects include: Low-delay compression and joint source-channel coding Improved error-probability performance in networks using linear codes Information-theoretic problems in a combinatorial setting Joint matrix decompositions for communication networks Packet streaming over lossy links High-efficiency optical communication and key distribution Design of sparse antenna arrays",
+  "content_length": 996,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:54:17"
+}

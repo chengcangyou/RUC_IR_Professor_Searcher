@@ -1,0 +1,9 @@
+{
+  "name": "James A. Preiss",
+  "homepage": "https://cs.ucsb.edu/people/faculty/james-preiss",
+  "status": "success",
+  "content": "James A. Preiss | UCSB Computer Science James A. Preiss Assistant Professor preiss@ucsb.edu 5109 Harold Frank Hall Education Ph.D Computer Science, University of Southern California External Publications Google Scholar Research Areas Algorithms and Theory Machine Learning and Data Mining Robotics and Autonomy Bio James A. Preiss is an Assistant Professor of Computer Science at the University of California, Santa Barbara. He received a Ph.D. in Computer Science from the University of Southern California. Before joining UCSB, he was a postdoctoral scholar in Computing + Mathematical Sciences at the California Institute of Technology. James has made contributions to a broad spectrum of topics in robotics, including control, learning, motion planning, and software platforms. Research James's research focuses on building rigorous and practical methods for learning-based planning and control in robotics and other autonomous systems. Key technical tools include online optimization, reinforcement learning, adaptive control, trajectory planning, and neural networks. He is also interested in developing theory to understand why robot learning can succeed in \"messy\" real-world settings where typical simplifying assumptions do not apply. James works with a variety of robot types including quadrotors, manipulators, and ground vehicles.",
+  "content_length": 1343,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:25:46"
+}

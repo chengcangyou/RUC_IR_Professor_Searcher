@@ -1,0 +1,9 @@
+{
+  "name": "Jim Dowling",
+  "homepage": "https://www.kth.se/profile/jdowling",
+  "status": "success",
+  "content": "KTH | Jim Dowling Skip to main content Jim DowlingAbout meJim is a distributed systems researcher and his research interests are in the area of large-scale distributed computer systems. His research has concerned improving fundamental properties of software systems, including reliability, availability, persistence, security, scalability and performance. He has built middleware platforms, peer-to-peer systems, a next generation Hadoop Distributed filesystems, and a next generation cluster scheduler for Hadoop and some of his work has been inspired by mechanisms from complex adaptive systems and self-organizing systems. The research challenges that inspire him are how to provide more dependable, higher performance, more secure, more scalable, lower-cost and more self-managing systems.CoursesAdvanced Course in Large Scale Machine Learning and Deep Learning (FID3020), examinerScalable Machine Learning and Deep Learning (ID2223), teacher",
+  "content_length": 946,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:30:43"
+}

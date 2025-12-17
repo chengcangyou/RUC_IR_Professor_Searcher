@@ -1,0 +1,9 @@
+{
+  "name": "Louise Abigail Dennis",
+  "homepage": "https://www.liverpool.ac.uk/computer-science/staff/louise-dennis",
+  "status": "success",
+  "content": "Dr Louise Dennis | Our people | University of Liverpool Skip to main content Close Search Find courses, people, research, information and more. Please ignore What types of page to search? All Courses Academic staff News Events Search Popular pages: Undergraduate Postgraduate PhD Accommodation Research International students Alternatively use our A-Z index. About Louise Dennis is a lecturer in the Autonomy and Verification Laboratory at the University of Liverpool. She is attached to the Centre for Autonomous Systems Technology (CAST) at the University of Liverpool. Her background is in artificial intelligence and more specifically in agent and autonomous systems and automated reasoning. She has worked on the development of several automated reasoning and theorem proving tools, most notably the Agent JPF model checker for BDI agent languages; the lambda-clam proof planning system; and the PROSPER Toolkit for integrating an interactive theorem prover (HOL) with automated reasoning tools (such as SAT solvers) and Case/CAD tools. More recently she has investigated rational agent programming languages and architectures for autonomous systems, with a particular emphasis on creating verifiable systems and machine ethics.",
+  "content_length": 1233,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:48:07"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "David Ellis Hershkowitz",
+  "homepage": "https://dhershko.github.io",
+  "status": "success",
+  "content": "D Ellis Hershkowitz Email: delhersh@gmail.com Office: CIT 507 Hi there! I am an Assistant Professor in the Brown University Computer Science Department. I’m broadly interested in theoretical computer science but I’m especially keen on graph-theoretic questions in approximation algorithms, online algorithms, distributed algorithms and metric embeddings. I completed my PhD in computer science in the Carnegie Mellon Computer Science Department. After that, I spent a lovely year as a postdoc in the ETH Zürich Math Department in the Mathematical Optimization Group. My research is supported by NSF grant CCF-2403236. If you’re a student interested in doing research on algorithms with me, please read this page. Fall 2025 I’m organizing the Brown Theory Seminar with Richard Huang. If you’re a theory researcher in the Boston/Providence area, consider giving a talk! Recent Publications Some recent publications that I’m particularly excited about and or actively working on. Ghost Value Augmentation for k-Edge-ConnectivitySTOC 2024 with Nathan Klein, Rico Zenklusen (Symposium on Theory of Computing) Invited to SICOMP Special Issue [pdf, talk] One Tree to Rule Them All: Poly-Logarithmic Universal Steiner TreeFOCS 2023 with C. Busch, D.Q. Chen, A. Filtser, D. Hathcock, R. Rajaraman (Symposium on Foundations of Computer Science) [pdf, talk] Maximum Length-Constrained Flows and Disjoint Paths...STOC 2023 with Bernhard Haeupler, Thatchaphol Saranurak (Symposium on Theory of Computing) [pdf, talk]",
+  "content_length": 1503,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:11:01"
+}

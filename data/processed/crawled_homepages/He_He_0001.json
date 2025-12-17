@@ -1,0 +1,9 @@
+{
+  "name": "He He 0001",
+  "homepage": "https://hhexiy.github.io",
+  "status": "success",
+  "content": "He He He He 何河Assistant Professor at NYU Follow 605, 60 5th Ave Email Twitter Google ScholarI am an assistant professor of Computer Science and Data Science at New York University. I am affiliated with the CILVR Lab, the Machine Learning for Language Group, and the Alignment Research Group. Here’s a guide on how to pronunce my name.I am interested in how large language models work and the potential risks of this technology. Here are some questions I’m thinking about nowadays:Understanding LLMs: How do we make sense of LLMs and uncover the guiding principles of scaling? I’m curious to what extent they generalize to novel scenarios, and how abstract concepts are encoded in their representations.Evaluation and oversight: How do we verify LLM outputs for complex, real-world tasks? How can we discover new capabilities? How should we measure usefulness in practical workflows? And how do we monitor for risky or unintended behaviors?Human-AI collaboration: How do we make humans stay valuable in an increasingly automated world? How can agents infer intent, adapt to preferences, and integrate feedback for finer control? What will this collaboration mean for the future of work?Prospective students: Please read my advising statement before contacting. I’m looking for 1–2 PhD students this cycle. If you’re interested, please apply to the PhD program in Computer Science or Data Science and mention my name in your application. If you are interested in a post-doc position, please email me directly. Unfortunately I no longer have time to supervise undergraduates or MS students. If you think you have a compelling story though, feel free to reach out.",
+  "content_length": 1660,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:19:13"
+}

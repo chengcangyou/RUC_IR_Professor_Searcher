@@ -1,0 +1,9 @@
+{
+  "name": "Vivienne Sze",
+  "homepage": "http://www.rle.mit.edu/eems",
+  "status": "success",
+  "content": "Energy-Efficient Multimedia Systems Group - MIT Energy-Efficient Multimedia Systems Group Professor Vivienne Sze News Research Publications Tutorials Team Awards Contact The Energy-Efficient Multimedia Systems Group aims to develop and implement energy-efficient and high-performance systems for multimedia applications such as machine learning, computer vision, video compression and imaging. We focus on the joint design of algorithms, architectures, circuits and systems to enable optimal tradeoffs between power, speed, and quality of result. Accordingly, our work traverses various levels of abstraction from energy-aware algorithm development for signal processing to efficient architecture design and low-power VLSI circuit implementation. Follow @eems_mit Home News Research Publications Team Awards Contact Copyright © Massachusetts Institute of Technology\t- Accessibility",
+  "content_length": 881,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:44:45"
+}

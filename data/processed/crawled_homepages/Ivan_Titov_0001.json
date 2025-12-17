@@ -1,0 +1,9 @@
+{
+  "name": "Ivan Titov 0001",
+  "homepage": "http://ivan-titov.org",
+  "status": "success",
+  "content": "Ivan Titov Professor and Personal Chair in Natural Language Processing, ILCC, School of Informatics, University of Edinburgh, UK and also a Professor (Hoogleraar) at ILLC, University of Amsterdam, Netherlands. My recent research has primarily focused on machine learning for natural language processing (NLP), specifically on improving robustness of large language models; interpretability, trustworthiness and controlability (e.g., editing and unlearning) of deep learning models. My research team has been supported by grants from ERC, NWO (Vici), UKRI , Google, SAP, Booking.com, Amazon, among others. I was a program co-chair at ICLR 2021 and CoNLL 2018. I am also an action editor for the journal of machine learning research (JMLR) and Transactions of ACL (TACL), an ELLIS fellow and co-direct their NLP program. At Edinburgh, I direct the Centre for Doctoral Training (CDT) in NLP and Edinburgh ELLIS unit . I am also on the management team of the new CDT in Designing Responsible and Trustworthy NLP (apply!).",
+  "content_length": 1017,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:24:23"
+}

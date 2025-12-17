@@ -1,0 +1,9 @@
+{
+  "name": "Wen-Yan Daniel Lin",
+  "homepage": "https://sis.smu.edu.sg/faculty/profile/161811/Daniel-LIN",
+  "status": "success",
+  "content": "| School of Computing and Information Systems showSidebars == showTitleBreadcrumbs == 1 node.field_disable_title_breadcrumbs.value == Error: Unable to fetch faculty data.",
+  "content_length": 170,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:46:06"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Ziv Scully",
+  "homepage": "https://ziv.codes",
+  "status": "success",
+  "content": "Ziv Scully Hi! I'm Ziv (he/him; pronounced \"Zeev\"), an assistant professor at Cornell ORIE (Operations Research and Information Engineering). In 2022, I completed my PhD in CMU's Computer Science Department, where I was advised by Mor Harchol-Balter and Guy Blelloch. I then spent a year split between the UC Berkeley Simons Institute (for the D3P program), Harvard SEAS, and MIT CSAIL. Broadly, I am interested decision-making under uncertainty, which I approach with a stochastic control mindset. I am especially interested in problems related to queueing (scheduling, load balancing, resource allocation), which was the subject of my PhD thesis; and Bayesian optimization, which turns out to be approachable using similar technical tools (namely Gittins indices). I have the privilege of advising a great group of students: Qian Xie (PhD—and on the job market!) Amit Harlev (PhD) Shefali Ramakrishna (PhD) George Yu (PhD) Natalie Nguyen (undergrad—and applying to PhD programs!) I am working on a set of notes on scheduling and dispatching, tenatively titled \"Slay Your Delays\". The current draft is linked, though it is not yet in stable-enough-to-cite form. Below are videos of talks I've given at the SNAPP and TCS+ virtual seminar series. My talks page has additional videos and slides. Strongly Tail-Optimal Scheduling in the Light-Tailed M/G/1 Recent Progress in Queueing and Scheduling Theory (for a TCS Audience)",
+  "content_length": 1423,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:55:59"
+}

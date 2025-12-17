@@ -1,0 +1,9 @@
+{
+  "name": "Ahmet Oguz Akyüz",
+  "homepage": "http://user.ceng.metu.edu.tr/~akyuz",
+  "status": "success",
+  "content": "I'm a professor at the Department of Computer Engineering in Middle East Technical University. Our department is located in Ankara, Turkey. My primary research focus is on high dynamic range (HDR) imaging with an emphasis on color and perception. Short Bio I graduated from the Department of Computer Engineering at METU in 2003. I obtained my Ph.D. in computer science from the University of Central Florida in 2007. During my Ph.D., I worked as a visiting research for one year at Max Planck Institute for Biological Cybernetics in TÃ¼bingen, Germany (2006). Before returning back to METU in 2011, I worked as a member of the OpenGL driver development team at Advanced Micro Devices for three years. Color Imaging Check out our book on color imaging. This book provides the reader with an understanding of what color is, where color comes from, and how color can be used correctly in many different applications. It is available from CRC Press as well as Amazon.",
+  "content_length": 964,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:51:26"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Naftaly H. Minsky",
+  "homepage": "https://www.cs.rutgers.edu/~minsky",
+  "status": "success",
+  "content": "Home Page for Naftaly Minsky Naftaly Minsky Professor Department of Computer Science Rutgers University Piscataway, NJ 08854 USA Phone: (732) 445-2085 Fax: (732) 445-0537 Email: minsky@rutgers.edu Office: CoRE 321 Software Release The Law-Governed Interaction (LGI) Manual The Moses implementation of LGI Research Selected recent papers Current research project: Coordination and control in large, open, and distributed systems. This project is based on the concept of Law Governed Interaction (LGI), which is a poweful, decentralized, \"policy mechanism.\" Applications: We are exploring the use of LGI for providing security and trust, and for facilitating effective coordination, in a wide range of domains, including: e-commerce, grid computing, enterprise systems, self-healing, and multi-agent systems. PhD students: Constantin Serban Whenxuan Zhang Mihail Ionescu Teaching Intro to Discrete Math. (205): Sylabus Secure E-Commerce: 547 Software Engineering (with focus on distributed software) 431 Topics in Software Design 583 Assorted links",
+  "content_length": 1046,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:03:00"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Paul Gastin",
+  "homepage": "http://www.lsv.ens-cachan.fr/~gastin",
+  "status": "success",
+  "content": "Laboratoire Spécification et Vérification Paul Gastin Professor, ENS Paris-Saclay Selected Publications. See also DBLP Slides of some recent talks GPG public key Teaching Algorithmic Formal Languages Basics of Verification Non-Sequential Theory of Distributed Systems Outils / Tools LTL2BA 1.3 : fast translation from LTL formulae to Büchi automata. Version of 2020/06/10 gastex 3.1 : Graphs and Automata Simplified in TeX. Version of 2024/02/12 Nestify 1.0 : nested words for higher order pushdown automata. JasTeX 1.1: graphical user interface in Java for GasTeX (outdated). hevea 1.07 pour mac OS X About LSV News People Research Seminars Teaching Contact Private Pages English Français Contact Address LMF, CNRS & ENS Paris-Saclay 4, Avenue des Sciences 91190 Gif-sur-Yvette, France Office 3U62 Phone +33 (0)1 81 87 54 58 E-Mail lastname at lmf dot cnrs dot fr",
+  "content_length": 864,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:09:48"
+}

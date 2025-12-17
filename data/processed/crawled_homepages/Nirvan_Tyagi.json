@@ -1,0 +1,9 @@
+{
+  "name": "Nirvan Tyagi",
+  "homepage": "https://www.cs.cornell.edu/~tyagi",
+  "status": "success",
+  "content": "Nirvan Tyagi Nirvan Tyagi I am an assistant professor at University of Washington. My research interests are in building systems that provide users with precise privacy and security guarantees. Most recently, I have been building systems that use cryptography to enable new balances between user privacy and user accountability. I believe users should enjoy strong privacy but that bad actors should also be held accountable for misbehavior. Contact: tyagi@cs.washington.edu",
+  "content_length": 474,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:06:28"
+}

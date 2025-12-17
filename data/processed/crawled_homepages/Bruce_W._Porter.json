@@ -1,0 +1,9 @@
+{
+  "name": "Bruce W. Porter",
+  "homepage": "https://www.cs.utexas.edu/users/porter",
+  "status": "success",
+  "content": "Research My research and teaching focuses on machine reading. This technology holds tremendous potential for capturing knowledge for automated inference, question answering, explanation generation, and other AI capabilities that interest me. Most machine reading projects have focused on macro-reading, i.e. skimming many documents to extract repeated facts or commonly expressed sentiments. I would like to focus primarily on micro-reading, which aims to extract considerable content from each individual document. I will assume that methods for natural-language processing will continue to improve, which will make micro-reading increasingly effective, and I will focus on issues like these: goal-directed navigation of a corpus of documents methods for (dis-)confirming information derived from text extracting information from diagrams and tables integrating extracted information into a knowledge base ways that macro-reading might inform micro-reading, and vice-versa Publications Component Library for building Knowledge Systems KM knowledge representation and reasoning system Teaching In Spring 2019, I am teaching a new course, CS378: Practical Applications of Natural Language Processing. Here's the syllabus. I sometimes teach CS 302: Computer Fluency. Here's the syllabus. Contact O: GDC 3.704 E: porter@cs.utexas.edu P: 512-471-9565 Curriculum Vitae",
+  "content_length": 1363,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:06:42"
+}

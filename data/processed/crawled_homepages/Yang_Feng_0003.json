@@ -1,0 +1,9 @@
+{
+  "name": "Yang Feng 0003",
+  "homepage": "https://fengyang-nju.github.io",
+  "status": "success",
+  "content": "Yang Feng's homepage {{ datas.name }} Associate Professor (Ph.D. Advisor) {{item}} Contact: {{item}} E-mail:{{datas.email}} Bio | News | Publication | Services | Teaching Bio {{datas.bioEnglish}} {{datas.highlight_block_english}} {{datas.highlight_block_chinese}} News [{{item.date}}] {{item.content}}{{item.desc}} Publications[Google Scholar] {{item.year}} {{pub.title}} by {{pub.venue_infos}} {{pub.note}}. {{pub.comments}} Services {{item}} Teaching {{item.data}}: {{item.course}}",
+  "content_length": 483,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:50:06"
+}

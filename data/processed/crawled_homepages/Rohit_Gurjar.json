@@ -1,0 +1,9 @@
+{
+  "name": "Rohit Gurjar",
+  "homepage": "https://www.cse.iitb.ac.in/~rgurjar",
+  "status": "success",
+  "content": "Rohit Gurjar Dept. of Computer Science & Engineering at IIT Bombay Research Interests: Computational Complexity, Derandomization and Pseudorandomness, Polyhedral Combinatorics, Parallel Complexity Email: Teaching CS 218 Design and Analysis of Algorithms (Jan 2025) CS 760 Topics on Computational Complexity (Jul 2024) CS 218 Design and Analysis of Algorithms (Jan 2024) CS602 Applied Algorithms (Jul 2023) CS218 Design and Analysis of Algorithms (Jan 2023) CS761 Derandomization and Pseudorandomness (Jul 2022) CS602 Applied Algorithms (Jan 2022) CS601 Algorithms and Complexity (Jul 2021) CS602 Applied Algorithms (Jan 2021) CS601 Algorithms and Complexity (Jul 2020) CS602 Applied Algorithms (Jan 2020) CS759 Perfect Matchings: Algorithms and Complexity (Jan 2019) Background Publications Talks (video) Mathematics behind QR codes RISC 2024, IIT Bombay Matroid-convex functions and approximative\tclosure\tof a class of polynomials IISc Bangalore Isolation Lemma and its proof Algebraic Algorithms for Bipartite Matching and its generalizations Faculty Unplugged Seminar Series, IITB, Sep 2019 Number of near-shortest vectors in lattices and Isolation Lemma at Workshop on Algebraic Complexity Theory (WACT) 2018, University of Paris Diderot Derandomizing the Isolation Lemma and Parallel Algorithms at Algorithms and Optimization 2018, International Center for Theoretical Sciences, Bengaluru. Derandomizing the Isolation Lemma: A geometric approach at Proving and Using Pseudorandomness workshop 2017, Simons Institute for the Theory of Computing. Bipartite Perfect Matching is in quasi-NC at Workshop on Algebraic Complexity Theory 2016, Tel Aviv University",
+  "content_length": 1660,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:20:05"
+}

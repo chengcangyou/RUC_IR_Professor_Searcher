@@ -1,0 +1,9 @@
+{
+  "name": "Josiah P. Hanna",
+  "homepage": "https://www.cs.wisc.edu/staff/hanna-josiah",
+  "status": "success",
+  "content": "Josiah Hanna I am an assistant professor in the Computer Sciences Department at the University of Wisconsin -- Madison. The goal of my research is to develop fully autonomous agents that learn how to achieve goals from experience. Towards this goal, I study a branch of machine learning called reinforcement learning (RL) that enables autonomous agents to learn via trial and error interaction. The goal of my research is to develop and apply reinforcement learning algorithms that are effective with a limited amount of task interaction time and to integrate these algorithms into complete autonomous agents. I am part of the broader reinforcement learning and robotics groups at UW -- Madison and an affiliate of the Data Science Institute. Publications Students Short Bio",
+  "content_length": 774,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:35:29"
+}

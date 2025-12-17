@@ -1,0 +1,9 @@
+{
+  "name": "David E. Carlson",
+  "homepage": "http://carlson.pratt.duke.edu",
+  "status": "success",
+  "content": "Carlson Lab Skip to main content Welcome to the Carlson Lab Welcome to the Carlson Lab! Our major focus is on developing novel machine learning methodologies to facilitate and advance a diverse set of applications. Specifically, we are building tools to facilitate data-driven science, where information automatically derived from large, complex observations of “big data” are used to facilitate experimental design and hypothesis generation.  We have active collaborations with a variety of collaborators where we are developing and using interpretable probabilistic models and deep learning to glean understanding from a variety of signals. The applications of our work are divers.  For example, we are involved in learning treatment and diagnostic biomarkers from electrophysiological data collected during an Autism Spectrum Disorder clinical trial.  In addition, our methods have previously revealed neural biomarkers of stress susceptibility in an animal model of depression.  I additionally collaborate with investigators on a variety of other applied problems, including air quality estimation and computational toxicology. In the News December 19, 2019 NeurIPS talk on collaborative research Kafui Dzirasa gave a talk at NeurIPS on our collaborative research into modeling neural signals and their use in understanding neuropsychiatric disorder.  The presentation was recorded and is available at https://slideslive.com/38921796/mapping-emotions-... Research Overview Developing Novel Machine Learning Methods Modeling Neural Data People Current Members Alumni Publications News Contact",
+  "content_length": 1595,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:58:52"
+}

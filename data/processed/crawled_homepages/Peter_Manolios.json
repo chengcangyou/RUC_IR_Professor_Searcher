@@ -1,0 +1,9 @@
+{
+  "name": "Peter Manolios",
+  "homepage": "http://www.ccs.neu.edu/home/pete",
+  "status": "success",
+  "content": "Pete's Webpage Home News Research Teaching Software and Tools Students Professional Service Contact Info CV Panagiotis (Pete) Manolios Khoury College of Computer Sciences Northeastern University I am a Professor in the Khoury College of Computer Sciences at Northeastern University. My main research interest is mechanized formal verification and validation of computing systems. What guides my research is the vision that formal methods can be used to revolutionize the design and implementation of highly reliable, robust, and scalable systems in a variety of important application areas, ranging from large component-based software systems to hardware systems to aerospace systems to computational biology to public health. My other areas of interest include programming languages, distributed computing, logic, software engineering, algorithms, computer architecture, aerospace, and pedagogy.",
+  "content_length": 896,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:11:34"
+}

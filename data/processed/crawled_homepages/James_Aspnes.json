@@ -1,0 +1,9 @@
+{
+  "name": "James Aspnes",
+  "homepage": "http://www.cs.yale.edu/homes/aspnes",
+  "status": "success",
+  "content": "Home page for James Aspnes James Aspnes Harold W. Cheel Professor of Computer Science Yale University Department of Computer Science 51 Prospect St P.O. Box 208285 New Haven, CT 06520-8285 USA Email: james.aspnes@gmail.com Phone: +1 203 533 9862 I'm Jim Aspnes, a professor in the Computer Science Department at Yale. My main area of research is distributed algorithms. You can find a list of my papers here. Classes CPSC 4690/5690: Randomized Algorithms, Fall 2025. CPSC 4650/5650: Theory of Distributed Computing, Spring 2026. Lecture notes from current, upcoming, and recent classes on computational complexity, data structures and C programming, discrete math, distributed computing, and randomized algorithms. Older lecture notes (may be somewhat broken): algorithms, operating systems. Vita HTML (short version, with links to paper abstracts). HTML (publications only, with in-line abstracts). PDF. BibTeX. Teaching calendar Office hours are currently in AKW 401. If you can't make it to my open office hours, please send me email to make an appointment.",
+  "content_length": 1060,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:25:51"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Dana Moshkovitz",
+  "homepage": "https://people.csail.mit.edu/dmoshkov",
+  "status": "success",
+  "content": "Dana Moshkovitz - Home Page Dana Moshkovitz [דנה מושקוביץ] I am a professor at the Computer Science department of UT Austin. I’m part of the theory group. I have a broad interest in Theoretical Computer Science, with a focus on Probabilistically Checkable Proofs (PCP) and pseudo-randomness. Here’s a semi-popular article I wrote about PCP for XRDS and PCP-inspired word games as featured in the Guardian. Publications Students Courses Bio Service Outreach Presentations Contact Info Dana Moshkovitz Office: GDC 4.432 Phone: +1 (512) 471-3905 Email: danama at cs.utexas.edu Administrative Assistant Catherine Andersson Email: canderss at cs.utexas.edu UT Austin: Theory group Theory seminar Visiting Austin Q&A: Theoretical Computer Science Stack Exchange Math Overflow Archives: ECCC ArXiv Blogs: Computational Complexity Blog In Theory (Luca Trevisan's Blog) Shtetl Optimized (Scott Aaronson's Blog)",
+  "content_length": 901,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:56:46"
+}

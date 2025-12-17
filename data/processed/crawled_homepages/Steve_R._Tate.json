@@ -1,0 +1,9 @@
+{
+  "name": "Steve R. Tate",
+  "homepage": "https://home.uncg.edu/cmp/faculty/srtate/index.html",
+  "status": "success",
+  "content": "Redirect This should have immediately redirected you to the real page. If it didn't work (and it didn't if you're reading this), click here.",
+  "content_length": 140,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:32:26"
+}

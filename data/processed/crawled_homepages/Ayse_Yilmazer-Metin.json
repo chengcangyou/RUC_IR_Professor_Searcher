@@ -1,0 +1,9 @@
+{
+  "name": "Ayse Yilmazer-Metin",
+  "homepage": "https://web.itu.edu.tr/yilmazerayse",
+  "status": "success",
+  "content": "Welcome! My research interests lie in the general area of computer architecture and domain-specific hardware acceleration, with a particular emphasis on accelerating Deep Learning (DL) applications and privacy-preserving computing. In the past, most of my research work has focused on memory system design (including synchronization support, cache coherency, and memory system performance optimization), parallel and heterogeneous systems, compiler analysis techniques, and run-time optimizations. Most recently, my research group (ITUSynergy) has been exploring hardware/software ideas(from algorithmic approaches to compiler optimizations and custom hardware design approaches) targeting Deep Learning applications and privacy-preserving computing (Fully Homomorphic Encryption (FHE) primitives and FHE applications). An overview of my research activities can be found here. You can learn more about my background and current activities here. My Curriculum Vitae (CV) can be found here. NEWS: I am looking for motivated students to work with me on several projects; including compiler optimizations for DL applications, hardware/software acceleration of sparse matrix operations, compiler optimizations and hardware acceleration for FHE acceleration !! If you are interested welcome to join my research group, ITUSynergy ACADEMIC PROFILES: Google Scholar Profile ResearchGate",
+  "content_length": 1377,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:02:31"
+}

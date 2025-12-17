@@ -1,0 +1,9 @@
+{
+  "name": "Aloysius K. Mok",
+  "homepage": "https://www.cs.utexas.edu/users/mok",
+  "status": "success",
+  "content": "Aloysius K. Mok Aloysius K. Mok Professor Quincy Lee Centennial Professor in Computer Sciences B.S. in Electrical Engineering (1977), M.S. (1977), Ph.D. (1983) Massachusetts Institute of Technology Professional Service Associate Editor, Real Time Systems: The International Journal of Time-Critical Computing Systems, present Editorial Board, International Journal of Formal Methods in System Design, present Vice-Chair, IEEE Technical Committee on Real-Time Systems, 1993 Chair, IEEE Technical Committee on Real-Time Systems, 1995-96 Working Group on Real-Time Programming, International Federation of Automatic Control, present Areas of Interest Fault-tolerant hard-real-time systems, system architecture, computer-aided system design tools, and software engineering Summary of Research I am currently conducting fundamental research in the area of distributed real-time systems. My primary concerns include specification techniques for real-time systems, algorithms for guaranteeing stringent timing constraints and understanding the trade-off between the robustness and response times of time-critical systems. The goal is to develop a formal framework for automating the analysis and synthesis of robust real-time systems. Application areas include robot control systems, avionics software and industrial process control systems. Funding is being provided by the Office of Naval Research to develop a highly automated design environment for real-time systems. Go to UT Real-Time Systems Group",
+  "content_length": 1497,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:55:06"
+}

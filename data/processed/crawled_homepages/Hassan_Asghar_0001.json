@@ -1,0 +1,9 @@
+{
+  "name": "Hassan Asghar 0001",
+  "homepage": "https://hasghar.github.io",
+  "status": "success",
+  "content": "Hassan's Page Hassan Jameel Asghar I am a computer scientist working in privacy, cryptography and information security. Follow Sydney, Australia. Email LinkedIn About Me I am a Senior Lecturer (Associate Professor) at Macquarie University and formerly a Research Scientist at Data61, CSIRO. I am a member of the Information Security and Privacy Research Group at Macquarie University. Research Areas Applied cryptography Differential privacy Cryptographic tools for privacy Privacy and security in machine learning User authentication News Paper on Unintended Memorization and Timing Attacks in Named Entity Recognition Models accepted at PETS 2023 Here is the link to the full paper. Paper on optimal parallel compostion in differential privacy accepted at PETS 2022 A paper written in collaboration with researchers from Data61, CSIRO, on the optimal parallel composition in differential privacy has been accepted in PETS 2022. Here is the link to the full paper. Paper on attribute inference attacks in machine learning accepted at IEEE Euro S&P 2021 A paper written on the feasibility of launching an attribute inference attack on machine learning models has been accepted for publication in IEEE Euro S&P 2021. Here's the pre-print version of the paper. Paper accepted at PETS A paper written in collaboration with Rahat Masood, Ben Zhao and Dali Kaafar on the uniqueness of touch gestures and how they could be used to track users is accepted for publication in PETS 2018. Here's the link.",
+  "content_length": 1495,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:19:04"
+}

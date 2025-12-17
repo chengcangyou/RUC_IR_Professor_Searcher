@@ -1,0 +1,9 @@
+{
+  "name": "Roded Sharan",
+  "homepage": "http://www.cs.tau.ac.il/~roded",
+  "status": "success",
+  "content": "Roded Sharan Homepage Home Publications Group Teaching Prof. Roded Sharan Incumbent of the George and Maritza Pionkowski Chair in Computer Aided Drug Design Member of the Edmond J. Safra Bioinformatics Center and alumnus of The Israel Young Academy Contact information: School of Computer Science and AI Tel-Aviv University Tel-Aviv 69978, Israel Email: roded AT tauex.tau.ac.il Office: Schreiber 213 Phone: +972-3-640-7139 PC chairs and editorial boards: * RECOMB – Member of Steering Committee * RECOMB 2014 – Program Chair * EMBO Reports – Advisory Editorial Board Research Summary: Research in the group focuses on modeling biological data using networks and applying graph algorithmic and machine learning techniques to mine these data and extract patterns of biological significance. We are also interested in applications of these techniques to studying ancient texts. Example projects include: Inferring subnetworks that underlie a biological process of interest by integrating protein network data with gene expression or phenotypic information (see 1, 2). Modeling mutational processes in cancer using machine learning techniques (see 1, 2). Construction and analysis of Boolean network models using machine learning and integer programming techniques (see 1, 2). Predicting drug properties and their applications in the clinical practice (see 1, 2). Selected Web-Servers / Software: * WebPropagate * ANAT * NetworkBLAST",
+  "content_length": 1430,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:19:42"
+}

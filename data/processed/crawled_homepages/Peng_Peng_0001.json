@@ -1,0 +1,9 @@
+{
+  "name": "Peng Peng 0001",
+  "homepage": "https://bnu05pp.github.io",
+  "status": "success",
+  "content": "Peng Peng @ HNU Peng Peng Associate Professor College of Computer Science and Electronic Engineeringe Hunan University Email: hnu16pp@hnu.edu.cn BIO Dr. Peng Peng is currently an Associate Professor in the College of Computer Science and Electronic Engineering at Hunan University. He was a visiting scholar in Data Systems Research Group, David R. Cheriton School of Computer Science, University of Waterloo, working with Prof. M. Tamer Özsu, in 2020. He received his Ph.D. degree from Wangxuan Institute of Computer Technology, Peking University in 2016, advised by Prof. Dongyan Zhao and Prof. Lei Zou. He also once worked with Prof. Lei Chen as a visiting scholar at Department of Computer Science and Engineering, Hong Kong University of Science and Technology in 2014. He received his BS degree from College of Information Science & Technology, Beijing Normal Universityin 2009. Research Interests His research interests lie broadly in large graph data management, with a special focus on distributed RDF systems and graph databases for now. More specifically, he is now conducting research into techniques that can make it more efficient to query and retrieve large graphs.",
+  "content_length": 1180,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:10:53"
+}

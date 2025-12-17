@@ -1,0 +1,9 @@
+{
+  "name": "J. Ian Munro",
+  "homepage": "https://cs.uwaterloo.ca/~imunro",
+  "status": "success",
+  "content": "Ian Munro J. Ian Munro FACM, FRSC University Professor and Canada Research Chair in Algorithm Design Cheriton School of Computer Science University of Waterloo Waterloo, Ontario Canada, N2L 3G1 519 888-4567 x34433 (voice) 519 885 1208 (fax) University Professor in the Cheriton School of Computer Science at the University of Waterloo, member of the Algorithms and Complexity Group and also affiliated with the Data Systems Group. Research Interests · data structures, particularly fast and space efficient structures · the design, analysis and implementation of algorithms · database systems and data warehousing, particularly efficiency issues More specific information is given in my research overview. For a list of my publications see my page on either DBLP (chronological) or Google Scholar (by reference frequency). For a list of students who have completed PhDs (24 and counting) under my supervision, see my entry of Math Genealogy Recent Classes CS 466/666 Algorithm Design and Analysis CS 240 Data Structures and Data Management CS 840 Topics in Data Structures Winter A brief biography is available. Slides from some recent (and not so recent) talks Succinct Data Structures Implicit Data Structures with O(1) moves Intro to Succinct Data Structures Succinct Permutations et al Rambo PQ Succinct Indices Gray Codes Succinct Labelled Planar Graphs Succinct Data Structures: Methods and Lower Bounds ... Mike66",
+  "content_length": 1420,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:24:38"
+}

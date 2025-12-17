@@ -1,0 +1,9 @@
+{
+  "name": "Paulo J. L. Adeodato",
+  "homepage": "https://www.cin.ufpe.br/~pjla",
+  "status": "success",
+  "content": "main <center> <H1> Paulo Adeodato </H1> </body> -- main <FRAMESET COLS=\"80,580\" FRAMEBORDER=0 BORDER=1 BORDERSPACING=0> <FRAME SRC=\"menu.html\" NAME=\"TOC\" NORESIZE MARGINHEIGHT=0 MARGINWIDTH=0 FRAMESPACING=0 FRAMEBORDER=\"No\"> <FRAME SRC=\"window.html\" NAME=\"MAIN\"> </FRAMESET>",
+  "content_length": 274,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:10:13"
+}

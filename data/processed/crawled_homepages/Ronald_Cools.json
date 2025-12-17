@@ -1,0 +1,9 @@
+{
+  "name": "Ronald Cools",
+  "homepage": "https://people.cs.kuleuven.be/~ronald.cools",
+  "status": "success",
+  "content": "Home page for Ronald Cools Ronald Cools Ronald Cools KU Leuven Department of Computer Science Celestijnenlaan 200 A bus 2402 B-3001 Leuven, Belgium E-mail: Ronald.Cools AT cs.kuleuven.be (status of my mailbox) Phone: ++32(0)16-327562 Ongelijkheden en gemeenteraadsverkiezingen: een ongebruikelijke analyse van het systeem Imperiali voor de gemeenteraadsverkiezingen (nu met cijfermatiaal van 8 okt 2006). Scientific activities Head of the research group NINES (Numerical Integration, Nonlinear Equations & Software) My research interests and list of publications . Some recent papers, not yet published The CUBPACK project: C++ code R. Cools, D. Laurie and L. Pluym: Cubpack++ : A C++package for automatic two-dimensional cubature The paper appeared in ACM Trans. Math. Software. (March 1997) An updated User Manual is available as Postscript. An interactive interface is available (compressed Postscript file). location of distribution Fortran 95 code R. Cools and A. Haegemans: Algorithm 824: CUBPACK: a package for automatic cubature; framework description The paper appeared in ACM Trans. Math. Software., Vol 29 (3), pp. 287-296, 2003. location of distribution Active member of IFIP WG 2.5, Working Group on Numerical Software If you are looking for a multivariate integration rule (= a cubature formula) you will probably find it here. Maybe you find my surveys on numerical integration (quadrature and cubature) useful. Useful information (in Dutch) in connection with courses I teach.",
+  "content_length": 1492,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:20:34"
+}

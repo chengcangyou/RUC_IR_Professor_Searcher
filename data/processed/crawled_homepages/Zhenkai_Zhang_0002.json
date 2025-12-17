@@ -1,0 +1,9 @@
+{
+  "name": "Zhenkai Zhang 0002",
+  "homepage": "https://zhenkai-zhang.github.io",
+  "status": "success",
+  "content": "Homepage of Zhenkai Zhang Publications Projects Students Activities Zhenkai Zhang, Ph.D. Assistant Professor School of Computing Clemson University Zhenkai Zhang received his Ph.D. degree from Vanderbilt University, under the supervision of Prof. Xenofon Koutsoukos. He earned his M.S. degree from University of Chinese Academy of Sciences, and B.S. degree from Beijing Institute of Technology. Prior to joining Clemson University, he was an assistant professor at Texas Tech University (2019 - 2021). He conducts research on computer systems security and cyber-physical/real-time/embedded systems. News: I received \"distinguished reviewer\" award at CCS'24. One paper on implanting backdoors at training time got accepted to ECCV’24. One paper on GPU memory corruption attacks got accepted to USENIX Security’24. One paper on CI/CD security got accepted to CCS’24. One paper on GPU cache side-channel attacks got accepted to USENIX Security’24. One paper on DNN backdoor attacks got accepted to Oakland’24. One paper on replay-based transient execution attacks got accepted to AsiaCCS’24.",
+  "content_length": 1088,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:55:06"
+}

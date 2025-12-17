@@ -1,0 +1,9 @@
+{
+  "name": "John M. Mellor-Crummey",
+  "homepage": "http://www.cs.rice.edu/~johnmc",
+  "status": "success",
+  "content": "John Mellor-Crummey's Home Page Professor Dept. of Computer Science and Dept. of Electrical and Computer Engineering Rice University Email address: Office: 3082 Duncan Hall Phone: 713-348-5179 FAX: 713-348-5930 Home page: http://www.cs.rice.edu/~johnmc US Mail address: Dept. of Computer Science - MS 132, P.O. Box 1892, Houston, TX, 77251-1892 Delivery address: Dept. of Computer Science, 3122 Duncan Hall, 6100 Main, Houston, TX, 77005 John Mellor-Crummey's research focuses on software technology for high performance parallel computing. His ongoing research includes work on tools for measurement and analysis of application performance, compiler and run-time technology for parallel and scientific computing, application performance modeling, and correctness tools for parallel programs. Past work has included developing techniques for execution replay of parallel programs, efficient software synchronization algorithms for shared-memory multiprocessors, and a system for efficiently detecting data races in executions of shared-memory programs using a combination of compile-time and run-time support. In 2006, John Mellor-Crummey and Michael L. Scott were awarded the Dijkstra Prize in Distributed Computing for their paper Algorithms for Scalable Synchronization on Shared-Memory Multiprocessors, ACM Transactions on Computer Systems, February, 1991. In 2013, John Mellor-Crummey was named an ACM Fellow for contributions to parallel and high performance computing. Page last updated 10 November 2015",
+  "content_length": 1510,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:32:58"
+}

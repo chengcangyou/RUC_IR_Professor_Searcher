@@ -1,0 +1,9 @@
+{
+  "name": "Thomas A. Goldstein",
+  "homepage": "https://www.cs.umd.edu/~tomg",
+  "status": "success",
+  "content": "Tom Goldstein - University of Maryland Computer Science Tom Goldstein Volpi-Cupal Endowed Professor Department of Computer Science University of Maryland Biography I am a Professor of Computer Science and Director of the Maryland Center for Machine Learning, with appointments in Applied Math and Electrical and Computer Engineering. My research focuses on responsibly building AI systems and draws on ideas from signal processing and applied mathematics. I work at the boundary between theory and systems, leveraging mathematical foundations and efficient hardware to improve the training, fine-tuning, benchmarking, and robustness of large models. I have been the recipient of several awards, including SIAM’s DiPrima Prize, a DARPA Young Faculty Award, and a Sloan Fellowship. For students I teach courses in discrete mathematics and optimization. View course webpages Sponsors My research is made possible by the generous support of the following organizations.",
+  "content_length": 965,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:37:14"
+}

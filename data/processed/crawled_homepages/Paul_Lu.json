@@ -1,0 +1,9 @@
+{
+  "name": "Paul Lu",
+  "homepage": "https://webdocs.cs.ualberta.ca/~paullu",
+  "status": "success",
+  "content": "Paul Lu Professor and Director of Outreach Department of Computing Science University of Alberta Edmonton, Alberta, T6G 2E8 Canada paullu [at] cs.ualberta.ca Office:  Athabasca Hall 3-40 Fax:  (780) 492-1071 Academic Biography Ph.D. Computer Science, 2000, University of Toronto Thesis:  Scoped Behaviour for Optimized Distributed Data Sharing M.Sc. Computing Science, 1993, University of Alberta Thesis:  Parallel Search of Narrow Game Trees B.Sc. Honours, Computing Science, 1991, University of Alberta Research Interests High-Performance Computing, Cloud Computing, Machine Learning in Software Systems I am interested in all aspects of high-performance computing, but especially parallel and distributed systems, and cloud computing. My research program centers on systems software (OS, VMs, parallel programming) and, most recently, high-performance data transfers and IaaS cloud computing. In the past few years, I have used machine learning (ML) to classify the network protocols in use, to support performance optimizations.",
+  "content_length": 1032,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:09:53"
+}

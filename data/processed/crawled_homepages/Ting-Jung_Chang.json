@@ -1,0 +1,9 @@
+{
+  "name": "Ting-Jung Chang",
+  "homepage": "https://tingjung.github.io",
+  "status": "success",
+  "content": "Ting-Jung Chang Hi there, welcome! I am an assistant professor in the Department of Computer Science at National Yang-Ming Chiao-Tung University. My research focuses on computer architectures, computing systems, and emerging technologies. I'm looking for students! Send me an email if you think we share common interests. Education 2015 - 2022 Princeton University Ph.D. in Electrical and Computer Engineering M.A. in Electrical Engineering 2011 - 2015 National Chiao Tung University B.S. in Electrical Engineering and Computer Science Projects DECADES DECADES DECADES_file The DECADES project aims to build runtime-reconfigurable hardware and software that enables near ASIC performance without sacrificing programmability for data-intensive algorithms. [CICC'23] CIFER CIFER_file The CIFER project aims to build scalable coherent memory system and embedded FPGA fabric IP block to further enrich the open source hardware IP ecosystem. [SSCL'23] [CICC'23] [FPL'20] ORDER ORDER_file The ORDER project aims to design scalable, modular, heterogeneous, and extensible benchmarks with our chip design expertise. These benchmarks will assist in the creation of more resilient EDA tools. [TCAD] OpenPiton OPENPITON OPENPITON_GIT OpenPiton is the world's first open-source, general-purpose, multithreaded manycore processor and framework that fuels efficient, detailed research into manycores and SoC. [IEEE Micro] [WOSET'18] Biodegradable Computers ORGANIC_2 ORGANIC_GIT The shortening lifespan of increasingly powerful and cheaper consumer electronics is causing severe environmental concerns. In this project, we investigate how to build biodegradable processors that can be metabolized with organic semiconductor technology. [MICRO'17] [DATE'20] [Synthetic Metals]",
+  "content_length": 1761,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:39:14"
+}

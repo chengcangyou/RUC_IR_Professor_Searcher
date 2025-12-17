@@ -1,0 +1,9 @@
+{
+  "name": "Michael Lewis",
+  "homepage": "http://www.pitt.edu/~cmlewis",
+  "status": "success",
+  "content": "Dr. Michel Lewis | School of Information Sciences | University of Pittsburgh Dr. Michael Lewis Curriculum Vitae Research Publications Michael Lewis is a professor of Informatics and Distributed Systems and Intelligent Systems Program at the University of Pittsburgh. His research focuses on human interaction with intelligent automation. Since conducting research in modeling human operators for his dissertation at Georgia Tech he has studied visualization- based control interfaces, human-agent teamwork, and most recently human-robot interaction. He is the author of more than 275 scientific papers in the area of Human Factors and Autonomous Systems. Former students and postdocs are on faculties in China, Thailand, UK, and at Princeton and other US universities. His group at the University of Pittsburgh has developed a number of widely used research tools including USARSim, a robotic simulation adopted for RoboCup competition and downloaded from SourceForge more than 75,000 times, CaveUT, widely used software for inexpensive immersive displays, and UTSAF, middleware linking military simulators to game engines. He teaches courses in the areas of Human Information Processing, Human Factors and Interactive Systems in DINS.",
+  "content_length": 1235,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:58:37"
+}

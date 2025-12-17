@@ -1,0 +1,9 @@
+{
+  "name": "Gal Mishne",
+  "homepage": "https://datascience.ucsd.edu/people/gal-mishne",
+  "status": "success",
+  "content": "Gal Mishne – Halıcıoğlu Data Science Institute – UC San Diego Contact UsGive us a call or drop by anytime, we endeavor to answer all inquiries within 24 hours.Find usPO Box 16122 Collins Street West Victoria, AustraliaEmail usinfo@domain.com / example@domain.comPhone supportPhone: + (066) 0760 0260 / + (057) 0760 0560 PeopleHome / People Gal MishneAssociate ProfessorEmail: gmishne@ucsd.edu Mishne’s research is at the intersection of signal processing and machine learning for graph-based modeling, processing and analysis of large-scale high-dimensional real-world data. She develops unsupervised and generalizable methods that allow the data to reveal its own story in an unbiased manner. Her research includes anomaly detection and clustering in remote sensing imagery, manifold learning on multiway data tensors with biomedical applications, and computationally efficient application of spectral methods. Most recently her research has focused on unsupervised data analysis in neuroscience, from processing of raw neuroimaging data through discovery of neural manifolds to visualization of learning in neural networks.Post-doctoral Fellow: Zhengchao Wan",
+  "content_length": 1160,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:12:47"
+}

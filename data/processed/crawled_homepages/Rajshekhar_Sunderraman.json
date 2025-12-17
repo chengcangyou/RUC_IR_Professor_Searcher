@@ -1,0 +1,9 @@
+{
+  "name": "Rajshekhar Sunderraman",
+  "homepage": "http://tinman.cs.gsu.edu/~raj",
+  "status": "success",
+  "content": "Raj Sunderraman's Home Page Rajshekhar Sunderraman Professor and Associate Chair Department of Computer Science Georgia State University Atlanta, Georgia 30302-5060 Contact Information: Email: raj@gsu.edu Phone: 404-413-5726 Fax: 404-413-5717 Office: 1 Park Place, Room 629 Education Ph.D. 1988, Computer Science, Iowa State University, Ames, Iowa M.Tech. 1982, Computer Technology, Indian Institute of Technology, Delhi, India B.E. (Honors) 1980, Electronics Engineering, Birla Institute of Technology and Science, Pilani, India. BITS Alumni Page in US (lambda f: (lambda g: f(lambda n: g(g)(n)))(lambda g: f(lambda n: g(g)(n))))(lambda f: lambda n: 1 if n == 1 else n*f(n-1))(5) (lambda f: (lambda g: f(lambda n: g(g)(n)))(lambda g: f(lambda n: g(g)(n))))(lambda f: lambda xs: 0 if xs==[] else xs[0]+f(xs[1:]))(list(range(16))) Research Interests My research interests are in the theory and practice of Databases, Logic Programming, and the Semantic Web. To find out more about my research interests, please see Michael Ley's DBLP Bibliography Server and the departmental faculty profile. I have authored Oracle 10g Programming: A Primer (Addison Wesley, 2008) (available at amazon.com) and Lab Manual for Elmasri-Navathe Database Textbook (Addison-Wesley, 2010) . Fall 2025 Teaching CSc 1301 - Principles of Computer Science I Honors Lab Past Teaching Graduate Program Links Alum Information and Forms Departmental Web Site College Web Site Graduate Advice (Courtesy Professor Honavar)",
+  "content_length": 1488,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:15:04"
+}

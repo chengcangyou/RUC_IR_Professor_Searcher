@@ -1,0 +1,9 @@
+{
+  "name": "Ken-ichi Kawarabayashi",
+  "homepage": "https://kklab.nii.ac.jp/en",
+  "status": "success",
+  "content": "Kawarabayashi Lab.：No algorithm, no life KAWARABAYASHI LABORATORY ABOUT The main focus of this laboratory is on \"algorithms\" and \"discrete mathematics\". We do not conduct research with applications in mind from the beginning. Rather, we seek for thorough basic research with an emphasis on theoretical research. In algorithm research, we conduct theoretical analysis for improving time complexity and for algorithmic correctness, as well as developing techniques for implementations (to speed up and scale). In discrete mathematics research, we explore deep mathematical theories and develop techniques that can be applied to other fields, including algorithms. For more information, please check \"Research\" and \"For Prospective Students\". NEWS AWARD 2025.01.16 Prof. KAWARABAYASHI won the Humboldt Research Award NEWS 2022.05.20 We have released Website. READ MORE CONTACT k_keniti[at]nii.ac.jp※please replace the [at] with a proper @",
+  "content_length": 935,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:41:38"
+}

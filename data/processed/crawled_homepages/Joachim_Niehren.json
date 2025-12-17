@@ -1,0 +1,9 @@
+{
+  "name": "Joachim Niehren",
+  "homepage": "http://researchers.lille.inria.fr/niehren",
+  "status": "success",
+  "content": "Joachim Niehren Inria Center at the University of Lille, France BioComputing team of Cristal laboratory Contact Algorithms for prediction changes of reaction networks in systems biology. Based on abstract interpretation and constraint programming. Algorithms for querying data streams. Based on logic and automata. All Systems Biology Stream Processing Databases Query Induction XML Tree Automata Tree Transducers Programming Languages Constraints Computational Linguistics Curriculum Vitae CMSB 2025 CMSB 2023 (co-chair) ... Algorithms Fundamenta Informaticae Rebon (2023-2028, ANR) coordinator Migad (2021-2025, ANR) BestBioSurf (2018-2022, ERA CoBioTech, H2020) BioComputing's Network-Graph Tool Draw your reaction networks. Core SBML The XML schema of Core SBML, compilers from and to SBML and to BioCham. Autumn 2022 Foundations of Databases. Part of the Master2 Machine Learning at the University of Lille.",
+  "content_length": 912,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:31:32"
+}

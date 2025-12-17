@@ -1,0 +1,9 @@
+{
+  "name": "Jacobus E. van der Merwe",
+  "homepage": "https://www.cs.utah.edu/~kobus",
+  "status": "success",
+  "content": "index.html Jacobus (Kobus) Van der Merwe Professor I am the Jay Lepreau Professor in the School of Computing at the University of Utah and a director in the Flux Research Group. I came to Utah in August 2012 after more than fourteen years at AT&T Labs - Research in New Jersey. I received the AT&T Science and Technology Medal in 2010 for my work on Intelligent Route Control. In 2015 I received the USENIX Test of Time award for developing a logically centralized BGP routing controller, which was an important step towards the centralized routing controllers of Software-Defined Networks. I have broad interest in networking systems research including network management, control and operation, mobile networking, network evolution, network security and cloud computing. Current and past projects for which I am the PI: POWDER Platform for Open Wireless Data-driven Experimental Research NetSecOps Network Security Operations SafeEdge Public Safety with an Open Municipal Network CapNet Capability Enabled Networking PhantomNet Wireless and Mobile Networking Testbed KnowOps Network Management, Software Defined TCloud Trustworthy Cloud Computing OpenEdge Open Service Edge Networking SeaCat SDN End-to-end Application Containment Teaching Publications Contact Information",
+  "content_length": 1274,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:25:15"
+}

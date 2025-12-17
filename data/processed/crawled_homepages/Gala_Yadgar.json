@@ -1,0 +1,9 @@
+{
+  "name": "Gala Yadgar",
+  "homepage": "https://gala.cswp.cs.technion.ac.il",
+  "status": "success",
+  "content": "Home - Gala Yadgar I am an associate professor at the Computer Science Department, at the Technion. I work on methods to improve performance and reliability of storage in large scale data centers, focusing on complex hierarchies and enhanced storage interfaces. Topics of interest include caching, content distribution, optimizations for flash based storage, erasure coding, deduplication, workload characterization, and improved analysis tools. I am looking for  students who are interested in storage devices and systems, operating systems, and related applications of theoretical results. Interested? Check out my list of publications, courses, and undergraduate projects for recent research topics, and contact me to hear more. What is storage systems research? This is how the application views the storage system: A stream of bits that reach some storage media and live there happily ever after. This is closer to what a complex storage system really is: A combination of device types and remote volumes that keeps our bits safe despite various disasters and attacks, and accessible from all types of devices and operating systems, possibly at the same time. Storage research addresses all the components in such systems, and often focuses on the way they interact. Because of the system’s complexity, optimizing one component can have unexpected effects on the entire system’s performance. This means that straightforward solutions may not always work. This is what makes my research challenging and fun! Figures by freepic Skip to content",
+  "content_length": 1546,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:12:45"
+}

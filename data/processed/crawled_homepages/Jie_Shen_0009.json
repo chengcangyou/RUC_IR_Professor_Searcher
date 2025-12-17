@@ -1,0 +1,9 @@
+{
+  "name": "Jie Shen 0009",
+  "homepage": "https://www-personal.umd.umich.edu/~shen",
+  "status": "success",
+  "content": "Dr. Jie Shen's Home <BODY> <CENTER> <H1><FONT color=\"#f00000\">Welcome to</FONT></H1> <H2>Jie Shen's Homepage</H2><BR> <IMG SRC=\"line/l-sail.gif\"><BR> </CENTER><BR> <CENTER><IMG SRC=\"line/la-slid.gif\"></CENTER> <CENTER><TABLE border=\"0\" cellpadding=\"0\" cellspacing=\"5\" width=\"80%\"> <TR> <TD ALIGN=center> <A href=\"html/educate.htm\"> Education </A> </TD> <TD ALIGN=center> <A href=\"html/resume.htm\"> RESUME </A> </TD> </TR> <TR> <TD ALIGN=center> <A href=\"html/image.htm\"> Image Generated </A> </TD> <TD ALIGN=center> <A href=\"html/friends.htm\"> Friends </A> </TD> </TR> <TR> <TD ALIGN=center> <A href=\"html/china.htm\"> Motherland </A> </TD> <TD ALIGN=center> <A href=\"html/links.htm\"> Cool Links </A> </TD> </TR> <TR> <TD ALIGN=center> <A href=\"http://venus.GuestWorld.com/wgb/wgbsign.dbm?owner=jis130\"> Guest Book </A> </TD> </TR> <TR> <TD ALIGN=center> <A href=\"html/address.htm\"> Address </A> </TD> </TR> </TABLE></CENTER> <CENTER><IMG SRC=\"line/la-slid.gif\"></CENTER><BR> <CENTER> You are the visitor no <IMG SRC=\"http://www.usc.edu/cgi-bin/counter?http://members.tripod.com/~jis130&amp;width=5\" align=top> since Sunday, April 25 1998 17:04:10 CST</BR> Last modified on Friday, January 2002 13:54:10 CST<BR> </CENTER><BR> <CENTER><H4> This page uses frames<BR> Best experienced with <a href=\"http://www.microsoft.com/ie/download/\" TARGET=_top> IE 4.0</a> or <a href=\"http://www.netscape.com/download/\" TARGET=_top> Netscape 4.0</a> </H4></CENTER> </BODY>",
+  "content_length": 1457,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:30:27"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Sunita Chandrasekaran",
+  "homepage": "https://www.eecis.udel.edu/~schandra",
+  "status": "success",
+  "content": "CRPL -- Computational Research Programming Lab | About Dr. Sunita ChandrasekaranWelcome to my research group! I am an Associate Professor in the Department of Computer and Information Sciences at the University of Delaware.I direct the First State AI Institute at UD. I also serve as the Vice-Chair for the State of Delaware AI Commission (https://ai.delaware.gov/).For my recent NSF project on Democratizing Access to Research Software Engineering, please visit: https://sites.udel.edu/darse/.For a list of publications and a full copy of my CV, please click the PDF icon below.",
+  "content_length": 579,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:34:08"
+}

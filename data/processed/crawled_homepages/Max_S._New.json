@@ -1,0 +1,9 @@
+{
+  "name": "Max S. New",
+  "homepage": "http://maxsnew.com",
+  "status": "success",
+  "content": "Max S. New Max S. New Teaching CV Publications Blog Misc Mastodon Address Room 4628 Bob and Betty Beyster Building 2260 Hayward Street Ann Arbor, MI 48109 maxsnew at umich.edu About Me I am a computer scientist working on the mathematical foundations of programming languages. I am an assistant professor in Computer Science & Engineering at the University of Michigan, part of our MPLSE research community. My research utilizes mathematical techniques to help in design, analysis and implementation of programming languages. I am recently interested in interoperability between languages, especially in the guises of Gradual Typing and compiler intermediate languages supporting multiple source languages. Prior to my current position, I completed a postdoc at Wesleyan University with Dan Licata. I completed my PhD at Northeastern University in Fall 2020 advised by Amal Ahmed. Students PhD students Eric Giovannini (2021-) Steven Schaefer (2023-) Eric Bond (2023-) Yuchen Jiang (2023-) Jesse Slater (2024-) (co-advised with Xinyu Wang)",
+  "content_length": 1039,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:56:45"
+}

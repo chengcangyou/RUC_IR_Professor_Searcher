@@ -1,0 +1,9 @@
+{
+  "name": "Oscar Marius Nierstrasz",
+  "homepage": "http://scg.unibe.ch/staff/oscar",
+  "status": "success",
+  "content": "Oscar Nierstrasz - Oscar Nierstrasz Oscar NierstraszProfessor emeritus @ U Bern. Soul polisher @ feenk.com Follow Email LinkedIn Mastodon Bluesky YouTube ORCID Google Scholar GithubOscar Nierstrasz is Professor emeritus of Computer Science at the University of Bern, where he founded the Software Composition Group in 1994. He retired from the University at the end of 2021, and is currently working at feenk.com to support onboarding and teaching of moldable development. He is co-author of over 400 publications, including the open-source books Object-Oriented Reengineering Patterns and Pharo by Example.NewsMy YOW! 2024 tech talk on applying Moldable Development in Practice — Patterns for Legacy Modernization is now available on YouTube.Moldable Development Patterns are a collection of mutually supporting patterns that explain how moldable development works in practice. The arXiv preprint is now available.Moldable Exceptions are a lightweight mechanism to adapt a debugger‘s interface based on contextual information provided by a raised exception. In addition to the ACM publication, there is an arXiv preprint available.Read a blog post about Example-Driven Development, a variant of TDD in which you drive development by constructing test methods that return example objects. There is now also a followup paper on Example-driven development: bridging tests and documentation.Upcoming eventsPC Member of Onward! Essays (co-located with SPLASH 2025 — Singapore, Oct. 12-18, 2025)See also: Past events",
+  "content_length": 1511,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:08:11"
+}

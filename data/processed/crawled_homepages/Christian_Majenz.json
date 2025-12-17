@@ -1,0 +1,9 @@
+{
+  "name": "Christian Majenz",
+  "homepage": "https://www.christianmajenz.info/about-me.html",
+  "status": "success",
+  "content": "About me - Christian Majenz I currently hold a personal Sapere Aude grant from the Independent Research Fund Denmark, a Villum Synergy grant together with Jonatan Bohr Brask, a grant from FMI's cofunding program together with Dencrypt A/S, and I am part of the MSCA doctoral training network \"Quantum-Safe Internet\". I have served as the program committee chair for QCrypt 2025, and on the program committees of a number of conferences, including Eurocrypt 2025, ArctiCrypt 2025, PQCrypto 2021-2023, PKC 2022, TQC 2022,  SAC 2021, ITC 2021, Eurocrypt 2021, QIP 2020 and QCrypt 2020. I am an associate editor of the Journal of Cryptology and a member of the ECCG subgroup on cryptography. About me I am an associate professor of cryptography in the Cybersecurity Engineering Section at DTU Compute, the Department of Applied Mathematics and Computer Science at the Technical University of Denmark. My research areas are post-quantum cryptography, as well as quantum cryptography and quantum information theory. I find the interplay of the algebraic structure of quantum mechanics and the computational framework of modern cryptography, as well as representation-theoretic and combinatorial techniques, particularly interesting. Currently, my main focus is on provable post-quantum security for practical cryptographic algorithms and protocols. I hold a PhD degree in mathematics, which I obtained from the Department of Mathematical Sciences at University of Copenhagen under the supervision of Matthias Christandl. Before that, I studied physics at University of Freiburg where my M.Sc. thesis was supervised by David Gross. I occasionally write posts on LinkedIn.",
+  "content_length": 1664,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:52:12"
+}

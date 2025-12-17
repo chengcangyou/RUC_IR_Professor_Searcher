@@ -1,0 +1,9 @@
+{
+  "name": "Niki Vazou",
+  "homepage": "https://nikivazou.github.io",
+  "status": "success",
+  "content": "Niki Vazou - index Research Associate Professor IMDEA Software Institute Madrid, Spain Email : niki.vazou at imdea.org Office : 384 Curriculum Vitae News 2024 - Elected at EC SIGPLAN - Paper Accepted at FCS'24 - Speaker at FP Madrid Meetup - Speaker at Lambda World'24 - Speaker at MuniHac'24 - Keynote at ICFP'24 - Paper Accepted at FCS'24 - Teaching Liquid Haskell at UCM - Speaker at PLMW POPL'24 - Session Preview Presenter at POPL'24 - Paper Accepted at POPL'24 - Co-chair of Haskell Symposium'24 - Committee Member in PLDI'24, TyDe'24, TFP'25,ESOP'25 - Sponshorship Co-chair in PLDI'24 - Invited at IFIP WG2.8 - Invited at IFIP WG2.6 About Me As of Nov. 2022 I am an Associate Professor at IMDEA. I started my computer science education in NTUA, Athens, Greece. I got my Ph.D. from UCSD, San Diego where I developed Liquid Haskell, as described in my Ph.D. thesis. After that, I spend some time as a postdoctoral fellow at University of Maryland. My research interests include refinement types, automated program verification, and type systems and my goal is to make theorem proving a useful part of mainstream programming. Liquid Haskell is an SMT-based, refinement type checker for Haskell programs that has been used for various applications ranging from fully automatic light verification of Haskell code, e.g., bound checking, to sophisticated theorem proving, e.g., non-interference. Tweets by nikivazou",
+  "content_length": 1415,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:05:56"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Paula Estrella",
+  "homepage": "https://www.famaf.unc.edu.ar/~pestrella",
+  "status": "success",
+  "content": "Paula Estrella Home Publications Projects Haya de la Torre s/n Ciudad Universitaria 5000 - Córdoba Paula.Estrella_at_unc.edu.ar Since end of 2017 I'm part of the Lingusitic Engineering Office at the School of Languages, UNC. I joined FaMAF after finishing my PhD thesis at the School of Translation and Interpretation of the University of Geneva. I was part of the ISSCO/TIM reasearch group and during my thesis I was working on context-based evaluation of machine translation systems, in particular on the Framework for the Evaluation of Machine Translation (FEMTI). Before that, I did my studies here at FaMAF and my masters thesis consisted of the implementation of an statistical machine translation system for websites using freely available tools.",
+  "content_length": 753,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:10:06"
+}

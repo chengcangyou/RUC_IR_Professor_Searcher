@@ -1,0 +1,9 @@
+{
+  "name": "Lindsay Groves",
+  "homepage": "http://ecs.victoria.ac.nz/Main/LindsayGroves",
+  "status": "success",
+  "content": "Lindsay Groves | Te Kura Mātai Pūkaha, Pūrorohiko / School of Engineering and Computer Science | Te Herenga Waka—Victoria University of Wellington Lindsay Groves address Research Interests My main research interests are in formal methods (essentially, the use of mathematical/logical notation and reasoning) for software specification and design. The main focus of this work is the development of techniques for deriving programs from formal specifications based on the refinement calculus, and the design of tools to support program refinement, but also includes application of formal methods in industrial applications, refinement of logic programs, verification of concurrent systems, and semantics of data models. I have an ongoing joint research project with Mark Moir and others at Oracle's Sun Lab, Boston, on proof methodologies for concurrent algorithms. I also have more general interests in software engineering, including program visualisation, program understanding, program maintenance/evolution and safety-critical systems. Publications For a list of my recent publications, please see the Publications Database. Print version | Backlinks |",
+  "content_length": 1155,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:47:25"
+}

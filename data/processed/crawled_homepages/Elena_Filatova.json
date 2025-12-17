@@ -1,0 +1,9 @@
+{
+  "name": "Elena Filatova",
+  "homepage": "https://www.citytech.cuny.edu/faculty/EFilatova",
+  "status": "success",
+  "content": "Faculty Profile | City Tech Skip navigation Faculty Profile {{First_name}} {{Middle_initial}}. {{Middle_initial}} {{Last_name}} Faculty Profile {{First_name}} {{Middle_initial}}. {{Middle_initial}} {{Last_name}}{{Title}} {{Room_number}} {{Phone}} {{Email}} @citytech.cuny.edu",
+  "content_length": 275,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:05:36"
+}

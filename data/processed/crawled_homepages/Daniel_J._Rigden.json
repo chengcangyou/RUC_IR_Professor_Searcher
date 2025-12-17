@@ -1,0 +1,9 @@
+{
+  "name": "Daniel J. Rigden",
+  "homepage": "https://liverpool.ac.uk/integrative-biology/staff/daniel-rigden",
+  "status": "success",
+  "content": "Professor Dan Rigden | Our people | University of Liverpool Skip to main content Close Search Find courses, people, research, information and more. Please ignore What types of page to search? All Courses Academic staff News Events Search Popular pages: Undergraduate Postgraduate PhD Accommodation Research International students Alternatively use our A-Z index. About I am Professor of Protein Bioinformatics in the Institute of Systems, Molecular and Integrative Biology. My interests span the broad relationships between protein sequences, structures and functions and how these evolve with time. As such, I apply a wide range of bioinformatics tools - but especially modelling software like AlphaFold 2 - to diverse proteins of interest. This leads to interesting collaborations across the Institute and more broadly. I apply structural bioinformatics developments to produce software for experimental structural biology. A prime interest is solution of crystal structures by Molecular Replacement. This has encompassed use of unconventional protein models - program AMPLE (ample.readthedocs.io) - and crystallisation contaminant detection with SIMBAD (simbad.readthedocs.io), both available as part of the CCP4 suite (www.ccp4.ac.uk). I am also interested in methods development for cryo-EM map interpretation and fitting, and for protein structure validation. Positions are available for PhD study in protein structure-function-evolution and crystallographic or cryo-EM methods. If you are in receipt of sponsorship, please contact me to discuss opportunities and projects.",
+  "content_length": 1579,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:57:23"
+}

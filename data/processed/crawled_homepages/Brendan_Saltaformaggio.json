@@ -1,0 +1,9 @@
+{
+  "name": "Brendan Saltaformaggio",
+  "homepage": "https://saltaformaggio.ece.gatech.edu",
+  "status": "success",
+  "content": "Brendan Saltaformaggio Brendan D. Saltaformaggio, PhD Associate Professor School of Cybersecurity and Privacy School of Electrical and Computer Engineering School of Computer Science (By Courtesy) Georgia Institute of Technology Email: brendan@ece.gatech.edu Welcome to Brendan Saltaformaggio's home page. I am an Associate Professor in the School of Cybersecurity and Privacy and the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I also hold a courtesy appointment in the School of Computer Science. For more information about me please see the links on this page. Research Interests Computer Systems Security and Cyber Forensics with focuses on memory forensics, binary analysis and instrumentation, vetting of untrusted software, and mobile/IoT security. Selected Recent Publications Hitchhiking Vaccine: Enhancing Botnet Remediation With Remote Code Deployment Reuse. R. Zhang, M. Yao, H. Xu, O. Alrawi, J. Park, and B. Saltaformaggio. In Proc. 2025 Annual Network and Distributed System Security Symposium (NDSS), San Diego, CA, 2025. AI Psychiatry: Forensic Investigation of Deep Learning Networks in Memory Images. D. Oygenblik, C. Yagemann, J. Zhang, A. Mastali, J. Park, and B. Saltaformaggio. In Proc. 33rd USENIX Security Symposium (Security), Philadelphia, PA, 2024. Pulling Off The Mask: Forensic Analysis of the Deceptive Creator Wallets Behind Smart Contract Fraud. M. Yao, R. Zhang, H. Xu, R. Chou, V. C. Paturi, A. K. Sikder, and B. Saltaformaggio. In Proc. 45th IEEE Symposium on Security and Privacy (S&P), San Francisco, CA, 2024.",
+  "content_length": 1590,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:06:08"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Pengfei Zhu 0001",
+  "homepage": "http://aiskyeye.com",
+  "status": "success",
+  "content": "VISDRONE 跳转到内容。 Group Homepage 低空智能实验室简介 低空智能实验室主要面向低空智能开展大规模低空数据平台构建、低空智能技术攻关以及典型低空应用，构建了世界上规模最大低空视觉开放数据平台，包含超过2000万目标标注和2000万图像/视频帧。团队负责人朱鹏飞，教授，博士生导师，国家优青和天津市杰青获得者。研究方向为智能无人机，已发表IEEE TPAMI、IJCV、CVPR、ICCV等CCF A类和IEEE 汇刊论文100余篇，获吴文俊人工智能科技进步一等奖等奖励。主持国家自然科学基金重点项目和新一代人工智能重大项目等10余项，与中汽研、长安汽车、航天三院、中水北方和国家电网等企业和研究机构合作，开发了自动驾驶自动标注平台、智能无人机巡检平台等，推进技术落地和成果转化。 欢迎加入低空智能实验室 目前正在组建低空智能团队，欢迎大模型、具身智能、无人机相关研究方向同行者加入，感兴趣的可发简历到邮箱[email protected]。算力资源：目前自建百卡计算集群，同时从AutoDL购买了在线算力作为缓冲算力资源池。数据资源：构建了世界上规模最大的低空视觉数据平台，包含超过2000万图像/视频帧以及2000万目标标注，拥有相对独立的赛道，保障同学们能够轻松卷赢。大模型：依托自有的海量无人机视觉数据和各方算力支持，团队自研了低空视觉基座模型并在不断迭代更新，敬请关注！ Main Research 研究方向 低空智能感知 LEARN MORE 低空具身智能 LEARN MORE 低空群体智能 LEARN MORE Latest News 最新动态 五篇论文被AAAI 2026录用 11月 11, 2025 VisDrone团队在2025“高低慧眼”全国智能感知邀请赛中取得优异成绩 11月 5, 2025 两篇论文被NeurIPS 2025录用 9月 23, 2025 READ MORE VisDrone Group Contact 电话：18892233818 邮箱：[email protected] @article{cao2024visible, title={Visible and Clear: Finding Tiny Objects in Difference Map}, author={Cao, Bing and Yao, Haiyu and Zhu, Pengfei and Hu, Qinghua}, journal={arXiv preprint arXiv:2405.11276}, year={2024} } CLOSE <pre> @ARTICLE{Gao22LUSS, author={Gao, Shanghua and Li, Zhong-Yu and Yang, Ming-Hsuan and Cheng, Ming-Ming and Han, Junwei and Torr, Philip}, title={Large-scale Unsupervised Semantic Segmentation}, journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, year={2023}, volume={45}, number={6}, pages={7457-7476}, doi={10.1109/TPAMI.2022.3218275} } </pre> CLOSE",
+  "content_length": 1472,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:10:58"
+}

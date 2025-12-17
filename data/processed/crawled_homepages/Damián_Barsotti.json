@@ -1,0 +1,9 @@
+{
+  "name": "Damián Barsotti",
+  "homepage": "https://cs.famaf.unc.edu.ar/~damian",
+  "status": "success",
+  "content": "Damián Barsotti - Home page <body bgcolor=\"#FFE0B0\" text=\"black\" link=\"#C00000\" vlink=\"#920000\" alink=\"#FF0000\"> <p>Thank you for visiting my First Framed Page. Since your browser doesn't support frames, you will need to go <a href=\"main.html\">directly to my main page</a>. </p> <p> <a href=\"http://validator.w3.org/check?uri=referer\"> <img src=\"http://www.w3.org/Icons/valid-xhtml10\" alt=\"Valid XHTML 1.0 Frameset\" height=\"31\" width=\"88\" /> </a> </p> </body>",
+  "content_length": 459,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:56:28"
+}

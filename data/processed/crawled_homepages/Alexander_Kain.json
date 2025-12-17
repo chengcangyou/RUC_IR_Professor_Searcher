@@ -1,0 +1,9 @@
+{
+  "name": "Alexander Kain",
+  "homepage": "http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/csee/csee-people/kain.cfm",
+  "status": "success",
+  "content": "Alexander Kain Ph.D. | OHSU People | OHSU Biography I study the analysis, processing, and synthesis of biological signals, with a focus on human speech. The results of my speech research lead to improved scientific understanding about speech production and perception with regards to intelligibility, and to technical innovations that may improve the quality of life for individuals with speech or hearing disorders in the future. My current projects include creating a computer-based pronunciation analysis system for children with speech sound disorders, enhancing a Text-to-Speech system to allow it to mimic its operator's voice, and developing an unobtrusive screening method for sleep apnea based on sleep sounds. As an instructor for the Computer Science & Engineering and Electrical Engineering Graduate Programs, I teach these courses: CS 627 Data Science Programming EE 658 Signal Processing EE 634 Speech Synthesis Education and training Degrees Ph.D., 2001, Oregon Graduate Institute Publications Publications",
+  "content_length": 1021,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:53:27"
+}

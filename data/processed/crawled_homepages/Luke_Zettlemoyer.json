@@ -1,0 +1,9 @@
+{
+  "name": "Luke Zettlemoyer",
+  "homepage": "https://www.cs.washington.edu/people/faculty/lsz",
+  "status": "success",
+  "content": "Luke Zettlemoyer, Professor - Paul G. Allen School of Computer Science & Engineering Skip to content Enter search text Current site All the UW Search scope Current site All the UW Luke Zettlemoyer Professor Focus Area: Artificial Intelligence Expertise: Natural Language Processing Email: lsz@cs.washington.edu Office: CSE 534 Faculty Webpage UW NLP Group Biography: Luke Zettlemoyer is a Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, and a Research Director at Meta. He has been teaching advanced AI and ML courses at the University of Washington for over ten years, targeting undergraduate, Ph.D., and professional masters students. Luke’s research focuses on empirical methods for natural language semantics, and involves designing machine learning algorithms, introducing new tasks and datasets, and, most recently, studying how to best train and deploy large language models such as ChatGPT. His honors include being named a Fellow of the Association for Computational Linguistics (ACL), as well as winning a PECASE award from President Obama, an Allen Distinguished Investigator award from Paul Allen, and multiple paper awards at the top NLP and ML conferences. Luke received his Ph.D. from MIT and was a postdoc at the University of Edinburgh.",
+  "content_length": 1310,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:48:54"
+}

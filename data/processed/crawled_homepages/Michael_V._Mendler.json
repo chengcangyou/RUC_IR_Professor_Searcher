@@ -1,0 +1,9 @@
+{
+  "name": "Michael V. Mendler",
+  "homepage": "https://www.uni-bamberg.de/gdi/team/michael-mendler",
+  "status": "success",
+  "content": "Michael Mendler - Grundlagen der Informatik Welcome to Michael's home page.I am head of the Informatics Theory Group. Here is a brief summary of my teaching and research interests: Main areas of InterestMathematical methods for the specification, design, and validation of complex software and hardware systems, specifically in distributed and parallel applications.Key issues Synchronisation mechanisms, transition between synchrony and asynchrony.Abstraction and refinement for data-flow and control-flow programming.Semantics of synchronous programming and model-based design languages (Esterel, Lustre, Statecharts).Determinism and causality in concurrent systemsInterface specifications for compositional modelling, capturing also intensional, non-functional, properties specifically regarding causality and timing.Mathematical tools Intuitionistic and constructive modal logicsLogical game theoryKripke semantics, Heyting algebra and type theoryProcess algebras and calculi for synchrony and asynchronyFunctional Programming LanguagesApplicationsCompilation and type-based static analysis of hardware-software embedded systemsInteractive (e.g. web-based) services and distributed transaction systemsStream-based data processing Component-based programmingAutomatic and interactive validation techniquesModel checkingTiming analysisType checkingTheorem proving",
+  "content_length": 1365,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:59:00"
+}

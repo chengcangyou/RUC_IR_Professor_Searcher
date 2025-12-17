@@ -1,0 +1,9 @@
+{
+  "name": "Ying Zhang 0004",
+  "homepage": "https://zhanglab.github.io",
+  "status": "success",
+  "content": "Home - Zhang Lab Welcome to Dr. Ying Zhang’s Laboratory of Computational Molecular Ecology I am a computational biologist with broad interests in metabolic modeling, (Meta)omics, and other data intensive applications in environmental microbiology. My research group develop open source software and models for the simulation of biological systems, with a central objective of achieving mechanistic understandings at molecular, organismal, and ecosystems scales. Our recent applications include genome-scale modeling of non-model bacteria and archaea, (meta)transcriptomics and genomics of marine protists, metagenomics of free-living and host-associated microbiomes, and taxonomic classification of sequencing reads using deep learning neural networks. Our recent publications DL-TODA: A Deep Learning Tool for Omics Data Analysis. Two canonically aerobic foraminifera express distinct peroxisomal and mitochondrial metabolisms Reconstruction and Analysis of Thermodynamically Constrained Models Reveal Metabolic Responses of a Deep-Sea Bacterium to Temperature Perturbations Microbiome Analysis Reveals Diversity and Function of Mollicutes Associated with the Eastern Oyster, Crassostrea virginica Genome-Scale Metabolic Model of Caldicellulosiruptor bescii Reveals Optimal Metabolic Engineering Strategies for Bio-based Chemical Production",
+  "content_length": 1341,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:51:33"
+}

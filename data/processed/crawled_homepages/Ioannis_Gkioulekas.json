@@ -1,0 +1,9 @@
+{
+  "name": "Ioannis Gkioulekas",
+  "homepage": "http://ri.cmu.edu/ri-faculty/ioannis-gkioulekas",
+  "status": "success",
+  "content": "Warning: You are viewing this site with an outdated/unsupported browser. Please update your browser or consider using a different one in order to view this site without issue. For a list of browsers that this site supports, see our Supported Browsers page. Ioannis Gkioulekas - The Robotics Institute - CMU Skip to content Ioannis Gkioulekas Associate Professor Home Department: RI Office: 225 Elliot Dunlap Smith Hall Personal Homepage Administrative Assistant: Brian Hutchison Lab: Computational Imaging at CMU Statement Research Publications Students/Affiliates I work broadly in computer vision and computer graphics, but I focus on computational imaging: this is the joint design of optics, electronics, and computation to create imaging systems with unprecedented capabilities. Some examples include: imaging systems that can see around corners or through skin; passive 3D sensing systems with extreme resolution; ultrafast programmable lenses; imaging systems that adapt to their environments. Technical keywords that often show up in my research include: non-line-of-sight imaging, single-photon imaging, LiDAR, SONAR, interferometry, speckle, acousto-optics, physics-based rendering, differentiable rendering, Monte Carlo simulation, probabilistic modeling. Research Topics Imaging Computer Vision 3-D Vision and Recognition Graphics & Creative Tools Sensing & Perception Robotics Foundations Rendering Displaying 31 Publications current masters students Bharath Hegde current affiliates John Liu Bailey Miller Sreekar Ranganathan Tanli Su Arjun Teh past phd students Arpit Agarwal Shumian Xin past masters students Shirsendu Halder Neham Jain",
+  "content_length": 1652,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:23:39"
+}

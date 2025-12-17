@@ -1,0 +1,9 @@
+{
+  "name": "Vladimir Naumovich Vapnik",
+  "homepage": "http://datascience.columbia.edu/vladimir-vapnik",
+  "status": "success",
+  "content": "Vladimir Vapnik - The Data Science Institute at Columbia University Faculty Vladimir Vapnik Professor of Computer Science vladimir.vapnik@gmail.com https://en.wikipedia.org/wiki/Vladimir_Vapnik Center Affiliations Foundations of Data Science Affiliated Member Professor Vapnik gained his Masters Degree in Mathematics in 1958 at Uzbek State University, Samarkand, USSR. From 1961 to 1990 he worked at the Institute of Control Sciences, Moscow, where he became Head of the Computer Science Research Department. He then joined AT&T Bell Laboratories, Holmdel, NJ, having been appointed Professor of Computer Science and Statistics at Royal Holloway in 1995. Professor Vapnik has taught and researched in computer science, theoretical and applied statistics for over 30 years. He has published 6 monographs and over a hundred research papers. His major achievements have been the development of a general theory of minimizing the expected risk using empirical data and a new type of learning machine called Support Vector machine that possesses a high level of generalization ability. These techniques have been used to solve many pattern recognition and regression estimation problems and have been applied to the problems of dependency estimation, forecasting, and constructing intelligent machines. His current research is presented in his latest books “Statistical Learning Theory”, Wiley, 1998, and “The Nature of Statistical Learning Theory”, second edition, Springer, 2000. He was one of the invited speakers at the Colloquium “The Importance of being Learnable” hosted by the Computer Learning Research Centre at Royal Holloway in September 1998.",
+  "content_length": 1651,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:44:49"
+}

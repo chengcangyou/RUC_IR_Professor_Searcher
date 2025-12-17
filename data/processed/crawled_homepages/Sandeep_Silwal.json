@@ -1,0 +1,9 @@
+{
+  "name": "Sandeep Silwal",
+  "homepage": "https://sandeepsilwal.com",
+  "status": "success",
+  "content": "Sandeep Silwal Sandeep Silwal About Hello! I am an Assistant Professor at the Department of Computer Sciences at the University of Wisconsin-Madison, where I am a member of the Theory group. Previously, I completed my PhD at MIT under the watchful eyes of Piotr Indyk. Research Interest I broadly work in efficient algorithm design. Recently, I've been working in the intersection of machine learning and classical algorithms by designing provable algorithms in various ML settings, such as fast algorithms for processing large datasets, as well as using ML to inspire and motivate algorithm design. Here are some high-level questions that I have been thinking about: Can we extend current search and retrieval machinery to tackle new emerging challenges? Can we learn \"good algorithms\" with provable guarantees directly from data? How can principes of sublinear algorithm design help alleviate bottlenecks in big data computing? To what extent are sublinear algorithms and differential privacy related? What is the role of algorithm design in the LLM era? Contact Feel free to contact me at {my last name}@cs.wisc.edu. > Media A UW-Madison introduction article . A TEDxBoston talk about being cautious of AI-hype. A Forbes article about my work and the accompanying talk, given at CSAIL + Imagination in Action: AI Frontier & Implications event in celebration of CSAIL's 60th anniversary. A talk I gave at the CMU Theory Lunch about our paper \"Randomized Dimensionality Reduction for Facility Location and Single-Linkage Clustering\". A talk I gave at the Google Algorithms Seminar about our paper \"Faster Linear Algebra for Distance Matrices\". Some Twitter coverage of our work. An article from a scientist I greatly admire.",
+  "content_length": 1725,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:23:30"
+}

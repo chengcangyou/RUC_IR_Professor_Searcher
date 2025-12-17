@@ -1,0 +1,9 @@
+{
+  "name": "Shawn Newsam",
+  "homepage": "https://faculty.ucmerced.edu/snewsam/index.html",
+  "status": "success",
+  "content": "Shawn Newsam Shawn Newsam Professor, Department of Computer Science and Engineering Founding Faculty, School of Engineering University of California at Merced Home Bio CV Publications Funded Projects Teaching Service Invited Talks Affiliations Press Links Contact Welcome to my UC Merced website I conduct research in computer vision and machine learning particularly applied to geospatial data. I am interested in images and videos that have location associated with them. Overhead imagers from satellite or aerial platforms are a traditional example. However, the advent of low-cost, small GPS recievers has broadened this. Unmaned aerial vehicles (more commonly known as drones) now represent another source of overhead images and videos. And, there are millions of photographs and movies taken from smart phones, etc. that have location information. Knowing the location of these images and videos allows us to infer things about our Earth through image understanding. I develop computer vision and machine learning techniques to extract geospatial information from these images and videos. For more information about my research, please visit the Computer Vision Lab at UC Merced. Valid XHTML | Valid CSS | Copyright �2025 Shawn Newsam | Design by SmallPark",
+  "content_length": 1262,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:26:57"
+}

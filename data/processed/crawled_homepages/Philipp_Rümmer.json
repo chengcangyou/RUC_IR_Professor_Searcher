@@ -1,0 +1,9 @@
+{
+  "name": "Philipp Rümmer",
+  "homepage": "http://www.philipp.ruemmer.org",
+  "status": "success",
+  "content": "Homepage of Philipp Ruemmer Main Short CV Contact Service Publications Ongoing Projects Past Projects Teaching Photography Philipp Rümmer Professor of Theoretical Computer Science at the University of Regensburg. I also hold a position as Senior Lecturer at the Department of Information Technology, Uppsala University. My research interests cover (but are not restricted to) the following areas: Theorem proving and decision procedures, SAT/SMT solving Analysis of programs written in languages like Java, C#, C, C++, Simulink Modeling and analysis of timed/parameterised/concurrent systems Deductive verification, model checking, automatic test case generation Machine learning, automata learning, artificial intelligence, and their application in verification (and vice versa) Embedded systems and software Last modified: Wednesday, 21-Feb-2024 08:11:47 CET",
+  "content_length": 860,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:12:14"
+}

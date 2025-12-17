@@ -1,0 +1,9 @@
+{
+  "name": "Yuri Boykov",
+  "homepage": "https://cs.uwaterloo.ca/~yboykov",
+  "status": "success",
+  "content": "Yuri Boykov - Home Page Yuri Boykov Professor Cheriton School of Computer Science The University of Waterloo Research interests: computer vision, biomedical image analysis, segmentation, optimization Activities: Workshop on Optimization in Machine Learning, IST Austria (May 2020) ICERM program on Optimization Methods in Computer Vision and Image Processing (May 2019) Vector Institute Talk: Segmentation without full supervision (March 2019) ICERM program on Theory and Practice in Machine Learning and Computer Visioi (February 2019) Isaac Newton Institute (INI) program on: Variational Methods and Effective Algorithms for Imaging and Vision (2017) MICCAI Tutorial on Medical Image Segmentation: Beyond Level-sets (2014) IPAM Graduate Summer School: Computer Vision, 2013 Helmholtz Prize (Test of Time Award) by TCPAMI, ICCV 2011 EMMCVPR 2011 Database of max-flow problem instances in computer vision (DIMACS format) IPAM 2013 Workshop on Convex Relaxation Methods for Geometric Problems in Scientific Computing IPAM 2008 Workshop on Graph Cuts and Related Discrete or Continuous Optimization Problems Publications Students Courses Talks Code Data Bio",
+  "content_length": 1155,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:54:05"
+}

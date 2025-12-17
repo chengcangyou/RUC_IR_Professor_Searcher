@@ -1,0 +1,9 @@
+{
+  "name": "Eugene Vinitsky",
+  "homepage": "https://www.eugenevinitsky.com",
+  "status": "success",
+  "content": "Eugene Vinitsky Eugene Vinitsky I'm looking for students for my research group at NYU for Fall 2025. If the research below sounds interesting to you, shoot me an email. Good emails are specific and here's a blog post about it: How and Why to Cold Email. I'm an incoming Assistant Professor at NYU Tandon in 2023 based in Civil Engineering with a PhD in control from UC Berkeley with Alexandre Bayen. My research goal is to see complex, human-like behavior emerge from unsupervised interaction between groups of learning agents with an applications focus on robotics and transportation. Concretely this leads to a lot of questions I'm currently interested in: How can we use RL to design models of human agents? How can we ensure that RL designed agents are human-compatible? How can we synthesize environments that push and test the capabilities of our agents? What algorithmic advances and software tools are needed to address these questions? In practice this means working on understanding how to push the state of the art in multi-agent RL algorithms, designing new data-driven simulators, and trying to deploy simulator-designed controllers into real-world systems. For a sample of the type of work that I do / have done, check out the research section below. I've spent time at Apple, Tesla, Deepmind, Facebook AI Research, and am a recipient of an NSF fellowship. Email  / CV  / Google Scholar  / LinkedIn / Lab Website News I started at NYU in September 24! Lab website is here We've started a new conference on reinforcement learning! If you're excited about RL, RLC is a great place to send papers. All source code stolen from this lovely guy source code,",
+  "content_length": 1665,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:08:02"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Sherry Yang 0001",
+  "homepage": "https://sherryy.github.io",
+  "status": "success",
+  "content": "Sherry Yang's Homepage Sherry Yang (杨梦娇) Email: sherryyang at nyu.edu Assistant Professor of Computer Science, NYU Courant Computational Intelligence, Vision, and Robotics Lab (CILVR) Staff Research Scientist, Google DeepMind Google Scholar | Twitter | Bio | Email I am an Assistant Professor at NYU Courant and a Staff Research Scientist at Google DeepMind. I research in machine learning with a focus on reinforcement learning and generative modeling. Recently, I am interested in problems at the intersection of foundation models and decision making, such as learning world models and agents, and their applications in robotics and AI for science. Prior to this, I was a post-doc at Stanford working with Percy Liang. I obtained my Ph.D. from UC Berkeley advised by Pieter Abbeel, and my B.S. and M.Eng. from MIT. News 10/2025: We released WorldGym, a world model for evaluting robot policies (e.g., OpenVLA, Octo). 09/2025: We are organizing a workshop on world models in robotics at CoRL 2025. 08/2025: Our work on VideoAgent: Self-Improving Video Generation was selected as a spotlight at Workshop on Reinforcement Learning Beyond Rewards at RL Conference 2025. 07/2025: I talked about evaluating robot policies in a world model at the ICML Workshop on Building Physically Plausible World Models. 05/2024: Our work UniSim: Learning Interactive Real-World Simulators received the Outstanding Paper Award at ICLR 2024.",
+  "content_length": 1422,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:27:17"
+}

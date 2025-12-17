@@ -1,0 +1,9 @@
+{
+  "name": "Yuchen Cui",
+  "homepage": "https://yuchencui.cc",
+  "status": "success",
+  "content": "Yuchen Cui Yuchen Cui Email: yuchencui [at] cs.ucla.edu Curriculum Vitae GoogleScholar LinkedIn x I am an Assistant Professor of Computer Science at UCLA and director of the UCLA Robot Intelligence Lab. My research interest lies at the intersection of machine learning, robotics, and human-robot interaction. My work focuses on developing algorithms, frameworks, and systems that facilitate efficient robot learning from human interactions. Specifically, I investigate how to 1) develop efficient learning algorithms, 2) harvest untapped data modalities, and 3) design intuitive interfaces for interactive learning. My ultimate goal is to democratize autonomation by making robots accessible to everyday users. Prior to UCLA, I was an HAI postdoc fellow in the ILIAD lab at Stanford University. I received my PhD from the University of Texas at Austin in 2021. I am actively looking for self-motivated graduate and undergraduate students to join my lab! Please read this.",
+  "content_length": 971,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:53:26"
+}

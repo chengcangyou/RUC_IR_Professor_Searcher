@@ -1,0 +1,9 @@
+{
+  "name": "Saba Alimadadi",
+  "homepage": "http://www.ece.ubc.ca/~saba",
+  "status": "success",
+  "content": "Saba Alimadadi Saba Alimadadi Home Publications Activities School of Computing Science Simon Fraser University 8888 University Drive Burnaby, BC Canada Office: 9413 TASC1 Email: saba@sfu.ca About I am an assistant professor in the Department of Computing Science at Simon Fraser University (SFU). Previously, I was an NSERC PDF postdoctoral researcher at Northeastern University, working with Dr. Frank Tip. I received my PhD from the University of British Columbia (UBC). where I was advised by Dr. Ali Mesbah and Dr. Karthik Pattabiraman. My research is in the area of software engineering, with a focus on program analysis, comprehension, and debugging. RESEARCH INTERESTS At the conjunction of software engineering, programming languages, and human-computer interaction, my research aims at improving performance of developers in comprehension and debugging activities. To this end, I create semi-automated techniques for facilitating comprehension and detecting bugs, helping developers understand the dynamic behaviour and sources of errors in programs. The outcome of my work is typically open-source tools with interactive visualizations, which I evaluate through controlled experiments with developers in realistic settings. Results show that my methods signi cantly improve the performance of developers in their everyday tasks.",
+  "content_length": 1338,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:22:13"
+}

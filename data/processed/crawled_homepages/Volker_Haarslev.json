@@ -1,0 +1,9 @@
+{
+  "name": "Volker Haarslev",
+  "homepage": "http://www.cs.concordia.ca/~haarslev",
+  "status": "success",
+  "content": "Home Page of Volker Haarslev Volker Haarslev, Dr. rer.-nat. habil. Distinguished Professor Emeritus Concordia University, Department of Computer Science and Software Engineering 1455 de Maisonneuve Blvd. W., Montreal, Quebec  H3G 1M8, Canada Email: volker -dot- haarslev -at- concordia -dot- ca Web: https://users.encs.concordia.ca/~haarslev/ I am retired and do not accept students for supervision --> List of publications Research Projects Racer: Highly optimized reasoner for ABoxes and TBoxes in Description Logics Supports description logic SRIQ(D) and Web Ontology Language OWL (SRIQ(D) subset of OWL 2) Racer is now an open-source project Avalanche: A Saturation-based Algebraic Reasoner for SHQ Algebraic reasoning about qualified cardinality restrictions Integrates Integer Linear Programming Column generation with Branch-and-Price CARON: A Consequence-based Algebraic Reasoner for SHOQ Algebraic reasoning about nominals and qualified cardinality restrictions Integrates Integer Linear Programming Column generation with Branch-and-Price Cicada: A tableau-based algebraic reasoner for SHOIQ Algebraic reasoning about inverse roles, nominals, and qualified cardinality restrictions Integrates Integer Linear Programming Column generation with Branch-and-Price Graduated Students Pictorial Janus animations (MPEG and Quicktime)",
+  "content_length": 1336,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:45:01"
+}

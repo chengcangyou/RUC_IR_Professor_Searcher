@@ -1,0 +1,9 @@
+{
+  "name": "Keerti Choudhary",
+  "homepage": "https://web.iitd.ac.in/~keerti",
+  "status": "success",
+  "content": "Keerti Choudhary Home Courses Publications Talks Contact Keerti Choudhary I am an assistant professor in the Computer Science and Engineering department at IIT Delhi. Prior to that, I was a post-doctoral fellow at Tel Aviv University, and Weizmann Institute of Science. I did my Ph.D. in Computer Science, and Integrated M.Sc. in Mathematics, from IIT Kanpur. Research: My broad area of interest lies in graph theory and algorithms. Currently, I am interested in Fault-tolerant structures, Extremal graph structures, Dynamic algorithms, Graph-realizability, and Uncertain graphs. Here is a link to my CV.",
+  "content_length": 604,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:41:19"
+}

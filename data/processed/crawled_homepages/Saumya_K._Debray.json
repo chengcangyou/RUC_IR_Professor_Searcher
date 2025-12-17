@@ -1,0 +1,9 @@
+{
+  "name": "Saumya K. Debray",
+  "homepage": "https://www.cs.arizona.edu/~debray",
+  "status": "success",
+  "content": "Saumya Debray's Home Page Home Teaching Research Publications Saumya K. Debray Professor Office: Gould-Simpson 735 Phone: (+1) 520-621-4527 Fax: (+1) 520-621-4246 E-mail: debray@arizona.edu Research Interests: Software security, malware analysis, software protection; program analysis and optimization, with a focus on post-compile-time code optimization. Biography I am a Professor of Computer Science at The University of Arizona, where I have been a faculty member since August 1986. Prior to this, I received a B.Tech. (Hons.) degree in Electronics and Electrical Communications Engineering from the Indian Institute of Technology, Kharagpur, in 1981; and M.S. and Ph.D. degrees in computer science, from the State University of New York at Stony Brook, in 1983 and 1986 respectively. My research interests are primarily in the area of compilers and language implementation, focusing primarily on low-level program analysis, transformation, and optimization. I am currently working on software security and malware analysis in the context of the lynx project. In whatever spare time I can scrounge up, I enjoy hiking and backpacking [pictures; prose], and play very mediocre chess.",
+  "content_length": 1185,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:24:55"
+}

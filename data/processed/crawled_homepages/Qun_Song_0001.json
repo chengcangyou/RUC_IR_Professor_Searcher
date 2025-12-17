@@ -1,0 +1,9 @@
+{
+  "name": "Qun Song 0001",
+  "homepage": "https://song-qun.github.io",
+  "status": "success",
+  "content": "Qun SONG I am an Assistant Professor in the Department of Electrical Engineering at the City University of Hong Kong. I received my Ph.D. from Nanyang Technological University (NTU), Singapore. Before that, I received my B.Eng. from Nankai University, China. I am continuously looking for self-motivated PhDs/Postdocs/RAs to join me at CityUHK in developing novel AI-powered CPS/IoT systems. Check the job description here. My research aims to advance AI-powered cyber-physical systems (CPSs) and Internet of Things (IoT) systems by addressing critical real-world challenges (e.g., robustness, security, privacy, efficiency, multi-modal fusion, etc.) and developing novel sensing technologies powered by AI. Some ongoing topics include: Robust and Secure AI for CPS/IoT: Physical-world adversarial example attacks Vulnerability analysis and attack mitigation of adversarial examples in critical systems (e.g., autonomous driving and smart grids). AI-Powered Novel Sensing Applications: Acoustic-based indoor localization and simultaneous localization and mapping (SLAM) Large foundation models for sensing Privacy-Preserving CPS/IoT: Data obfuscation for privacy-preserving mobile-cloud inference Defenses against gradient inversion attacks in federated learning Efficient and Personalized Edge Sensing Physics-guided data augmentation for efficient model adaptation",
+  "content_length": 1366,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:13:51"
+}

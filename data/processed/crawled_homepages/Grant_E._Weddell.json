@@ -1,0 +1,9 @@
+{
+  "name": "Grant E. Weddell",
+  "homepage": "https://cs.uwaterloo.ca/~gweddell",
+  "status": "success",
+  "content": "Grant Weddell Home page of Grant Weddell Associate Professor in the David R. Cheriton School of Computer Science at the University of Waterloo. DC 3346 (519) 888-4567 x34463 gweddell@uwaterloo.ca David R. Cheriton School of Computer Science University of Waterloo Waterloo, ON N2L 3G1 CANADA Research Interests Database technology for precompiled real-time applications. This includes problems in large scale schema management; information clustering, encoding and indexing; dependency theory and constraint systems for database schema; and view update and query optimization for heterogenous and possibly legacy data sources, particularly main memory databases. Teaching The course pages for CS338 and CS348, introductory database courses, may be found here and here. The course page for CS446, a software engineering course focusing on the architecture and detailed design of large software systems, may be found here. The course page for CS848, an advanced database course information integration, may also be found here.",
+  "content_length": 1024,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:15:35"
+}

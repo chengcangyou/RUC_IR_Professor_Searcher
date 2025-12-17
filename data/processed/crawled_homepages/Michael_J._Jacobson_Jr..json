@@ -1,0 +1,9 @@
+{
+  "name": "Michael J. Jacobson Jr.",
+  "homepage": "http://cpsc.ucalgary.ca/~jacobs",
+  "status": "success",
+  "content": "Homepage of Michael Jacobson Michael J. Jacobson, Jr. Professor Department of Computer Science University of Calgary 2500 University Drive NW Calgary, Alberta, Canada T2N 1N4 Phone: (403) 210 9410 Fax: (403) 284 4707 jacobs \"at\" ucalgary.ca PGP public key Fingerprint: FF13 FAD6 D1AF A15F C21F 5078 F865 5ABA 4968 73D8 Topics of Current Research My main areas of research are cryptography (data security) and computational number theory. In particular, I am involved in investigating the suitability of certain number-theoretic structures and problems as bases for public-key cryptosystems, enabling applications such as secure key-exchange and digital signatures. The efficiency of such cryptosystems is tested by implementing the best-known algorithms and devising improvements. The security is tested by developing sequential and distributed algorithms for solving the underlying number-theoretic problem. Some current interests are: algorithms in algebraic number fields, especially quadratic fields (efficient arithmetic in the class group, discrete logarithm computation, class group computation, regulator computation), analogous algorithms in function fields (aka hyperelliptic curves) Publication list Course Offerings This page last modified: http://www.cpsc.ucalgary.ca/~jacobs/index.html",
+  "content_length": 1299,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:58:22"
+}

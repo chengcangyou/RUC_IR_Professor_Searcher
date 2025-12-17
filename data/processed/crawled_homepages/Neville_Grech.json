@@ -1,0 +1,9 @@
+{
+  "name": "Neville Grech",
+  "homepage": "https://www.nevillegrech.com",
+  "status": "success",
+  "content": "Neville Grech My expertise is focused on program analysis, mostly applied to security applications. My work in this area has been recently highlighted by ACM SIGPLAN and Communications of the ACM. I am also interested in the areas of energy efficient software development, smart contracts, semantics and generative programming. Some popular tools I have codeveloped include decompilers and security analyzers for the Ethereum platform (MadMax and Gigahorse) and Java pointer and taint analysis frameworks (Doop, P/Taint and HeapDL). Previously, I was Reach High Fellow at the University of Athens, a Senior Research Associate at the University of Bristol, and have worked in industry as a Data Scientist and Software Engineer. I hold a PhD from the University of Southampton.",
+  "content_length": 775,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:04:42"
+}

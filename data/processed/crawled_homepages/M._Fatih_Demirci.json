@@ -1,0 +1,9 @@
+{
+  "name": "M. Fatih Demirci",
+  "homepage": "http://mfdemirci.etu.edu.tr",
+  "status": "success",
+  "content": "M.Fatih Demirci Home Publications Teaching Vita M.Fatih Demirci Department of Computer Engineering TOBB University of Economics and Technology Sogutozu Cad, No:43, Sogutozu, Ankara Room: 175 Email: mfdemirci @ etu.edu.tr Tel: (312) 292 4264 Fatih Demirci is an associate professor at Computer Engineering Department, TOBB University of Economics and Technology. His research interests lie predominately in the area of Computer Vision, particularly with respect to object recognition, image classification, shape indexing and applied graph theory. Click here to download ETU10 silhouette dataset, consisting of 720 silhouettes of 10 objects, with 72 views per object. Please cite this paper if you are using the dataset.",
+  "content_length": 719,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:49:17"
+}

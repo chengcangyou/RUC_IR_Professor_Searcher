@@ -1,0 +1,9 @@
+{
+  "name": "Hakan Bilen",
+  "homepage": "https://homepages.inf.ed.ac.uk/hbilen",
+  "status": "success",
+  "content": "Hakan Bilen @ ed.ac.uk HAKAN BILEN About Dr. Hakan Bilen Google Scholar GitHub School of Informatics University of Edinburgh 10 Crichton Street Edinburgh EH8 9AB I am a reader (a.k.a. associate professor) in the School of Informatics at the University of Edinburgh and leading the Visual Computing Group (VICO). I am also a fellow of ELLIS – the European Laboratory for Learning and Intelligent Systems and a member of Computer Vision at the University of Edinburgh. If you are interested in our publications or vacancies, please visit our group page. My research focuses on computer vision and machine learning. Before Edinburgh, I have spent nearly three wonderful years in the great Visual Geometry Group (VGG) at the University of Oxford as a postdoc, working with Andrea Vedaldi. I completed my PhD in VISICS group in KU Leuven. I was lucky to work with Luc Van Gool and Tinne Tuytelaars. My PhD topic was about image classification with latent parameters with a focus on weakly supervised object detection and action recognition. My bachelor’s and master’s degrees are from Sabanci University where I was working on micro-robotics with Mustafa Unel who thankfully introduced me to computer vision. I have also been teaching Machine Learning Practical course since 2018. © Hakan Bilen 2025. Template copied from gbaydin. Built using jekyll, bootstrap.",
+  "content_length": 1356,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:17:30"
+}

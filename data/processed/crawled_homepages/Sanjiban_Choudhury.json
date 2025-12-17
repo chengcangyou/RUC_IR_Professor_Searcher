@@ -1,0 +1,9 @@
+{
+  "name": "Sanjiban Choudhury",
+  "homepage": "https://www.sanjibanchoudhury.com",
+  "status": "success",
+  "content": "Sanjiban Choudhury Assistant Professor Cornell CS I am an Assistant Professor at Cornell CS and ML Researcher at Aurora. I work on interactive AI agents that self-align through few-shot interactions with humans and their environment. My research focuses on reinforcement learning (RLHF), imitation learning (IRL), and foundation models for planning, robotics, and code generation. I also lead the PoRTaL group. We build everyday robots for everyday users! News Feb 1, 2025 4 papers accepted to ICLR 2025! Checkout my paper on Aligning LLM agents, Gonzalo’s LLM planning benchmark, Arnav’s Non-Adversarial IRL, and Nico’s Efficient IRL. Oct 1, 2024 2 papers accepted to ICRA 2025, 2 papers at CORL 2024! Checkout our paper on Modular robotics foundation models, Yuki’s Active preference learning with LLMs, Juntao’s Human to Robot Transfer Learning, and Kushal’s One-shot Imitation. Aug 1, 2024 Thank you OpenAI for the Superalignment Award! Stay tuned for some exciting work on task super alignment, where we use transfer learning to enable generalization from easy to hard tasks. Jul 1, 2024 Thrilled to receive the ONR Young Investigator award! Excited to explore new ways to teach robots complex, multistep tasks. May 25, 2024 I got a Google Research Award for Planning with LLMs! Stay tuned for some exciting work on distilling model-based planning into LLMs to solve decision making tasks. May 15, 2024 MOSAIC: Modular robotics foundation models wins best paper award at VLMN workshop and best poster award at MOMA workshopICRA 2024!",
+  "content_length": 1538,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:24:07"
+}

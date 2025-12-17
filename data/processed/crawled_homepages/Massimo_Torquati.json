@@ -1,0 +1,9 @@
+{
+  "name": "Massimo Torquati",
+  "homepage": "http://calvados.di.unipi.it/paragroup/torquati",
+  "status": "success",
+  "content": "Massimo Torquati Home Page | Welcome! Massimo Torquati Home Page Welcome! Skip to content Home Research & Projects Publications Software Teaching Conferences and Events Home Massimo Torquati Associate Professor Computer Science Department University of Pisa Largo Bruno Pontecorvo 3, 56127 Pisa – Italy Phone: +39 050 221 3169 Fax. +39 050 221 2726 Room: 287 DE My page on: Google Scholar   Scopus  DBLP   ResearchGate News Euro-Par 2026 will be in Pisa, 24-28 August 2026! New course for the Bachelor’s degree in Computer Science (in Italian) “Laboratorio di Programmazione Parallela” 6 ECTS first semester CAPIO (Cross-Application Programmable I/O): A new middleware to coordinate and program I/O in scientific in situ workflows. Distributed-memory FastFlow Building Blocks. We are working hard to have a unique programming model for both shared- and distributed-memory systems in FastFlow. Take a look at the DistributedFF branch of the FastFlow project. Here you can download a paper describing the Distributed FastFlow version. Massimo Torquati’s Main Research Interests High-level tools and languages for programming multi-/many-core and distributed heterogeneous systems. Autonomic computing and QoS High-performance Data Stream Processing Concurrent Data Structures and Concurrency Control Algorithms Parallel programming models (pattern-based, actor-based, data-flow, …) Software Distributed Shared Memory In-memory Parallel File Systems and I/O coordination System Software for HPC Massimo Torquati Home Page Proudly powered by WordPress.",
+  "content_length": 1548,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:55:27"
+}

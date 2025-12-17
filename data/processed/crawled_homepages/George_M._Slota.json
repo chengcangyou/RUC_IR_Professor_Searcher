@@ -1,0 +1,9 @@
+{
+  "name": "George M. Slota",
+  "homepage": "http://www.cs.rpi.edu/~slotag",
+  "status": "success",
+  "content": "George M. Slota Main Resume Laboratory Publications Presentations Software Teaching George M. Slota Office: 317 Lally Webex Room I am an Associate Professor in the Computer Science Department at Rensselaer Polytechnic Institute. I previously worked at Sandia National Labs in the Scalable Algorithms Department from 2013-2016. I graduated with my Ph.D. in Computer Science and Engineering from Penn State in 2016 after working in the Scalable Computing Lab with my advisor, Kamesh Madduri. I am a NSF CAREER awardee and I was supported by a Blue Waters Fellowship during my graduate studies. My research interests are in the areas of graph and network mining, big data analytics, combinatorial algorithms, and their relation to parallel, scientific, and high performance computing.",
+  "content_length": 781,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:13:36"
+}

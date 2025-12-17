@@ -1,0 +1,9 @@
+{
+  "name": "Michael Rubenstein",
+  "homepage": "http://users.eecs.northwestern.edu/~mrubenst",
+  "status": "success",
+  "content": "Michael Rubenstein Michael Rubenstein rubenstein [at] northwestern [dot] edu Computer Science and Mechanical Engineering Northwestern Univeristy Curriculum Vitae Google Scholar News 6/2021- Petras Swissler won the Best Student Paper Award in DARS 2021. 3/2021- Congrats to Drew Curtis for winning the 2021 National Defense Science and Engineering Graduate (NDSEG) Fellowship Award. 1/2020- Congrats to Hanlin Wang for his paper in IEEE Transactions on Robotics. It has been widely published in the media such as IEEE Spectrum and CBS News Chicago. 11/2019- Im happy to be part of the newly created Center for Robotics and Biosystems at Northwestern University. I am an assistant professor with a joint appointment in the Electrical Engineering and Computer Science and Mechanical Engineering departments at Northwestern University. My research interest is to advance the control and design of multi-robot systems, enabling their use instead of traditional single robots and to solve problems for which traditional robots are not suitable. Using these multi-robot systems can offer more parallelism, adaptability, and fault tolerance when compared to a traditional single robot. I am also interested in investigating how new technologies will allow for more capable multi-robot systems, and how these technologies impact the design of multi-robot algorithms, especially as these systems begin to number in the hundreds, thousands, or even millions of robots. I received my PhD from the University of Southern California in Computer Science. After my PhD, I was a postdoctoral researcher in the Self-Organizing Systems Research Group at Harvard University. I completed my undergraduate degree in Electrical Engineering at Purdue University.",
+  "content_length": 1738,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:58:50"
+}

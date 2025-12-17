@@ -1,0 +1,9 @@
+{
+  "name": "Jaejin Lee",
+  "homepage": "http://aces.snu.ac.kr/~jlee",
+  "status": "success",
+  "content": "THUNDER Research Group THUNDER Research Group The THUNDER Research Group is a research group at Seoul National University. It belongs to both the Department of Computer Science and Engineering in the College of Engineering and the Department of Data Science in the Graduate School of Data Science. Its goal is to accelerate large-scale AI models’ training and inference and to reduce their size. It also focuses on Natural Language Processing from the perspective of Deep Learning. It emphasizes pragmatic approaches. History of THUNDER Research Group Recent News 이재진 교수 연구팀, 법원 판결문 내 개인정보 비식별화하는 AI 개발 한국판 ‘딥시크’ 만들 수 있다…서울대 연구진 ‘고성능 한국어 LLM’ 개발 이재진 교수 연구진 창업기업 모레, ‘최강 한국어 성능’ 갖춘 102B 오픈 소스 모델 공개…”GPT-4o·큐원2 모두 능가” Research Areas Execution Platforms for Deep Learning Large Language Models (LLMs) Under-display Camera Image Restoration Quantum Computing Startups by THUNDER Research Group alumni: ManyCoreSoft (Deep Learning Systems) Moreh Inc. (Deep Learning Compilers and Cloud Solutions) Funding sources: Ministry of Science and ICT (National Research Foundation of Korea) Engineering Research Center (Center for Optimizing Hyperscale AI Models and Platforms) Software Star Lab (CUDA Programming Environment for FPGA Clusters) Creative Research Initiative (Center for Manycore Programming) Ministry of Knowledge Economy Samsung Electronics, Samsung Display, LG Electronics, SK Hynix, Hancom (한글과 컴퓨터), Moreh Inc. SK Telecom, Microsoft",
+  "content_length": 1439,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:25:39"
+}

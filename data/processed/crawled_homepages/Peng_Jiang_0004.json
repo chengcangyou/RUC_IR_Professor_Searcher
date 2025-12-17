@@ -1,0 +1,9 @@
+{
+  "name": "Peng Jiang 0004",
+  "homepage": "https://homepage.divms.uiowa.edu/~penjiang",
+  "status": "success",
+  "content": "Peng Jiang's Home Page Peng Jiang is an Assistant Professor in the Computer Science Department at the University of Iowa. He received his PhD in Computer Science from the Ohio State University under the supervison of Dr. Gagan Agrawal. He is a receipient of the 2024 NSF CAREER Award. Research Interests Compiler and Programming Techniques Machine Learning Systems Graph Processing & Mining Scientific and High Performance Computing We always have openings for self-motivated students who are interested in doing system research. Teaching CS3620: Operating Systems CS4700: High Performance and Parallel Computing CS4980: Compiler Optimization for HPC Selected Publications (Full List) [IPDPS 2025] Improving Accuracy and Efficiency of Graph Embedding Training with Fine-grained Parameter Management. Lihan Hu, Peng Jiang [IPDPS 2024] cuKE: An Efficient Code Generator for Score Function Computation in Knowledge Graph Embedding. Lihan Hu, Jing Li, Peng Jiang [SC 2022] STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimization. Yihua Wei, Peng Jiang [NeurIPS 2022] Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training. Peng Jiang, Lihan Hu, Shihui Song [ICS 2022] Rethinking Graph Data Placement for Graph Neural Network Training on Multiple GPUs. Shihui Song, Peng Jiang [PPoPP 2020] A Novel Data Transformation and Execution Strategy for Accelerating Sparse Matrix Multiplication on GPUs. Peng Jiang, Changwan Hong, Gagan Agrawal [NeurIPS 2018] A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication. Peng Jiang, Gagan Agrawal",
+  "content_length": 1636,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:10:53"
+}

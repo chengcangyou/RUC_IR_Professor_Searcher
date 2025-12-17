@@ -1,0 +1,9 @@
+{
+  "name": "Tianhao Wang 0001",
+  "homepage": "https://tianhao.wang",
+  "status": "success",
+  "content": "About me - Tianhao Wang Tianhao Wang Follow Charlottesville, VA, USAEmailGoogle ScholarGithubTwitter I am an assistant professor at the University of Virginia. I got my PhD from Purdue University and my Bachelor’s degree from Fudan University. I work on differential privacy and machine learning privacy, focusing on designing algorithms that work in practice.My lovely wife Xuejun Zhao is an assistant professor in Information System and Operations Management at UNC Charlotte.Personal Projects A custom GPT for DP users. This assistant is designed to help users determine if DP is the right tool for their problem and avoid common pitfalls. It’s an early-stage project, and feedback on its responses is highly welcome. The tool does not collect any personal information. For critical applications involving decision-making, please consult with me or another human expert. The logic and prompts behind it are also available upon request via email. A website to walk users over the process of generating a synthetic tabular dataset. This is an early-stage project and has only been tested on the adult dataset. The range and domain categories are inferred from the dataset, which in practice should not be this way, and users are supposed to change that based on their knowledge about the metadata, but I haven’t changed that code yet. I do not collect any information, but users shouldn’t upload anything sensitive to that website because the backend is on Google Cloud. Also, I’m only using a free tier on Google Cloud, so it’s very likely that the backend will crash. Last updated: Aug 22nd, 2025",
+  "content_length": 1599,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:38:22"
+}

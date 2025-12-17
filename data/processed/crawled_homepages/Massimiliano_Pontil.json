@@ -1,0 +1,9 @@
+{
+  "name": "Massimiliano Pontil",
+  "homepage": "http://www0.cs.ucl.ac.uk/staff/M.Pontil",
+  "status": "success",
+  "content": "Massimiliano Pontil's Home Page Massimiliano Pontil Department of Computer Science, UCL 66-72 Gower Street, London, UK I am part-time Professor of Computational Statistics and Machine Learning in the Department of Computer Science at UCL, and Senior Researcher at Istituto Italiano di Tecnologia, where I lead the CSML research group. My research interests are in the areas of machine learning, with a focus on statistical learning theory, kernel methods, multitask and transfer learning, online learning, learning over graphs and sparsity regularization. I also have some interests in approximation theory, numerical optimization and statistical estimation, and I have pursued machine learning applications arising in computer vision, bioinformatics and user modeling. Biography Publications Software Courses Events",
+  "content_length": 816,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:55:24"
+}

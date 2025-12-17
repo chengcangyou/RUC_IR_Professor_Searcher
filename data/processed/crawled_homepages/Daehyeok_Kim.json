@@ -1,0 +1,9 @@
+{
+  "name": "Daehyeok Kim",
+  "homepage": "https://daehyeok.kim",
+  "status": "success",
+  "content": "Daehyeok Kim Assistant Professor of Computer Science The University of Texas at Austin GDC 6.824 [email protected] | Google Scholar | My first name I am an Assistant Professor of Computer Science at the University of Texas at Austin. I co-lead the UT Networked Systems Research Group and am also a member of the Wireless Networking and Communications Group and 6G@UT. I am a co-PI of the LDOS NSF Expeditions in Computing project. My research focuses on designing new systems and abstractions for virtualized, programmable, and heterogeneous computing infrastructures to address challenges in programming, resilience, security, and runtime resource management. Current projects include: Operating system for programmable network infrastructure Cellular network edge infrastructure for latency-critical applications Network infrastructure for AI and HPC applications Learning-baesd resource management for hetergenous computing infrastructures Prior to joining UT Austin, I was a senior researcher at Microsoft Research Redmond. I received my PhD from the Computer Science Department at Carnegie Mellon University, where I was advised by Vyas Sekar and Srinivasan Seshan. My dissertation introduced new abstractions and runtime systems to enable elastic and resilient in-network computing. My work was supported in part by the Microsoft Research PhD Fellowship. Prior to joining CMU, I worked as a research scientist at KAIST. Before that, I received BS and MS degrees in Computer Science and Engineering from POSTECH, South Korea.",
+  "content_length": 1530,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:56:05"
+}

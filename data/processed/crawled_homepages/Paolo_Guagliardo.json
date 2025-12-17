@@ -1,0 +1,9 @@
+{
+  "name": "Paolo Guagliardo",
+  "homepage": "https://homepages.inf.ed.ac.uk/pguaglia",
+  "status": "success",
+  "content": "My research work lies at the intersection of database theory and practice, with a strong emphasis on making theoretical results applicable in real-life systems. I am a co-Investigator in the EPSRC Programme Grant VADA: Value Added Data Systems; my current focus is on devising and implementing principled and practical solutions for dealing with incomplete information in relational database systems, and on the analysis of concrete query languages for graph databases (in cooperation with Neo Technology). I obtained a PhD in Computer Science from the Free-University of Bozen-Bolzano, a joint MSc degree in Computational Logic from the Vienna University of Technology and the Free-University of Bozen-Bolzano, and a BSc degree in Computer Engineering from the University of Palermo. Invited talks & tutorials Tutorial on Query Answering (jointly with Pablo Barceló) EDBT Summer School 2017, Genova (Italy), 4-8 September 2017. Invited talk: Correct Answers to SQL Queries on Databases with Nulls Fifth GT-Veríf annual meeting, Université Paris-Est – Créteil (France), 30 May 2017. Invited talk: Formal Semantics of SQL (and Cypher) First openCypher Implementers Meeting, SAP Headquarters, Walldorf (Germany), 8 February 2017. Invited seminar: Making SQL Queries Correct on Incomplete Databases KRDB Research Centre for Knowledge and Data, Free University of Bozen-Bolzano (Italy), 6 December 2016. Professional activities Programme Committee member in ICDE (2021, 2018), EDBT (2021, 2020), IJCAI-PRICAI (2020), AAAI (2020, 2019), ICDT (2019), AMW (2017) Proceedings Chair for PODS 2021 Publicity Chair for PODS 2017 Reviewer for VLDBJ, TODS, TKDE, Inf. Syst., LMCS, PODS '19, PODS '17, PODS '16, AAAI-15",
+  "content_length": 1705,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:08:53"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Yitao Liang",
+  "homepage": "https://zero-lab-pku.github.io/personwise/liangyitao",
+  "status": "success",
+  "content": "| ZERO Lab Search Yitao Liang yliang AT cs.ucla.edu Assistant Professor Peking University Biography Mastery itself is the prize of the venture. I was born and raised in Nanjing, a historical yet dynamic city along Yangtze river in China. I am very fortunate to be a member of the Statistical and Relational Artificial Intelligence (StarAI) Lab, led by Guy Van den Broeck. My research passion is on “learning and making decision under structured environments with uncertainty”. To this end, I am dedicated to making contributions on two frontiers. The first one emphasizes on how to make good decisions; we develop and leverage cutting-edge reinforcement learning (RL) techniques to achieve this. The other frontier is focused on how to model the structure, domain knowledge and uncertainty embedded in the environment; we invent novel probabilistic graphical models and differentiable loss functions for that. Before joining UCLA, I received my Bachelor degree from Franklin & Marshall College, working under the advisement of Erin Talvitie. Interests Reinforcement Learning Education Ph.D., 2016-2021 UCLA Bachelor Franklin & Marshall College Publications @ZERO Lab Low-Dimension-to-High-Dimension Generalization And Its Implications for Length Generalization. ICML, 2025. Low-Dimension-to-High-Dimension (LDHD) generalization, a subset of Out-of-Distribution (OOD) generalization, involves training on a … Yang Chen , Long Yang , Yitao Liang , Zhouchen Lin Cite × Copy Download",
+  "content_length": 1479,
+  "method": "requests",
+  "crawl_time": "2025-12-01 14:51:47"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Allen B. Riddell",
+  "homepage": "https://www.ariddell.org",
+  "status": "success",
+  "content": "Allen B. Riddell  |  Home I’m an Associate Professor of Information Science in the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington. I’m also an Adjunct Associate Professor of Linguistics in the College of Arts & Sciences. Before coming to Indiana, I was a Neukom Fellow at the Neukom Institute for Computational Science and the Leslie Center for the Humanities at Dartmouth College. My research explores the uses of statistics and machine learning in the study of very large text collections (of novels, academic journals, book reviews, newspapers, etc.). Much of my recent work falls under the heading of sociology of literature. News: 2024-08-01 On leave from Indiana University. Working on book digitization at Glyphlab. 2023-08-01 Sabbatical leave during 2023 academic year. 2022-12-07 New paper in Journal of Computational Literary Studies: “Limericks and Computational Poetics: The Minimal Pairs Framework. Computational Challenges for Poetic Analysis and Synthesis” https://jcls.io/article/id/117/. 2022-06-22 New paper at JCDL 2022: “Reliable editions from unreliable components: estimating ebooks from print editions using profile hidden markov models” https://dl.acm.org/doi/10.1145/3529372.3533292. An extended version is available on arXiv, https://arxiv.org/abs/2204.01638. 2022-01-10 Open access version of Humanities Data Analysis: Case Studies with Python now available at https://www.humanitiesdataanalysis.org/. Contact: Luddy Hall 2124 700 N. Woodlawn Avenue Bloomington, IN 47408 riddella@iu.edu ORCID ID: 0000-0002-4967-0879",
+  "content_length": 1587,
+  "method": "requests",
+  "crawl_time": "2025-12-01 12:54:55"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Dongjie He",
+  "homepage": "https://dongjiehe.github.io",
+  "status": "success",
+  "content": "Dongjie He Dongjie He Professor, Chongqing University Research Interests My areas of interest are programming languages and compilers, and more specifically in program analysis and compiler optimization. Below lists some of my past works: Pointer Analysis (ECOOP'24, OOPSLA'23, ASE'23, TOSEM'23, TSE'22, ECOOP'22, ASE'21, ECOOP'21, TOSEM'21), Data-flow Analysis (ASE'19, ISSTA'23, ASE'23), and its application in Defect detection (ASE'18). News [2025-08-13] One paper got accepted to OOPSLA 2025. Congrats to Chenghang Shi! [2025-06-12] One paper got accepted to USENIX Security 2025. Congrats to Yiheng Zhang! Under Working course designing: compilers project maintaining: Qilin",
+  "content_length": 679,
+  "method": "requests",
+  "crawl_time": "2025-12-01 13:03:34"
+}
